@@ -147,7 +147,7 @@ def main():
 	regex_numero_sf = re.compile('SF/[0-9][0-9][0-9][0-9][0-9]\.[0-9][0-9][0-9][0-9][0-9]-[0-9][0-9]') #SF/19451.97508-04
 
 	pares_palavra_tag = []
-	nomes_arquivos = os.listdir('/mnt/hd0/igorma/Ágora/github_igor/leggo-content/tradador_de_segmentos/tagFiles/')
+	nomes_arquivos = os.listdir('/local/tradador_de_segmentos/tagFiles')
 	total_blocos_por_arquivo = []
 	for arquivo in nomes_arquivos: #diretório com arquivos de treino e teste
 		par_palavra_tag_atual = leitura_de_dados('tagFiles/' + arquivo)
@@ -184,10 +184,10 @@ def main():
 	documentos_formatados = []
 	cont = 0
 	cont_outros = 0
-	for i in range(len(y_pred)):
-		doc_atual = y_pred[i]
-		documento = []
-		for j in range(len(doc_atual)):
+	for i in range(len(y_pred)): #para cada bloco (na previsão)
+		documento = [] #contém o documento atual formatado (com substituições por tags de pessoa, tempo e local)
+		for j in range(len(y_pred[i])): #para cada predição (de tag) de cada palavra do bloco atual
+			print(documentos[i][j][0] + '\t\t' + y_pred[i][j])
 			if('B-PESSOA' == y_pred[i][j] or 'B-TEMPO' == y_pred[i][j] or 'B-LOCAL' == y_pred[i][j]): #se for I- (inside) deleta, se for B- (begin) substitui pela predição
 				documento.append(y_pred[i][j])
 				cont += 1
@@ -196,16 +196,18 @@ def main():
 					cont += 1
 					pass	
 				else:
-					documento.append(documentos[i][j][0])
+					documento.append(documentos[i][j][0]) #se for qualquer outra tag, adiciona a palavra original
+					cont_outros += 1
 
-			if('B-ORGANIZACAO' == y_pred[i][j] or 'B-LEGISLACAO' == y_pred[i][j] or 'B-JURISPRUDENCIA' == y_pred[i][j] or
-				'I-ORGANIZACAO' == y_pred[i][j] or 'I-LEGISLACAO' == y_pred[i][j] or 'I-JURISPRUDENCIA' == y_pred[i][j]):
-				cont_outros += 1 
+			#if('B-ORGANIZACAO' == y_pred[i][j] or 'B-LEGISLACAO' == y_pred[i][j] or 'B-JURISPRUDENCIA' == y_pred[i][j] or
+				#'I-ORGANIZACAO' == y_pred[i][j] or 'I-LEGISLACAO' == y_pred[i][j] or 'I-JURISPRUDENCIA' == y_pred[i][j]):
+				#cont_outros += 1 
 
 		documentos_formatados.append(documento)
 	
 
-	#Execução dos regex
+	#TESTES
+	'''
 	padrao1 = re.compile(regex_numero_cd)
 	padrao2 = re.compile(regex_numero_sf)
 	total = 0
@@ -217,8 +219,9 @@ def main():
 		doc_a = re.sub(regex_numero_cd, '', doc_a)
 		doc_a = re.sub(regex_numero_sf, '', doc_a)
 		print(doc_a)
+	'''
 
-	#TESTES
+	
 	#print('***' + str(total))
 	#print(np.array(total_blocos_por_arquivo).sum())
 	#print(len(documentos_formatados))
@@ -226,8 +229,8 @@ def main():
 	#print(documentos[0][0])
 
 	caminho = '/local/emendas_processadas_em_blocos/'
-	indice_arquivo = 0
-	indice_blocos = 0
+	indice_arquivo = 0 #índice do arquivo para examinar quantos blocos o arquivo atual possui
+	indice_blocos = 0 #índice do bloco no arquivo
 	for arquivo in nomes_arquivos: #pra cada arquivo
 		os.mkdir(caminho + arquivo) #cria um diretório com o nome DESSE ARQUIVO ATUAL
 		contador_blocos_especifico = 0 #cada arquivo tem um total de blocos
