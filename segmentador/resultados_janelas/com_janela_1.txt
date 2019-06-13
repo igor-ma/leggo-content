@@ -1,0 +1,12 @@
+				Resultados 5-Fold
+label 		 precision 		 recall 		 f1-score
+O		0.0			0.0			0.0
+B-MOD		0.0			0.0			0.0
+B-ADD		0.0			0.0			0.0
+B-SUP		0.0			0.0			0.0
+I-MOD		0.6457			1.0			0.7847
+I-ADD		0.0			0.0			0.0
+I-SUP		0.0			0.0			0.0
+E-MOD		0.0			0.0			0.0
+E-ADD		0.0			0.0			0.0
+E-SUP		0.0			0.0			0.0
