@@ -51,11 +51,11 @@ def separa_em_blocos(pares_palavra_tag, tamanho_janela = 1):
 
 	documentos = []
 	for i in range(tamanho_janela):
-		documentos.append([pares_palavra_tag[0:i], pares_palavra_tag[i], pares_palavra_tag[(i + 1):(i + 1 + tamanho_janela)]]) 
+		documentos.append([pares_palavra_tag[0:i] + [pares_palavra_tag[i]] + pares_palavra_tag[(i + 1):(i + 1 + tamanho_janela)]]) 
 	for i in range(tamanho_janela, len(pares_palavra_tag) - tamanho_janela):
-		documentos.append([pares_palavra_tag[(i - tamanho_janela):i], pares_palavra_tag[i], pares_palavra_tag[(i + 1):(i + 1 + tamanho_janela)]]) #os blocos centrais possuem a palavra central + as palavras de borda
+		documentos.append([pares_palavra_tag[(i - tamanho_janela):i] + [pares_palavra_tag[i]] + pares_palavra_tag[(i + 1):(i + 1 + tamanho_janela)]]) #os blocos centrais possuem a palavra central + as palavras de borda
 	for i in range(len(pares_palavra_tag) - tamanho_janela, len(pares_palavra_tag)):
-		documentos.append([pares_palavra_tag[(i - tamanho_janela):i], pares_palavra_tag[i], pares_palavra_tag[(i + 1):(i + tamanho_janela)]])
+		documentos.append([pares_palavra_tag[(i - tamanho_janela):i] + [pares_palavra_tag[i]] + pares_palavra_tag[(i + 1):(i + tamanho_janela)]])
 
 
 	return documentos
