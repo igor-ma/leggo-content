@@ -51,11 +51,11 @@ def separa_em_blocos(pares_palavra_tag, tamanho_janela = 1):
 
 	documentos = []
 	for i in range(tamanho_janela):
-		documentos.append([pares_palavra_tag[0:i] + [pares_palavra_tag[i]] + pares_palavra_tag[(i + 1):(i + 1 + tamanho_janela)]]) 
+		documentos.append(pares_palavra_tag[0:i] + [pares_palavra_tag[i]] + pares_palavra_tag[(i + 1):(i + 1 + tamanho_janela)]) 
 	for i in range(tamanho_janela, len(pares_palavra_tag) - tamanho_janela):
-		documentos.append([pares_palavra_tag[(i - tamanho_janela):i] + [pares_palavra_tag[i]] + pares_palavra_tag[(i + 1):(i + 1 + tamanho_janela)]]) #os blocos centrais possuem a palavra central + as palavras de borda
+		documentos.append(pares_palavra_tag[(i - tamanho_janela):i] + [pares_palavra_tag[i]] + pares_palavra_tag[(i + 1):(i + 1 + tamanho_janela)]) #os blocos centrais possuem a palavra central + as palavras de borda
 	for i in range(len(pares_palavra_tag) - tamanho_janela, len(pares_palavra_tag)):
-		documentos.append([pares_palavra_tag[(i - tamanho_janela):i] + [pares_palavra_tag[i]] + pares_palavra_tag[(i + 1):(i + tamanho_janela)]])
+		documentos.append(pares_palavra_tag[(i - tamanho_janela):i] + [pares_palavra_tag[i]] + pares_palavra_tag[(i + 1):(i + tamanho_janela)])
 
 
 	return documentos
@@ -160,7 +160,7 @@ def resultados_parciais(arquivo_modelo, X_teste, y_teste):
 	
 	
 
-def resultados_validacao_cruzada(todos_resultados):
+def resultados_validacao_cruzada(todos_resultados, caminho_salvar):
 	labels_possiveis = ['O', 'B-MOD', 'B-ADD', 'B-SUP', 'I-MOD', 'I-ADD', 'I-SUP', 'E-MOD', 'E-ADD', 'E-SUP']
 	dic_resultados_kfold = {}
 	for label_atual in labels_possiveis:
@@ -185,6 +185,12 @@ def resultados_validacao_cruzada(todos_resultados):
 	for label in dic_resultados_kfold.keys():
 		print(label + '\t\t' + str(round(dic_resultados_kfold[label]['precision'], 4)) + '\t\t\t' + str(round(dic_resultados_kfold[label]['recall'], 4)) + '\t\t\t' + str(round(dic_resultados_kfold[label]['f1-score'], 4)))
 
+	with open(caminho_salvar, 'w') as arq:
+		arq.write('\t\t\t\tResultados 5-Fold\n')
+		arq.write('label \t\t precision \t\t recall \t\t f1-score\n')
+		for label in dic_resultados_kfold.keys():
+			arq.write(label + '\t\t' + str(round(dic_resultados_kfold[label]['precision'], 4)) + '\t\t\t' + str(round(dic_resultados_kfold[label]['recall'], 4)) + '\t\t\t' + str(round(dic_resultados_kfold[label]['f1-score'], 4)) + '\n')
+		
 
 
 def main():
@@ -196,73 +202,76 @@ def main():
 	#nlp = spacy.load('pt_core_news_sm')
 
 	pares_palavra_tag = []
-	for arquivo in os.listdir('tagFiles/')[:1]: #diretório com arquivos de treino e teste
-		print(arquivo)
+	for arquivo in os.listdir('tagFiles/'): #diretório com arquivos de treino e teste
+		#print(arquivo)
 		pares_palavra_tag += leitura_de_dados('tagFiles/' + arquivo)
 
 
 	#pares_com_O = [tupla for tupla in pares_palavra_tag if tupla[1] == 'O'] #pares apenas com out of segment
 	#pares_palavra_tag = [tupla for tupla in pares_palavra_tag if tupla[1] != 'O'] #pares apenas com segmentos com conteúdo informativo
 	
-	documentos = separa_em_blocos(pares_palavra_tag, 3) #cada segmento é um documento, as tags B e E indicam o início e o fim de um segmento
-	for doc in documentos:
-		print(doc)
-	print(len(documentos))
-	exit(0)
-	tagger = pickle.load(open("tagger_portugues.pkl", "rb"))
+	janelas = [1]
+	for tamanho_janela in janelas:
+		documentos = separa_em_blocos(pares_palavra_tag, 3) #cada segmento é um documento, as tags B e E indicam o início e o fim de um segmento
+		#for doc in documentos:
+			#print(doc)
+		#print(len(documentos))
+		#exit(0)
+		tagger = pickle.load(open("tagger_portugues.pkl", "rb"))
 	
 
-	X = [] #lista de lista, cada lista contém as features de palavras de um mesmo documento
-	y = [] #lista de lista, cada lista contém as labels de palavras de um mesmo documento
-	for documento in documentos:
-		Xi = [] #vetor de features, cada posição contém as features de uma palavra
-		yi = [] #vetor de labels, cada posição contém as labels de uma palavra
-		#aux = list(zip(*documento))[0]
-		#doc_nlp = nlp(' '.join(aux))
-		pos_tags_documento = tagger.tag(list(zip(*documento))[0])
-		for i in range(len(documento)):
-			#Xi.append(criador_de_features(documento, i, doc_nlp))
-			Xi.append(criador_de_features(documento, i, pos_tags_documento))
-			yi.append(documento[i][1])
-		X.append(Xi)
-		y.append(yi)
+		X = [] #lista de lista, cada lista contém as features de palavras de um mesmo documento
+		y = [] #lista de lista, cada lista contém as labels de palavras de um mesmo documento
+		for documento in documentos:
+			Xi = [] #vetor de features, cada posição contém as features de uma palavra
+			yi = [] #vetor de labels, cada posição contém as labels de uma palavra
+			#aux = list(zip(*documento))[0]
+			#doc_nlp = nlp(' '.join(aux))
+			pos_tags_documento = tagger.tag(list(zip(*documento))[0])
+			for i in range(len(documento)):
+				#Xi.append(criador_de_features(documento, i, doc_nlp))
+				Xi.append(criador_de_features(documento, i, pos_tags_documento))
+				yi.append(documento[i][1])
+			X.append(Xi)
+			y.append(yi)
 
 
-	#5-Fold
-	X = np.array(X)
-	y = np.array(y)
-	kf_5 = KFold(n_splits = 5, shuffle = True)
-	todos_resultados = [] #sumarização dos resultados
-	for indice_treino, indice_teste in kf_5.split(X):
-		print('em treino...')
-		X_treino, X_teste = X[indice_treino], X[indice_teste]
-		y_treino, y_teste = y[indice_treino], y[indice_teste]	
+	
+	
+		X = np.array(X)
+		y = np.array(y)
+		kf_5 = KFold(n_splits = 5, shuffle = True) #5-Fold
+		todos_resultados = [] #sumarização dos resultados
+		for indice_treino, indice_teste in kf_5.split(X):
+			print('em treino...')
+			X_treino, X_teste = X[indice_treino], X[indice_teste]
+			y_treino, y_teste = y[indice_treino], y[indice_teste]	
 
 
 
-		modelo = pycrfsuite.Trainer(verbose = True)
+			modelo = pycrfsuite.Trainer(verbose = True)
 
 
-		for unidade_x, unidade_y in zip(X_treino, y_treino):
-			modelo.append(unidade_x, unidade_y)
+			for unidade_x, unidade_y in zip(X_treino, y_treino):
+				modelo.append(unidade_x, unidade_y)
 
 
-		modelo.set_params({
-			'c1': 0.1,
-			'c2': 0.01,
-			'max_iterations': 1000,
-			#'all_possible_transitions': True
-			'feature.possible_transitions': True
-		})
+			modelo.set_params({
+				'c1': 0.1,
+				'c2': 0.01,
+				'max_iterations': 1,#00,#00,
+				#'all_possible_transitions': True
+				'feature.possible_transitions': True
+			})
 
-		modelo.train('modelo.model')
+			modelo.train('modelo.model')
 
-		dic_results = resultados_parciais('modelo.model', X_teste, y_teste)
+			dic_results = resultados_parciais('modelo.model', X_teste, y_teste)
 
-		todos_resultados.append(dic_results)
+			todos_resultados.append(dic_results)
 
 
-	resultados_validacao_cruzada(todos_resultados)
+		resultados_validacao_cruzada(todos_resultados, 'resultados_janelas/com_janela_' + str(tamanho_janela) + '.txt')
 	
 	
 
