@@ -212,7 +212,7 @@ def main():
 	
 	janelas = [2, 3, 4]
 	for tamanho_janela in janelas:
-		documentos = separa_em_blocos(pares_palavra_tag, 3) #cada segmento é um documento, as tags B e E indicam o início e o fim de um segmento
+		documentos = separa_em_blocos(pares_palavra_tag, tamanho_janela) #cada segmento é um documento, as tags B e E indicam o início e o fim de um segmento
 		#for doc in documentos:
 			#print(doc)
 		#print(len(documentos))
