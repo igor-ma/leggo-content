@@ -210,7 +210,7 @@ def main():
 	#pares_com_O = [tupla for tupla in pares_palavra_tag if tupla[1] == 'O'] #pares apenas com out of segment
 	#pares_palavra_tag = [tupla for tupla in pares_palavra_tag if tupla[1] != 'O'] #pares apenas com segmentos com conteúdo informativo
 	
-	janelas = [1]
+	janelas = [2, 3, 4]
 	for tamanho_janela in janelas:
 		documentos = separa_em_blocos(pares_palavra_tag, 3) #cada segmento é um documento, as tags B e E indicam o início e o fim de um segmento
 		#for doc in documentos:
@@ -259,7 +259,7 @@ def main():
 			modelo.set_params({
 				'c1': 0.1,
 				'c2': 0.01,
-				'max_iterations': 1,#00,#00,
+				'max_iterations': 100,#00,
 				#'all_possible_transitions': True
 				'feature.possible_transitions': True
 			})
