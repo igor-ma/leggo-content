@@ -113,7 +113,7 @@ def main():
 	'''
 		Abrindo arquivos e formatando
 	'''
-	lista_arquivos = os.listdir('/home/igor/Área de Trabalho/Graduação/Ágora_Digital/github_fork_igor/leggo-content/segmentador/textos_pec6/')[:1]
+	lista_arquivos = os.listdir('/local/textos_pec6/')
 
 	#nlp = spacy.load('pt_core_news_sm')
 	pares_palavra_tag = []
@@ -161,24 +161,6 @@ def main():
 	tagger = pycrfsuite.Tagger()
 	tagger.open('modelo.model')
 
-	'''
-	conta_arq = 0
-	for unidade_x_teste in X:
-		saida_arq = ""
-		tag_pred = tagger.tag(unidade_x_teste)
-		print(len(tag_pred))
-		print(len(unidade_x_teste))
-		print(range(len(unidade_x_teste)))
-		for i in range(len(unidade_x_teste)):
-			#print(unidade_x_teste[i][1].split('=')[1] + ' ' + tag_pred[i] + '\n')
-			saida_arq += unidade_x_teste[i][1].split('=')[1] + ' ' + tag_pred[i] + '\n'
-		with open('pec6_predicao_em_arquivos/' + lista_arquivos[conta_arq] + '_predito.txt', 'w') as arq:
-			arq.write(saida_arq)
-
-		conta_arq += 1
-	'''
-
-
 
 	#tenho milhares de blocos
 	#cada arquivo tem um número de blocos salvo em contador_blocos_documento
@@ -190,42 +172,35 @@ def main():
 
 
 	iterador_X_global = 0
+	contador_arquivos = 0
 	for num_blocos_atual in contador_blocos_documento:
-		#iterador_X_atual = 0
 		saida_arq = ""
 		for i in range(num_blocos_atual):
 			unidade_x_teste = X[iterador_X_global]
-			'''
-				e aqui a avaliação do que vai ser feito depende da localização do bloco. No caso, o tamanho da janela é 4 SEMPRE.
-				assim sendo, os 4 primeiros e os 4 últimos blocos são casos de borda. os demais são simples de serem tratados
-			'''
+			#e aqui a avaliação do que vai ser feito depende da localização do bloco. No caso, o tamanho da janela é 4 SEMPRE.
+			#assim sendo, os 4 primeiros são casos de borda. os demais são simples de serem tratados
+			
 			
 			tag_pred = tagger.tag(unidade_x_teste) #taggea todo o bloco, mas queremos apenas a palavra que nos interessa e isso depende se ela é caso de borda ou não
 			print(tag_pred)
-			#aux = 4 if (i >= 4 and i <= num_blocos_atual - 5) else i
-			#print(unidade_x_teste[aux][1].split('=')[1] + ' ' + str(aux))
+			aux = 4 if (i >= 4) else i
+			print(unidade_x_teste[aux][1].split('=')[1] + ' ' + str(aux))
 			if(i >= 4): #se for um bloco não de borda
 				saida_arq += unidade_x_teste[4][1].split('=')[1] + ' ' + tag_pred[4] + '\n' #a tag que nos interessa é a da palavra central, na quarta posição
 			else: #se for um bloco de borda de início
 				saida_arq += unidade_x_teste[i][1].split('=')[1] + ' ' + tag_pred[i] + '\n' #a tag que nos interessa é indexada pelo contador i se ela for borda de início
-			'''
-			if(i >= 4 and i <= num_blocos_atual - 5): #se for um bloco não de borda
-				saida_arq += unidade_x_teste[4][1].split('=')[1] + ' ' + tag_pred[4] + '\n' #a tag que nos interessa é a da palavra central, na quarta posição
-			else: #se for um bloco de borda
-				if(i < 4):
-					saida_arq += unidade_x_teste[i][1].split('=')[1] + ' ' + tag_pred[i] + '\n' #a tag que nos interessa é indexada pelo contador i se ela for borda de início
-				else:
-					saida_arq += unidade_x_teste[(num_blocos_atual - i)][1].split('=')[1] + ' ' + tag_pred[i] + '\n' #a tag que nos interessa é indexada pelo contador i
-			'''
-			#if(i >= 4 and i <= num_blocos_atual - 5): #se for um bloco não de borda
-				#print('oi')
-			#if(i == 10):
-				#print(saida_arq)
-				#exit(0)
+
 			print(num_blocos_atual)
 			print(iterador_X_global)
 			print(len(X))
+
+
 			iterador_X_global += 1
+
+		with open('pec6_predicao_em_arquivos/' + lista_arquivos[contador_arquivos] + '_predito.txt', 'w') as arq:
+			arq.write(saida_arq)
+
+		contador_arquivos += 1
 
 
 
