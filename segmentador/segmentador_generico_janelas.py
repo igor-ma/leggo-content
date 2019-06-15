@@ -105,7 +105,7 @@ def main():
 	TAMANHO_JANELA = 4
 
 	#lendo arquivos e formatando
-	lista_arquivos = os.listdir('/home/igor/Área de Trabalho/Graduação/Ágora_Digital/github_fork_igor/leggo-content/segmentador/textos_pec6/')[:1]
+	lista_arquivos = os.listdir('/local/textos_pec6/')[:1]
 
 	pares_palavra_tag = []
 	contador_blocos_documento = []
