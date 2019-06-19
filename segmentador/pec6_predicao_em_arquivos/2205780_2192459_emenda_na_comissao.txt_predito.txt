@@ -1,14 +1,29 @@
-nº O
 de O
+. O
 câmara O
 deputados O
-deputado O
+gabinete O
+deputado I-MOD
 sidney I-MOD
-leite I-MOD
-– O
-psd/am O
+leite O
+– I-MOD
+psd O
+/ O
+am O
+
+
+
+
+
+
+ O
 comissão O
 especial O
+
+
+
+
+ O
 proposta O
 de O
 emenda O
@@ -17,65 +32,109 @@ nº O
 06 O
 de O
 2019 O
+
+
+
+
+ O
 emenda O
 modificativa O
 nº O
-_______, O
-de O
+_ O
+_ O
+_ O
+_ I-MOD
+_ I-MOD
+_ I-MOD
+_ I-MOD
+, I-MOD
+de I-MOD
 2019 O
-(do O
-sr. O
-sidney O
+
+
+ O
+( O
+do O
+sr. I-MOD
+sidney I-MOD
 leite I-MOD
-e O
-outros) I-MOD
+e I-MOD
+outros I-MOD
+) I-MOD
+
+
+
+
+ I-MOD
 retira I-MOD
 as I-MOD
 alterações I-MOD
 referentes I-MOD
-ao I-MOD
+a I-MOD
+o I-MOD
 benefício I-MOD
 de I-MOD
 prestação I-MOD
 continuada I-MOD
 – I-MOD
-bpc O
+
+
+ I-MOD
+bpc I-ADD
 da O
-proposta I-ADD
+proposta O
 de O
 emenda O
 à I-ADD
 constituição I-ADD
 nº I-ADD
-6/2019. I-ADD
-art. I-ADD
-1º I-SUP
-suprimam-se I-MOD
-os I-SUP
-incisos I-SUP
-v I-SUP
+6/2019 I-ADD
+. I-ADD
+
+
+
+
+
+
+ I-ADD
+art I-MOD
+. I-MOD
+1º I-MOD
+suprimam I-MOD
+- I-MOD
+se I-MOD
+os I-MOD
+incisos I-MOD
+v I-MOD
 e I-MOD
 vi I-MOD
 e I-MOD
-os I-MOD
-§§ I-MOD
-1º, I-MOD
-com I-MOD
+os I-ADD
+§ I-ADD
+§ I-ADD
+1º I-ADD
+, I-ADD
+com I-ADD
 seus I-ADD
-incisos, I-ADD
-e I-ADD
-o I-ADD
+incisos I-ADD
+, I-ADD
+e I-SUP
+o I-SUP
 § I-MOD
-2º, I-MOD
-do I-ADD
-art. I-ADD
-203 I-ADD
+2º I-MOD
+, I-MOD
+do I-MOD
+art I-ADD
+. I-MOD
+203 I-MOD
 da I-MOD
 constituição I-ADD
-federal, I-MOD
+federal I-ADD
+, I-ADD
 alterados I-ADD
 pelo I-ADD
-art. I-ADD
+art I-MOD
+. I-MOD
 1º I-ADD
 da I-SUP
 proposta I-ADD
@@ -86,22 +145,38 @@ constituição O
 nº O
 06 O
 de O
-2019. I-SUP
-art. I-ADD
+2019 O
+. O
+
+
+ O
+art I-MOD
+. I-MOD
 2º I-MOD
-suprimam-se I-MOD
-os I-SUP
-arts. I-SUP
-41 I-SUP
+suprimam I-MOD
+- I-MOD
+se I-MOD
+os I-MOD
+arts I-MOD
+. I-MOD
+41 I-MOD
 e I-MOD
 42 O
 da O
 proposta O
 de O
-emenda O
+emenda I-ADD
 à O
 constituição O
 nº O
-06 O
+
+
+ O
+06 I-ADD
 de O
-2019. O
+2019 O
+. O
+
+
+
+ O

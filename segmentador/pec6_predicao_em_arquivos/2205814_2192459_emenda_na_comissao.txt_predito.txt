@@ -1,86 +1,143 @@
-art. O
 da O
+. O
 comissão O
 destinada O
 proferir O
 parecer O
 à O
+
+
+ O
 proposta O
 de O
 emenda O
 à O
 constituição O
 nº O
-6, O
+6 O
+, O
 de O
 2019 O
+
+
+ O
 proposta O
 de O
 emenda O
 à O
 constituição O
 nº O
-6, O
+6 O
+, O
 de O
 2019 O
+
+
+ O
 modifica B-MOD
 o O
-sistema O
-de O
+sistema I-MOD
+de I-MOD
 previdência I-MOD
-social, I-MOD
+
+
+ I-MOD
+social I-MOD
+, I-MOD
 estabelece I-MOD
 regras I-MOD
 de I-MOD
 transição I-MOD
 e I-MOD
+
+
+ I-MOD
 disposições I-MOD
-transitórias, I-MOD
+
+
+ I-MOD
+transitórias I-MOD
+, I-MOD
+
+
+ I-MOD
 e I-MOD
+
+
+ I-MOD
 dá I-MOD
+
+
+ I-MOD
 outras I-MOD
-providências. I-MOD
-emenda O
-nº I-SUP
-suprima-se: O
-o O
-item I-SUP
+
+
+ I-MOD
+providências I-MOD
+. I-MOD
+
+
+ I-MOD
+emenda I-MOD
+nº I-MOD
+
+
+ O
+suprima O
+- I-MOD
+se I-MOD
+: I-MOD
+o I-MOD
+item I-MOD
 1 I-SUP
 da I-SUP
 alínea I-SUP
-“e” I-SUP
+“ I-SUP
+e I-SUP
+” I-SUP
 do I-SUP
 inciso I-SUP
-i I-MOD
+i I-SUP
 do I-MOD
-§ I-MOD
-1º I-MOD
+§ I-SUP
+1º I-ADD
 do I-MOD
-art. I-MOD
-40 I-MOD
+art I-MOD
+. I-ADD
+40 I-ADD
+
+
+ I-MOD
 da I-MOD
-constituição, I-MOD
+constituição I-MOD
+, I-MOD
 constante I-MOD
 do I-MOD
-art. I-MOD
+art I-MOD
+. I-MOD
 1º I-MOD
 da I-MOD
-proposta; I-MOD
-os I-MOD
-§§ I-MOD
-5º I-MOD
-e I-MOD
-6º I-MOD
+proposta I-ADD
+; I-ADD
+os I-ADD
+§ I-ADD
+§ I-ADD
+5º I-ADD
+e I-ADD
+6º I-ADD
 e I-MOD
 o I-MOD
 trecho I-MOD
-“ou I-MOD
-aos I-MOD
+“ I-MOD
+ou I-MOD
+a I-MOD
+os I-MOD
 sessenta I-MOD
 anos I-MOD
 de I-MOD
-idade, I-MOD
-se I-MOD
+idade I-MOD
+, I-MOD
+se I-ADD
 titulares I-ADD
 do I-ADD
 cargo I-ADD
@@ -89,62 +146,88 @@ professor I-ADD
 de I-MOD
 que I-ADD
 trata I-MOD
-o I-SUP
-§ I-SUP
-5º, I-MOD
-para I-MOD
+o I-MOD
+§ I-MOD
+
+
+ I-MOD
+5º I-MOD
+, I-SUP
+para I-SUP
 ambos I-SUP
 os I-SUP
-sexos” I-SUP
+sexos I-SUP
+” I-SUP
 do I-SUP
 inciso I-MOD
-i I-MOD
+i I-SUP
 do I-MOD
-§ I-MOD
-7º I-MOD
-do I-SUP
-art. I-SUP
-3º; I-SUP
-a I-MOD
+§ I-SUP
+7º I-SUP
+do I-MOD
+art I-MOD
+. I-SUP
+3º I-SUP
+; I-SUP
+a I-SUP
 expressão I-MOD
-“e I-MOD
-dos I-MOD
-professores” I-MOD
+“ I-MOD
+e I-SUP
+dos I-SUP
+professores I-MOD
+” I-MOD
 da I-MOD
 primeira I-MOD
 seção I-MOD
-do I-MOD
-capítulo I-MOD
-iii; I-MOD
-e I-MOD
+do I-SUP
+capítulo I-SUP
+iii I-MOD
+; I-MOD
+e I-SUP
 o I-MOD
-inciso I-MOD
+inciso I-SUP
 i I-MOD
 do I-MOD
-§ I-MOD
-4º I-MOD
-do I-MOD
-art. I-SUP
-12; I-MOD
+§ I-SUP
+4º I-SUP
+do I-SUP
+art I-SUP
+. I-SUP
+12 I-MOD
+; I-MOD
 e I-MOD
-acrescente-se B-ADD
-os I-ADD
-seguintes I-ADD
+acrescente I-MOD
+- I-MOD
+se I-MOD
+os I-MOD
+seguintes I-MOD
 dispositivos I-ADD
-à I-ADD
+à I-SUP
 proposta I-ADD
 de I-ADD
 emenda I-ADD
 à I-ADD
 constituição I-ADD
 nº I-ADD
-6/2019: I-ADD
-“art. I-ADD
-40 I-ADD
-......................................................................................... I-ADD
+6/2019 I-ADD
+: I-ADD
+
+
+ I-ADD
+“ I-ADD
+art I-MOD
+. I-MOD
+40 I-MOD
+......................................................................................... I-MOD
+
+
+ I-ADD
 ...................................................................................................... I-MOD
+
+
+ I-MOD
 § I-MOD
-1º-a I-MOD
+1º-a I-SUP
 para I-SUP
 os I-SUP
 professores I-SUP
@@ -165,9 +248,10 @@ infantil I-SUP
 e I-SUP
 no I-SUP
 ensino I-MOD
-fundamental I-MOD
+fundamental I-SUP
 e I-MOD
-médio, I-MOD
+médio I-MOD
+, I-MOD
 os I-MOD
 requisitos I-MOD
 de I-MOD
@@ -178,7 +262,8 @@ de I-ADD
 contribuição I-ADD
 para I-ADD
 aposentadoria I-ADD
-voluntária, I-ADD
+voluntária I-ADD
+, I-ADD
 desde I-ADD
 que I-ADD
 cumprido I-ADD
@@ -200,12 +285,17 @@ no I-SUP
 cargo I-SUP
 efetivo I-SUP
 em I-SUP
-que I-MOD
-se I-MOD
-dará I-MOD
-a I-MOD
-aposentadoria, I-MOD
-serão: I-MOD
+que I-ADD
+se I-ADD
+dará I-ADD
+a I-ADD
+aposentadoria I-ADD
+, I-ADD
+serão I-ADD
+: I-ADD
+
+
+ I-ADD
 i I-MOD
 - I-MOD
 cinquenta I-MOD
@@ -215,13 +305,18 @@ anos I-MOD
 de I-SUP
 idade I-SUP
 e I-SUP
-trinta I-MOD
-anos I-MOD
-de I-MOD
-contribuição, I-MOD
-se I-MOD
-homem; I-MOD
+trinta I-ADD
+anos I-ADD
+de I-ADD
+contribuição I-ADD
+, I-ADD
+se I-ADD
+homem I-ADD
+; I-ADD
 e I-MOD
+
+
+ I-MOD
 ii I-MOD
 - I-MOD
 cinquenta I-MOD
@@ -231,21 +326,36 @@ idade I-MOD
 e I-SUP
 vinte I-SUP
 e I-MOD
-cinco I-MOD
-anos I-MOD
-de I-MOD
-contribuição, I-MOD
-se I-MOD
-mulher. I-MOD
+cinco I-ADD
+anos I-ADD
+de I-ADD
+contribuição I-ADD
+, I-ADD
+se I-ADD
+mulher I-ADD
+. I-ADD
+
+
+ I-ADD
 § I-MOD
+
+
+ I-MOD
 2º I-MOD
+
+
+ I-MOD
 ............................................................................................... I-MOD
+
+
+ I-MOD
 i I-MOD
 - I-MOD
-voluntariamente, I-MOD
+voluntariamente I-MOD
+, I-MOD
 desde I-MOD
 que I-MOD
-observados I-MOD
+observados I-SUP
 a I-SUP
 idade I-SUP
 mínima I-ADD
@@ -263,11 +373,13 @@ que I-ADD
 trata I-ADD
 o I-ADD
 § I-ADD
-1º, I-ADD
+1º I-ADD
+, I-ADD
 com I-ADD
-exceção I-ADD
-dos I-ADD
-professores, I-MOD
+exceção I-MOD
+dos I-MOD
+professores I-MOD
+, I-MOD
 cujos I-MOD
 requisitos I-MOD
 de I-MOD
@@ -280,9 +392,29 @@ serão I-ADD
 aqueles I-ADD
 constantes I-ADD
 do I-ADD
-§ I-SUP
-1º-a I-SUP
-deste I-SUP
-artigo; O
-2 O
-....................................................................................................” O
+§ I-MOD
+
+
+ I-MOD
+1º-a I-MOD
+d I-SUP
+este I-SUP
+artigo I-SUP
+; I-SUP
+
+
+ I-SUP
+2 I-SUP
+
+
+
+
+ I-SUP
+.................................................................................................... I-SUP
+” I-SUP
+
+
+
+
+
+ I-SUP

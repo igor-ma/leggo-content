@@ -1,112 +1,176 @@
-baixa I-SUP
-” O
+( I-SUP
+) I-SUP
 câmara O
 deputados O
+proposta O
 de O
 emenda O
 à O
 constituição O
 nº O
-6, O
+6 O
+, O
 de O
 2019 O
+
+
+
+
+ O
 modifica B-MOD
 o O
-sistema O
-de O
-previdência I-MOD
-social, I-MOD
-estabelece I-MOD
-regras I-MOD
+sistema I-MOD
 de I-MOD
+previdência I-MOD
+
+
+ I-MOD
+social I-MOD
+, I-MOD
+
+
+ I-MOD
+estabelece I-MOD
+
+
+ I-MOD
+regras I-MOD
+
+
+ I-MOD
+de I-MOD
+
+
+ I-MOD
 transição I-MOD
 e I-MOD
 disposições I-MOD
-transitórias, I-MOD
+transitórias I-MOD
+, I-MOD
 e I-MOD
-dá O
-outras O
-providências. O
+dá I-MOD
+outras I-MOD
+providências O
+. O
+
+
+
+
+
+
+ O
 emenda O
 aditiva O
-art. O
-1º. O
-acrescente-se B-ADD
-novo I-ADD
-art. I-MOD
-24 I-ADD
-à I-ADD
+
+
+
+
+ O
+art B-MOD
+. I-MOD
+1º. I-MOD
+acrescente I-MOD
+- I-MOD
+se I-MOD
+novo I-MOD
+art O
+. O
+24 O
+à O
 pec I-MOD
-06/2019, O
+06/2019 I-MOD
+, O
 conforme O
+a I-MOD
+redação I-SUP
 a I-SUP
-redação I-MOD
-a I-SUP
-seguir, I-SUP
+seguir I-SUP
+, I-SUP
 renumerando I-SUP
-o I-MOD
+o I-SUP
 atual I-SUP
-art. I-SUP
+art I-SUP
+. I-SUP
 24 I-SUP
-para I-MOD
-art. I-MOD
-25: I-MOD
-“art. I-MOD
-24. I-MOD
+para I-SUP
+art I-SUP
+. I-MOD
+25 I-MOD
+: I-SUP
+
+
+ I-MOD
+“ I-MOD
+art I-MOD
+. I-MOD
+24 I-MOD
+. I-MOD
 é I-MOD
 facultado I-MOD
-aos I-MOD
+a I-MOD
+os I-MOD
 servidores I-MOD
 da I-MOD
-união, I-MOD
+união I-MOD
+, I-MOD
 dos I-MOD
-estados, I-MOD
+estados I-MOD
+, I-MOD
 do I-MOD
 distrito I-MOD
 federal I-MOD
 e I-MOD
 dos I-MOD
-municípios, I-MOD
+municípios I-MOD
+, I-MOD
 incluídas I-MOD
-suas I-SUP
+suas I-MOD
 autarquias I-SUP
 e I-SUP
-fundações, I-SUP
+fundações I-SUP
+, I-MOD
 no I-MOD
-prazo I-MOD
-de O
-06 O
-(seis) O
-meses O
-a O
-contar O
+prazo I-SUP
+de I-SUP
+06 I-SUP
+( I-MOD
+seis I-MOD
+) I-MOD
+meses I-MOD
+a I-MOD
+contar I-MOD
 da I-MOD
 data I-MOD
 da I-SUP
 promulgação I-SUP
-desta I-SUP
-emenda, I-MOD
-ou I-MOD
-de I-MOD
+d I-SUP
+esta I-SUP
+emenda I-SUP
+, I-SUP
+ou I-SUP
+de I-SUP
 instituição I-MOD
 do I-MOD
 respectivo I-MOD
 regime I-MOD
 de I-MOD
-previdência I-MOD
-complementar, I-MOD
+previdência I-SUP
+complementar I-MOD
+, I-SUP
 para I-SUP
-os I-MOD
+os I-SUP
 entes I-SUP
 que I-SUP
 venham I-SUP
 a I-MOD
 instituir I-SUP
 após I-SUP
-a I-MOD
-promulgação I-MOD
-desta I-SUP
-emenda, I-SUP
+a I-SUP
+promulgação I-SUP
+d I-SUP
+esta I-SUP
+emenda I-SUP
+, I-SUP
 o I-SUP
 direito I-SUP
 de I-SUP
@@ -116,38 +180,47 @@ regime I-ADD
 de I-ADD
 previdência I-ADD
 complementar I-ADD
-previsto I-ADD
+previsto I-SUP
 no I-SUP
-§14 I-SUP
+§ I-SUP
+14 I-SUP
 e I-SUP
 § I-SUP
 16 I-SUP
 do I-SUP
-art. I-MOD
-40 I-MOD
-da I-MOD
-constituição, I-MOD
-garantindo-se I-MOD
+art I-ADD
+. I-ADD
+40 I-ADD
+da I-ADD
+constituição I-ADD
+, I-ADD
+garantindo I-ADD
+- I-MOD
+se I-MOD
 a I-MOD
 esses I-MOD
 servidores I-MOD
 benefício I-MOD
-especial, I-MOD
-correspondente, I-MOD
-nos I-MOD
-termos I-MOD
-da I-MOD
-lei, I-SUP
+especial I-MOD
+, I-MOD
+correspondente I-ADD
+, I-ADD
+nos I-ADD
+termos I-ADD
+da I-ADD
+lei I-MOD
+, I-SUP
 a I-SUP
 um I-SUP
-valor I-MOD
-que I-MOD
+valor I-SUP
+que I-SUP
 reflita I-SUP
 o I-MOD
-período I-MOD
+período I-SUP
 contributivo I-ADD
 vertido I-ADD
-ao I-MOD
+a I-ADD
+o I-MOD
 regime I-MOD
 próprio I-MOD
 de I-MOD
@@ -158,6 +231,17 @@ a I-MOD
 data I-MOD
 da I-MOD
 efetivação I-MOD
-dessa I-MOD
-opção.” O
-(nr) O
+d I-MOD
+essa I-MOD
+opção I-MOD
+. I-MOD
+” I-MOD
+( I-MOD
+nr I-MOD
+) I-MOD
+
+
+
+
+
+ O

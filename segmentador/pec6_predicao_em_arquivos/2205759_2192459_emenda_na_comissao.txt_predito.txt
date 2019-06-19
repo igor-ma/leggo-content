@@ -1,70 +1,107 @@
-renumerando-se I-MOD
 dispositivos I-MOD
-comissão I-MOD
+. I-MOD
+comissão O
 – O
-6/19 O
-– O
+6/19 I-MOD
+– I-MOD
 previdência O
 social O
+
+
+ O
 proposta O
 de O
 emenda O
 à O
 constituição O
 nº O
-6, O
+6 O
+, O
 de O
-2019. I-ADD
+2019 O
+. O
+
+
+ O
 modifica B-MOD
-o O
-sistema O
-de O
+o I-MOD
+sistema I-MOD
+de I-MOD
 previdência I-MOD
-social, I-MOD
+social I-MOD
+, I-MOD
+
+
+ I-MOD
 estabelece I-MOD
 regras I-MOD
 de I-MOD
 transição I-MOD
 e I-MOD
 disposições I-MOD
-transitórias, I-MOD
+
+
+ I-MOD
+transitórias I-MOD
+, I-MOD
 e I-MOD
 dá I-MOD
 outras I-MOD
-providências. O
-emenda O
+providências I-MOD
+. I-MOD
+
+
+ I-MOD
+emenda I-MOD
 nº O
-incluam-se O
-ao O
+
+
+
+
+ O
+incluam O
+- O
+se I-MOD
+a I-MOD
+o I-MOD
 capítulo I-MOD
-v, I-ADD
+v I-MOD
+, I-MOD
 o I-MOD
 artigo I-MOD
 21a I-ADD
 da I-SUP
 proposta I-ADD
 de I-ADD
-emenda I-ADD
-à I-ADD
+emenda O
+à I-SUP
 constituição I-ADD
-n° I-ADD
-6, I-ADD
-de I-ADD
-2019, I-ADD
-os I-ADD
+n I-ADD
+° I-SUP
+6 I-ADD
+, I-SUP
+de I-SUP
+2019 I-SUP
+, I-SUP
+os I-MOD
 seguintes I-MOD
-dispositivos: I-MOD
-“aposentadoria I-MOD
-dos I-MOD
-trabalhadores I-MOD
-nas I-MOD
-indústrias I-MOD
+dispositivos I-MOD
+: I-ADD
+
+
+ I-ADD
+“ I-MOD
+aposentadoria I-ADD
+dos I-ADD
+trabalhadores I-ADD
+nas I-ADD
+indústrias I-ADD
 da I-MOD
 extração I-MOD
 e I-MOD
 do I-MOD
 beneficiamento I-MOD
-de I-MOD
+de I-SUP
 carvão I-SUP
 cujas I-SUP
 atividades I-SUP
@@ -75,9 +112,17 @@ condições I-SUP
 especiais I-SUP
 prejudiciais I-SUP
 à I-SUP
-saúde.” I-SUP
-art. I-MOD
-21a. I-SUP
+saúde I-SUP
+. I-SUP
+” O
+
+
+
+
+ O
+art I-MOD
+. I-MOD
+21a. I-MOD
 ressalvado I-MOD
 o I-MOD
 direito I-ADD
@@ -88,17 +133,20 @@ aposentadoria I-ADD
 pelas I-ADD
 normas I-ADD
 estabelecidas I-ADD
-no I-MOD
-art. I-MOD
-25, I-MOD
+no I-ADD
+art I-MOD
+. I-MOD
+25 I-SUP
+, I-MOD
 o I-SUP
 segurado I-MOD
 de I-MOD
 ambos I-MOD
-os I-ADD
+os I-MOD
 sexos I-ADD
 filiado I-ADD
-ao I-ADD
+a I-ADD
+o I-ADD
 regime I-ADD
 geral I-ADD
 de I-ADD
@@ -107,29 +155,42 @@ social I-ADD
 até I-ADD
 a I-MOD
 data I-MOD
-de I-SUP
+de I-MOD
 promulgação I-SUP
-desta I-SUP
+d I-SUP
+esta I-SUP
 emenda I-SUP
 à I-SUP
-constituição, I-SUP
+constituição I-SUP
+, I-SUP
 que I-SUP
 exercem I-SUP
 ou I-SUP
 exerceram I-SUP
 atividades I-SUP
-especiais, I-SUP
+especiais I-SUP
+, I-SUP
 enquadradas I-SUP
-nos I-MOD
-15 I-MOD
-(quinze), I-MOD
+nos I-SUP
+15 I-SUP
+( I-SUP
+quinze I-MOD
+) I-MOD
+, I-MOD
 20 I-MOD
-(vinte) I-MOD
-e I-MOD
-25 I-MOD
-(vinte I-MOD
+
+
+ I-MOD
+( I-MOD
+vinte I-MOD
+) I-MOD
 e I-SUP
-cinco) I-SUP
+25 I-SUP
+( I-MOD
+vinte I-SUP
+e I-SUP
+cinco I-SUP
+) I-SUP
 anos I-MOD
 serão I-MOD
 aplicados I-MOD
@@ -139,7 +200,7 @@ de I-MOD
 concessão I-MOD
 e I-MOD
 de I-SUP
-cálculo I-SUP
+cálculo I-MOD
 previstos I-SUP
 nos I-MOD
 artigos I-MOD
@@ -148,10 +209,12 @@ e I-MOD
 58 I-MOD
 e I-MOD
 seus I-MOD
-parágrafos, I-MOD
+parágrafos I-MOD
+, I-MOD
 da I-MOD
 lei I-MOD
-8.213/91, I-MOD
+8.213/91 I-MOD
+, I-MOD
 independentes I-MOD
 da I-ADD
 aprovação I-ADD
@@ -162,33 +225,46 @@ de I-ADD
 que I-ADD
 trata I-ADD
 o I-ADD
-art. I-MOD
-201, I-ADD
-§ I-ADD
-1º, I-MOD
-ii I-MOD
-da I-MOD
-constituição. I-MOD
-parágrafo I-MOD
-único: I-SUP
-para I-MOD
+art I-MOD
+. I-MOD
+201 I-MOD
+, I-MOD
+§ I-SUP
+1º I-ADD
+, I-ADD
+ii I-ADD
+da I-ADD
+constituição I-ADD
+. I-MOD
+
+
+ I-SUP
+parágrafo I-SUP
+único I-SUP
+: I-SUP
+para I-SUP
 aqueles I-SUP
 segurados I-SUP
 que I-SUP
 exerceram I-SUP
+
+
+ I-SUP
 atividades I-SUP
 previstas I-SUP
 no I-SUP
 item I-SUP
 acima I-SUP
-e I-SUP
-que I-MOD
-voltarem I-SUP
+e I-ADD
+que I-ADD
+voltarem I-ADD
 a I-SUP
-exercer, I-SUP
-em I-SUP
-qualquer I-MOD
-tempo, I-MOD
+exercer I-SUP
+, I-ADD
+em I-ADD
+qualquer I-ADD
+tempo I-MOD
+, I-MOD
 as I-MOD
 atividades I-MOD
 nas I-MOD
@@ -205,16 +281,52 @@ mínimo I-ADD
 exigido I-ADD
 para I-ADD
 a I-ADD
-obtenção I-MOD
+obtenção I-ADD
 do I-MOD
-benefício, I-MOD
+benefício I-MOD
+, I-MOD
+
+
+ I-MOD
 será I-MOD
+
+
+ I-MOD
 assegurado I-MOD
+
+
+ I-MOD
 o I-MOD
-direito I-MOD
+
+
+ I-MOD
+direito I-SUP
+
+
+ I-SUP
 previsto I-SUP
+
+
+ I-SUP
 no I-SUP
-item I-SUP
-anterior I-SUP
-..........................................................................................(r)” I-SUP
+
+
+ I-MOD
+item I-MOD
+
+
+ I-MOD
+anterior I-MOD
+.......................................................................................... I-MOD
+( I-MOD
+r I-SUP
+) I-SUP
+” I-SUP
+
+
+ I-SUP
 2 I-SUP
+
+
+
+ I-SUP

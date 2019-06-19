@@ -1,7 +1,8 @@
-exclusão O
-grupos O
+específicos I-MOD
+” O
 câmara O
 deputados O
+comissão O
 especial O
 destinada O
 a O
@@ -9,6 +10,9 @@ apreciar O
 e O
 proferir O
 parecer O
+
+
+ O
 à O
 proposta O
 de O
@@ -16,82 +20,160 @@ emenda O
 à O
 constituição O
 nº O
-6, O
+6 O
+, O
 de O
 2019 O
 – O
 reforma O
 da O
 previdência O
+
+
+
+
+ O
 emenda O
-nº_______ O
-à O
+nº O
+_ O
+_ O
+_ I-MOD
+_ I-MOD
+_ O
+_ O
+_ O
+à I-MOD
 pec O
 6/2019 O
-(da O
-sra. O
+
+
+ O
+( O
+da I-MOD
+sra. I-MOD
 erika O
-kokay) O
+kokay O
+) O
+
+
+
+
+
+
+ O
 modifica B-MOD
-o O
-sistema O
-de O
-previdência I-MOD
-social, I-MOD
-estabelece I-MOD
-regras I-MOD
+o I-MOD
+sistema I-MOD
 de I-MOD
+previdência I-MOD
+social I-MOD
+, I-MOD
+estabelece I-MOD
+
+
+ I-MOD
+regras I-MOD
+
+
+ I-MOD
+de I-MOD
+
+
+ I-MOD
 transição I-MOD
+
+
+ I-MOD
 e I-MOD
+
+
+ I-MOD
 disposições I-MOD
-transitórias, I-MOD
+transitórias I-MOD
+, I-MOD
 e I-MOD
 dá I-MOD
-outras I-SUP
-providências. I-SUP
-art. I-SUP
-1° I-SUP
-suprima-se I-SUP
-todos I-SUP
-os I-SUP
-parágrafos, I-SUP
-incisos, I-MOD
+outras I-MOD
+
+
+ I-MOD
+providências I-MOD
+. I-MOD
+
+
+
+
+ I-MOD
+art I-MOD
+. I-MOD
+1 I-MOD
+° I-MOD
+suprima I-MOD
+- I-MOD
+se I-MOD
+todos I-MOD
+os I-MOD
+parágrafos I-MOD
+, I-SUP
+incisos I-MOD
+, I-MOD
 alíneas I-MOD
 e I-MOD
 demais I-MOD
 itens I-MOD
 relacionadas I-MOD
-ao I-ADD
-benefício I-ADD
+a O
+o O
+benefício I-MOD
 de I-MOD
 prestação I-MOD
 continuada I-MOD
 – I-MOD
-bpc, I-MOD
+bpc I-MOD
+, I-MOD
 alterados I-MOD
 pela I-MOD
 pec I-MOD
-06/2019. O
-art. I-MOD
-2° O
-acrescente-se I-MOD
-os I-MOD
+
+
+ I-MOD
+06/2019 I-MOD
+. I-MOD
+
+
+ I-SUP
+art I-SUP
+. I-ADD
+2 I-ADD
+° I-ADD
+acrescente I-ADD
+- I-MOD
+se I-ADD
+os I-ADD
 seguintes I-ADD
-§§ I-MOD
-ao I-ADD
-art.8º I-MOD
-da I-MOD
+§ I-ADD
+§ I-ADD
+a I-ADD
+o I-ADD
+art.8º I-ADD
+da I-ADD
 pec I-ADD
-06/2019 I-ADD
-com I-ADD
+06/2019 I-MOD
+com I-MOD
 a I-MOD
-seguinte I-ADD
-redação: I-MOD
-“§ I-MOD
-4° I-MOD
-o I-MOD
-disposto I-MOD
-no I-MOD
+seguinte I-MOD
+redação I-ADD
+: I-MOD
+
+
+ I-MOD
+“ I-SUP
+§ I-MOD
+4 I-SUP
+° I-MOD
+o I-SUP
+disposto I-SUP
+no I-SUP
 caput I-MOD
 abrangerá I-SUP
 o I-MOD
@@ -101,15 +183,16 @@ totalidade I-SUP
 da I-SUP
 remuneração I-SUP
 para I-SUP
-todas I-MOD
+todas I-SUP
 as I-ADD
 formas I-ADD
 de I-ADD
 aposentadoria I-ADD
 por I-ADD
 incapacidade I-ADD
-permanente, I-ADD
-independentemente I-ADD
+permanente I-ADD
+, I-ADD
+independentemente I-MOD
 de I-MOD
 ter I-MOD
 sido I-MOD
@@ -117,55 +200,81 @@ a I-MOD
 incapacidade I-MOD
 desencadeada I-MOD
 por I-ADD
-acidente I-MOD
-de I-MOD
-trabalho, I-MOD
+acidente I-ADD
+de I-ADD
+trabalho I-MOD
+, I-MOD
 de I-MOD
 doenças I-MOD
 profissionais I-MOD
 e I-MOD
 de I-MOD
 doenças I-MOD
-de I-SUP
-trabalho.” I-SUP
-§ I-SUP
-5° I-SUP
-o I-SUP
-valor I-SUP
-da I-SUP
-pensão I-SUP
-por I-MOD
-morte, I-MOD
 de I-MOD
+trabalho I-MOD
+. I-ADD
+” I-ADD
+
+
+ I-ADD
+§ I-MOD
+5 I-MOD
+° I-MOD
+o I-ADD
+valor I-ADD
+da I-MOD
+pensão I-MOD
+por I-MOD
+morte I-MOD
+, I-MOD
+de I-ADD
 que I-MOD
 trata I-MOD
 o I-MOD
-caput, I-MOD
+caput I-MOD
+, I-MOD
 quando I-MOD
-se I-ADD
-tratar I-ADD
-de I-ADD
+se I-MOD
+tratar I-MOD
+de I-MOD
 pessoa I-MOD
 com I-MOD
 deficiência I-MOD
-intelectual, I-MOD
+intelectual I-MOD
+, I-MOD
 mental I-MOD
 ou I-MOD
-grave, I-MOD
+grave I-MOD
+, I-MOD
 será I-MOD
 equivalente I-MOD
 a I-MOD
 cem I-MOD
 por I-ADD
 cento I-ADD
-por I-ADD
-dependente.” I-MOD
-art. I-SUP
-3° I-SUP
-dê-se I-MOD
-às I-MOD
+por I-SUP
+dependente I-ADD
+. I-ADD
+” I-SUP
+
+
+
+
+
+
+ I-MOD
+art O
+. O
+3 O
+° O
+dê O
+- O
+se O
+à O
+s I-MOD
 alíneas I-MOD
-a, I-MOD
+a I-MOD
+, I-MOD
 b I-MOD
 e I-MOD
 c I-MOD
@@ -173,27 +282,57 @@ do I-MOD
 inciso I-MOD
 v I-MOD
 do I-MOD
-art. I-SUP
+art I-SUP
+. I-MOD
 12 I-MOD
 da I-MOD
 pec I-MOD
 06/2019 I-MOD
+
+
+ I-MOD
 a I-MOD
 seguinte I-MOD
-redação: O
-“art. O
-12................................................................................ O
-v......................................................................................... O
+redação I-MOD
+: I-MOD
+
+
+ I-MOD
+“ I-MOD
+art I-MOD
+. I-MOD
+12 I-MOD
+................................................................................ I-MOD
+
+
+ I-MOD
+v O
+......................................................................................... O
+
+
+
+
+
+
+ O
 câmara O
-dos I-SUP
-deputados I-SUP
-a) I-SUP
+dos O
+deputados O
+
+
+
+
+ I-SUP
+a I-SUP
+) I-SUP
 para I-SUP
 a I-SUP
 deficiência I-SUP
-considerada I-MOD
-leve, I-MOD
-aos I-MOD
+considerada I-SUP
+leve I-SUP
+, I-MOD
+a I-MOD
+os I-MOD
 vinte I-MOD
 e I-MOD
 cinco I-ADD
@@ -202,20 +341,28 @@ de I-ADD
 contribuição I-ADD
 para I-ADD
 a I-ADD
-mulher, I-ADD
+mulher I-ADD
+, I-ADD
 e I-SUP
 trinta I-SUP
 anos I-SUP
 para I-SUP
 o I-SUP
-homem; I-SUP
-b) I-SUP
+homem I-SUP
+; I-SUP
+
+
+ I-SUP
+b I-SUP
+) I-SUP
 para I-SUP
-a I-MOD
-deficiência I-MOD
+a I-SUP
+deficiência I-SUP
 considerada I-SUP
-moderada, I-SUP
-aos I-MOD
+moderada I-SUP
+, I-MOD
+a I-MOD
+os I-ADD
 vinte I-ADD
 anos I-ADD
 de I-ADD
@@ -230,15 +377,22 @@ cinco I-SUP
 anos I-SUP
 para I-SUP
 o I-SUP
-homem; I-SUP
-e I-SUP
-c) I-SUP
+homem I-SUP
+; I-SUP
+e I-MOD
+
+
+ I-MOD
+c I-MOD
+) I-MOD
 para I-MOD
-a I-MOD
-deficiência I-MOD
+a I-SUP
+deficiência I-SUP
 considerada I-SUP
-grave, I-SUP
-aos I-MOD
+grave I-SUP
+, I-MOD
+a I-MOD
+os I-ADD
 quinze I-ADD
 anos I-ADD
 de I-ADD
@@ -248,37 +402,62 @@ a I-ADD
 mulher I-ADD
 e I-ADD
 vinte I-SUP
-anos I-MOD
-para I-MOD
+anos I-SUP
+para I-SUP
 o I-SUP
-homem.” I-SUP
-art. I-SUP
-4° I-SUP
-dê-se I-MOD
-aos I-MOD
-incisos I-SUP
-i, I-SUP
+homem I-SUP
+. I-SUP
+” I-SUP
+
+
+ I-MOD
+art O
+. O
+4 O
+° O
+dê O
+- O
+se O
+a O
+os I-MOD
+incisos I-MOD
+i I-MOD
+, I-SUP
 ii I-SUP
 e I-SUP
 iii I-SUP
 do I-SUP
-art. I-SUP
+art I-SUP
+. I-MOD
 27 I-MOD
 da I-MOD
 pec I-MOD
 06/2019 I-MOD
 a I-MOD
 seguinte I-MOD
-redação: I-MOD
-“art. I-MOD
-27............................................................................. I-MOD
-i) I-MOD
-para I-MOD
+redação I-MOD
+: I-MOD
+
+
+ I-MOD
+“ I-MOD
+art I-MOD
+. I-MOD
+27 I-MOD
+............................................................................. I-MOD
+
+
+ I-SUP
+i I-MOD
+) I-SUP
+para I-SUP
+a I-SUP
+deficiência I-SUP
+considerada I-SUP
+leve I-SUP
+, I-MOD
 a I-MOD
-deficiência I-MOD
-considerada I-MOD
-leve, I-MOD
-aos I-MOD
+os I-MOD
 vinte I-MOD
 e I-MOD
 cinco I-ADD
@@ -287,20 +466,28 @@ de I-ADD
 contribuição I-ADD
 para I-ADD
 a I-ADD
-mulher, I-ADD
+mulher I-ADD
+, I-ADD
 e I-SUP
 trinta I-SUP
 anos I-SUP
 para I-SUP
 o I-SUP
-homem; I-SUP
-ii) I-SUP
+homem I-SUP
+; I-SUP
+
+
+ I-SUP
+ii I-SUP
+) I-SUP
 para I-SUP
-a I-MOD
-deficiência I-MOD
+a I-SUP
+deficiência I-SUP
 considerada I-SUP
-moderada, I-SUP
-aos I-MOD
+moderada I-SUP
+, I-MOD
+a I-MOD
+os I-ADD
 vinte I-ADD
 anos I-ADD
 de I-ADD
@@ -315,15 +502,22 @@ cinco I-SUP
 anos I-SUP
 para I-SUP
 o I-SUP
-homem; I-SUP
+homem I-SUP
+; I-SUP
 e I-SUP
-iii) I-SUP
-para I-MOD
-a I-MOD
-deficiência I-MOD
+
+
+ I-SUP
+iii I-SUP
+) I-SUP
+para I-SUP
+a I-SUP
+deficiência I-SUP
 considerada I-SUP
-grave, I-SUP
-aos I-MOD
+grave I-SUP
+, I-MOD
+a I-MOD
+os I-ADD
 quinze I-ADD
 anos I-ADD
 de I-ADD
@@ -333,10 +527,17 @@ a I-ADD
 mulher I-ADD
 e I-ADD
 vinte I-SUP
-anos I-MOD
-para I-MOD
-o I-MOD
-homem.” I-MOD
+anos I-SUP
+para I-SUP
+o I-SUP
+homem I-SUP
+. I-SUP
+” I-MOD
+
+
+
+
+ I-MOD
 capítulo I-MOD
 iv I-MOD
 - I-MOD
@@ -344,35 +545,63 @@ das I-MOD
 disposições I-MOD
 transitórias I-MOD
 relacionadas I-MOD
-aos I-MOD
+a I-MOD
+os I-MOD
 regimes I-MOD
 próprios I-MOD
 de I-MOD
 previdência I-MOD
 social I-MOD
-art. I-MOD
-5° I-MOD
-acrescente-se I-MOD
+
+
+
+
+ I-MOD
+art I-MOD
+. I-MOD
+5 I-MOD
+° I-MOD
+acrescente I-MOD
+- I-MOD
+se I-MOD
 inciso I-MOD
-ao I-ADD
-art. I-ADD
-12, I-ADD
+a I-MOD
+o I-MOD
+art I-MOD
+. I-ADD
+12 I-MOD
+, I-MOD
 § I-ADD
-10° I-ADD
+10 I-ADD
+° I-ADD
 das I-ADD
-disposições I-ADD
-transitórias I-ADD
+disposições I-MOD
+transitórias I-MOD
 da I-ADD
 pec I-ADD
-06/2019 I-ADD
-com I-ADD
-a I-ADD
-seguinte I-ADD
-redação. I-ADD
-“art. I-ADD
-12................................................................................ I-ADD
+06/2019 I-MOD
+com I-MOD
+a I-MOD
+seguinte I-MOD
+redação I-MOD
+. I-MOD
+
+
+ I-MOD
+“ I-MOD
+art I-MOD
+. I-MOD
+12 I-ADD
+................................................................................ I-MOD
+
+
+ I-MOD
 § I-MOD
-10..................................................................................... I-MOD
+10 I-MOD
+..................................................................................... I-MOD
+
+
+ I-MOD
 vi I-MOD
 – I-MOD
 é I-MOD
@@ -392,28 +621,50 @@ refere I-ADD
 o I-SUP
 inciso I-SUP
 iii I-SUP
-deste I-SUP
-parágrafo, I-ADD
-por I-ADD
-parte I-ADD
-de O
-pessoas O
-com O
-deficiência. I-MOD
-câmara I-MOD
+d I-SUP
+este I-SUP
+parágrafo I-SUP
+, I-MOD
+por I-MOD
+parte I-MOD
+de I-ADD
+pessoas I-ADD
+com I-MOD
+deficiência I-MOD
+. I-MOD
+
+
+
+
+
+
+ I-MOD
+câmara O
 dos O
-deputados O
-art. O
-6° O
-acrescente-se B-ADD
+deputados I-SUP
+
+
+
+
+ I-SUP
+art I-SUP
+. I-MOD
+6 I-ADD
+° I-ADD
+acrescente I-ADD
+- I-ADD
+se I-ADD
 à I-ADD
 pec I-ADD
 6/2019 I-ADD
 o I-ADD
-seguinte O
-artigo: I-MOD
-art. I-MOD
-1° I-MOD
+seguinte I-ADD
+artigo I-SUP
+: I-SUP
+art I-SUP
+. I-MOD
+1 I-MOD
+° I-MOD
 para I-MOD
 fins I-MOD
 de I-MOD
@@ -440,133 +691,196 @@ o I-MOD
 § I-MOD
 1o I-MOD
 do I-MOD
-art. I-MOD
+art I-MOD
+. I-MOD
 201 I-MOD
+
+
+ I-SUP
 da I-MOD
-constituição I-SUP
-federal, I-SUP
-observar-se-á I-SUP
-o I-ADD
-disposto I-ADD
+constituição I-MOD
+federal I-ADD
+, I-MOD
+observar I-MOD
+- I-MOD
+se I-MOD
+- I-MOD
+á I-MOD
+o I-MOD
+disposto I-MOD
 na I-ADD
 lei I-ADD
 complementar I-ADD
 nº I-ADD
-142/2013, I-ADD
+142/2013 I-ADD
+, I-ADD
 nas I-ADD
-seguintes I-MOD
-condições: O
+seguintes I-ADD
+condições I-MOD
+: I-MOD
 i I-MOD
 - I-MOD
-aos I-MOD
+a I-MOD
+os I-MOD
 25 I-MOD
-(vinte I-MOD
-e I-MOD
-cinco) I-MOD
-anos I-MOD
-de I-MOD
-tempo I-MOD
-de I-MOD
-contribuição, I-MOD
-se I-MOD
-homem, I-MOD
+( I-MOD
+vinte I-SUP
+e I-SUP
+cinco I-MOD
+) I-SUP
+anos I-ADD
+de I-ADD
+tempo I-ADD
+de I-ADD
+contribuição I-ADD
+, I-ADD
+se I-ADD
+homem I-ADD
+, I-ADD
 e I-MOD
 20 I-MOD
-(vinte) I-MOD
-anos, I-MOD
+( I-MOD
+vinte I-MOD
+) I-MOD
+anos I-MOD
+, I-MOD
 se I-MOD
-mulher, I-MOD
+mulher I-MOD
+, I-MOD
+no I-ADD
+caso I-ADD
+de I-ADD
+segurado I-MOD
+com I-MOD
+deficiência I-ADD
+grave I-MOD
+; I-MOD
+
+
+ I-MOD
+ii I-MOD
+- I-MOD
+a I-MOD
+os I-MOD
+29 I-MOD
+( I-MOD
+vinte I-SUP
+e I-SUP
+nove I-SUP
+) I-SUP
+anos I-ADD
+de I-ADD
+tempo I-ADD
+de I-ADD
+contribuição I-ADD
+, I-ADD
+se I-ADD
+homem I-ADD
+, I-ADD
+e I-MOD
+24 I-SUP
+( I-SUP
+vinte I-SUP
+e I-SUP
+quatro I-SUP
+) I-ADD
+anos I-ADD
+, I-ADD
+se I-ADD
+mulher I-MOD
+, I-MOD
 no I-ADD
 caso I-ADD
 de I-ADD
 segurado I-ADD
-com I-MOD
-deficiência I-MOD
-grave; I-MOD
-ii I-MOD
-- I-MOD
-aos I-MOD
-29 I-MOD
-(vinte I-MOD
-e I-MOD
-nove) I-SUP
-anos I-MOD
-de I-MOD
-tempo I-MOD
-de I-MOD
-contribuição, I-MOD
-se I-MOD
-homem, I-MOD
-e I-MOD
-24 I-MOD
-(vinte I-MOD
-e I-MOD
-quatro) I-MOD
-anos, I-MOD
-se I-MOD
-mulher, I-MOD
-no I-ADD
-caso I-ADD
-de I-ADD
-segurado I-MOD
-com I-MOD
-deficiência I-MOD
-moderada; I-MOD
+com I-ADD
+deficiência I-ADD
+moderada I-ADD
+; I-MOD
+
+
+ I-MOD
 iii I-MOD
 - I-MOD
-aos I-MOD
+a I-MOD
+os I-MOD
 33 I-MOD
-(trinta I-MOD
-e I-MOD
-três) I-SUP
-anos I-MOD
-de I-MOD
-tempo I-MOD
-de I-MOD
-contribuição, I-MOD
-se I-MOD
-homem, I-MOD
+( I-MOD
+trinta I-SUP
+e I-SUP
+três I-SUP
+) I-SUP
+anos I-ADD
+de I-ADD
+tempo I-ADD
+de I-ADD
+contribuição I-ADD
+, I-ADD
+se I-ADD
+homem I-ADD
+, I-ADD
 e I-MOD
 28 I-MOD
-(vinte I-MOD
-e I-MOD
-oito) I-MOD
-anos, I-MOD
+( I-MOD
+vinte I-SUP
+e I-SUP
+oito I-MOD
+) I-MOD
+anos I-MOD
+, I-MOD
 se I-MOD
-mulher, I-MOD
+mulher I-MOD
+, I-MOD
 no I-ADD
 caso I-ADD
 de I-ADD
 segurado I-MOD
 com I-MOD
 deficiência I-MOD
-leve; I-MOD
-ou I-SUP
+leve I-MOD
+; I-MOD
+ou I-MOD
+
+
+ I-MOD
 iv I-SUP
 - I-SUP
-aos I-SUP
-60 I-SUP
-(sessenta) I-SUP
-anos I-MOD
-de I-SUP
-idade, I-MOD
-se I-MOD
-homem, I-MOD
-e I-MOD
-55 I-MOD
-(cinquenta I-MOD
-e I-MOD
-cinco) I-MOD
+a I-MOD
+os I-MOD
+60 I-MOD
+( I-SUP
+sessenta I-SUP
+) I-SUP
 anos I-MOD
 de I-MOD
-idade, I-MOD
+idade I-MOD
+, I-MOD
 se I-MOD
-mulher, I-MOD
+homem I-MOD
+, I-MOD
+e I-MOD
+55 I-MOD
+
+
+ I-MOD
+( I-MOD
+cinquenta I-MOD
+e I-SUP
+cinco I-SUP
+) I-SUP
+anos I-MOD
+de I-MOD
+idade I-MOD
+, I-MOD
+se I-MOD
+mulher I-MOD
+, I-MOD
 independentemente I-MOD
 do I-MOD
 grau I-MOD
 de I-MOD
-deficiência, I-MOD
+deficiência I-MOD
+, I-MOD
 desde I-ADD
 que I-ADD
 cumprido I-ADD
@@ -576,30 +890,43 @@ de I-ADD
 contribuição I-ADD
 de I-ADD
 15 I-ADD
-(quinze) I-ADD
-anos I-ADD
+( I-ADD
+quinze I-ADD
+) I-SUP
+anos I-SUP
 e I-SUP
 comprovada I-SUP
 a I-SUP
 existência I-SUP
-de I-MOD
-deficiência I-MOD
+de I-SUP
+deficiência I-SUP
 durante I-MOD
 igual I-MOD
-período. I-ADD
-art. I-ADD
-7° I-ADD
-acrescente-se I-ADD
+período I-MOD
+. I-MOD
+
+
+ I-MOD
+art I-MOD
+. I-MOD
+7 I-MOD
+° I-MOD
+acrescente O
+- O
+se I-MOD
 à I-ADD
 pec I-ADD
 6/2019 I-ADD
 o I-ADD
-seguinte O
-artigo: I-MOD
-art. I-MOD
-2° I-MOD
-fica I-MOD
-devidamente I-ADD
+seguinte I-ADD
+artigo I-ADD
+: I-ADD
+art I-SUP
+. I-ADD
+2 I-SUP
+° I-SUP
+fica I-SUP
+devidamente I-SUP
 assegurado I-ADD
 no I-ADD
 regime I-ADD
@@ -621,6 +948,9 @@ os I-MOD
 valores I-MOD
 dos I-MOD
 proventos I-MOD
+
+
+ I-MOD
 – I-MOD
 ou I-ADD
 da I-ADD
@@ -629,63 +959,142 @@ aposentadoria I-ADD
 – I-ADD
 e I-ADD
 da I-ADD
-pensão; I-ADD
-art. I-SUP
-8° I-MOD
-suprima-se I-SUP
-todos I-SUP
-os I-SUP
-parágrafos, I-SUP
+pensão I-MOD
+; I-MOD
+art I-MOD
+. I-MOD
+8 I-MOD
+° I-MOD
+suprima I-MOD
+- I-MOD
+se I-MOD
+todos I-MOD
+os I-MOD
+parágrafos I-MOD
+, I-SUP
 incisos I-SUP
 e I-SUP
 alíneas I-SUP
 do I-SUP
-art. I-SUP
+art I-SUP
+. I-SUP
 201 I-SUP
-da I-SUP
-constituição I-SUP
-federal, I-SUP
+
+
+ I-SUP
+da I-MOD
+constituição I-MOD
+federal I-ADD
+, I-ADD
 alterado I-SUP
 pelo I-SUP
-art. I-SUP
-1° I-MOD
-da I-MOD
+art I-SUP
+. I-SUP
+1 I-SUP
+° I-SUP
+da I-SUP
 pec I-SUP
-06/2019. I-SUP
-art. I-SUP
-9° I-MOD
-suprima-se I-MOD
+06/2019 I-MOD
+. I-MOD
+
+
+
+
+ I-MOD
+art I-MOD
+. I-MOD
+9 I-MOD
+° I-MOD
+suprima I-MOD
+- I-MOD
+se I-MOD
 o I-MOD
-art. I-MOD
+art I-MOD
+. I-MOD
 201- I-MOD
 a I-MOD
-da O
-pec O
-06/2019. O
-art.10 O
-acrescente-se B-ADD
-ao I-ADD
-art. I-ADD
-8° I-ADD
-da I-ADD
+da I-MOD
+pec I-MOD
+06/2019 I-MOD
+. I-MOD
+
+
+ I-MOD
+art.10 I-MOD
+acrescente I-MOD
+- I-MOD
+se I-MOD
+a I-MOD
+o I-MOD
+art I-MOD
+. I-MOD
+8 I-MOD
+° I-MOD
+da I-MOD
 pec I-MOD
 06/2019 I-MOD
 a I-MOD
 seguinte I-MOD
-alteração: I-MOD
-“art. I-ADD
-8°............................................................................. I-ADD
+alteração I-MOD
+: I-MOD
+
+
+ I-MOD
+“ I-MOD
+art I-MOD
+. I-MOD
+8 I-MOD
+° I-MOD
+............................................................................. I-MOD
+
+
+
+
+ I-MOD
 ...................................................................................... I-MOD
-§ O
-1°................................................................................. O
-i......................................................................................... O
+
+
+ I-MOD
+§ I-MOD
+1 I-MOD
+° I-SUP
+................................................................................. I-SUP
+
+
+
+
+ I-SUP
+i I-MOD
+......................................................................................... O
+
+
+
+
+
+
+ O
 câmara O
 dos O
 deputados O
-ii.......................................................................................... O
-iii........................................................................................ O
-iv- O
-exclui-se I-MOD
+
+
+
+
+ I-SUP
+ii I-SUP
+.......................................................................................... I-MOD
+
+
+ I-MOD
+iii I-MOD
+........................................................................................ I-MOD
+
+
+ I-MOD
+iv- I-MOD
+exclui I-MOD
+- I-MOD
+se I-MOD
 da I-MOD
 regara I-MOD
 de I-MOD
@@ -702,13 +1111,23 @@ dependentes I-MOD
 for I-MOD
 pessoa I-MOD
 com I-MOD
-deficiência, I-MOD
-garantindo-se I-ADD
-o I-ADD
-direito I-SUP
-à I-SUP
+deficiência I-ADD
+, I-MOD
+garantindo I-MOD
+- I-MOD
+se I-MOD
+o I-MOD
+direito I-ADD
+à I-MOD
 reversibilidade I-SUP
 em I-SUP
 prol I-SUP
-dessa O
-pessoa.” O
+d I-SUP
+essa I-MOD
+pessoa I-SUP
+. I-MOD
+” I-MOD
+
+
+
+ I-SUP

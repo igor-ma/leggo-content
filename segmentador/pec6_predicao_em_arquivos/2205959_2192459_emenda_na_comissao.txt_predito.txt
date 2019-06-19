@@ -1,10 +1,22 @@
-das O
 constitucionais I-MOD
+. O
 câmara O
-deputados O
-wladimir O
+deputados I-MOD
+deputado O
+wladimir I-MOD
 garotinho O
-(psd/rj) O
+( O
+psd O
+/ I-MOD
+rj O
+) O
+
+
+
+
+
+
+ O
 comissão O
 especial O
 destinada O
@@ -17,27 +29,45 @@ emenda O
 à O
 constituição O
 nº O
-6, O
-de O
-2019, O
+6 O
+, O
+de I-SUP
+2019 O
+, O
 que O
-“modifica O
+“ O
+modifica O
 o O
 sistema O
 de O
 previdência O
-social, O
+social O
+, O
 estabelece O
 regras O
+
+
+ O
 de O
 transição O
 e O
 disposições O
-transitórias, O
+transitórias O
+, O
 e O
-dá O
-outras O
-providências”. O
+dá I-MOD
+
+
+ I-MOD
+outras I-MOD
+providências I-MOD
+” I-MOD
+. O
+
+
+
+
+ O
 proposta O
 de O
 emenda O
@@ -46,74 +76,167 @@ nº O
 06 O
 de O
 2019 O
+
+
+
+
+ O
 modifica B-MOD
 o O
-sistema O
-de O
+sistema I-MOD
+de I-MOD
 previdência I-MOD
-social, I-MOD
+
+
+ I-MOD
+social I-MOD
+, I-MOD
 estabelece I-MOD
 regras I-MOD
 de I-MOD
 transição I-MOD
 e I-MOD
+
+
+ I-MOD
 disposições I-MOD
-transitórias, I-MOD
+transitórias I-MOD
+, I-MOD
 e I-MOD
 dá I-MOD
 outras I-MOD
-providências O
-emenda O
-nº O
-_______, O
-de O
+providências I-MOD
+
+
+
+
+ I-MOD
+emenda I-MOD
+nº I-MOD
+_ O
+_ O
+_ I-MOD
+_ I-MOD
+_ I-MOD
+_ I-MOD
+_ I-MOD
+, I-MOD
+de I-MOD
 2019 O
-(do O
+
+
+ O
+( O
+do O
 sr. O
-wladimir O
-garotinho O
-e O
-outros) I-MOD
+wladimir I-MOD
+garotinho I-MOD
+e I-MOD
+outros I-MOD
+) I-MOD
+
+
+
+
+ I-MOD
 assegura I-MOD
-aos I-SUP
+a I-MOD
+os I-SUP
 guardas I-SUP
 municipais I-SUP
-tratamento I-MOD
+
+
+ I-SUP
+tratamento I-SUP
+
+
+ I-SUP
 isonômico I-MOD
+
+
+ I-MOD
 das I-MOD
+
+
+ I-MOD
 regras I-MOD
-previdenciárias, I-MOD
+
+
+ I-MOD
+previdenciárias I-MOD
+, I-MOD
 com I-MOD
-relação I-MOD
-as I-MOD
+relação I-ADD
+as I-ADD
 demais I-ADD
+
+
+ I-MOD
 categorias I-MOD
+
+
+ I-MOD
 da I-MOD
+
+
+ I-MOD
 segurança I-MOD
+
+
+ I-MOD
 pública I-MOD
+
+
+ I-MOD
 listadas I-MOD
 no I-MOD
-art. I-MOD
-144 I-MOD
-da I-MOD
-constituição I-MOD
-federal. I-MOD
-art. I-MOD
-1º. I-MOD
-modifique-se I-MOD
-o I-MOD
-§8º, I-MOD
-do I-MOD
-art. I-MOD
+art I-ADD
+. I-MOD
 144 I-MOD
 da I-MOD
 constituição I-MOD
 federal I-MOD
-“art. I-MOD
-144. I-MOD
+. I-MOD
+
+
+
+
+ I-MOD
+art I-MOD
+. I-MOD
+1º. I-MOD
+modifique I-MOD
+- I-MOD
+se I-MOD
+o I-MOD
+§ I-MOD
+8º I-MOD
+, I-MOD
+do I-MOD
+art I-MOD
+. I-MOD
+144 I-MOD
+da I-MOD
+constituição I-MOD
+federal I-MOD
+
+
+ I-MOD
+“ I-MOD
+art I-MOD
+. I-MOD
+144 I-MOD
+. I-MOD
 ......................................................................... I-MOD
+
+
+ I-MOD
 ......................................................................................... I-MOD
-§8º I-MOD
+
+
+ I-MOD
+§ I-MOD
+8º I-MOD
 lei I-MOD
 municipal I-MOD
 poderá I-MOD
@@ -122,7 +245,8 @@ e I-MOD
 regulamentar I-MOD
 as I-MOD
 guardas I-MOD
-municipais, I-MOD
+municipais I-MOD
+, I-MOD
 sendo I-MOD
 vedada I-MOD
 a I-MOD
@@ -131,36 +255,79 @@ de I-MOD
 mais I-MOD
 de I-MOD
 uma I-MOD
-modalidade I-ADD
+modalidade I-MOD
 de I-ADD
 guarda I-ADD
-municipal, I-MOD
+municipal I-MOD
+, I-MOD
 por I-MOD
-município. I-MOD
-art. I-MOD
+município I-MOD
+. I-MOD
+
+
+ I-MOD
+art I-MOD
+. I-MOD
 2º. I-MOD
-inclua-se I-MOD
+inclua I-MOD
+- I-MOD
+se I-MOD
 o I-MOD
-§11º, I-MOD
-ao I-MOD
-art. I-MOD
+§ I-MOD
+11º I-ADD
+, I-ADD
+a I-MOD
+o I-MOD
+art I-MOD
+. I-MOD
 144 I-MOD
 da I-MOD
 constituição I-MOD
 federal I-MOD
-“art. I-MOD
-144. I-MOD
+
+
+ I-MOD
+“ I-MOD
+art I-MOD
+. I-MOD
+144 I-MOD
+. I-MOD
 ......................................................................... I-MOD
+
+
+
+
+
+
+ I-MOD
 câmara I-MOD
 dos O
 deputados O
+
+
+ I-MOD
 deputado O
-wladimir O
-garotinho I-MOD
-(psd/rj) I-MOD
+wladimir I-MOD
+garotinho O
+( O
+psd O
+/ I-MOD
+rj I-MOD
+) O
+
+
+
+
+
+
+ I-MOD
 ..................................................................................... I-MOD
-§11º I-MOD
-os I-MOD
+
+
+ I-MOD
+§ I-MOD
+11º I-MOD
+os I-SUP
 guardas I-SUP
 municipais I-SUP
 terão I-SUP
@@ -172,75 +339,116 @@ relação I-MOD
 previdência I-ADD
 social I-MOD
 das I-MOD
-categorias I-MOD
+categorias O
 descritas I-MOD
 no I-MOD
-caput.” I-MOD
-art. I-MOD
+caput I-MOD
+. I-MOD
+” I-MOD
+
+
+ I-MOD
+art I-MOD
+. I-MOD
 3º. I-MOD
-incluam-se I-MOD
+incluam I-MOD
+- I-ADD
+se I-MOD
 os I-MOD
-§§7º I-MOD
+§ I-MOD
+§ I-MOD
+7º I-MOD
 e I-MOD
-8º, I-MOD
-ao I-MOD
-art. I-MOD
+8º I-SUP
+, I-MOD
+a I-SUP
+o I-SUP
+art I-MOD
+. I-SUP
 4 O
 da O
-proposta I-ADD
+proposta O
 de O
 emenda O
 à O
 constituição O
 nº O
-06 I-ADD
+06 O
 de I-ADD
-2019. I-MOD
-“art. I-MOD
-4. I-MOD
+2019 I-ADD
+. O
+
+
+ I-MOD
+“ I-MOD
+art I-MOD
+. I-MOD
+4 I-MOD
+. I-MOD
 ......................................................................... I-MOD
+
+
+ I-MOD
 ..................................................................................... I-MOD
-§7º I-MOD
+
+
+ I-MOD
+§ I-MOD
+7º I-MOD
 as I-MOD
 guardas I-MOD
 municipais I-MOD
 instituídas I-MOD
 até I-MOD
 a I-MOD
-data I-SUP
+data I-MOD
 da I-SUP
-aprovação I-ADD
-desta I-SUP
-emenda I-ADD
+aprovação I-SUP
+d I-SUP
+esta I-SUP
+emenda I-SUP
 à I-SUP
 constituição I-SUP
 terão I-SUP
 até I-SUP
 180 I-ADD
 dias I-SUP
-(cento I-MOD
-e I-MOD
-oitenta I-MOD
-dias) I-SUP
-após I-MOD
-a I-MOD
+( I-SUP
+cento I-SUP
+e I-SUP
+oitenta I-SUP
+dias I-ADD
+) I-SUP
+após I-SUP
+a I-SUP
 aprovação I-SUP
-desta I-MOD
-emenda, I-SUP
-para I-MOD
-se I-MOD
-adequar I-MOD
-ao I-MOD
-§8º, I-MOD
+d I-SUP
+esta I-SUP
+emenda I-SUP
+, I-SUP
+para I-SUP
+se I-SUP
+adequar I-SUP
+a I-SUP
+o I-SUP
+§ I-MOD
+8º I-MOD
+, I-MOD
 do I-MOD
-art. I-MOD
+art I-MOD
+. I-MOD
 144 I-MOD
 constituição I-MOD
-federal. I-MOD
-§8º I-MOD
+federal I-ADD
+. I-MOD
+
+
+ I-MOD
+§ I-MOD
+8º I-MOD
 os I-MOD
 municípios I-MOD
-em I-MOD
+em I-SUP
 que I-MOD
 as I-MOD
 guardas I-MOD
@@ -251,16 +459,19 @@ em I-SUP
 mais I-SUP
 de I-SUP
 uma I-SUP
-categoria, I-SUP
+categoria I-SUP
+, I-SUP
 na I-SUP
 data I-SUP
 de I-SUP
 aprovação I-SUP
-desta I-SUP
-emenda I-SUP
-constitucional, I-SUP
-deverão I-SUP
-proceder I-SUP
+d I-MOD
+esta I-MOD
+emenda I-MOD
+constitucional I-MOD
+, I-MOD
+deverão I-MOD
+proceder I-MOD
 o I-MOD
 agrupamento I-MOD
 de I-MOD
@@ -272,11 +483,18 @@ categoria I-MOD
 única I-MOD
 de I-MOD
 guarda I-MOD
-municipal, I-MOD
+municipal I-MOD
+, I-MOD
 sendo I-MOD
 vedada I-MOD
 a I-MOD
 exclusão I-MOD
-de O
-grupos O
-específicos.” O
+de I-MOD
+grupos I-MOD
+específicos I-SUP
+. I-MOD
+” I-SUP
+
+
+
+ I-SUP

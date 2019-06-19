@@ -1,11 +1,14 @@
-prevista O
-§ O
+no O
+2º. O
 comissão O
 destinada O
 apreciar O
 e O
 proferir O
 parecer O
+
+
+ O
 à O
 proposta O
 de O
@@ -13,55 +16,106 @@ emenda O
 à O
 constituição O
 nº O
-6, O
+6 O
+, O
 de O
 2019 O
 – O
 reforma O
 da O
 previdência O
+
+
+ O
 proposta O
 de O
 emenda O
 à O
 constituição O
 nº O
-6, O
-de O
-2019 O
-(do O
+6 O
+, O
+de I-SUP
+2019 I-SUP
+
+
+ O
+( O
+do O
 poder O
-executivo) O
+executivo O
+) O
+
+
+ O
 modifica B-MOD
 o O
-sistema O
-de O
+sistema I-MOD
+de I-MOD
 previdência I-MOD
-social, I-MOD
+
+
+ I-MOD
+social I-MOD
+, I-MOD
 estabelece I-MOD
 regras I-MOD
 de I-MOD
 transição I-MOD
 e I-MOD
+
+
+ I-MOD
 disposições I-MOD
-transitórias, I-MOD
+
+
+ I-MOD
+transitórias I-MOD
+, I-MOD
+
+
+ I-MOD
 e I-MOD
-dá O
-outras O
-providências. O
+
+
+ I-MOD
+dá I-MOD
+
+
+ I-MOD
+outras I-MOD
+
+
+ I-MOD
+providências O
+. O
+
+
+ O
 emenda O
 aditiva O
 nº O
-(do O
+
+
+ O
+( O
+do O
 sr. O
-tiago O
-dimas O
+tiago I-MOD
+dimas I-MOD
 e I-MOD
-outros) I-MOD
-altere-se I-MOD
+outros I-MOD
+) I-MOD
+
+
+ I-MOD
+altere I-MOD
+- I-MOD
+se I-MOD
 o I-MOD
-art. I-MOD
-1º I-MOD
+art I-MOD
+. I-MOD
+1º I-ADD
 da I-SUP
 proposta I-ADD
 de I-ADD
@@ -69,15 +123,18 @@ emenda I-ADD
 à I-ADD
 constituição I-ADD
 nº I-ADD
-6, I-SUP
-de I-ADD
-2019, I-SUP
+6 I-ADD
+, I-ADD
+de I-SUP
+2019 I-SUP
+, I-SUP
 para I-SUP
 que I-SUP
 o I-SUP
-art. I-SUP
+art I-SUP
+. I-SUP
 201 I-SUP
-da I-SUP
+da I-MOD
 constituição I-MOD
 federal I-ADD
 passe I-ADD
@@ -87,24 +144,42 @@ acrescido I-ADD
 do I-ADD
 seguinte I-ADD
 § I-ADD
-14: I-ADD
-“art. I-ADD
-201................................................................................. I-ADD
-............................................................................................... I-ADD
+14 I-ADD
+: I-MOD
+
+
+ I-MOD
+“ I-SUP
+art I-SUP
+. I-MOD
+201 I-MOD
+................................................................................. I-MOD
+
+
+ I-MOD
+............................................................................................... I-SUP
+
+
+ I-SUP
 § I-MOD
-14. I-MOD
+14 I-MOD
+. I-MOD
 o I-MOD
 período I-MOD
-de I-SUP
-desemprego, I-SUP
+de I-MOD
+desemprego I-SUP
+, I-SUP
 limitado I-SUP
-a I-SUP
-60 I-SUP
-(sessenta) I-SUP
-meses, I-SUP
+a I-MOD
+60 I-MOD
+( I-MOD
+sessenta I-MOD
+) I-SUP
+meses I-SUP
+, I-SUP
 pode I-SUP
 ser I-SUP
-contado I-SUP
+contado I-ADD
 como I-ADD
 tempo I-ADD
 de I-ADD
@@ -133,19 +208,23 @@ fundo I-MOD
 de I-ADD
 garantia I-ADD
 por I-ADD
-tempo O
-de O
-serviço I-ADD
-– I-ADD
-fgts, I-ADD
-considerando-se I-ADD
+tempo I-MOD
+de I-MOD
+serviço I-MOD
+– I-MOD
+fgts I-MOD
+, I-MOD
+considerando I-MOD
+- I-MOD
+se I-ADD
 como I-ADD
 salário I-ADD
 de I-ADD
 contribuição I-ADD
 para I-ADD
 esse I-ADD
-fim, I-ADD
+fim I-ADD
+, I-ADD
 a I-MOD
 média I-MOD
 dos I-MOD
@@ -155,6 +234,15 @@ salários I-ADD
 de I-ADD
 contribuição I-ADD
 antecedentes I-ADD
-ao I-ADD
-pedido; I-ADD
-2 I-ADD
+a I-ADD
+o I-ADD
+pedido I-ADD
+; I-SUP
+
+
+ I-SUP
+2 I-SUP
+
+
+
+ I-SUP

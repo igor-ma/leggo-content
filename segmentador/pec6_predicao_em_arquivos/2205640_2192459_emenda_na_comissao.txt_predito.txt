@@ -1,5 +1,5 @@
-à O
-n° O
+° O
+. O
 comissão O
 destinada O
 proferir O
@@ -11,41 +11,83 @@ emenda O
 à O
 constituição O
 nº O
-06, O
+06 O
+, O
 de O
-2019 I-MOD
-suprima-se I-MOD
+2019 O
+
+
+
+
+
+
+ I-MOD
+suprima I-MOD
+- I-MOD
+se I-MOD
 o I-MOD
-§1º I-MOD
+§ I-MOD
+1º I-MOD
 do I-MOD
-art. I-MOD
+art I-MOD
+. I-MOD
 4º I-MOD
-da I-MOD
+da I-SUP
 proposta I-SUP
 de I-SUP
-emenda I-SUP
-à I-ADD
-constituição I-ADD
+
+
+ I-SUP
+emenda O
+à O
+constituição O
 nº O
-06, O
+06 O
+, I-ADD
 de O
-2019. O
+2019 O
+. O
+
+
+
+
+
+
+ O
 emenda O
 supressiva O
 nº O
-suprima-se B-SUP
+
+
+
+
+ O
+suprima O
+- I-MOD
+se I-ADD
 o I-MOD
-§1º I-MOD
+§ I-MOD
+1º I-MOD
 do I-MOD
-art. I-MOD
-4º, I-MOD
-da I-MOD
-proposta I-ADD
+art I-MOD
+. I-MOD
+4º I-MOD
+, I-SUP
+da I-SUP
+proposta I-SUP
+de I-SUP
+emenda O
+à O
+constituição O
+nº O
+06 O
+, I-ADD
 de I-ADD
-emenda I-ADD
-à I-ADD
-constituição I-ADD
-nº I-ADD
-06, I-ADD
-de I-ADD
-2019. I-ADD
+2019 I-ADD
+. I-MOD
+
+
+
+
+
+ I-ADD

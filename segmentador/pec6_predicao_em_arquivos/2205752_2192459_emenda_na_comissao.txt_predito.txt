@@ -1,92 +1,168 @@
-– O
-da O
+reforma O
+previdência O
 comissão O
 destinada O
 proferir O
 parecer O
 à O
+
+
+ O
 proposta O
 de O
 emenda O
 à O
 constituição O
 nº O
-6, O
+6 O
+, O
 de O
 2019 O
+
+
+ O
 proposta O
 de O
 emenda O
 à O
 constituição O
 nº O
-6, O
+6 O
+, O
 de O
 2019 O
+
+
+ O
 modifica B-MOD
 o O
-sistema O
-de O
+sistema I-MOD
+de I-MOD
 previdência I-MOD
-social, I-MOD
+
+
+ I-MOD
+social I-MOD
+, I-MOD
 estabelece I-MOD
 regras I-MOD
 de I-MOD
 transição I-MOD
 e I-MOD
+
+
+ I-MOD
 disposições I-MOD
-transitórias, I-MOD
+
+
+ I-MOD
+transitórias I-MOD
+, I-MOD
+
+
+ I-MOD
 e I-MOD
-dá O
-outras O
-providências. O
+
+
+ I-MOD
+dá I-MOD
+
+
+ I-MOD
+outras I-MOD
+
+
+ I-MOD
+providências O
+. O
+
+
+ O
 emenda O
 modificativa O
 nº O
-suprima-se B-SUP
-o I-SUP
-inc. I-SUP
-v I-SUP
-do I-SUP
-caput I-SUP
-do I-SUP
-art. I-MOD
-201, I-SUP
+
+
+ O
+suprima O
+- O
+se I-MOD
+o I-MOD
+inc I-MOD
+. I-MOD
+v I-MOD
+do I-MOD
+caput I-MOD
+do I-MOD
+art I-SUP
+. I-SUP
+201 I-SUP
+, I-SUP
 mencionado I-SUP
-no I-MOD
-art. I-MOD
-1º I-SUP
+no I-SUP
+art I-MOD
+. I-MOD
+1º I-MOD
+
+
+ I-MOD
 da I-SUP
 proposta I-ADD
 de I-ADD
 emenda I-ADD
-à I-ADD
+à I-SUP
 constituição I-ADD
-n° I-ADD
-6, I-ADD
-de I-ADD
-2019, I-ADD
-e I-SUP
-dê-se I-MOD
-a I-MOD
+n I-ADD
+° I-SUP
+6 I-ADD
+, I-SUP
+de I-SUP
+2019 I-SUP
+, O
+e O
+dê O
+- O
+se O
+a O
 seguinte I-MOD
 redação I-MOD
-aos I-MOD
-art. I-MOD
-12 I-MOD
-e I-MOD
-30 I-MOD
-da I-MOD
+a I-MOD
+os I-MOD
+art I-MOD
+. I-MOD
+12 I-SUP
+e I-SUP
+30 I-SUP
+da I-SUP
 referida I-MOD
-proposição: I-MOD
-“art. I-ADD
-12.......................................................................................... I-MOD
+proposição I-MOD
+: I-SUP
+
+
+ I-MOD
+“ I-MOD
+art I-MOD
+. I-MOD
+12 I-MOD
+.......................................................................................... I-MOD
+
+
+ I-MOD
 ...................................................................................................... I-MOD
+
+
+ I-MOD
 § I-MOD
 10 I-MOD
 .............................................................................................. I-MOD
-...................................................................................................... I-ADD
-v I-ADD
+
+
+ I-MOD
+...................................................................................................... I-MOD
+
+
+ I-MOD
+v I-MOD
 – I-MOD
 na I-MOD
 hipótese I-ADD
@@ -97,8 +173,9 @@ benefícios I-ADD
 nos I-ADD
 termos I-ADD
 do I-ADD
-inciso I-MOD
-iii, I-MOD
+inciso I-ADD
+iii I-MOD
+, I-SUP
 é I-MOD
 assegurada I-MOD
 a I-MOD
@@ -114,49 +191,57 @@ benefícios I-ADD
 a I-MOD
 acumular I-MOD
 e I-MOD
-o I-MOD
+o I-ADD
 valor I-MOD
 obtido I-MOD
 após I-MOD
-a I-MOD
+a I-SUP
 aplicação I-MOD
 dos I-MOD
-percentuais I-MOD
-previstos I-MOD
-nas I-MOD
-alíneas I-MOD
-‘a’ I-MOD
+percentuais I-SUP
+previstos I-SUP
+nas I-SUP
+alíneas I-SUP
+‘ I-SUP
+a’ I-SUP
 a I-MOD
-‘d’ I-MOD
+‘ I-MOD
+d’ I-MOD
 do I-MOD
 mesmo I-MOD
-dispositivo, I-MOD
+dispositivo I-MOD
+, I-MOD
 até I-MOD
-o I-MOD
+o I-SUP
 limite I-SUP
 máximo I-SUP
 estabelecido I-SUP
 para I-SUP
 os I-SUP
-benefícios I-ADD
+benefícios I-SUP
 do I-ADD
 regime I-ADD
 geral I-ADD
 de I-ADD
 previdência I-ADD
-social, I-ADD
-pelo I-ADD
+social I-ADD
+, I-ADD
+pelo I-MOD
 período I-MOD
 de I-MOD
 10 I-MOD
-anos, I-MOD
-reduzindo-se I-MOD
+anos I-MOD
+, I-MOD
+reduzindo I-MOD
+- I-MOD
+se I-MOD
 10 I-MOD
 pontos I-MOD
 percentuais I-MOD
 a I-MOD
 cada I-MOD
-ano, I-MOD
+ano I-MOD
+, I-MOD
 observado I-MOD
 o I-MOD
 tempo I-MOD
@@ -166,25 +251,32 @@ da I-MOD
 pensão I-MOD
 estabelecido I-MOD
 em I-MOD
-lei. I-MOD
-vi I-MOD
+lei I-MOD
+. I-MOD
+
+
+ I-MOD
+vi I-SUP
 - I-MOD
-na I-SUP
+na I-MOD
 hipótese I-MOD
 de I-MOD
-extinção I-MOD
+extinção I-SUP
 do I-MOD
 benefício I-MOD
 mais I-MOD
-vantajoso, I-MOD
+vantajoso I-MOD
+, I-MOD
 será I-MOD
-restabelecido, I-MOD
+restabelecido I-MOD
+, I-MOD
 a I-MOD
 partir I-MOD
 da I-MOD
 data I-MOD
 da I-MOD
-extinção, I-MOD
+extinção I-MOD
+, I-MOD
 o I-MOD
 pagamento I-MOD
 do I-MOD
@@ -192,25 +284,34 @@ seguinte I-MOD
 benefício I-SUP
 mais I-SUP
 vantajoso I-SUP
-indicado I-ADD
+indicado I-MOD
 pelo I-ADD
-interessado, I-ADD
+interessado I-ADD
+, I-ADD
 pelo I-ADD
 seu I-ADD
-valor I-MOD
-total, I-MOD
-recalculando-se I-MOD
+valor I-ADD
+total I-ADD
+, I-ADD
+recalculando I-MOD
+- I-MOD
+se I-MOD
 os I-MOD
 percentuais I-MOD
 das I-MOD
-alíneas I-MOD
-‘a’ I-MOD
-a I-MOD
-‘d’ I-MOD
-do I-MOD
-inciso I-MOD
-iii I-MOD
-caso I-MOD
+alíneas I-SUP
+
+
+ I-SUP
+‘ I-SUP
+a’ I-SUP
+a I-SUP
+‘ I-SUP
+d’ I-SUP
+do I-SUP
+inciso I-SUP
+iii I-SUP
+caso I-SUP
 existam I-SUP
 outros I-ADD
 benefícios I-MOD
@@ -226,12 +327,33 @@ pelo I-MOD
 restante I-MOD
 do I-MOD
 prazo I-MOD
-inicialmente I-SUP
-previsto. I-SUP
-....................................................................................................” I-SUP
-“art.30........................................................................................... I-SUP
+inicialmente I-MOD
+previsto I-MOD
+. I-MOD
+
+
+ I-MOD
+.................................................................................................... I-MOD
+” I-MOD
+
+
+ I-MOD
+“ I-MOD
+art.30 I-SUP
+........................................................................................... I-SUP
+
+
+ I-SUP
 2 I-SUP
+
+
+
+
+ I-SUP
 ...................................................................................................... I-SUP
+
+
+ I-SUP
 § I-SUP
 4º I-SUP
 na I-SUP
@@ -244,8 +366,13 @@ nos I-ADD
 termos I-ADD
 do I-ADD
 § I-ADD
-1°, I-ADD
-é I-ADD
+
+
+ I-SUP
+1 I-SUP
+° I-SUP
+, I-SUP
+é I-SUP
 assegurada I-MOD
 a I-MOD
 concessão I-MOD
@@ -260,11 +387,11 @@ benefícios I-ADD
 a I-MOD
 acumular I-MOD
 e I-MOD
-o I-MOD
+o I-ADD
 valor I-MOD
 obtido I-MOD
 após I-MOD
-a I-MOD
+a I-SUP
 aplicação I-SUP
 dos I-SUP
 percentuais I-SUP
@@ -274,9 +401,11 @@ incisos I-SUP
 i I-SUP
 a I-SUP
 iv I-SUP
-do I-MOD
-§ I-ADD
-2°, I-SUP
+do I-SUP
+§ I-SUP
+2 I-SUP
+° I-SUP
+, I-SUP
 até I-SUP
 o I-SUP
 limite I-SUP
@@ -284,25 +413,33 @@ máximo I-SUP
 estabelecido I-SUP
 para I-SUP
 os I-SUP
-benefícios I-ADD
+benefícios I-SUP
 do I-ADD
 regime I-ADD
 geral I-ADD
 de I-ADD
 previdência I-ADD
-social, I-ADD
-pelo I-ADD
+social I-ADD
+, I-ADD
+pelo I-MOD
 período I-MOD
 de I-MOD
 10 I-MOD
-anos, I-MOD
-reduzindo-se I-MOD
+anos I-MOD
+, I-MOD
+reduzindo I-MOD
+- I-MOD
+se I-MOD
 10 I-MOD
+
+
+ I-MOD
 pontos I-MOD
 percentuais I-MOD
 a I-MOD
 cada I-MOD
-ano, I-MOD
+ano I-MOD
+, I-MOD
 observado I-MOD
 o I-MOD
 tempo I-MOD
@@ -311,26 +448,33 @@ duração I-MOD
 da I-MOD
 pensão I-MOD
 estabelecido I-MOD
-em I-SUP
-lei. I-SUP
-§ I-SUP
+em I-MOD
+lei I-ADD
+. I-ADD
+
+
+ I-ADD
+§ I-ADD
 5º I-ADD
 na I-ADD
 hipótese I-SUP
 de I-SUP
-extinção I-MOD
+extinção I-SUP
 do I-MOD
 benefício I-MOD
 mais I-MOD
-vantajoso, I-MOD
+vantajoso I-MOD
+, I-MOD
 será I-MOD
-restabelecido, I-MOD
+restabelecido I-MOD
+, I-MOD
 a I-MOD
 partir I-MOD
 da I-MOD
 data I-MOD
 da I-MOD
-extinção, I-MOD
+extinção I-MOD
+, I-MOD
 o I-MOD
 pagamento I-MOD
 do I-MOD
@@ -338,40 +482,52 @@ seguinte I-MOD
 benefício I-SUP
 mais I-SUP
 vantajoso I-SUP
-indicado I-ADD
+indicado I-MOD
 pelo I-ADD
-interessado, I-ADD
+interessado I-ADD
+, I-ADD
 pelo I-ADD
 seu I-ADD
-valor I-MOD
-total, I-MOD
-recalculando-se I-MOD
+valor I-ADD
+total I-ADD
+, I-ADD
+recalculando I-MOD
+- I-MOD
+se I-MOD
 os I-MOD
 percentuais I-MOD
 dos I-MOD
 incisos I-MOD
 i I-MOD
-a I-MOD
-iv I-MOD
-do I-MOD
+a I-SUP
+iv I-SUP
+do I-SUP
 § I-SUP
-2° I-ADD
-caso I-ADD
-existam I-ADD
+2 I-SUP
+° I-SUP
+caso I-SUP
+existam I-SUP
 outros I-ADD
 benefícios I-MOD
 passíveis I-MOD
 de I-MOD
 acumulação I-ADD
-e I-MOD
+e I-SUP
 observado I-MOD
 o I-MOD
 § I-MOD
 4º I-MOD
 pelo I-MOD
 restante I-MOD
-do I-MOD
+do I-SUP
 prazo I-MOD
 inicialmente I-MOD
-previsto. O
-....................................................................................................” O
+previsto I-MOD
+. I-MOD
+
+
+ I-MOD
+.................................................................................................... I-MOD
+” I-MOD
+
+ I-MOD

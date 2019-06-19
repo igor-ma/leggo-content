@@ -1,11 +1,14 @@
-art. O
 da O
+. O
 comissão O
 destinada O
 analisar O
 a O
 proposta O
 de O
+
+
+ O
 emenda O
 á O
 constituição O
@@ -13,6 +16,11 @@ nº O
 6 O
 de O
 2019 O
+
+
+
+
+ O
 proposta O
 de O
 emenda O
@@ -22,104 +30,187 @@ nº O
 6 O
 de O
 2019 O
+
+
+
+
+
+
+ O
 emenda O
 nº O
-(do O
-senhor O
-dep. I-MOD
+
+
+ O
+( O
+do I-MOD
+senhor I-ADD
+dep I-MOD
+. I-MOD
 josimar I-MOD
-maranhãozinho) I-MOD
-art. I-MOD
+maranhãozinho I-MOD
+) I-MOD
+
+
+
+
+
+
+ I-MOD
+art I-MOD
+. I-MOD
 1º. I-MOD
-suprima-se, I-MOD
-da I-SUP
-pec I-SUP
+suprima I-MOD
+- I-MOD
+se I-MOD
+, I-MOD
+da I-MOD
+pec O
 nº I-SUP
 6 I-SUP
 de I-SUP
-2019, I-SUP
+2019 I-ADD
+, I-ADD
 o I-ADD
-§5º I-MOD
+§ I-MOD
+5º I-MOD
 do I-MOD
-art. I-MOD
-3º, I-MOD
+art I-MOD
+. I-MOD
+3º I-MOD
+, I-MOD
 o I-MOD
 inciso I-MOD
 i I-MOD
 do I-MOD
-§4º I-MOD
-do I-MOD
-art. I-MOD
-12, I-MOD
-o I-MOD
-§3º I-MOD
+§ I-SUP
+4º I-SUP
 do I-SUP
-art. I-SUP
-18, I-SUP
+art I-SUP
+. I-SUP
+12 I-SUP
+, I-SUP
 o I-SUP
-§2º I-MOD
+§ I-MOD
+3º I-MOD
 do I-MOD
-art. I-MOD
-19 I-MOD
-e I-MOD
-o I-MOD
-§1º I-MOD
+art I-MOD
+. I-SUP
+18 I-MOD
+, I-SUP
+o I-SUP
+§ I-SUP
+2º I-ADD
+do I-ADD
+art I-ADD
+. I-ADD
+19 I-ADD
+e I-ADD
+o I-ADD
+§ I-ADD
+1º I-MOD
 do I-MOD
-art. I-MOD
+art I-MOD
+. I-MOD
 24 I-MOD
-art. I-MOD
+
+
+ I-MOD
+art I-MOD
+. I-MOD
 2º. I-MOD
-modifique-se I-MOD
+modifique I-MOD
+- I-MOD
+se I-MOD
 o I-MOD
 inciso I-MOD
 i I-MOD
 do I-MOD
-§7º I-MOD
+§ I-MOD
+7º I-SUP
 do I-MOD
-art. I-MOD
-3º, I-MOD
+art I-MOD
+. I-MOD
+3º I-MOD
+, I-MOD
 o I-MOD
-§3º I-MOD
-do I-MOD
-art. I-MOD
-12, I-MOD
-o I-MOD
+§ I-MOD
+3º I-MOD
+do I-SUP
+art I-SUP
+. I-MOD
+12 I-MOD
+, I-SUP
+o I-SUP
 caput I-MOD
 do I-MOD
-art. I-ADD
-24, I-ADD
-a I-MOD
+art I-MOD
+. I-MOD
+
+
+ I-MOD
+24 I-ADD
+, I-ADD
+a I-ADD
 letra I-ADD
-“a” I-ADD
+“ I-ADD
+a I-ADD
+” I-ADD
 do I-ADD
-inciso I-ADD
-ii I-MOD
+inciso I-SUP
+ii I-SUP
 do I-MOD
-art. I-MOD
+art I-MOD
+. I-ADD
 46 I-ADD
 e I-ADD
-a I-MOD
+a I-ADD
 letra I-MOD
-“a” I-ADD
+“ I-MOD
+a I-ADD
+” I-ADD
 do I-ADD
-inciso I-ADD
-iii I-ADD
+inciso I-SUP
+iii I-SUP
 do I-MOD
-art. I-SUP
-46, I-MOD
+art I-SUP
+. I-MOD
+46 I-MOD
+, I-MOD
 na I-MOD
 forma I-MOD
 que I-MOD
-segue: I-MOD
-art. I-MOD
+segue I-SUP
+: I-MOD
+
+
+ I-MOD
+art I-MOD
+. I-MOD
 3º I-MOD
 .............................................................................................. I-MOD
+
+
+
+
+ I-MOD
 .............................................................................................................. I-MOD
+
+
+ I-MOD
 .............................................................................................................. I-MOD
-§7º.............................................................................................. I-MOD
+
+
+ I-MOD
+§ I-MOD
+7º I-MOD
+.............................................................................................. I-MOD
+
+
+ I-MOD
 i I-MOD
 - I-MOD
-à I-MOD
+à I-ADD
 totalidade I-ADD
 da I-ADD
 remuneração I-SUP
@@ -130,17 +221,19 @@ no I-SUP
 cargo I-SUP
 efetivo I-SUP
 em I-SUP
-que I-MOD
-se I-MOD
-der I-MOD
-a I-SUP
-aposentadoria, I-SUP
-observado I-SUP
-o I-SUP
-disposto I-SUP
-no I-SUP
+que I-ADD
+se I-ADD
+der I-ADD
+a I-ADD
+aposentadoria I-ADD
+, I-ADD
+observado I-ADD
+o I-ADD
+disposto I-ADD
+no I-MOD
 § I-SUP
-10, I-SUP
+10 I-SUP
+, I-MOD
 para I-SUP
 o I-SUP
 servidor I-SUP
@@ -155,7 +248,7 @@ em I-SUP
 cargo I-SUP
 efetivo I-SUP
 até I-SUP
-31 I-SUP
+31 I-MOD
 de I-MOD
 dezembro I-SUP
 de I-MOD
@@ -164,43 +257,55 @@ e I-MOD
 que I-MOD
 se I-MOD
 aposente I-MOD
-aos I-MOD
+a I-MOD
+os I-MOD
 sessenta I-MOD
 e I-MOD
 dois I-MOD
 anos I-MOD
 de I-MOD
-idade, I-MOD
+idade I-MOD
+, I-MOD
 se I-MOD
-mulher, I-MOD
+mulher I-MOD
+, I-MOD
 e I-MOD
-aos I-MOD
+a I-MOD
+os I-MOD
 sessenta I-MOD
 e I-MOD
 cinco I-MOD
 anos I-MOD
 de I-MOD
-idade, I-MOD
+idade I-MOD
+, I-MOD
 se I-MOD
-homem, I-MOD
+homem I-MOD
+, I-MOD
 ou I-MOD
-aos I-MOD
+a I-MOD
+os I-MOD
 cinquenta I-MOD
 anos I-MOD
 de I-MOD
-idade, I-MOD
+idade I-MOD
+, I-MOD
 se I-MOD
-mulher, I-MOD
+mulher I-MOD
+, I-MOD
 e I-MOD
-aos I-MOD
+a I-MOD
+os I-MOD
 cinquenta I-MOD
 e I-MOD
 cinco I-MOD
 anos I-MOD
 de I-MOD
-idade, I-MOD
+idade I-MOD
+, I-MOD
 se I-MOD
-homem, I-MOD
+homem I-MOD
+, I-MOD
 se I-MOD
 titular I-MOD
 do I-MOD
@@ -226,20 +331,53 @@ no I-SUP
 ensino I-MOD
 fundamental I-MOD
 e I-MOD
-médio; I-MOD
+médio I-MOD
+; I-MOD
+
+
+ I-MOD
 ........................................................................................................... I-MOD
+
+
+ I-MOD
 ........................................................................................................... I-MOD
-art. I-MOD
+
+
+
+
+ I-MOD
+art I-MOD
+. I-MOD
 7º I-MOD
 ............................................................................................ I-MOD
+
+
+
+
+ I-MOD
 .............................................................................................................. I-MOD
+
+
+ I-MOD
 .. I-MOD
+
+
+ I-MOD
 .............................................................................................................. I-MOD
-.. I-MOD
-§3º I-MOD
-com I-MOD
-exceção I-MOD
-do I-MOD
+
+
+ I-MOD
+.. I-ADD
+
+
+
+
+ I-ADD
+§ I-ADD
+3º I-ADD
+com I-ADD
+exceção I-ADD
+do I-ADD
 titular I-MOD
 do I-MOD
 cargo I-MOD
@@ -262,11 +400,12 @@ infantil I-SUP
 e I-SUP
 no I-SUP
 ensino I-MOD
-fundamental I-MOD
+fundamental I-SUP
 e I-MOD
-médio, I-MOD
-os I-MOD
-servidores I-MOD
+médio I-MOD
+, I-MOD
+os I-SUP
+servidores I-SUP
 públicos I-SUP
 abrangidos I-SUP
 por I-MOD
@@ -276,13 +415,33 @@ de I-MOD
 previdência I-MOD
 social I-MOD
 serão I-MOD
-aposentados: I-MOD
+aposentados I-MOD
+: I-MOD
+
+
+ I-MOD
 .............................................................................................................. I-MOD
+
+
+ I-MOD
 .. I-MOD
+
+
+ I-MOD
 .............................................................................................................. I-MOD
+
+
+ I-MOD
 .. I-MOD
-art. I-MOD
-24. I-MOD
+
+
+
+
+ I-MOD
+art I-MOD
+. I-MOD
+24 I-MOD
+. I-MOD
 até I-MOD
 que I-MOD
 entre I-MOD
@@ -297,17 +456,20 @@ que I-ADD
 se I-ADD
 refere I-ADD
 o I-SUP
-§ I-SUP
+§ I-MOD
 1º I-SUP
 do I-SUP
-art. I-SUP
+art I-ADD
+. I-SUP
 201 I-SUP
 da I-SUP
-constituição, I-SUP
-o I-MOD
+constituição I-SUP
+, I-SUP
+o I-SUP
 segurado I-ADD
 filiado I-ADD
-ao I-ADD
+a I-ADD
+o I-ADD
 regime I-ADD
 geral I-ADD
 de I-ADD
@@ -316,12 +478,14 @@ social I-ADD
 após I-ADD
 a I-MOD
 data I-MOD
-de I-SUP
+de I-MOD
 promulgação I-SUP
-desta I-ADD
+d I-SUP
+esta I-SUP
 emenda I-ADD
 à I-ADD
-constituição, I-SUP
+constituição I-ADD
+, I-ADD
 com I-ADD
 exceção I-ADD
 do I-ADD
@@ -349,41 +513,95 @@ no I-SUP
 ensino I-MOD
 fundamental I-MOD
 e I-MOD
-médio, I-MOD
+médio I-MOD
+, I-MOD
 será I-MOD
 aposentado I-MOD
 quando I-MOD
-preencher, I-MOD
-cumulativamente, I-MOD
+preencher I-MOD
+, I-MOD
+cumulativamente I-MOD
+, I-MOD
 os I-MOD
 seguintes I-MOD
-requisitos: I-MOD
+requisitos I-MOD
+: I-MOD
+
+
+ I-MOD
 .............................................................................................................. I-MOD
+
+
+ I-MOD
 .. I-MOD
+
+
+ I-MOD
 .............................................................................................................. I-MOD
+
+
+ I-MOD
 .. I-MOD
-art. I-MOD
-46.............................................................................................. I-MOD
+
+
+
+
+ I-MOD
+art I-MOD
+. I-MOD
+46 I-MOD
+.............................................................................................. I-MOD
+
+
+ I-MOD
 ii I-MOD
 - I-MOD
 .............................................................................................. I-MOD
-a) I-MOD
+
+
+ I-MOD
+a I-MOD
+) I-MOD
 o I-MOD
-art. I-MOD
-9º, I-MOD
-com I-MOD
-exceção I-ADD
+art I-MOD
+. I-ADD
+9º I-ADD
+, I-ADD
+com I-ADD
+exceção I-MOD
 das I-ADD
 disposições I-ADD
 aplicáveis I-MOD
-ao I-MOD
+a I-MOD
+o I-MOD
 titular I-MOD
+
+
+ I-MOD
 do I-MOD
+
+
+ I-MOD
 cargo I-MOD
+
+
+ I-MOD
 de I-MOD
+
+
+ I-MOD
 professor I-MOD
+
+
+ I-MOD
 que I-MOD
+
+
+ I-MOD
 comprovar I-MOD
+
+
+ I-MOD
 exclusivamente I-ADD
 tempo I-ADD
 de I-ADD
@@ -401,29 +619,69 @@ no I-SUP
 ensino I-MOD
 fundamental I-MOD
 e I-MOD
-médio; I-MOD
+médio I-MOD
+; I-MOD
+
+
+ I-MOD
 ................................................................................................................... I-MOD
+
+
+ I-MOD
 ................................................................................................................... I-MOD
+
+
+
+
+ I-MOD
 iii I-MOD
 - I-MOD
 ........................................................................ I-MOD
-a) I-MOD
+
+
+ I-MOD
+a I-MOD
+) I-MOD
 o I-MOD
-art. I-MOD
-2º, I-MOD
-com I-MOD
-exceção I-ADD
+art I-MOD
+. I-MOD
+2º I-ADD
+, I-ADD
+com I-ADD
+exceção I-MOD
 das I-ADD
 disposições I-ADD
 aplicáveis I-MOD
-ao I-MOD
+a I-MOD
+o I-MOD
 titular I-MOD
+
+
+ I-MOD
 do I-MOD
+
+
+ I-MOD
 cargo I-MOD
+
+
+ I-MOD
 de I-MOD
+
+
+ I-MOD
 professor I-MOD
+
+
+ I-MOD
 que I-MOD
+
+
+ I-MOD
 comprovar I-MOD
+
+
+ I-MOD
 exclusivamente I-ADD
 tempo I-ADD
 de I-ADD
@@ -441,4 +699,11 @@ no I-SUP
 ensino I-MOD
 fundamental I-MOD
 e I-MOD
-médio; O
+médio I-MOD
+; I-MOD
+
+
+
+
+
+ O

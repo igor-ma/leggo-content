@@ -1,53 +1,120 @@
-de O
-social.” O
+( O
+) O
 comissão O
 destinada O
 proferir O
 parecer O
 à O
+
+
+ O
 proposta O
 de O
 emenda O
 à O
 constituição O
 nº O
-6, O
+6 O
+, O
 de O
 2019 O
+
+
+
+
+
+
+ O
 proposta O
 de O
 emenda O
 à O
 constituição O
 nº O
-6, O
-de O
-2019 O
-(do O
+6 O
+, O
+de I-SUP
+2019 I-SUP
+
+
+ O
+( O
+do O
 poder O
-executivo) O
+executivo O
+) O
+
+
+
+
+ O
 modifica B-MOD
-o O
-sistema O
-de O
-previdência I-MOD
-social, I-MOD
-estabelece I-MOD
-regras I-MOD
+o I-MOD
+sistema I-MOD
 de I-MOD
+previdência I-MOD
+social I-MOD
+, I-MOD
+
+
+ I-MOD
+estabelece I-MOD
+
+
+ I-MOD
+regras I-MOD
+
+
+ I-MOD
+de I-MOD
+
+
+ I-MOD
 transição I-MOD
+
+
+ I-MOD
 e I-MOD
+
+
+ I-MOD
 disposições I-MOD
-transitórias, I-MOD
+transitórias I-MOD
+, I-MOD
 e I-MOD
-dá O
-outras O
-providências. O
+dá I-MOD
+outras I-MOD
+
+
+ I-MOD
+providências O
+. O
+
+
+
+
+ O
 emenda O
 aditiva O
-nº______ O
-adicione-se O
-ao O
+nº O
+_ O
+_ O
+_ I-MOD
+_ I-MOD
+_ I-MOD
+_ I-MOD
+
+
+
+
+
+
+ I-MOD
+adicione I-MOD
+- I-MOD
+se I-MOD
+a I-MOD
+o I-MOD
 texto O
 da O
 proposta I-ADD
@@ -56,16 +123,33 @@ emenda I-ADD
 à I-ADD
 constituição I-ADD
 nº I-ADD
-6, I-ADD
-de I-ADD
-2019, I-ADD
-os I-ADD
+6 I-ADD
+, I-ADD
+de I-SUP
+2019 I-SUP
+, I-SUP
+os I-MOD
 seguintes I-MOD
-dispositivos: I-MOD
-“art. I-MOD
-37................................................................................................ I-MOD
+dispositivos I-MOD
+: I-MOD
+
+
+ I-MOD
+“ I-MOD
+art I-MOD
+. I-MOD
+37 I-MOD
+................................................................................................ I-MOD
+
+
+ I-MOD
 ............................................................................................................. I-MOD
-ii-a I-MOD
+
+
+ I-MOD
+ii I-MOD
+- I-MOD
+a I-MOD
 - I-MOD
 o I-MOD
 estabelecimento I-MOD
@@ -73,7 +157,7 @@ de I-MOD
 limite I-MOD
 de I-MOD
 idade I-MOD
-para I-MOD
+para I-SUP
 inscrição I-SUP
 em I-MOD
 concurso I-SUP
@@ -82,7 +166,7 @@ apenas I-SUP
 é I-SUP
 legítimo I-SUP
 quando I-SUP
-justificado I-MOD
+justificado I-SUP
 pela I-SUP
 natureza I-MOD
 das I-MOD
@@ -91,27 +175,50 @@ do I-SUP
 cargo I-SUP
 a I-SUP
 ser I-SUP
-preenchido. I-SUP
-...................................................................................................” I-SUP
-(nr) I-SUP
-“art. I-MOD
-195............................................................................................. I-MOD
-........................................................................................................... I-MOD
+preenchido I-SUP
+. I-SUP
+
+
+ I-SUP
+................................................................................................... I-SUP
+” I-MOD
+( I-MOD
+nr I-MOD
+) I-MOD
+
+
+
+
+ I-MOD
+“ I-MOD
+art I-MOD
+. I-ADD
+195 I-ADD
+............................................................................................. I-ADD
+
+
+ I-ADD
+........................................................................................................... I-ADD
+
+
+ I-ADD
 § I-ADD
 9º-a. I-ADD
 a I-ADD
 lei I-ADD
 complementar I-ADD
 a I-ADD
-que I-MOD
-se I-MOD
-refere I-MOD
-o I-MOD
-§1º I-MOD
-do I-MOD
-art. I-MOD
-201 I-MOD
-fixará I-MOD
+que I-ADD
+se I-ADD
+refere I-ADD
+o I-SUP
+§ I-MOD
+1º I-SUP
+do I-SUP
+art I-SUP
+. I-SUP
+201 I-SUP
+fixará I-SUP
 desconto I-SUP
 na I-ADD
 alíquota I-ADD
@@ -125,13 +232,15 @@ a I-MOD
 do I-SUP
 inciso I-SUP
 i I-SUP
-do I-MOD
+do I-SUP
 caput I-SUP
-deste I-ADD
-artigo I-ADD
-em I-MOD
+d I-SUP
+este I-SUP
+artigo I-SUP
+em I-SUP
 relação I-MOD
-ao I-MOD
+a I-MOD
+o I-MOD
 empregado I-MOD
 cuja I-MOD
 idade I-MOD
@@ -160,7 +269,8 @@ com I-MOD
 capacitação I-MOD
 dos I-MOD
 empregados I-MOD
-desta I-MOD
+d I-MOD
+esta I-MOD
 faixa I-MOD
 etária I-MOD
 da I-MOD
@@ -170,6 +280,17 @@ cálculo I-ADD
 da I-ADD
 mesma I-ADD
 contribuição I-ADD
-social. I-MOD
-..................................................................................................” I-MOD
-(nr) O
+social I-ADD
+. I-MOD
+
+
+ I-MOD
+.................................................................................................. I-MOD
+” I-MOD
+( I-MOD
+nr I-MOD
+) I-MOD
+
+
+
+ O

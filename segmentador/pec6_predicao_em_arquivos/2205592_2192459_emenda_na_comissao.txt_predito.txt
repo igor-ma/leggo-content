@@ -1,37 +1,51 @@
-e O
 da O
-proposta O
+. O
+proposta I-ADD
 emenda I-ADD
 constituição I-ADD
 nº I-ADD
-6 O
-/2019 O
-(do O
+6 I-ADD
+/2019 I-ADD
+
+
+ O
+( O
+do O
 sr. O
 deputado O
 felipe O
-rigoni, O
+rigoni O
+, O
 da O
 sra. B-MOD
 deputada I-MOD
 tábata I-MOD
 amaral I-MOD
 e I-MOD
-outros) I-MOD
+outros I-MOD
+) I-MOD
+
+
+
+
+ I-MOD
 altera I-MOD
 o I-MOD
-art. I-MOD
-24 I-MOD
-da I-ADD
+art I-MOD
+. I-MOD
+24 I-ADD
+da O
 proposta O
 de I-SUP
 emenda I-SUP
-à I-ADD
-constituição I-ADD
-no I-ADD
-6, I-ADD
-de I-ADD
-2019, I-ADD
+à I-SUP
+constituição I-SUP
+no I-SUP
+6 I-SUP
+, I-SUP
+de I-SUP
+2019 I-SUP
+, I-ADD
 modificando I-ADD
 o I-ADD
 tempo I-ADD
@@ -41,39 +55,78 @@ contribuição I-ADD
 e I-ADD
 dá I-ADD
 outras I-ADD
-providências. O
+
+
+ I-ADD
+providências O
+. O
+
+
+
+
+ O
 emenda O
 modificativa O
 n. O
-art. O
+
+
+ O
+art O
+. O
 1º I-MOD
-dê-se I-MOD
-ao I-MOD
-art. I-MOD
-24 I-SUP
-da I-SUP
+dê O
+- O
+se O
+a O
+o O
+art I-MOD
+. I-MOD
+24 O
+da O
 proposta O
 de I-SUP
 emenda I-SUP
-à I-ADD
-constituição I-ADD
-no I-ADD
-6, I-ADD
-de I-ADD
-2019, I-ADD
+à I-SUP
+constituição I-SUP
+no I-SUP
+6 I-SUP
+, I-SUP
+de I-SUP
+2019 I-SUP
+, I-SUP
 a I-MOD
 seguinte I-MOD
-redação: I-MOD
-“art. I-MOD
-24............................................................................................... I-MOD
+redação I-MOD
+: I-MOD
+
+
+ I-MOD
+“ I-MOD
+art I-MOD
+. I-MOD
+24 I-MOD
+............................................................................................... I-MOD
+
+
+ I-MOD
 .............................................................................................................. I-MOD
+
+
+ I-MOD
 ii I-MOD
-– I-MOD
-quinze I-MOD
-anos I-MOD
-de I-SUP
-contribuição. I-SUP
-.............................................................................................................. I-MOD
+– I-ADD
+quinze I-ADD
+anos I-ADD
+de I-ADD
+contribuição I-ADD
+. I-ADD
+
+
+ I-ADD
+.............................................................................................................. I-ADD
+
+
+ I-MOD
 § I-MOD
 4º I-MOD
 o I-ADD
@@ -108,27 +161,48 @@ cento I-ADD
 de I-ADD
 segurados I-ADD
 com I-ADD
-menores I-MOD
-salário-de-contribuição, I-MOD
-e I-MOD
-nesta I-SUP
-proporção.” I-SUP
-art. I-SUP
-2º I-SUP
-suprima-se I-SUP
-o I-SUP
-§ I-SUP
-2º I-SUP
+menores I-ADD
+salário I-ADD
+- I-ADD
+de I-ADD
+- I-ADD
+contribuição I-ADD
+, I-ADD
+e I-ADD
+n I-ADD
+esta I-ADD
+proporção I-MOD
+. I-MOD
+” I-MOD
+
+
+
+
+ I-MOD
+art I-MOD
+. I-MOD
+2º I-MOD
+suprima I-MOD
+- I-MOD
+se I-MOD
+o I-MOD
+§ I-MOD
+2º I-ADD
 do I-SUP
-art. I-SUP
+art I-SUP
+. I-SUP
 22 I-SUP
 da I-SUP
-proposta I-SUP
+proposta I-ADD
 de I-SUP
 emenda I-SUP
-à I-ADD
-constituição I-ADD
-no O
-6, I-SUP
-de O
-2019. O
+à I-SUP
+constituição I-SUP
+no I-SUP
+6 I-SUP
+, I-SUP
+de I-SUP
+2019 I-SUP
+. O
+
+ O

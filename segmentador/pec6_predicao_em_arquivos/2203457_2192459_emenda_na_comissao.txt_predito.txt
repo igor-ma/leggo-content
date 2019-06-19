@@ -1,58 +1,106 @@
-45 O
 pec O
+. O
 proposta O
 emenda O
 constituição O
 federal O
 nº O
-6, O
-de O
-2019. O
-(do O
-sr. O
+6 O
+, I-SUP
+de I-SUP
+2019 I-ADD
+. O
+
+
+ O
+( O
+do O
+sr. I-MOD
 hugo O
-leal) O
-modifica B-MOD
+leal O
+) O
+
+
+ O
+modifica I-MOD
 o O
-sistema O
-de O
+sistema I-MOD
+de I-MOD
 previdência I-MOD
-social, I-MOD
+
+
+ I-MOD
+social I-MOD
+, I-MOD
 estabelece I-MOD
 regras I-MOD
 de I-MOD
 transição I-MOD
 e I-MOD
+
+
+ I-MOD
 disposições I-MOD
-transitórias, I-MOD
+transitórias I-MOD
+, I-MOD
 e I-MOD
-dá O
-outras O
-providências. O
+dá I-MOD
+outras I-MOD
+
+
+ I-MOD
+providências O
+. O
+
+
+ O
 emenda O
 modificativa O
-art. O
-1º O
-acrescente-se B-ADD
-ao I-ADD
-art. I-ADD
+
+
+ O
+art B-MOD
+. I-MOD
+1º I-MOD
+acrescente I-MOD
+- I-MOD
+se I-MOD
+a I-MOD
+o I-MOD
+art I-MOD
+. I-MOD
 1º I-ADD
-da I-ADD
+da I-SUP
 proposta I-ADD
 de I-ADD
 emenda I-ADD
 à I-ADD
 constituição I-ADD
 nº I-ADD
-6, I-ADD
+6 I-ADD
+, I-ADD
 de I-ADD
-2019, I-ADD
-a I-ADD
+2019 I-ADD
+, I-SUP
+a I-MOD
 seguinte I-MOD
-redação: I-MOD
-“art. I-ADD
+redação I-MOD
+: I-MOD
+
+
+
+
+ I-MOD
+“ I-MOD
+art I-MOD
+. I-MOD
 40 I-ADD
 ..................................................................................................... I-ADD
+
+
+
+
+ I-ADD
 § I-ADD
 18 I-ADD
 lei I-ADD
@@ -61,17 +109,18 @@ específica I-ADD
 estabelecerá I-ADD
 os I-ADD
 requisitos I-MOD
-e I-MOD
+e I-SUP
 critérios I-MOD
-próprios I-MOD
-para I-MOD
-a I-MOD
-concessão I-MOD
-de I-SUP
-aposentadoria, I-SUP
-pensão I-MOD
-e I-MOD
-matérias I-MOD
+próprios I-SUP
+para I-ADD
+a I-ADD
+concessão I-ADD
+de I-ADD
+aposentadoria I-ADD
+, I-ADD
+pensão I-ADD
+e I-ADD
+matérias I-ADD
 de I-MOD
 que I-MOD
 trata I-MOD
@@ -79,9 +128,10 @@ o I-MOD
 inciso I-MOD
 i I-MOD
 do I-MOD
-§ I-ADD
+§ I-MOD
 1o I-MOD
-deste I-MOD
+d I-MOD
+este I-MOD
 artigo I-MOD
 dos I-MOD
 servidores I-MOD
@@ -92,11 +142,29 @@ o I-ADD
 § I-ADD
 11 I-ADD
 do I-ADD
-art. I-ADD
-144;” I-ADD
-“art.144 I-ADD
-................................................................................................… I-ADD
+art I-ADD
+. I-ADD
+144 I-MOD
+; I-MOD
+” I-MOD
+
+
+
+
+ I-MOD
+“ I-MOD
+art.144 I-MOD
+................................................................................................ I-MOD
+… I-MOD
+
+
+ I-ADD
 ................................................................................................................... I-ADD
+
+
+
+
+ I-ADD
 § I-ADD
 11 I-ADD
 lei I-ADD
@@ -105,17 +173,18 @@ específica I-ADD
 estabelecerá I-ADD
 os I-ADD
 requisitos I-MOD
-e I-MOD
+e I-SUP
 critérios I-MOD
-próprios I-MOD
-para I-MOD
-a I-MOD
-concessão I-MOD
-de I-SUP
-aposentadoria, I-SUP
-pensão I-MOD
-e I-MOD
-matérias I-MOD
+próprios I-SUP
+para I-ADD
+a I-ADD
+concessão I-ADD
+de I-ADD
+aposentadoria I-ADD
+, I-ADD
+pensão I-ADD
+e I-ADD
+matérias I-ADD
 de I-MOD
 que I-MOD
 trata I-MOD
@@ -125,27 +194,39 @@ i I-MOD
 do I-MOD
 § I-ADD
 1o I-MOD
-do I-ADD
-artigo I-ADD
+do I-MOD
+artigo I-MOD
 40 I-MOD
-desta I-MOD
-constituição I-SUP
+
+
+ I-MOD
+d I-MOD
+esta I-MOD
+constituição I-MOD
 dos I-SUP
 servidores I-SUP
 que I-SUP
 exercem I-SUP
 atividades I-SUP
-de I-MOD
+de I-SUP
 risco I-MOD
 inerentes I-MOD
-às I-ADD
+à I-MOD
+s I-ADD
 atribuições I-ADD
 relacionadas I-ADD
 à I-ADD
-segurança I-ADD
-pública, I-ADD
+segurança I-MOD
+pública I-ADD
+, I-ADD
 assim I-ADD
-denominados: I-ADD
+denominados I-MOD
+: I-MOD
+
+
+
+
+ I-MOD
 i I-MOD
 - I-MOD
 policiais I-MOD
@@ -158,24 +239,30 @@ tratam I-SUP
 o I-SUP
 inciso I-SUP
 iv I-SUP
-do I-MOD
+do I-SUP
 caput I-MOD
 do I-MOD
-art. I-MOD
-51, I-MOD
+art I-MOD
+. I-MOD
+51 I-MOD
+, I-MOD
 o I-MOD
 inciso I-MOD
 xiii I-MOD
 do I-MOD
 caput I-MOD
 do I-MOD
-art. I-MOD
+art I-MOD
+. I-MOD
 52 I-MOD
 e I-MOD
 o I-MOD
-art. I-MOD
-144, I-MOD
-caput, I-MOD
+art I-MOD
+. I-MOD
+144 I-MOD
+, I-MOD
+caput I-MOD
+, I-MOD
 incisos I-MOD
 i I-MOD
 a I-SUP
@@ -183,10 +270,12 @@ iv I-SUP
 e I-SUP
 § I-SUP
 8º I-SUP
-desta I-SUP
-constituição; I-SUP
+d I-SUP
+esta I-SUP
+constituição I-SUP
+; I-SUP
 ii I-MOD
-– I-MOD
+– I-ADD
 integrantes I-ADD
 dos I-ADD
 quadros I-ADD
@@ -200,17 +289,34 @@ criminal I-SUP
 iii I-SUP
 - I-SUP
 agentes I-SUP
-penitenciários; I-SUP
+penitenciários I-MOD
+; I-SUP
 e I-SUP
+
+
+
+
+ I-SUP
 iv I-SUP
 – I-SUP
 agentes I-SUP
-socioeducativos. I-SUP
-art. I-SUP
-2º I-SUP
-dê-se I-SUP
-aos I-MOD
-arts. I-MOD
+socioeducativos I-SUP
+. I-SUP
+
+
+
+
+ I-SUP
+art I-SUP
+. O
+2º O
+dê O
+- O
+se O
+a O
+os I-MOD
+arts I-MOD
+. I-MOD
 4º I-MOD
 e I-MOD
 5º I-MOD
@@ -221,13 +327,25 @@ emenda I-ADD
 à I-ADD
 constituição I-ADD
 nº I-ADD
-6, I-ADD
+6 I-ADD
+, I-ADD
 de I-ADD
-2019, I-ADD
-a I-ADD
+2019 I-ADD
+, I-SUP
+a I-MOD
 seguinte I-MOD
-redação: I-MOD
-“art. I-MOD
+redação I-MOD
+: I-MOD
+
+
+
+
+
+
+ I-MOD
+“ I-MOD
+art I-MOD
+. I-MOD
 4º. I-MOD
 ressalvado I-MOD
 o I-SUP
@@ -248,15 +366,17 @@ que I-ADD
 se I-ADD
 refere I-SUP
 o I-SUP
-§ I-ADD
-18 I-MOD
-do I-MOD
-art. I-MOD
-40 I-MOD
-da I-MOD
-constituição, I-MOD
+§ I-SUP
+18 I-ADD
+do I-ADD
+art I-ADD
+. I-ADD
+40 I-ADD
+da I-ADD
+constituição I-ADD
+, I-ADD
 o I-ADD
-servidor I-MOD
+servidor I-ADD
 de I-ADD
 que I-ADD
 trata I-ADD
@@ -264,7 +384,8 @@ o I-ADD
 § I-ADD
 11 I-ADD
 do I-ADD
-art. I-ADD
+art I-ADD
+. I-ADD
 144 I-SUP
 que I-SUP
 tenha I-SUP
@@ -275,20 +396,29 @@ até I-SUP
 a I-SUP
 data I-SUP
 de I-SUP
-promulgação I-ADD
-desta I-SUP
+promulgação I-SUP
+d I-SUP
+esta I-SUP
 emenda I-SUP
-à I-ADD
-constituição I-SUP
-poderá I-SUP
-aposentar-se I-ADD
-voluntariamente I-ADD
+à I-SUP
+constituição I-ADD
+poderá I-ADD
+aposentar I-ADD
+- I-ADD
+se I-MOD
+voluntariamente I-MOD
 quando I-MOD
-preencher, I-MOD
-cumulativamente, I-MOD
+preencher I-MOD
+, I-MOD
+cumulativamente I-MOD
+, I-MOD
 os I-MOD
 seguintes I-MOD
-requisitos: I-MOD
+requisitos I-MOD
+: I-MOD
+
+
+ I-MOD
 i I-MOD
 - I-MOD
 cinquenta I-MOD
@@ -296,36 +426,47 @@ e I-MOD
 dois I-MOD
 anos I-MOD
 de I-MOD
-idade, I-MOD
+idade I-MOD
+, I-MOD
 se I-MOD
-mulher, I-MOD
+mulher I-MOD
+, I-MOD
 e I-MOD
 cinquenta I-MOD
 e I-MOD
 cinco I-MOD
 anos I-MOD
 de I-MOD
-idade, I-MOD
+idade I-MOD
+, I-MOD
 se I-MOD
-homem; I-MOD
+homem I-MOD
+; I-MOD
 ii I-MOD
 - I-MOD
 vinte I-MOD
 e I-MOD
-cinco I-MOD
-anos I-MOD
-de I-MOD
-contribuição, I-MOD
-se I-MOD
-mulher, I-MOD
+cinco I-ADD
+anos I-ADD
+de I-ADD
+contribuição I-ADD
+, I-ADD
+se I-ADD
+mulher I-ADD
+, I-ADD
+e I-ADD
+trinta I-ADD
+anos I-ADD
+de I-ADD
+contribuição I-ADD
+, I-ADD
+se I-ADD
+homem I-ADD
+; I-ADD
 e I-MOD
-trinta I-MOD
-anos I-MOD
-de I-MOD
-contribuição, I-MOD
-se I-MOD
-homem; I-MOD
-e I-MOD
+
+
+ I-MOD
 iii I-MOD
 - I-MOD
 quinze I-MOD
@@ -336,30 +477,41 @@ em I-ADD
 cargo I-ADD
 a I-ADD
 que I-MOD
-se I-SUP
+se I-MOD
 refere I-MOD
 os I-SUP
 incisos I-SUP
 i I-SUP
 a I-SUP
-iii I-ADD
+iii I-SUP
 do I-SUP
 § I-ADD
 11 I-ADD
 do I-ADD
-art. I-ADD
+art I-ADD
+. I-ADD
 144 I-ADD
+
+
+ I-ADD
 da I-MOD
-constituição, I-MOD
-se I-MOD
-mulher, I-MOD
+constituição I-MOD
+, I-ADD
+se I-ADD
+mulher I-ADD
+, I-ADD
 e I-MOD
 vinte I-MOD
-anos, I-MOD
+anos I-MOD
+, I-MOD
 se I-MOD
-homem. I-MOD
+homem I-MOD
+. I-ADD
+
+
+ I-ADD
 § I-MOD
-1º I-MOD
+1º I-SUP
 ressalvado I-MOD
 o I-SUP
 direito I-ADD
@@ -371,29 +523,37 @@ pelas I-ADD
 normas I-ADD
 estabelecidas I-ADD
 no I-MOD
-caput I-MOD
-deste I-MOD
-artigo, I-MOD
+caput I-SUP
+d I-SUP
+este I-SUP
+artigo I-SUP
+, I-SUP
 fica I-SUP
-assegurado I-SUP
+assegurado I-ADD
 o I-ADD
 direito I-ADD
 à I-ADD
 aposentadoria I-ADD
 voluntária I-ADD
-ao I-ADD
+a I-ADD
+o I-ADD
 servidor I-ADD
-de I-ADD
+de I-MOD
 que I-ADD
 trata I-ADD
 o I-ADD
-§ I-MOD
-11, I-ADD
+
+
+ I-ADD
+§ I-ADD
+11 I-ADD
+, I-ADD
 do I-ADD
 artigo I-ADD
 144 I-ADD
-da I-SUP
-constituição, I-MOD
+da I-ADD
+constituição I-ADD
+, I-MOD
 que I-MOD
 tenha I-MOD
 ingressado I-MOD
@@ -402,14 +562,16 @@ respectivas I-MOD
 carreiras I-MOD
 até I-MOD
 a I-MOD
-data I-SUP
+data I-MOD
 de I-SUP
 promulgação I-SUP
-desta I-SUP
+d I-SUP
+esta I-SUP
 emenda I-SUP
 à I-SUP
-constituição, I-SUP
-quando I-SUP
+constituição I-SUP
+, I-ADD
+quando I-ADD
 cumprir I-ADD
 período I-ADD
 adicional I-ADD
@@ -420,23 +582,30 @@ por I-ADD
 cento I-ADD
 do I-SUP
 tempo I-SUP
-que, I-ADD
+que I-SUP
+, I-SUP
 na I-SUP
 data I-SUP
 de I-SUP
 promulgação I-SUP
-desta I-SUP
+d I-SUP
+esta I-SUP
 emenda I-SUP
 à I-SUP
-constituição, I-SUP
-faltaria I-SUP
-para I-MOD
+constituição I-SUP
+, I-SUP
+faltaria I-ADD
+para I-ADD
 se I-MOD
 aposentar I-MOD
 pelas I-MOD
 regras I-MOD
 anteriormente I-MOD
-vigentes. I-MOD
+vigentes I-MOD
+. I-MOD
+
+
+ I-MOD
 § I-MOD
 2º I-MOD
 os I-MOD
@@ -447,43 +616,50 @@ concedidas I-ADD
 nos I-ADD
 termos I-ADD
 do I-ADD
-disposto I-SUP
-neste I-SUP
-artigo I-ADD
+disposto I-ADD
+n I-SUP
+este I-ADD
+artigo I-SUP
 corresponderão I-SUP
-à I-SUP
+à I-ADD
 totalidade I-ADD
 da I-SUP
-última I-ADD
+última I-SUP
 remuneração I-ADD
 do I-SUP
-servidor I-MOD
+servidor I-SUP
 no I-SUP
 cargo I-ADD
 efetivo I-SUP
 em I-MOD
-que I-MOD
+que I-ADD
 se I-ADD
-der I-SUP
+der I-ADD
 a I-ADD
-aposentadoria. I-MOD
-§ I-MOD
+aposentadoria I-ADD
+. I-ADD
+
+
+ I-ADD
+§ I-ADD
 3º I-ADD
-os I-ADD
+os I-MOD
 proventos I-ADD
 das I-ADD
 aposentadorias I-ADD
 concedidas I-ADD
 nos I-ADD
 termos I-ADD
-do I-SUP
-disposto I-SUP
-neste I-SUP
+do I-ADD
+disposto I-ADD
+n I-SUP
+este I-SUP
 artigo I-SUP
 não I-SUP
-serão I-MOD
-inferiores I-SUP
-ao I-ADD
+serão I-SUP
+inferiores I-MOD
+a I-SUP
+o I-MOD
 valor I-MOD
 a I-MOD
 que I-MOD
@@ -493,7 +669,8 @@ o I-SUP
 § I-SUP
 2º I-SUP
 do I-SUP
-art. I-SUP
+art I-ADD
+. I-SUP
 201 I-SUP
 da I-SUP
 constituição I-SUP
@@ -502,29 +679,36 @@ serão I-ADD
 reajustados I-ADD
 de I-ADD
 acordo I-ADD
-com I-SUP
+com I-MOD
 o I-MOD
 disposto I-MOD
-no I-SUP
-art. I-SUP
-7º I-SUP
+no I-MOD
+art I-SUP
+. I-SUP
+7º I-MOD
 da I-MOD
 emenda I-MOD
 constitucional I-MOD
 nº I-MOD
-41, O
+41 O
+, I-MOD
 de I-MOD
-2003. I-MOD
+2003 O
+. I-MOD
+
+
+ I-MOD
 § I-MOD
 4º I-MOD
 o I-MOD
-valor I-MOD
+valor I-SUP
 da I-SUP
 pensão I-MOD
 por I-MOD
 morte I-MOD
 concedida I-MOD
-aos I-ADD
+a I-MOD
+os I-ADD
 dependentes I-MOD
 de I-MOD
 servidor I-MOD
@@ -532,8 +716,12 @@ de I-MOD
 que I-ADD
 trata I-ADD
 o I-ADD
-§ I-MOD
-11, I-ADD
+§ I-ADD
+
+
+ I-ADD
+11 I-ADD
+, I-ADD
 do I-ADD
 artigo I-ADD
 144 I-ADD
@@ -542,11 +730,11 @@ constituição I-ADD
 corresponderá I-ADD
 à I-ADD
 totalidade I-ADD
-da I-ADD
-última I-ADD
+da I-SUP
+última I-SUP
 remuneração I-ADD
 do I-SUP
-servidor I-MOD
+servidor I-SUP
 no I-SUP
 cargo I-ADD
 efetivo I-SUP
@@ -555,7 +743,8 @@ que I-MOD
 se I-MOD
 deu I-MOD
 o I-MOD
-falecimento, I-MOD
+falecimento I-MOD
+, I-MOD
 caso I-MOD
 o I-MOD
 óbito I-MOD
@@ -563,12 +752,17 @@ seja I-MOD
 decorrente I-MOD
 do I-MOD
 exercício I-MOD
-do I-ADD
+do I-MOD
 cargo I-MOD
-ou I-ADD
-em I-ADD
+ou I-MOD
+em I-MOD
 função I-MOD
-dele. I-MOD
+d I-MOD
+ele I-MOD
+. I-MOD
+
+
+ I-MOD
 § I-MOD
 5º I-MOD
 o I-ADD
@@ -578,7 +772,8 @@ pensão I-MOD
 por I-MOD
 morte I-MOD
 concedida I-MOD
-aos I-ADD
+a I-MOD
+os I-ADD
 dependentes I-MOD
 de I-MOD
 servidor I-MOD
@@ -586,8 +781,12 @@ de I-MOD
 que I-ADD
 trata I-ADD
 o I-ADD
-§ I-MOD
-11, I-ADD
+§ I-ADD
+
+
+ I-ADD
+11 I-ADD
+, I-ADD
 do I-ADD
 artigo I-ADD
 144 I-ADD
@@ -608,7 +807,8 @@ que I-MOD
 se I-MOD
 deu I-MOD
 o I-MOD
-falecimento, I-SUP
+falecimento I-MOD
+, I-SUP
 até I-SUP
 o I-SUP
 limite I-SUP
@@ -625,44 +825,52 @@ previdência I-ADD
 social I-ADD
 de I-MOD
 que I-MOD
-trata I-ADD
-o I-ADD
-art. I-ADD
-201, I-ADD
+trata I-MOD
+o I-MOD
+art I-ADD
+. I-ADD
+201 I-ADD
+, I-ADD
 acrescido I-ADD
 de I-ADD
 setenta I-ADD
 por I-ADD
 cento I-ADD
 da I-ADD
-parcela I-MOD
-excedente I-MOD
+parcela I-ADD
+excedente I-ADD
 a I-MOD
 este I-MOD
-limite, I-MOD
+limite I-MOD
+, I-MOD
 nas I-MOD
 demais I-MOD
 hipóteses I-MOD
 não I-MOD
-contempladas I-ADD
+contempladas I-MOD
 no I-MOD
-parágrafo I-ADD
-anterior. I-ADD
+parágrafo I-MOD
+anterior I-MOD
+. I-MOD
+
+
+ I-MOD
 § I-ADD
 6º I-ADD
 nos I-ADD
 casos I-ADD
 de I-ADD
 incapacidade I-ADD
-permanente I-MOD
+permanente I-ADD
 para I-ADD
 o I-ADD
 trabalho I-ADD
 decorrente I-MOD
-de I-SUP
-acidente I-MOD
 de I-MOD
-trabalho, I-MOD
+acidente I-MOD
+de I-ADD
+trabalho I-MOD
+, I-MOD
 de I-MOD
 doenças I-MOD
 profissionais I-MOD
@@ -670,7 +878,8 @@ e I-MOD
 de I-MOD
 doenças I-MOD
 do I-MOD
-trabalho, I-SUP
+trabalho I-MOD
+, I-SUP
 para I-SUP
 o I-SUP
 servidor I-SUP
@@ -678,56 +887,66 @@ de I-SUP
 que I-ADD
 trata I-ADD
 o I-ADD
-§ I-MOD
-11, I-ADD
+§ I-ADD
+
+
+ I-ADD
+11 I-ADD
+, I-ADD
 do I-ADD
 artigo I-ADD
-144 I-MOD
-da I-MOD
-constituição, I-MOD
+144 I-ADD
+da I-ADD
+constituição I-ADD
+, I-ADD
 os I-MOD
-proventos I-MOD
+proventos I-ADD
 das I-ADD
 aposentadorias I-ADD
 corresponderão I-ADD
 à I-ADD
 totalidade I-ADD
 da I-SUP
-última I-ADD
+última I-SUP
 remuneração I-ADD
 do I-SUP
-servidor I-MOD
+servidor I-SUP
 no I-SUP
 cargo I-ADD
 efetivo I-SUP
 em I-MOD
-que I-MOD
-se I-MOD
-der I-MOD
-a I-SUP
-aposentadoria, I-MOD
-hipótese I-MOD
-em I-MOD
-que I-MOD
+que I-ADD
+se I-ADD
+der I-ADD
+a I-ADD
+aposentadoria I-ADD
+, I-ADD
+hipótese I-ADD
+em I-ADD
+que I-ADD
 será I-MOD
 obrigatória I-MOD
 a I-MOD
 realização I-MOD
 de I-SUP
-avaliações I-MOD
+avaliações I-SUP
 periódicas I-SUP
-para I-MOD
-verificação I-MOD
+para I-SUP
+verificação I-SUP
 da I-SUP
 continuidade I-SUP
 das I-SUP
-condições I-MOD
+condições I-SUP
 que I-SUP
-ensejaram I-MOD
-a I-MOD
-concessão I-MOD
-da I-SUP
-aposentadoria. I-SUP
+ensejaram I-ADD
+a I-ADD
+concessão I-ADD
+da I-ADD
+aposentadoria I-ADD
+. I-ADD
+
+
+ I-ADD
 § I-MOD
 7º I-MOD
 para I-MOD
@@ -739,26 +958,37 @@ no I-MOD
 inciso I-MOD
 iii I-SUP
 do I-SUP
-caput, I-MOD
+caput I-SUP
+, I-MOD
 serão I-MOD
 considerados I-MOD
-o I-MOD
+o I-SUP
 tempo I-MOD
 de I-MOD
 atividade I-MOD
 militar I-MOD
 nas I-MOD
 forças I-MOD
-armadas, I-MOD
+armadas I-MOD
+, I-MOD
 nas I-MOD
 polícias I-MOD
 militares I-MOD
 e I-MOD
-nos I-MOD
-corpos I-MOD
-de I-MOD
-bombeiros I-MOD
-militares.” I-MOD
+nos I-SUP
+corpos I-SUP
+de I-SUP
+bombeiros I-SUP
+militares I-SUP
+. I-MOD
+” I-MOD
+
+
+
+
+
+
+ I-SUP
 art I-MOD
 5º I-MOD
 até I-MOD
@@ -774,13 +1004,18 @@ de I-ADD
 que I-ADD
 trata I-ADD
 o I-MOD
-§ I-MOD
-18 I-MOD
+§ I-SUP
+18 I-ADD
 do I-MOD
-art. I-MOD
-40 I-MOD
+art I-ADD
+. I-ADD
+40 I-ADD
+
+
+ I-ADD
 da I-MOD
-constituição, I-MOD
+constituição I-MOD
+, I-MOD
 os I-MOD
 servidores I-MOD
 de I-MOD
@@ -790,9 +1025,10 @@ o I-ADD
 § I-ADD
 11 I-ADD
 do I-ADD
-art. I-ADD
+art I-ADD
+. I-ADD
 144 I-ADD
-da I-SUP
+da I-MOD
 constituição I-SUP
 e I-SUP
 que I-SUP
@@ -801,24 +1037,27 @@ na I-SUP
 carreira I-SUP
 após I-SUP
 a I-SUP
-promulgação I-ADD
-desta I-SUP
+promulgação I-SUP
+d I-SUP
+esta I-SUP
 emenda I-ADD
-à I-ADD
+à I-SUP
 constituição I-ADD
 poderão I-ADD
 se I-ADD
 aposentar I-ADD
 observados I-ADD
-os I-MOD
-requisitos I-MOD
-dos I-MOD
-§§ I-MOD
+os I-ADD
+requisitos I-ADD
+dos I-ADD
+§ I-ADD
+§ I-MOD
 2º I-MOD
-ao I-MOD
+a I-MOD
+o I-SUP
 7º I-MOD
 e I-MOD
-incisos I-MOD
+incisos I-SUP
 i I-MOD
 a I-SUP
 iii I-SUP
@@ -827,14 +1066,25 @@ caput I-SUP
 do I-SUP
 artigo I-SUP
 4º I-SUP
-desta I-SUP
-emenda. I-SUP
-art. I-SUP
-3º I-SUP
-suprima-se I-SUP
-os I-SUP
-números I-SUP
-2 I-SUP
+
+
+ I-SUP
+d I-SUP
+esta I-SUP
+emenda I-SUP
+. I-SUP
+
+
+ I-SUP
+art I-MOD
+. I-MOD
+3º I-MOD
+suprima I-MOD
+- I-MOD
+se I-MOD
+os I-MOD
+números O
+2 I-ADD
 e I-ADD
 3 I-ADD
 da I-ADD
@@ -844,17 +1094,24 @@ inciso I-ADD
 i I-ADD
 do I-ADD
 § I-MOD
-1º I-MOD
+1º I-ADD
 do I-MOD
-art. I-MOD
-40, I-MOD
+art I-MOD
+. I-ADD
+40 I-MOD
+, I-MOD
 alterado I-MOD
 pelo I-MOD
-art. I-MOD
-1º, I-MOD
+art I-MOD
+. I-MOD
+
+
+ I-MOD
+1º I-MOD
+, I-MOD
 e I-MOD
 os I-MOD
-incisos I-MOD
+incisos I-SUP
 ii I-SUP
 e I-SUP
 iii I-SUP
@@ -862,18 +1119,26 @@ do I-SUP
 § I-SUP
 4º I-SUP
 do I-SUP
-art. I-SUP
+art I-SUP
+. I-SUP
 12 I-SUP
 da I-SUP
-proposta O
+proposta I-ADD
 de O
-emenda I-ADD
+emenda I-SUP
 à I-ADD
 constituição I-ADD
 nº I-ADD
-6, I-SUP
-de I-ADD
-2019, I-SUP
+6 I-ADD
+, I-SUP
+de I-SUP
+2019 I-SUP
+, I-SUP
 renumerando I-MOD
-os O
-demais. O
+os I-MOD
+demais O
+. O
+
+
+
+ O

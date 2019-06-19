@@ -1,122 +1,215 @@
-constituição; O
-..................................................................................................” O
+” O
+2 O
 proposta O
 emenda O
 constituição O
 n.º O
-6, O
-de O
-2019 O
-(do O
+6 O
+, O
+de I-SUP
+2019 I-SUP
+
+
+ O
+( O
+do O
 poder O
-executivo) O
+executivo O
+) O
+
+
+
+
+ O
 modifica B-MOD
 o O
-sistema O
-de O
-previdência I-MOD
-social, I-MOD
-estabelece I-MOD
-regras I-MOD
+sistema I-MOD
 de I-MOD
+previdência I-MOD
+
+
+ I-MOD
+social I-MOD
+, I-MOD
+
+
+ I-MOD
+estabelece I-MOD
+
+
+ I-MOD
+regras I-MOD
+
+
+ I-MOD
+de I-MOD
+
+
+ I-MOD
 transição I-MOD
 e I-MOD
 disposições I-MOD
-transitórias, I-MOD
+transitórias I-MOD
+, I-MOD
 e I-MOD
-dá O
-outras O
-providências. O
+dá I-MOD
+outras I-MOD
+providências O
+. O
+
+
+
+
+
+
+ O
 emenda O
 supressiva O
 nº O
-art. O
-1º. O
-suprimam-se O
+
+
+ O
+art B-MOD
+. I-MOD
+1º. I-ADD
+suprimam I-MOD
+- I-MOD
+se I-MOD
 o I-MOD
-art. I-SUP
-149 I-SUP
+art I-MOD
+. I-MOD
+149 I-MOD
 do I-MOD
-art. I-MOD
+art I-MOD
+. I-MOD
 1º I-MOD
 da I-MOD
 pec I-MOD
-6/2019, I-SUP
+6/2019 I-MOD
+, I-SUP
 bem I-SUP
-como I-SUP
+como I-MOD
 todos I-SUP
 os I-SUP
 seus I-SUP
-parágrafos, I-SUP
-incisos I-MOD
+parágrafos I-SUP
+, I-SUP
+incisos I-SUP
 e I-SUP
-alíneas; I-SUP
-art. I-SUP
-2º. I-SUP
-suprima-se I-MOD
-do I-SUP
-art. I-SUP
-1º I-SUP
+alíneas I-SUP
+; I-SUP
+art I-MOD
+. I-MOD
+2º. I-MOD
+suprima I-MOD
+- I-MOD
+se I-MOD
+do I-MOD
+art I-MOD
+. I-MOD
+1º I-MOD
 da I-MOD
 pec I-MOD
-6/2019, I-MOD
+6/2019 I-MOD
+, I-MOD
 o I-MOD
 inciso I-MOD
 ii I-ADD
 do I-ADD
-art. I-ADD
+art I-ADD
+. I-ADD
 195 I-ADD
-proposto; I-ADD
-art. I-ADD
-3º. I-ADD
-suprimam-se I-ADD
-o I-SUP
-art. I-SUP
-13 I-SUP
-e I-MOD
-seus I-MOD
-§§ I-MOD
-1º I-MOD
-e I-MOD
-2º I-MOD
-da I-MOD
-pec I-SUP
-6/2019; I-SUP
-art. I-MOD
-4º. I-SUP
-suprimam-se I-MOD
+
+
+ I-ADD
+proposto I-ADD
+; I-ADD
+
+
+ I-ADD
+art I-MOD
+. I-MOD
+3º. I-MOD
+suprimam I-MOD
+- I-MOD
+se I-MOD
 o I-MOD
-caput I-MOD
-do I-MOD
-art. I-MOD
-14, I-MOD
-parágrafos I-SUP
-e I-MOD
-incisos I-MOD
-da I-MOD
-pec I-SUP
-6/2019; I-SUP
-art. I-SUP
-5º. I-MOD
-suprimam-se I-MOD
-o I-SUP
-art. I-SUP
-15 I-SUP
-e I-MOD
-seus I-MOD
-§§ I-MOD
-1º I-MOD
-e I-MOD
+art I-MOD
+. I-MOD
+13 I-ADD
+e I-ADD
+seus I-ADD
+§ I-ADD
+§ I-ADD
+1º I-ADD
+e I-ADD
 2º I-MOD
 da I-MOD
 pec I-MOD
-6/2019; I-SUP
-art. I-MOD
-6º. I-SUP
-suprima-se I-SUP
-o I-SUP
-art. I-SUP
-45 I-SUP
-da I-SUP
-pec O
-6/2019. O
+6/2019 I-MOD
+; I-MOD
+art I-MOD
+. I-MOD
+4º. I-MOD
+suprimam I-MOD
+- I-MOD
+se I-MOD
+o I-MOD
+caput I-MOD
+do I-MOD
+art I-MOD
+. I-MOD
+14 I-SUP
+, I-SUP
+parágrafos I-SUP
+e I-MOD
+incisos I-SUP
+da I-MOD
+pec I-MOD
+
+
+ I-MOD
+6/2019 I-MOD
+; I-MOD
+
+
+ I-MOD
+art I-MOD
+. I-MOD
+5º. I-MOD
+suprimam I-MOD
+- I-MOD
+se I-MOD
+o I-MOD
+art I-MOD
+. I-MOD
+15 I-ADD
+e I-ADD
+seus I-ADD
+§ I-ADD
+§ I-ADD
+1º I-ADD
+e I-ADD
+2º I-MOD
+da I-MOD
+pec I-MOD
+6/2019 I-MOD
+; I-MOD
+art I-MOD
+. I-MOD
+6º. I-MOD
+suprima I-MOD
+- I-MOD
+se I-MOD
+o I-MOD
+art I-MOD
+. I-MOD
+45 I-MOD
+da I-MOD
+pec I-MOD
+6/2019 O
+. O
+
+
+
+ O

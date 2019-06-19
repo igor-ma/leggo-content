@@ -1,12 +1,22 @@
-à O
-n° O
+° O
+. O
 câmara O
 deputados O
+gabinete O
 do O
 deputado O
 jhc O
 – O
-psb/al O
+psb O
+/ O
+al O
+
+
+
+
+
+
+ O
 comissão O
 especial O
 destinada O
@@ -21,84 +31,213 @@ emenda O
 constituição O
 nº O
 06/2019 O
+
+
+
+
+ O
 modifica B-MOD
-o O
-sistema O
-de O
-previdência I-MOD
-social, I-MOD
-estabelece I-MOD
-regras I-MOD
+o I-MOD
+sistema I-MOD
 de I-MOD
+previdência I-MOD
+social I-MOD
+, I-MOD
+
+
+ I-MOD
+estabelece I-MOD
+
+
+ I-MOD
+regras I-MOD
+
+
+ I-MOD
+de I-MOD
+
+
+ I-MOD
 transição I-MOD
+
+
+ I-MOD
 e I-MOD
+
+
+ I-MOD
 disposições I-MOD
-transitórias, I-MOD
-e I-ADD
-dá I-ADD
-outras O
-providências. O
+
+
+ I-MOD
+transitórias I-MOD
+, I-MOD
+
+
+ I-MOD
+e I-MOD
+
+
+ I-MOD
+dá I-MOD
+
+
+ I-MOD
+outras I-MOD
+
+
+ I-MOD
+providências I-MOD
+. O
+
+
+
+
+ O
 emenda O
 modificativa O
-(do O
+
+
+ O
+( O
+do O
 sr. O
-jhc O
+jhc I-MOD
 e O
-outros) O
+outros I-MOD
+) I-MOD
+
+
+
+
+ I-MOD
 assegura I-MOD
 a I-MOD
-manutenção I-ADD
+manutenção I-MOD
 do I-MOD
-regime I-MOD
+regime I-ADD
+
+
+ I-MOD
 previdenciário I-MOD
+
+
+ I-MOD
 especial I-MOD
-ao I-ADD
+
+
+ I-MOD
+a I-MOD
+o I-MOD
+
+
+ I-MOD
 professor I-MOD
+
+
+ I-MOD
 que I-MOD
+
+
+ I-MOD
 comprove I-MOD
-exclusivamente I-ADD
-tempo I-ADD
-de I-ADD
-efetivo I-ADD
+
+
+ I-MOD
+exclusivamente I-MOD
+tempo I-MOD
+de I-MOD
+efetivo I-MOD
+
+
+ I-ADD
 exercício I-ADD
+
+
+ I-ADD
 das I-ADD
+
+
+ I-ADD
 funções I-ADD
+
+
+ I-ADD
 de I-ADD
+
+
+ I-ADD
 magistério I-ADD
-na I-ADD
-educação I-ADD
+na I-SUP
+educação I-SUP
 infantil I-SUP
 e I-SUP
 no I-SUP
-ensino I-MOD
+ensino I-SUP
 fundamental I-MOD
 e I-MOD
-médio. I-MOD
-art. I-MOD
+médio I-MOD
+. I-MOD
+
+
+
+
+
+
+ I-MOD
+art I-MOD
+. I-MOD
 1º I-MOD
-dá-se I-ADD
-à O
+dá I-ADD
+- I-ADD
+se I-ADD
+à I-ADD
 proposta I-ADD
 de I-ADD
 emenda I-ADD
 à I-ADD
 constituição I-ADD
 nº I-ADD
-6, O
-de O
-2019, I-MOD
-a I-MOD
-redação I-MOD
-que I-MOD
-segue: I-MOD
-art. I-MOD
-40 I-MOD
-... I-MOD
-§1º I-MOD
-... I-MOD
-1. I-MOD
-titulares I-MOD
-do I-MOD
+6 I-ADD
+, I-ADD
+de I-SUP
+2019 I-SUP
+, I-SUP
+a I-SUP
+redação I-SUP
+que I-SUP
+segue I-SUP
+: I-MOD
+
+
+
+
+
+
+ I-MOD
+art I-MOD
+. I-ADD
+40 I-ADD
+... I-ADD
+
+
+
+
+
+
+ I-ADD
+§ I-ADD
+1º I-MOD
+... I-SUP
+
+
+
+
+ I-SUP
+1 I-SUP
+. I-SUP
+titulares I-SUP
+do I-SUP
 cargo I-SUP
 de I-SUP
 professor I-SUP
@@ -121,7 +260,8 @@ no I-SUP
 ensino I-MOD
 fundamental I-MOD
 e I-MOD
-médio, I-MOD
+médio I-MOD
+, I-MOD
 observada I-MOD
 a I-MOD
 redução I-MOD
@@ -137,36 +277,72 @@ de I-ADD
 contribuição I-ADD
 em I-ADD
 relação I-ADD
-aos I-ADD
-demais I-ADD
+a I-ADD
+os I-ADD
+demais I-MOD
 segurados I-MOD
 e I-MOD
 vedação I-MOD
 quanto I-MOD
-ao I-MOD
+a I-MOD
+o I-MOD
 estabelecimento I-MOD
 de I-MOD
 idade I-MOD
-mínima. I-MOD
-art. I-MOD
+mínima I-MOD
+. I-MOD
+
+
+
+
+
+
+ I-SUP
+art I-SUP
+. I-MOD
 201 I-MOD
 ... I-MOD
-§7º I-MOD
-... I-SUP
+
+
+
+
+
+
+ I-MOD
+§ I-MOD
+7º I-MOD
+... I-MOD
+
+
+
+
+
+
+ I-SUP
 iii I-MOD
 – I-MOD
 professores I-MOD
-na I-MOD
-forma I-MOD
-do I-MOD
-item I-MOD
-1, I-MOD
-§1º, I-MOD
-art. I-MOD
-40; I-MOD
+na I-SUP
+forma I-SUP
+do I-SUP
+item I-SUP
+1 I-MOD
+, I-SUP
+§ I-SUP
+1º I-ADD
+, I-MOD
+art I-ADD
+. I-MOD
+40 I-MOD
+; I-MOD
 e I-MOD
 capítulo I-MOD
-iii O
+iii I-MOD
+
+
+
+
+ O
 das O
 regras O
 de O
@@ -176,11 +352,27 @@ aos O
 regimes O
 próprios O
 de O
+
+
+ O
 previdência O
-social O
-art. O
+social I-MOD
+
+
+
+
+
+
+ I-MOD
+art I-MOD
+. I-MOD
 3º I-MOD
 ... I-MOD
+
+
+
+
+ I-MOD
 câmara I-MOD
 dos I-MOD
 deputados I-MOD
@@ -188,31 +380,58 @@ deputados I-MOD
 anexo I-MOD
 iv I-MOD
 – I-MOD
-gab. I-MOD
+gab I-MOD
+. I-MOD
 958 I-MOD
 | I-MOD
 cep I-MOD
-70160-900 I-MOD
-– I-MOD
-brasília/df I-MOD
-| I-MOD
-tels. I-MOD
-(61) I-MOD
-3215-5958 I-MOD
-| I-MOD
-dep.jhc@camara.leg.br I-MOD
+70160 I-MOD
+- O
+900 I-MOD
+– I-ADD
+brasília I-MOD
+/ I-ADD
+df I-ADD
+| I-SUP
+tels I-SUP
+. I-MOD
+( I-MOD
+61 I-MOD
+) I-MOD
+3215 I-MOD
+- I-MOD
+5958 I-MOD
+| O
+dep.jhc@camara.leg.br O
+
+
+
+
+ I-MOD
 câmara I-MOD
 dos I-MOD
 deputados O
+
+
+ O
 gabinete O
 do O
 deputado O
 jhc O
-– I-MOD
-psb/al I-MOD
-§ I-MOD
-5º I-MOD
-para I-SUP
+– O
+psb O
+/ O
+al I-MOD
+
+
+
+
+
+
+ I-MOD
+§ I-SUP
+5º I-SUP
+para I-MOD
 o I-SUP
 titular I-SUP
 do I-SUP
@@ -238,9 +457,9 @@ no I-SUP
 ensino I-SUP
 fundamental I-SUP
 e I-SUP
-médio I-MOD
+médio I-SUP
 por I-SUP
-vinte I-MOD
+vinte I-SUP
 e I-MOD
 cinco I-MOD
 anos I-MOD
@@ -250,9 +469,20 @@ e I-MOD
 trinta I-MOD
 anos I-MOD
 se I-MOD
-homem, I-MOD
+homem I-MOD
+, I-MOD
 não I-MOD
 haverá I-MOD
-idade O
-mínima; O
-... O
+idade I-MOD
+mínima I-MOD
+; I-SUP
+
+
+
+
+ I-SUP
+... I-SUP
+
+
+
+ I-SUP

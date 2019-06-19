@@ -1,29 +1,41 @@
-caráter I-ADD
-e I-ADD
+irretratável I-ADD
+” I-ADD
 proposta I-ADD
 emenda I-ADD
 constituição I-ADD
 nº I-ADD
-6 O
-/2019 O
-(do O
+6 I-ADD
+/2019 I-ADD
+
+
+ O
+( O
+do O
 sr. O
 deputado O
 felipe O
-rigoni, O
+rigoni O
+, O
 da O
 sra. B-MOD
 deputada I-MOD
-tábata O
-amaral O
-e O
-outros) O
-suprime B-SUP
-o I-SUP
-art. I-SUP
+tábata I-MOD
+amaral I-MOD
+e I-MOD
+outros I-MOD
+) I-MOD
+
+
+
+
+ I-MOD
+suprime I-MOD
+o I-MOD
+art I-SUP
+. I-SUP
 41 I-SUP
-da I-SUP
-proposta O
+da O
+proposta I-ADD
 de O
 emenda I-ADD
 à I-SUP
@@ -33,25 +45,45 @@ trata I-SUP
 sobre O
 o I-SUP
 benefício I-MOD
-de O
-prestação O
-continuada O
+de I-MOD
+prestação I-MOD
+continuada I-MOD
 dos O
-idosos. O
+idosos O
+. O
+
+
+
+
+ O
 emenda O
 supressiva O
 n. O
-suprima-se O
-o I-SUP
-art. I-SUP
-41 I-SUP
-da I-SUP
-proposta O
+
+
+
+
+
+
+ O
+suprima O
+- I-MOD
+se I-MOD
+o I-MOD
+art I-MOD
+. I-MOD
+41 O
+da O
+proposta I-ADD
 de I-ADD
-emenda I-ADD
-à I-ADD
-constituição I-ADD
+emenda I-SUP
+à I-SUP
+constituição I-SUP
 no I-SUP
-6, O
-de O
-2019. I-SUP
+6 I-SUP
+, I-SUP
+de I-SUP
+2019 I-SUP
+. O
+
+ O

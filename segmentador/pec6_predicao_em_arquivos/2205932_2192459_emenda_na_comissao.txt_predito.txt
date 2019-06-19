@@ -1,53 +1,91 @@
-pec I-MOD
 de I-MOD
+. I-MOD
 câmara I-MOD
 deputados I-MOD
+gabinete I-MOD
 do I-MOD
 deputado I-MOD
 federal I-MOD
-coronel O
+
+
+ I-MOD
+coronel I-MOD
 tadeu O
+
+
+
+
+
+
+ O
 proposta O
 de O
 emenda O
 à O
 constituição O
 nº O
-6, O
+6 O
+, O
 de O
 2019 O
+
+
+
+
+ O
 emenda O
 modificativa O
-dê-se B-MOD
-ao I-MOD
+
+
+
+
+ O
+dê O
+- O
+se O
+a O
+o I-MOD
 inciso I-MOD
 iii I-MOD
 do I-MOD
-art. I-MOD
-3º, I-MOD
-ao I-MOD
+art I-MOD
+. I-MOD
+3º I-MOD
+, I-MOD
+a I-MOD
+o I-MOD
 inciso I-MOD
 ii I-MOD
 do I-MOD
-art. I-MOD
+art I-MOD
+. I-MOD
 6º I-MOD
 e I-MOD
-ao I-MOD
+a I-MOD
+o I-MOD
 inciso I-MOD
 ii I-MOD
 do I-MOD
-art. I-MOD
+art I-SUP
+. I-MOD
 7º I-MOD
 da I-MOD
 pec I-MOD
-6/2019, I-MOD
+6/2019 I-MOD
+, I-MOD
 a I-MOD
 seguinte I-MOD
-redação: I-MOD
-“art. I-MOD
+redação I-MOD
+: I-MOD
+
+
+ I-MOD
+“ I-MOD
+art I-MOD
+. I-MOD
 3º I-MOD
 ressalvado I-MOD
-o I-MOD
+o I-SUP
 direito I-ADD
 de I-ADD
 opção I-ADD
@@ -58,7 +96,7 @@ normas I-ADD
 estabelecidas I-ADD
 na I-ADD
 lei I-ADD
-complementar I-ADD
+complementar I-SUP
 a I-SUP
 que I-ADD
 se I-ADD
@@ -67,23 +105,28 @@ o I-SUP
 § I-MOD
 1º I-MOD
 do I-MOD
-art. I-MOD
-40 I-MOD
-da I-MOD
-constituição, I-MOD
+art I-ADD
+. I-ADD
+40 I-ADD
+da I-ADD
+constituição I-ADD
+, I-ADD
 o I-MOD
-servidor I-MOD
-público I-MOD
+servidor I-SUP
+público I-SUP
 da I-MOD
-união, I-MOD
+união I-MOD
+, I-MOD
 dos I-MOD
-estados, I-MOD
+estados I-MOD
+, I-MOD
 do I-MOD
 distrito I-MOD
 federal I-MOD
 e I-MOD
-dos I-SUP
-municípios, I-SUP
+dos I-MOD
+municípios I-MOD
+, I-SUP
 incluídas I-SUP
 suas I-SUP
 entidades I-SUP
@@ -91,7 +134,8 @@ autárquicas I-SUP
 e I-SUP
 suas I-SUP
 fundações I-SUP
-públicas, I-SUP
+públicas I-SUP
+, I-SUP
 que I-SUP
 tenha I-SUP
 ingressado I-SUP
@@ -102,36 +146,60 @@ em I-SUP
 cargo I-SUP
 efetivo I-SUP
 até I-MOD
-a I-SUP
-data I-SUP
+a I-MOD
+data I-MOD
 de I-SUP
-promulgação I-ADD
-desta I-SUP
+promulgação I-SUP
+d I-SUP
+esta I-SUP
 emenda I-SUP
-à I-ADD
-constituição I-SUP
-poderá I-SUP
-aposentar-se I-ADD
-voluntariamente I-ADD
+à I-SUP
+constituição I-ADD
+poderá I-ADD
+aposentar I-ADD
+- I-ADD
+se I-MOD
+voluntariamente I-MOD
 quando I-MOD
-preencher, I-MOD
-cumulativamente, I-MOD
+preencher I-MOD
+, I-MOD
+cumulativamente I-MOD
+, I-MOD
 os I-MOD
 seguintes I-MOD
-requisitos: I-MOD
+requisitos I-MOD
+: I-MOD
+
+
+ I-MOD
 ........................................................ I-MOD
+
+
+ I-MOD
 iii I-MOD
 – I-MOD
 dez I-MOD
-anos I-ADD
+anos I-MOD
 de I-SUP
 efetivo I-SUP
 exercício I-SUP
-no I-ADD
-serviço I-MOD
-público; I-ADD
-.........................................................” I-ADD
-“art. I-MOD
+no I-SUP
+serviço I-SUP
+público I-SUP
+; I-SUP
+
+
+ I-SUP
+......................................................... I-SUP
+” I-MOD
+
+
+
+
+ I-MOD
+“ I-MOD
+art I-MOD
+. I-MOD
 6º I-MOD
 ressalvado I-MOD
 o I-MOD
@@ -145,7 +213,7 @@ normas I-ADD
 estabelecidas I-ADD
 na I-ADD
 lei I-ADD
-complementar I-ADD
+complementar I-SUP
 a I-SUP
 que I-ADD
 se I-ADD
@@ -154,11 +222,13 @@ o I-SUP
 § I-MOD
 1º I-MOD
 do I-MOD
-art. I-MOD
-40 I-MOD
-da I-MOD
-constituição, I-MOD
-o I-MOD
+art I-ADD
+. I-ADD
+40 I-ADD
+da I-ADD
+constituição I-ADD
+, I-ADD
+o I-ADD
 servidor I-SUP
 público I-SUP
 cujas I-SUP
@@ -171,29 +241,34 @@ exposição I-SUP
 a I-SUP
 agentes I-SUP
 nocivos I-SUP
-químicos, I-SUP
+químicos I-SUP
+, I-SUP
 físicos I-SUP
-e I-SUP
-biológicos I-SUP
-prejudiciais I-SUP
-à I-SUP
-saúde, I-MOD
-ou I-MOD
-associação O
-desses O
-agentes, O
-vedada I-MOD
-a I-MOD
-caracterização I-ADD
+e I-MOD
+biológicos I-MOD
+prejudiciais I-MOD
+à O
+saúde I-MOD
+, I-MOD
+ou I-SUP
+associação I-SUP
+d I-SUP
+esses I-SUP
+agentes I-SUP
+, I-SUP
+vedada I-SUP
+a I-SUP
+caracterização I-SUP
 por O
 categoria O
 profissional O
 ou O
 ocupação O
 e O
-enquadramento B-SUP
+enquadramento O
 por I-SUP
-periculosidade, I-SUP
+periculosidade I-SUP
+, I-SUP
 que I-SUP
 tenha I-SUP
 ingressado I-SUP
@@ -204,37 +279,51 @@ em I-SUP
 cargo I-SUP
 efetivo I-SUP
 até I-MOD
-a I-SUP
-data I-SUP
+a I-MOD
+data I-MOD
 de I-SUP
 promulgação I-SUP
-desta I-SUP
+d I-SUP
+esta I-SUP
 emenda I-SUP
 à I-SUP
-constituição, I-SUP
-poderá I-SUP
-aposentar-se I-MOD
+constituição I-ADD
+, I-ADD
+poderá I-ADD
+aposentar I-ADD
+- I-MOD
+se I-MOD
 voluntariamente I-MOD
 quando I-MOD
-preencher, I-MOD
-cumulativamente, I-MOD
+preencher I-MOD
+, I-MOD
+cumulativamente I-MOD
+, I-MOD
 os I-MOD
 seguintes I-MOD
-requisitos: I-MOD
+requisitos I-MOD
+: I-MOD
+
+
+ I-ADD
 ........................................... I-MOD
+
+
+ I-MOD
 ii I-MOD
 – I-MOD
 dez I-MOD
-anos I-ADD
+anos I-MOD
 de I-SUP
 efetivo I-SUP
 exercício I-SUP
-no I-ADD
-serviço I-ADD
-público; I-ADD
-e I-ADD
-gabinete O
-756 O
+no I-SUP
+serviço I-SUP
+público I-SUP
+; I-MOD
+e I-MOD
+gabinete I-MOD
+756 I-MOD
 – O
 anexo O
 iv O
@@ -243,26 +332,57 @@ câmara I-ADD
 dos I-ADD
 deputados I-SUP
 – I-ADD
-esplanada I-MOD
+esplanada I-ADD
 dos I-ADD
-ministérios I-MOD
+ministérios I-ADD
+– I-ADD
+brasília I-ADD
+- I-ADD
+df O
 – I-MOD
-brasília-df I-MOD
-– I-MOD
-cep:70.160-900 I-MOD
+cep:70.160 I-MOD
+- I-MOD
+900 I-MOD
 –– I-MOD
+
+
+ I-MOD
 dep.coroneltadeu@camara.leg.br I-MOD
+
+
+
+
+
+
+ I-MOD
 câmara I-MOD
 dos I-MOD
 deputados I-MOD
+
+
+ I-MOD
 gabinete I-MOD
 do I-MOD
 deputado I-MOD
 federal I-MOD
+
+
+ I-MOD
 coronel I-MOD
 tadeu I-MOD
-...............................................................” I-MOD
-“art. I-MOD
+
+
+
+
+ I-MOD
+............................................................... I-MOD
+” I-MOD
+
+
+ I-MOD
+“ I-MOD
+art I-MOD
+. I-MOD
 7º I-MOD
 ressalvado I-MOD
 o I-SUP
@@ -276,7 +396,7 @@ normas I-ADD
 estabelecidas I-ADD
 na I-ADD
 lei I-ADD
-complementar I-ADD
+complementar I-SUP
 a I-SUP
 que I-ADD
 se I-ADD
@@ -285,26 +405,30 @@ o I-SUP
 § I-MOD
 1º I-MOD
 do I-MOD
-art. I-MOD
-40 I-MOD
-da I-MOD
-constituição, I-ADD
+art I-ADD
+. I-ADD
+40 I-ADD
+da I-ADD
+constituição I-ADD
+, I-ADD
 o I-ADD
 servidor I-ADD
-público I-SUP
+público I-ADD
 com I-SUP
-deficiência, I-SUP
+deficiência I-SUP
+, I-SUP
 previamente I-SUP
 submetido I-SUP
 à I-SUP
 avaliação I-SUP
 biopsicossocial I-SUP
 realizada I-SUP
-por I-MOD
+por I-SUP
 equipe I-MOD
 multiprofissional I-MOD
 e I-MOD
-interdisciplinar, I-SUP
+interdisciplinar I-SUP
+, I-SUP
 que I-SUP
 tenha I-SUP
 ingressado I-SUP
@@ -315,33 +439,53 @@ em I-SUP
 cargo I-SUP
 efetivo I-SUP
 até I-MOD
-a I-SUP
-data I-SUP
+a I-MOD
+data I-MOD
 de I-SUP
 promulgação I-SUP
-desta I-SUP
+d I-SUP
+esta I-SUP
 emenda I-SUP
 à I-SUP
-constituição, I-SUP
-poderá I-SUP
-aposentar-se I-MOD
+constituição I-ADD
+, I-ADD
+poderá I-ADD
+aposentar I-ADD
+- I-MOD
+se I-MOD
 voluntariamente I-MOD
 quando I-MOD
-preencher, I-MOD
-cumulativamente, I-MOD
+preencher I-MOD
+, I-MOD
+cumulativamente I-MOD
+, I-MOD
 os I-MOD
 seguintes I-MOD
-requisitos: I-MOD
+requisitos I-MOD
+: I-MOD
+
+
+ I-ADD
 ........................................................ I-MOD
+
+
+ I-MOD
 ii I-MOD
 – I-MOD
 dez I-MOD
-anos I-ADD
+anos I-MOD
 de I-SUP
 efetivo I-SUP
 exercício I-SUP
 no I-SUP
 serviço I-SUP
-público; O
-e O
-............................................................” O
+público I-SUP
+; I-SUP
+e I-SUP
+
+
+ I-SUP
+............................................................ I-SUP
+” I-MOD
+
+ I-SUP

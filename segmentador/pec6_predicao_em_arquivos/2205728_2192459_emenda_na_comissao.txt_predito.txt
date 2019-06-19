@@ -1,14 +1,27 @@
-à O
-nº O
+
+
+ I-MOD
+. I-MOD
 câmara O
 deputados O
-do O
+liderança O
+do I-MOD
 partido I-MOD
 socialismo I-MOD
 e I-MOD
-liberdade O
+liberdade I-MOD
+
+
+ I-MOD
 assessoria O
 técnica O
+
+
+
+
+
+
+ O
 emenda O
 à O
 proposta O
@@ -19,53 +32,120 @@ constituição O
 nº O
 6 O
 de O
-2019. O
+2019 I-SUP
+. O
+
+
+
+
+
+
+ O
 modifica I-SUP
 na I-SUP
-pec O
+pec I-MOD
 6/2019 I-SUP
 dispositivos I-SUP
 relacionados I-MOD
 a I-MOD
 capacidade I-MOD
-arrecadatória O
-do O
-estado. O
+arrecadatória I-MOD
+do I-MOD
+estado O
+. O
+
+
+
+
+
+
+ O
 emenda O
 n.º O
-____________ O
-acrescente-se, O
-onde O
-couber, O
-na I-SUP
+_ O
+_ O
+_ I-MOD
+_ I-MOD
+_ I-MOD
+_ I-MOD
+_ I-MOD
+_ I-MOD
+_ I-MOD
+_ I-MOD
+_ I-MOD
+_ I-MOD
+
+
+
+
+
+
+ I-MOD
+acrescente I-MOD
+- I-ADD
+se I-ADD
+, I-ADD
+onde I-ADD
+couber I-ADD
+, I-ADD
+na I-ADD
 proposta I-ADD
-de I-SUP
+de I-ADD
 emenda I-SUP
 à I-ADD
 constituição I-ADD
 nº I-ADD
-6 I-ADD
+6 I-SUP
 de I-ADD
-2019, I-ADD
-os I-ADD
+2019 I-ADD
+, I-ADD
+os I-MOD
 seguintes I-MOD
-artigos: I-MOD
-"art. I-MOD
-x O
-dê-se B-MOD
-ao I-MOD
-§ I-MOD
-6º I-MOD
-do I-MOD
-art. I-ADD
-165 I-ADD
+artigos I-MOD
+: I-MOD
+
+
+
+
+ I-MOD
+" O
+art O
+. I-SUP
+x E-SUP
+dê B-MOD
+- I-MOD
+se O
+a I-MOD
+o I-MOD
+§ I-ADD
+6º I-ADD
+do I-ADD
+art I-ADD
+. I-MOD
+165 I-MOD
 a I-MOD
 seguinte I-MOD
-redação: I-MOD
-‘art. O
+redação I-MOD
+: I-MOD
+
+
+
+
+ I-MOD
+‘ I-MOD
+art I-MOD
+. I-MOD
 165 I-MOD
-........................................................................... I-ADD
+........................................................................... I-MOD
+
+
+ I-MOD
 ........................................................................................ I-MOD
+
+
+
+
+ I-MOD
 § I-MOD
 6º I-MOD
 o I-ADD
@@ -79,28 +159,50 @@ de I-MOD
 demonstrativo I-MOD
 regionalizado I-SUP
 do I-SUP
-efeito, I-SUP
+efeito I-SUP
+, I-SUP
 sobre I-SUP
 as I-SUP
 receitas I-SUP
 e I-SUP
-despesas, I-SUP
-e I-MOD
+despesas I-SUP
+, I-SUP
+e I-SUP
 seus I-MOD
-impactos I-MOD
-sociais, I-MOD
+impactos I-SUP
+sociais I-MOD
+, I-MOD
 decorrente I-MOD
 de I-MOD
-isenções, I-MOD
-anistias, I-MOD
-remissões, I-MOD
+isenções I-MOD
+, I-MOD
+anistias I-MOD
+, I-MOD
+remissões I-MOD
+, I-SUP
 subsídios I-SUP
 e I-SUP
 benefícios I-SUP
 de I-SUP
 natureza I-SUP
-financeira, I-MOD
-tributária I-MOD
-e I-MOD
-creditícia. I-MOD
-................................................................................'(nr)" I-MOD
+financeira I-SUP
+, I-SUP
+tributária I-SUP
+e I-SUP
+creditícia I-MOD
+. I-MOD
+
+
+ I-MOD
+................................................................................ I-MOD
+' I-MOD
+( I-MOD
+nr I-MOD
+) I-MOD
+" I-MOD
+
+
+
+
+
+ I-MOD

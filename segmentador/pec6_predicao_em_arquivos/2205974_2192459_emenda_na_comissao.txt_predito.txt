@@ -1,7 +1,8 @@
-geral O
-previdência O
+previdência I-MOD
+. I-MOD
 câmara O
 deputado O
+comissão O
 especial O
 destinada O
 a O
@@ -14,98 +15,180 @@ emenda O
 à O
 constituição O
 nº O
-06, O
+06 O
+, O
 de O
 2019 O
+
+
+
+
+ O
 modifica B-MOD
 o O
-sistema O
-de O
+sistema I-MOD
+de I-MOD
 previdência I-MOD
-social, I-MOD
+
+
+ I-MOD
+social I-MOD
+, I-MOD
 estabelece I-MOD
 regras I-MOD
 de I-MOD
 transição I-MOD
 e I-MOD
+
+
+ I-MOD
 disposições I-MOD
-transitórias, I-MOD
+transitórias I-MOD
+, I-MOD
 e I-MOD
-dá O
-outras O
-providencias. O
+dá I-MOD
+outras I-MOD
+
+
+ I-MOD
+providencias O
+. O
+
+
+
+
+
+
+ O
 emenda O
 supressiva O
-(sr. O
+
+
+ O
+( O
+sr. O
 tadeu O
-alencar O
+alencar I-MOD
 e O
-outros) I-MOD
+outros O
+) I-MOD
+
+
+
+
+ I-MOD
 suprime I-MOD
 as I-MOD
 disposições I-MOD
 relativas I-MOD
-ao I-MOD
-regime I-MOD
-de I-MOD
-capitalização I-MOD
-introduzido I-MOD
-pela I-MOD
-pec I-MOD
-n. I-MOD
-6, I-MOD
-de I-MOD
-2019. I-MOD
-suprima-se I-SUP
-da I-SUP
-proposta I-ADD
-de I-SUP
-emenda I-ADD
-à I-ADD
-constituição I-ADD
-n. I-ADD
-6, I-ADD
-de I-ADD
-2019: I-MOD
-a) I-MOD
+a I-SUP
 o I-MOD
-art. I-MOD
+
+
+ I-MOD
+regime I-MOD
+de I-ADD
+capitalização I-ADD
+introduzido I-MOD
+pela I-SUP
+
+
+ I-SUP
+pec I-SUP
+n. I-SUP
+6 I-SUP
+, I-SUP
+de I-SUP
+2019 I-MOD
+. I-MOD
+
+
+
+
+
+
+ I-MOD
+suprima I-MOD
+- I-MOD
+se I-MOD
+da O
+proposta I-ADD
+de I-ADD
+emenda I-SUP
+à I-SUP
+constituição I-SUP
+n. I-SUP
+6 I-SUP
+, I-SUP
+de I-SUP
+2019 I-SUP
+: I-SUP
+a I-SUP
+) I-MOD
+o I-MOD
+art I-MOD
+. I-MOD
 201-a I-MOD
 e I-MOD
 o I-MOD
 § I-MOD
-6º I-MOD
+6º I-ADD
 do I-ADD
-art. I-ADD
-40 I-ADD
+art I-ADD
+. I-ADD
+40 I-MOD
 da I-ADD
-constituição I-MOD
-federal, I-MOD
-contidos I-MOD
-no I-SUP
-art. I-SUP
+constituição I-ADD
+federal I-MOD
+, I-MOD
+contidos I-SUP
+no I-MOD
+art I-MOD
+. I-MOD
 1º I-MOD
+
+
+ I-MOD
 da I-MOD
-pec; I-MOD
-b) I-MOD
+pec I-MOD
+; I-MOD
+
+
+ I-MOD
+b I-MOD
+) I-MOD
 o I-MOD
-art. I-MOD
+art I-MOD
+. I-MOD
 115 I-MOD
-do I-SUP
-art. I-MOD
+do I-MOD
+art I-SUP
+. I-MOD
 2º I-MOD
 do I-MOD
 ato I-MOD
 das I-MOD
 disposições I-MOD
 constitucionais I-MOD
-transitórias, I-MOD
+transitórias I-MOD
+, I-MOD
 contido I-MOD
 no I-MOD
-art. I-SUP
-2º I-SUP
+art I-MOD
+. I-SUP
+2º I-MOD
 da O
-pec. O
+pec O
+. O
+
+
+
+
+
+
+ O
 câmara O
 dos O
 deputado O
+
+ O

@@ -1,5 +1,5 @@
-civil O
-distrito O
+federal O
+” O
 comissão O
 destinada O
 proferir O
@@ -11,78 +11,120 @@ emenda O
 à O
 constituição O
 nº O
-6, O
+6 O
+, O
 de O
-2019, O
+2019 O
+, O
 do O
 poder O
-executivo, O
+executivo O
+, O
 que O
-“modifica O
+“ O
+modifica O
 o O
 sistema O
 de O
 previdência O
-social, O
+social O
+, O
 estabelece O
+
+
+ O
 regras O
 de O
 transição O
 e O
 disposições O
-transitórias, O
+transitórias O
+, O
 e O
 dá O
-outras O
-providências.” O
+
+
+ I-MOD
+outras I-MOD
+providências O
+. O
+” O
+
+
+
+
+ O
 emenda O
 aditiva O
-acrescente-se B-ADD
-à I-ADD
+
+
+ O
+acrescente O
+- O
+se O
+à O
 proposta I-ADD
 de I-ADD
 emenda I-ADD
 à I-ADD
 constituição I-ADD
 nº I-ADD
-6, I-ADD
+6 I-ADD
+, I-ADD
 de I-ADD
-2019, I-ADD
+2019 I-ADD
+, I-ADD
 dispositivo I-ADD
 com I-ADD
 a I-ADD
 seguinte I-ADD
-redação: I-MOD
-“capítulo I-MOD
+redação I-ADD
+: I-MOD
+
+
+ I-MOD
+“ I-MOD
+capítulo I-MOD
 viii I-MOD
 disposições I-MOD
 finais I-MOD
-art. I-MOD
-(...) I-MOD
+
+
+ I-MOD
+art I-MOD
+. I-MOD
+( I-MOD
+... I-MOD
+) I-MOD
 fica I-MOD
 garantido I-MOD
-aos I-MOD
+a I-MOD
+os I-MOD
 integrantes I-MOD
 da I-MOD
 polícia I-MOD
-federal, I-MOD
+federal I-MOD
+, I-MOD
 da I-MOD
 polícia I-MOD
 rodoviária I-MOD
-federal, I-MOD
+federal I-MOD
+, I-MOD
 das I-MOD
 polícias I-MOD
-civis, I-MOD
+civis I-MOD
+, I-SUP
 das I-MOD
-polícias I-MOD
+polícias I-SUP
 militares I-MOD
-e I-MOD
-corpos I-MOD
-de I-MOD
-bombeiros I-MOD
-militares, I-MOD
-das I-MOD
-guardas I-MOD
+e I-SUP
+corpos I-SUP
+de I-SUP
+bombeiros I-SUP
+militares I-MOD
+, I-MOD
+das I-SUP
+guardas I-SUP
 municipais I-SUP
 e I-SUP
 os I-SUP
@@ -96,16 +138,25 @@ na I-SUP
 data I-SUP
 da I-SUP
 promulgação I-SUP
-desta I-SUP
+d I-SUP
+esta I-SUP
 emenda I-SUP
 o I-SUP
 direito I-SUP
 de I-SUP
 optar I-SUP
 por I-ADD
-se I-ADD
+se I-SUP
 aposentar I-MOD
 pelo I-MOD
 regramento I-MOD
-anterior.” O
-(ac) O
+anterior I-MOD
+. I-MOD
+” I-MOD
+( I-MOD
+ac I-MOD
+) O
+
+
+
+ O

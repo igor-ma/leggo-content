@@ -1,11 +1,19 @@
-serviço O
-e O
+
+
+ O
+” O
 câmara O
 deputados O
+liderança O
 do O
 partido O
 socialista O
 brasileiro O
+
+
+
+
+ O
 comissão O
 especial O
 destinada O
@@ -21,88 +29,162 @@ constituição O
 n. O
 6/ O
 2019 O
-modifica B-MOD
-o O
-sistema O
-de O
+
+
+
+
+ O
+modifica I-MOD
+o I-MOD
+sistema I-MOD
+de I-MOD
 previdência I-MOD
-social, I-MOD
+social I-MOD
+, I-MOD
+
+
+ I-MOD
 estabelece I-MOD
 regras I-MOD
 de I-MOD
 transição I-MOD
 e I-MOD
 disposições I-MOD
-transitórias, I-MOD
+
+
+ I-MOD
+transitórias I-MOD
+, I-MOD
 e I-MOD
-dá O
-outras O
-providências. O
+dá I-MOD
+outras I-MOD
+providências O
+. O
+
+
+
+
+
+
+ O
 emenda O
 supressiva O
-(do O
+
+
+ O
+( O
+do O
 sr. O
-tadeu O
-alencar O
+tadeu I-MOD
+alencar I-MOD
 e O
-outros) O
+outros I-MOD
+) I-MOD
+
+
+
+
+
+
+ I-MOD
 suprime I-MOD
-dispositivos I-MOD
-da I-MOD
-pec I-MOD
-n. I-MOD
-6, I-MOD
-de I-MOD
-2019, I-MOD
-para I-MOD
+dispositivos I-SUP
+da I-SUP
+pec I-SUP
+n. I-SUP
+6 I-SUP
+, I-SUP
+de I-SUP
+2019 I-SUP
+, I-SUP
+para I-SUP
 manter I-MOD
 a I-MOD
 regra I-SUP
-constitucional I-SUP
+constitucional I-MOD
 vigente I-MOD
 para I-MOD
+
+
+ I-MOD
 a I-MOD
-concessão I-MOD
-do I-SUP
-abono I-SUP
-salarial I-SUP
-anual. I-SUP
-suprimam-se I-SUP
-da I-SUP
+concessão I-SUP
+do I-ADD
+abono I-ADD
+salarial I-ADD
+anual I-ADD
+. I-ADD
+
+
+
+
+
+
+ I-ADD
+suprimam I-ADD
+- I-ADD
+se I-ADD
+da O
 proposta I-ADD
+de I-ADD
+emenda I-SUP
+à I-SUP
+constituição I-SUP
+n. I-SUP
+6 I-SUP
+, I-SUP
 de I-SUP
-emenda I-ADD
-à I-ADD
-constituição I-ADD
-n. I-ADD
-6, I-SUP
-de I-SUP
-2019, I-MOD
-os I-MOD
-dispositivos I-MOD
+2019 I-SUP
+, I-SUP
+os I-SUP
+dispositivos I-SUP
 que I-MOD
-seguem: I-MOD
-a) I-MOD
-art. I-MOD
-239, I-ADD
+seguem I-MOD
+: I-MOD
+
+
+
+
+ I-MOD
+a I-MOD
+) I-MOD
+art I-MOD
+. I-ADD
+239 I-MOD
+, I-MOD
 da I-ADD
 constituição I-ADD
-federal, I-ADD
+federal I-ADD
+, I-ADD
 com I-ADD
 redação I-ADD
-dada I-ADD
+dada I-MOD
 pelo I-MOD
-art. I-MOD
-1º; I-MOD
-b) I-MOD
-art. I-MOD
+art I-MOD
+. I-MOD
+1º I-MOD
+; I-MOD
+b I-MOD
+) I-MOD
+art I-MOD
+. I-MOD
 40 I-MOD
 e I-MOD
 o I-MOD
-§4º I-MOD
+§ I-MOD
+4º I-MOD
 do I-MOD
-art. I-MOD
-41, O
-ambos O
+art I-MOD
+. I-SUP
+41 I-MOD
+, I-SUP
+ambos I-MOD
 da O
-pec. O
+pec O
+. O
+
+
+
+
+
+ O

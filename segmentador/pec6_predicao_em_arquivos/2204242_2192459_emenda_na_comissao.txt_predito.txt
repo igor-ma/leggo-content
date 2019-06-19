@@ -1,35 +1,75 @@
-professores O
 educação O
+. O
 proposta O
 emenda O
 constituição O
 nº O
-6, O
+6 O
+, O
 de O
 2019 O
+
+
+
+
+ O
 modifica B-MOD
 o O
-sistema O
-de O
+sistema I-MOD
+de I-MOD
 previdência I-MOD
-social, I-MOD
+
+
+ I-MOD
+social I-MOD
+, I-MOD
 estabelece I-MOD
 regras I-MOD
 de I-MOD
 transição I-MOD
 e I-MOD
+
+
+ I-MOD
 disposições I-MOD
-transitórias, I-MOD
+
+
+ I-MOD
+transitórias I-MOD
+, I-MOD
+
+
+ I-MOD
 e I-MOD
+
+
+ I-MOD
 dá I-MOD
-outras I-ADD
-providências. I-ADD
+
+
+ I-MOD
+outras I-MOD
+
+
+ I-MOD
+providências I-MOD
+. I-MOD
+
+
+ I-ADD
 emenda I-ADD
-nº I-ADD
+nº I-MOD
+
+
+
+
+
+
+ I-ADD
 com I-ADD
 o I-ADD
-objetivo I-MOD
-de I-ADD
+objetivo I-ADD
+de I-MOD
 unificar I-MOD
 as I-MOD
 regras I-MOD
@@ -41,21 +81,39 @@ do I-MOD
 rpps I-MOD
 e I-MOD
 do I-MOD
-rgps, I-SUP
+rgps I-MOD
+, I-MOD
 distribuídos I-MOD
-em I-MOD
+em I-SUP
 146 I-MOD
 dispositivos I-MOD
-dessa I-MOD
-pec, I-SUP
-incluam-se, I-MOD
-onde I-MOD
-couber, I-MOD
-os I-MOD
-seguintes I-MOD
-artigos: I-MOD
-“art. I-MOD
-___ressalvado I-MOD
+d I-MOD
+essa I-MOD
+pec I-MOD
+, I-MOD
+incluam I-MOD
+- I-ADD
+se I-ADD
+, I-ADD
+onde I-ADD
+couber I-ADD
+, I-ADD
+os I-ADD
+seguintes I-ADD
+artigos I-MOD
+: I-MOD
+
+
+
+
+ I-MOD
+“ I-MOD
+art I-MOD
+. I-MOD
+_ I-MOD
+_ I-MOD
+_ I-MOD
+ressalvado I-MOD
 o I-MOD
 direito I-ADD
 de I-ADD
@@ -67,14 +125,17 @@ normas I-ADD
 estabelecidas I-ADD
 por I-ADD
 esta I-SUP
-emenda I-ADD
+emenda I-SUP
 à I-ADD
-constituição, I-SUP
-ao I-SUP
-servidor I-ADD
-público I-ADD
+constituição I-ADD
+, I-ADD
+a I-SUP
+o I-ADD
+servidor I-SUP
+público I-MOD
 filiado I-MOD
-aos I-MOD
+a I-MOD
+os I-MOD
 regimes I-MOD
 próprios I-MOD
 de I-MOD
@@ -84,21 +145,26 @@ até I-MOD
 a I-MOD
 data I-MOD
 de I-MOD
-promulgação I-MOD
-desta I-MOD
-emenda, I-MOD
+promulgação I-SUP
+d I-SUP
+esta I-SUP
+emenda I-SUP
+, I-SUP
 fica I-SUP
 assegurado I-SUP
-o I-SUP
-direito I-SUP
-à I-SUP
-aposentadoria, I-SUP
-obedecidos I-SUP
+o I-ADD
+direito I-ADD
+à I-ADD
+aposentadoria I-ADD
+, I-ADD
+obedecidos I-ADD
 os I-ADD
-requisitos I-MOD
+requisitos I-ADD
 de I-MOD
-concessão, I-MOD
-vantagens, I-MOD
+concessão I-MOD
+, I-MOD
+vantagens I-MOD
+, I-MOD
 regras I-MOD
 de I-MOD
 cálculo I-MOD
@@ -110,11 +176,12 @@ na I-SUP
 legislação I-SUP
 até I-SUP
 então I-SUP
-vigente, I-SUP
+vigente I-SUP
+, I-SUP
 desde I-SUP
-que I-MOD
+que I-SUP
 cumprido I-MOD
-período I-MOD
+período I-SUP
 adicional I-ADD
 correspondente I-ADD
 a I-ADD
@@ -123,26 +190,40 @@ por I-ADD
 cento I-ADD
 do I-SUP
 tempo I-SUP
-que, I-ADD
+que I-SUP
+, I-SUP
 na I-SUP
 data I-SUP
 de I-SUP
 promulgação I-SUP
-desta I-SUP
+d I-SUP
+esta I-SUP
 emenda I-SUP
 à I-SUP
-constituição, I-SUP
+constituição I-SUP
+, I-SUP
 faltaria I-SUP
-para I-SUP
+para I-ADD
 atingir I-SUP
 os I-SUP
 requisitos I-SUP
 exigidos I-SUP
-para I-MOD
-aposentadoria” I-MOD
-“art. I-SUP
-___ressalvado I-SUP
-o I-SUP
+para I-ADD
+aposentadoria I-ADD
+” I-ADD
+
+
+
+
+ I-ADD
+“ I-ADD
+art I-MOD
+. I-MOD
+_ I-MOD
+_ I-MOD
+_ I-MOD
+ressalvado I-MOD
+o I-MOD
 direito I-ADD
 de I-ADD
 opção I-ADD
@@ -153,13 +234,16 @@ normas I-ADD
 estabelecidas I-ADD
 por I-ADD
 esta I-SUP
-emenda O
+emenda I-SUP
 à I-ADD
-constituição, O
-ao I-ADD
+constituição O
+, I-ADD
+a I-ADD
+o I-ADD
 segurado I-ADD
 filiado I-ADD
-ao I-ADD
+a I-ADD
+o I-ADD
 regime I-ADD
 geral I-ADD
 de I-ADD
@@ -169,21 +253,26 @@ até I-ADD
 a I-MOD
 data I-MOD
 de I-MOD
-promulgação I-MOD
-desta I-MOD
-emenda, I-MOD
+promulgação I-SUP
+d I-SUP
+esta I-SUP
+emenda I-SUP
+, I-SUP
 fica I-SUP
 assegurado I-SUP
-o I-SUP
-direito I-SUP
-à I-SUP
-aposentadoria, I-SUP
-obedecidos I-SUP
+o I-ADD
+direito I-ADD
+à I-ADD
+aposentadoria I-ADD
+, I-ADD
+obedecidos I-ADD
 os I-ADD
-requisitos I-MOD
+requisitos I-ADD
 de I-MOD
-concessão, I-MOD
-vantagens, I-MOD
+concessão I-MOD
+, I-MOD
+vantagens I-MOD
+, I-MOD
 regras I-MOD
 de I-MOD
 cálculo I-MOD
@@ -195,11 +284,12 @@ na I-SUP
 legislação I-SUP
 até I-SUP
 então I-SUP
-vigente, I-SUP
+vigente I-SUP
+, I-SUP
 desde I-SUP
-que I-MOD
+que I-SUP
 cumprido I-MOD
-período I-MOD
+período I-SUP
 adicional I-ADD
 correspondente I-ADD
 a I-ADD
@@ -208,21 +298,37 @@ por I-ADD
 cento I-ADD
 do I-SUP
 tempo I-SUP
-que, I-ADD
+que I-SUP
+, I-SUP
 na I-SUP
 data I-SUP
 de I-SUP
 promulgação I-SUP
-desta I-SUP
+d I-SUP
+esta I-SUP
 emenda I-SUP
 à I-SUP
-constituição, I-SUP
+constituição I-SUP
+, I-SUP
 faltaria I-SUP
-para I-SUP
+para I-ADD
 atingir I-SUP
 os I-SUP
 requisitos I-SUP
 exigidos I-SUP
-para I-SUP
-aposentadoria.” I-SUP
-2 I-SUP
+para I-ADD
+aposentadoria I-SUP
+. I-SUP
+” I-SUP
+
+
+
+
+
+
+ I-SUP
+2 O
+
+
+
+ I-SUP

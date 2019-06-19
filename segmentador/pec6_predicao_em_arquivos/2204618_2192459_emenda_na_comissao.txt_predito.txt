@@ -1,13 +1,25 @@
 câmara O
 dos O
 deputados O
+
+
+ O
 gabinete O
 do O
 deputado O
 vinicius O
 carvalho O
 – O
-prb/sp O
+prb O
+/ O
+sp O
+
+
+
+
+
+
+ O
 comissão O
 especial O
 destinada O
@@ -17,61 +29,102 @@ parecer O
 à O
 proposta O
 de O
+
+
+ O
 emenda O
 à O
 constituição O
 nº O
-6, O
-de O
-2019. O
+6 O
+, O
+de I-SUP
+2019 O
+. O
+
+
+ O
 proposta O
 de O
 emenda O
 à O
 constituição O
 nº O
-6, O
+6 O
+, O
 de O
-2019. I-ADD
+2019 O
+. O
+
+
+ O
 modifica B-MOD
-o O
-sistema O
-de O
+o I-MOD
+sistema I-MOD
+de I-MOD
 previdência I-MOD
-social, I-MOD
+social I-MOD
+, I-MOD
 estabelece I-MOD
 regras I-MOD
 de I-MOD
 transição I-MOD
 e I-MOD
 disposições I-MOD
-transitórias, I-MOD
+transitórias I-MOD
+, I-MOD
 e I-MOD
 dá I-MOD
 outras I-MOD
-providências. O
+providências O
+. O
+
+
+ O
 emenda O
-supressiva, O
+supressiva O
+, O
 nº. O
-i O
-– O
-suprima-se O
+
+
+
+
+ O
+i I-MOD
+– I-MOD
+suprima I-MOD
+- I-MOD
+se I-MOD
 a I-MOD
 redação I-MOD
-dada O
-ao I-MOD
-art. I-MOD
-109 I-MOD
-da I-MOD
+dada I-MOD
+a I-MOD
+o I-MOD
+art O
+. I-MOD
+109 O
+da O
 cf I-MOD
 pelo I-MOD
-art. I-MOD
-1º, I-MOD
+art I-MOD
+. I-MOD
+1º I-MOD
+, I-MOD
 assim I-MOD
-redigida: I-MOD
-“art. I-MOD
-109. I-MOD
+redigida I-MOD
+: I-MOD
+
+
+ I-MOD
+“ I-MOD
+art I-MOD
+. I-MOD
+109 I-MOD
+. I-MOD
 .............................. I-MOD
+
+
+ I-MOD
 i I-MOD
 – I-MOD
 as I-MOD
@@ -79,25 +132,29 @@ causas I-MOD
 em I-MOD
 que I-MOD
 a I-MOD
-união, I-SUP
+união I-SUP
+, I-SUP
 a I-SUP
 entidade I-MOD
 autárquica I-MOD
 ou I-MOD
-a I-SUP
-empresa I-SUP
+a I-MOD
+empresa I-MOD
 pública I-SUP
 federal I-SUP
 for I-SUP
-interessada I-SUP
+interessada I-MOD
 na I-SUP
 condição I-MOD
 de I-SUP
-autora, I-SUP
-ré, I-MOD
+autora I-MOD
+, I-MOD
+ré I-MOD
+, I-MOD
 assistente I-MOD
 ou I-MOD
-oponente, I-MOD
+oponente I-MOD
+, I-MOD
 exceto I-MOD
 as I-MOD
 de I-MOD
@@ -112,8 +169,15 @@ e I-ADD
 à I-ADD
 justiça I-ADD
 do I-ADD
-trabalho; I-ADD
-.................................................. I-ADD
+trabalho I-ADD
+; I-ADD
+
+
+ I-MOD
+.................................................. I-MOD
+
+
+ I-ADD
 § I-MOD
 3º I-MOD
 lei I-MOD
@@ -125,18 +189,20 @@ causas I-MOD
 de I-MOD
 competência I-MOD
 da I-MOD
-justiça I-ADD
-federal, I-ADD
+justiça I-MOD
+federal I-ADD
+, I-MOD
 em I-MOD
-que I-SUP
+que I-MOD
 forem I-MOD
 parte I-MOD
 instituição I-MOD
 de I-MOD
 previdência I-MOD
 social I-MOD
-e I-SUP
-segurado, I-SUP
+e I-MOD
+segurado I-SUP
+, I-SUP
 possam I-SUP
 ser I-SUP
 processadas I-SUP
@@ -144,8 +210,9 @@ e I-SUP
 julgadas I-SUP
 na I-SUP
 justiça I-SUP
-estadual, I-SUP
-quando I-SUP
+estadual I-SUP
+, I-SUP
+quando I-MOD
 a I-MOD
 comarca I-MOD
 do I-MOD
@@ -157,11 +224,18 @@ for I-MOD
 sede I-MOD
 de I-MOD
 vara I-MOD
-federal. I-MOD
+federal I-MOD
+. I-MOD
+
+
+ I-MOD
 ........................................... I-MOD
+
+
+ I-MOD
 § I-MOD
-6º I-MOD
-compete I-MOD
+6º I-ADD
+compete I-ADD
 exclusivamente I-ADD
 à I-SUP
 justiça I-SUP
@@ -174,15 +248,17 @@ de I-MOD
 interesse I-MOD
 jurídico I-MOD
 da I-MOD
-união, I-MOD
+união I-MOD
+, I-MOD
 de I-SUP
-entidade I-SUP
+entidade I-MOD
 autárquica I-SUP
 ou I-SUP
 de I-SUP
 empresas I-SUP
 públicas I-SUP
-federais, I-SUP
+federais I-SUP
+, I-SUP
 que I-SUP
 justifique I-SUP
 o I-SUP
@@ -195,81 +271,145 @@ que I-SUP
 tramitava I-SUP
 na I-SUP
 justiça I-SUP
-estadual.” I-SUP
-(nr) I-SUP
-ii O
-– O
-suprima-se O
-a O
-redação O
+estadual I-SUP
+. I-SUP
+” I-MOD
+( I-MOD
+nr I-MOD
+) I-MOD
+
+
+
+
+ I-MOD
+ii I-MOD
+– I-MOD
+suprima I-MOD
+- I-MOD
+se I-MOD
+a I-MOD
+redação I-MOD
 dada I-MOD
-ao I-MOD
+a I-MOD
+o I-MOD
 § I-MOD
 5º I-ADD
 do I-ADD
-art. I-ADD
+art I-ADD
+. I-ADD
 195 I-ADD
-pelo I-MOD
-art. I-ADD
-1º, I-ADD
-assim I-ADD
-redigida: I-ADD
-“art. I-ADD
+pelo I-ADD
+art I-ADD
+. I-ADD
+1º I-ADD
+, I-MOD
+assim I-MOD
+redigida I-MOD
+: I-MOD
+
+
+ I-ADD
+“ I-ADD
+art I-ADD
+. I-ADD
 195 I-ADD
 .................................... I-ADD
+
+
+ I-ADD
 ..................................................... I-ADD
-§ I-ADD
-5º I-ADD
+
+
+ I-ADD
+§ I-MOD
+5º I-MOD
 nenhum I-MOD
 benefício I-ADD
 ou I-MOD
 serviço I-MOD
 da I-MOD
 seguridade I-SUP
-social I-SUP
-poderá I-SUP
+social I-ADD
+poderá I-ADD
 ser I-SUP
-criado, I-SUP
+criado I-SUP
+, I-SUP
 majorado I-SUP
 ou I-SUP
 estendido I-SUP
-por I-SUP
-ato I-MOD
-administrativo, I-MOD
+por I-MOD
+ato I-SUP
+administrativo I-MOD
+, I-MOD
 lei I-MOD
 ou I-MOD
 decisão I-MOD
-judicial, I-MOD
+judicial I-MOD
+, I-MOD
 sem I-MOD
 a I-MOD
-correspondente I-MOD
+correspondente I-ADD
 fonte I-SUP
 de I-SUP
-custeio O
-total.” O
-2 O
+custeio I-MOD
+total I-SUP
+. I-SUP
+” I-SUP
+
+
+
+
+ I-SUP
+2 I-SUP
+
+
+
+
+
+
+ I-SUP
 câmara O
 dos O
 deputados O
+
+
+ O
 gabinete O
 do O
 deputado O
-vinicius I-MOD
-carvalho I-MOD
+vinicius O
+carvalho O
 – O
-prb/sp O
+prb O
+/ O
+sp I-MOD
+
+
+
+
+ I-MOD
 iii I-MOD
 - I-MOD
-suprima-se I-MOD
+suprima I-MOD
+- I-MOD
+se I-MOD
 os I-MOD
-art. I-MOD
+art I-MOD
+. I-MOD
 43 I-MOD
 e I-MOD
-44, I-MOD
+44 I-MOD
+, I-MOD
 assim I-MOD
 redigidos I-MOD
-“art. I-MOD
-43. I-SUP
+
+
+ I-MOD
+“ I-MOD
+art I-MOD
+. I-MOD
+43 I-MOD
+. I-SUP
 permanecerão I-SUP
 na I-MOD
 justiça I-MOD
@@ -282,27 +422,31 @@ acidentes I-MOD
 de I-MOD
 trabalho I-MOD
 que I-MOD
-envolvam I-SUP
-a I-SUP
-união, I-SUP
-entidade I-SUP
+envolvam I-MOD
+a I-MOD
+união I-SUP
+, I-SUP
+entidade I-MOD
 autárquica I-SUP
 ou I-SUP
 as I-SUP
 empresas I-SUP
 públicas I-SUP
-federais, I-SUP
+federais I-SUP
+, I-SUP
 ajuizadas I-SUP
 até I-SUP
-a I-SUP
-data I-SUP
+a I-MOD
+data I-MOD
 de I-SUP
 promulgação I-SUP
-desta I-SUP
-emenda I-ADD
+d I-SUP
+esta I-SUP
+emenda I-SUP
 à I-SUP
-constituição, I-SUP
-hipótese I-SUP
+constituição I-SUP
+, I-ADD
+hipótese I-ADD
 em I-ADD
 que I-SUP
 lei I-SUP
@@ -317,13 +461,21 @@ em I-MOD
 tramitação I-MOD
 para I-MOD
 a I-MOD
-justiça I-ADD
-federal.” I-MOD
-“art. I-SUP
-44. I-ADD
+justiça I-SUP
+federal I-MOD
+. I-MOD
+” I-MOD
+
+
+ I-MOD
+“ I-MOD
+art I-MOD
+. I-MOD
+44 I-MOD
+. I-MOD
 até I-MOD
 que I-MOD
-seja I-ADD
+seja I-MOD
 publicada I-SUP
 a I-ADD
 lei I-MOD
@@ -334,11 +486,13 @@ refere I-SUP
 o I-SUP
 § I-MOD
 3º I-SUP
-do I-SUP
-art. I-MOD
-109 I-SUP
+do I-MOD
+art I-ADD
+. I-ADD
+109 I-MOD
 da I-SUP
-constituição, I-SUP
+constituição I-SUP
+, I-SUP
 poderão I-SUP
 ser I-SUP
 processadas I-SUP
@@ -346,25 +500,29 @@ e I-SUP
 julgadas I-SUP
 na I-SUP
 justiça I-SUP
-estadual I-MOD
+estadual I-SUP
 as I-MOD
 causas I-MOD
-previdenciárias, I-MOD
+previdenciárias I-MOD
+, I-MOD
 acidentárias I-MOD
 ou I-MOD
-não, I-MOD
+não I-MOD
+, I-MOD
 ajuizadas O
 pelos I-SUP
 segurados I-SUP
 ou I-SUP
 por I-SUP
 seus I-SUP
-dependentes, I-SUP
-de I-SUP
-competência I-ADD
+dependentes I-SUP
+, I-SUP
+de I-ADD
+competência I-MOD
 da I-MOD
 justiça I-MOD
-federal, I-MOD
+federal I-MOD
+, I-MOD
 quando I-MOD
 a I-MOD
 comarca I-MOD
@@ -374,7 +532,7 @@ do I-SUP
 segurado I-MOD
 distar I-MOD
 mais I-MOD
-de I-MOD
+de I-SUP
 cem I-MOD
 quilômetros I-MOD
 da I-MOD
@@ -383,4 +541,10 @@ de I-MOD
 vara I-MOD
 do I-MOD
 juízo I-MOD
-federal.” O
+federal I-MOD
+. I-MOD
+” I-MOD
+
+
+
+ O

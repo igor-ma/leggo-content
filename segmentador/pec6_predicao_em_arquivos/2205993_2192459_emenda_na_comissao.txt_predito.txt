@@ -1,81 +1,158 @@
-e O
-art. O
+. O
+. O
 comissão O
 da O
 à O
 emenda O
 da O
+
+
+ O
 constituição O
 nº O
-6, O
-de O
-2019. O
+6 I-SUP
+, I-SUP
+de I-SUP
+2019 O
+. O
+
+
+
+
+ O
 proposta O
 de O
 emenda O
 constitucional O
 nº O
-6, O
+6 O
+, O
 de O
 2019 O
+
+
+ O
 modifica B-MOD
 o O
-sistema O
-de O
+sistema I-MOD
+de I-MOD
 previdência I-MOD
-social, I-MOD
+
+
+ I-MOD
+social I-MOD
+, I-MOD
 estabelece I-MOD
 regras I-MOD
 de I-MOD
 transição I-MOD
 e I-MOD
+
+
+ I-MOD
 disposições I-MOD
-transitórias, I-MOD
+
+
+ I-MOD
+transitórias I-MOD
+, I-MOD
+
+
+ I-MOD
 e I-MOD
+
+
+ I-MOD
 dá I-MOD
+
+
+ I-MOD
 outras I-MOD
-providências. I-MOD
+
+
+ I-MOD
+providências I-MOD
+. I-MOD
+
+
+ I-MOD
 emenda I-MOD
-nº I-MOD
-altere-se I-MOD
-o O
-art. I-MOD
+nº O
+
+
+ O
+altere O
+- O
+se I-MOD
+o I-MOD
+art I-MOD
+. I-MOD
 1º I-ADD
 da I-MOD
 proposta I-MOD
 de I-MOD
-emenda I-MOD
-constitucional I-MOD
-nº I-MOD
-6, I-MOD
-de I-MOD
-2019, I-MOD
-no I-ADD
+emenda I-SUP
+constitucional I-SUP
+nº I-SUP
+6 I-SUP
+, I-SUP
+de I-SUP
+2019 I-ADD
+, I-SUP
+no I-SUP
 que I-SUP
 se I-SUP
 refere I-MOD
 à I-MOD
 alteração I-MOD
-constitucional I-SUP
+constitucional I-MOD
 proposta I-MOD
 no I-MOD
-art. I-MOD
-203 I-MOD
-§1º I-MOD
-inciso I-MOD
-i, I-MOD
-com I-MOD
-a I-MOD
+art I-MOD
+. I-MOD
+203 I-ADD
+§ I-MOD
+1º I-ADD
+
+
+ I-ADD
+inciso I-ADD
+i I-ADD
+, I-ADD
+com I-ADD
+a I-ADD
 seguinte I-ADD
-redação: I-ADD
-“art. I-MOD
-1º........................................................................................ I-MOD
-art. I-MOD
-203...................................................................................... I-MOD
-§1º............................................................................................. I-MOD
+redação I-ADD
+: I-MOD
+
+
+ I-MOD
+“ I-MOD
+art I-MOD
+. I-MOD
+1º I-MOD
+........................................................................................ I-MOD
+
+
+ I-MOD
+art I-MOD
+. I-MOD
+203 I-MOD
+...................................................................................... I-MOD
+
+
+ I-MOD
+§ I-MOD
+1º I-MOD
+............................................................................................. I-MOD
+
+
+ I-MOD
 i I-MOD
 - I-MOD
-considera-se I-MOD
+considera I-MOD
+- I-MOD
+se I-MOD
 condição I-MOD
 de I-MOD
 miserabilidade I-MOD
@@ -96,11 +173,24 @@ o I-MOD
 patrimônio I-MOD
 familiar I-MOD
 inferior I-MOD
-ao I-MOD
+a I-MOD
+o I-MOD
 valor I-MOD
 definido I-MOD
 em I-MOD
-lei; I-MOD
-”(nr) I-MOD
+lei I-MOD
+; I-MOD
+” I-MOD
+( I-MOD
+nr I-MOD
+) I-MOD
+
+
+ I-MOD
 .................................................................................................. I-MOD
-.................................................................................................. O
+
+
+ I-MOD
+.................................................................................................. I-MOD
+
+ O

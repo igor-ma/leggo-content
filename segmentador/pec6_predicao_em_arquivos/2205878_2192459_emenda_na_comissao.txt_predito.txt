@@ -1,5 +1,5 @@
-006/19 O
-previdência O
+- O
+social O
 comissão O
 ao O
 da O
@@ -7,91 +7,143 @@ proposta O
 de O
 emenda O
 à O
+
+
+ O
 constituição O
-n° O
-6, O
+n O
+° O
+6 O
+, I-SUP
 de O
 2019 O
+
+
+
+
+ O
 proposta O
 de O
 emenda O
 à O
 constituição O
 nº O
-6, O
+6 O
+, O
 de O
 2019 O
+
+
+ O
 modifica B-MOD
-o O
-sistema O
-de O
+o I-MOD
+sistema I-MOD
+de I-MOD
 previdência I-MOD
-social, I-MOD
+social I-MOD
+, I-MOD
+
+
+ I-MOD
 estabelece I-MOD
 regras I-MOD
 de I-MOD
 transição I-MOD
 e I-MOD
 disposições I-MOD
-transitórias, I-MOD
+
+
+ I-MOD
+transitórias I-MOD
+, I-MOD
 e I-MOD
-dá O
-outras O
-previdências. O
+dá I-MOD
+outras I-MOD
+previdências O
+. O
+
+
+
+
+ O
 emenda O
 supressiva O
 nº O
 de O
 2019 O
-(da O
+
+
+ O
+( I-ADD
+da I-MOD
 sra. I-MOD
 marília I-MOD
 arraes I-MOD
 e I-MOD
-outros) I-MOD
-suprima-se I-SUP
-da I-SUP
+outros I-MOD
+) I-MOD
+
+
+ I-MOD
+suprima I-MOD
+- I-MOD
+se I-MOD
+da O
 proposta I-ADD
-de I-ADD
+de O
 emenda I-ADD
 à I-ADD
 constituição I-ADD
 nº I-ADD
-6 I-SUP
+6 I-ADD
 de I-ADD
 2019 I-SUP
-o I-ADD
-§8º I-ADD
+o I-SUP
+§ I-SUP
+8º I-MOD
 do I-MOD
-art. I-MOD
+art I-ADD
+. I-MOD
 40 I-MOD
-com I-MOD
+
+
+ I-MOD
+com I-ADD
 redação I-MOD
 dada I-MOD
 pelo I-MOD
-art. I-MOD
+art I-MOD
+. I-MOD
 1º I-MOD
 da I-MOD
-proposta, I-MOD
+proposta I-MOD
+, I-MOD
 o I-MOD
-§4º I-MOD
+§ I-MOD
+4º I-MOD
 do I-MOD
-art. I-MOD
+art I-MOD
+. I-MOD
 9º I-MOD
 e I-MOD
-o I-SUP
-art. I-SUP
+o I-MOD
+art I-MOD
+. I-SUP
 10º. I-MOD
-dispositivos I-MOD
+dispositivos I-SUP
 que I-MOD
 facultam I-MOD
-aos I-MOD
+a I-MOD
+os I-MOD
 entes I-MOD
-federados I-SUP
+federados I-MOD
 estabelecer I-MOD
 critérios I-MOD
-para I-MOD
-concessão I-MOD
+para I-SUP
+concessão I-SUP
 do I-MOD
 abono I-MOD
-permanência. I-MOD
+permanência I-MOD
+. I-MOD
+
+ I-MOD

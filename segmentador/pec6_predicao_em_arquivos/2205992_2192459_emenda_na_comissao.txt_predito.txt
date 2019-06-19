@@ -1,84 +1,161 @@
-da O
-e O
+
+
+ O
+” O
 comissão O
 destinada O
 proferir O
 parecer O
 à O
+
+
+ O
 proposta O
 de O
 emenda O
 à O
 constituição O
 nº O
-6, O
-de O
-2019. O
+6 O
+, O
+de I-SUP
+2019 O
+. O
+
+
+ O
 proposta O
 de O
 emenda O
 à O
 constituição O
 nº O
-6, O
+6 O
+, O
 de O
-2019. I-ADD
+2019 O
+. O
+
+
+ O
 modifica B-MOD
 o O
-sistema O
-de O
+sistema I-MOD
+de I-MOD
 previdência I-MOD
-social, I-MOD
+
+
+ I-MOD
+social I-MOD
+, I-MOD
 estabelece I-MOD
 regras I-MOD
 de I-MOD
 transição I-MOD
 e I-MOD
+
+
+ I-MOD
 disposições I-MOD
-transitórias, I-MOD
+
+
+ I-MOD
+transitórias I-MOD
+, I-MOD
+
+
+ I-MOD
 e I-MOD
-dá O
-outras O
-providências. O
+
+
+ I-MOD
+dá I-MOD
+
+
+ I-MOD
+outras I-MOD
+
+
+ I-MOD
+providências O
+. O
+
+
+
+
+ O
 emenda O
 aditiva O
 nº O
+
+
+
+
+ O
 altera B-ADD
 o I-ADD
-art. I-ADD
+art I-MOD
+. I-MOD
 1º I-ADD
-da I-ADD
+da I-SUP
 proposta I-ADD
 de I-ADD
 emenda I-ADD
 à I-ADD
 constituição I-ADD
 nº I-ADD
-6, I-ADD
+6 I-ADD
+, I-ADD
 de I-SUP
-2019, I-SUP
-para I-SUP
-acrescentar I-SUP
-inc. I-SUP
-v I-SUP
-ao I-SUP
-§7º I-SUP
+2019 I-SUP
+, I-SUP
+para I-MOD
+acrescentar I-MOD
+inc I-MOD
+. I-MOD
+v I-MOD
+a I-MOD
+o I-MOD
+§ I-MOD
+7º I-MOD
 do I-SUP
-art. I-MOD
-201 I-ADD
+art I-SUP
+. I-SUP
+201 I-SUP
 da I-ADD
 constituição I-ADD
-federal, I-ADD
+federal I-ADD
+, I-ADD
 com I-ADD
 a I-ADD
 seguinte I-ADD
-redação: I-ADD
-“art. I-MOD
+redação I-ADD
+: I-MOD
+
+
+ I-MOD
+“ I-MOD
+art I-MOD
+. I-MOD
 201 I-MOD
 ....................................................................................... I-MOD
+
+
+ I-MOD
 ...................................................................................................... I-MOD
-§7º................................................................................................ I-MOD
+
+
+ I-MOD
+§ I-MOD
+7º I-MOD
+................................................................................................ I-MOD
+
+
+ I-MOD
 ...................................................................................................... I-MOD
+
+
+ I-MOD
 v I-MOD
 – I-MOD
 que I-MOD
@@ -97,11 +174,29 @@ da I-SUP
 federação I-SUP
 da I-SUP
 região I-MOD
-norte I-MOD
-e I-MOD
-nordeste I-MOD
-do I-MOD
-país. I-MOD
-............................................................................................” O
-(nr) O
+norte I-SUP
+e I-SUP
+nordeste I-SUP
+do I-SUP
+país I-SUP
+. I-SUP
+
+
+ I-MOD
+............................................................................................ I-SUP
+” I-MOD
+( I-SUP
+nr I-SUP
+) I-SUP
+
+
+
+
+
+
+ B-MOD
 2 O
+
+
+
+ O

@@ -1,11 +1,19 @@
-o O
 de O
+. O
 câmara O
 deputados O
+liderança O
 do O
 partido O
 socialista O
 brasileiro O
+
+
+
+
+
+
+ O
 comissão O
 especial O
 destinada O
@@ -21,50 +29,103 @@ constituição O
 n. O
 6/ O
 2019 O
-modifica B-MOD
-o O
-sistema O
-de O
+
+
+
+
+ O
+modifica I-MOD
+o I-MOD
+sistema I-MOD
+de I-MOD
 previdência I-MOD
-social, I-MOD
+social I-MOD
+, I-MOD
+
+
+ I-MOD
 estabelece I-MOD
 regras I-MOD
 de I-MOD
 transição I-MOD
 e I-MOD
 disposições I-MOD
-transitórias, I-MOD
+
+
+ I-MOD
+transitórias I-MOD
+, I-MOD
 e I-MOD
-dá O
-outras O
-providências. O
+dá I-MOD
+outras I-MOD
+providências O
+. O
+
+
+
+
+ O
 emenda O
 supressiva O
-(do O
+
+
+ O
+( O
+do O
 sr. O
 tadeu O
 alencar O
 e O
-outros) O
+outros O
+) O
+
+
+
+
+ I-MOD
 suprime O
 alterações I-MOD
-promovidas I-MOD
-pela I-MOD
-pec I-MOD
-n. I-MOD
-6, I-MOD
-de I-MOD
-2019, I-MOD
+promovidas I-SUP
+pela I-SUP
+pec I-SUP
+n. I-SUP
+6 I-SUP
+, I-SUP
+
+
+ I-SUP
+de I-SUP
+2019 I-SUP
+, I-MOD
 para I-MOD
 manter I-MOD
 as I-MOD
 regras I-MOD
 constitucionais I-MOD
+
+
+ I-MOD
 atinentes I-MOD
-ao I-MOD
+
+
+ I-MOD
+a I-MOD
+o I-MOD
+
+
+ I-MOD
 benefício I-MOD
+
+
+ I-MOD
 de I-MOD
-prestação I-ADD
+
+
+ I-MOD
+prestação I-MOD
+
+
+ I-ADD
 continuada I-ADD
 devidos I-ADD
 à I-ADD
@@ -72,45 +133,77 @@ pessoa I-ADD
 idosa I-ADD
 e I-ADD
 com I-ADD
+
+
+ I-MOD
 deficiência I-MOD
 na I-MOD
 forma I-MOD
 atualmente I-MOD
-vigente. I-MOD
-suprimam-se I-MOD
+vigente I-MOD
+. I-MOD
+
+
+
+
+
+
+ I-MOD
+suprimam I-MOD
+- I-MOD
+se I-ADD
 da O
 proposta I-ADD
+de I-ADD
+emenda I-SUP
+à I-SUP
+constituição I-SUP
+n. I-SUP
+6 I-SUP
+, I-SUP
 de I-SUP
-emenda I-ADD
-à I-ADD
-constituição I-ADD
-n. I-ADD
-6, I-SUP
-de I-SUP
-2019, I-MOD
-os I-MOD
-dispositivos I-MOD
+2019 I-SUP
+, I-SUP
+os I-SUP
+dispositivos I-SUP
 que I-MOD
-seguem: I-MOD
-a) I-MOD
-art. I-MOD
+seguem I-MOD
+: I-MOD
+
+
+ I-MOD
+a I-MOD
+) I-MOD
+art I-ADD
+. I-MOD
 203 I-ADD
-da I-MOD
-constituição I-MOD
-federal, I-ADD
+da I-ADD
+constituição I-ADD
+federal I-MOD
+, I-ADD
 com I-ADD
 redação I-ADD
-dada I-ADD
+dada I-MOD
 pelo I-MOD
-art. I-MOD
+art I-MOD
+. I-MOD
 1º I-MOD
 da I-MOD
-pec; I-MOD
-b) I-MOD
-art. I-MOD
+pec I-MOD
+; I-MOD
+b I-MOD
+) I-MOD
+art I-MOD
+. I-MOD
 41 I-MOD
 e I-MOD
-art. I-MOD
-42 O
-da O
-pec. O
+art I-MOD
+. I-MOD
+42 I-MOD
+da I-MOD
+pec O
+. O
+
+
+
+ O

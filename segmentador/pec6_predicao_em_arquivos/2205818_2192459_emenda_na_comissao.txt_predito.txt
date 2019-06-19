@@ -1,19 +1,32 @@
-28 O
 pec O
+. O
 câmara O
 deputados O
+gabinete O
 do I-MOD
 deputado I-MOD
 luciano I-MOD
 ducci I-MOD
-– O
-psb/pr O
+– I-MOD
+psb O
+/ O
+pr O
+
+
+
+
+
+
+ O
 comissão O
 especial O
 destinada O
 a O
 emitir O
 parecer O
+
+
+ O
 sobre O
 a O
 proposta O
@@ -22,73 +35,144 @@ emenda O
 à O
 constituição O
 nº O
-6, O
-de O
-2019. O
+6 O
+, O
+de I-SUP
+
+
+ O
+2019 O
+. O
+
+
+ O
 proposta O
 de O
 emenda O
 à O
 constituição O
 nº O
-6, O
+6 O
+, O
 de O
 2019 O
+
+
+ O
 modifica B-MOD
 o O
-sistema O
-de O
+sistema I-MOD
+de I-MOD
 previdência I-MOD
-social, I-MOD
+
+
+ I-MOD
+social I-MOD
+, I-MOD
 estabelece I-MOD
 regras I-MOD
 de I-MOD
 transição I-MOD
 e I-MOD
+
+
+ I-MOD
 disposições I-MOD
-transitórias, I-MOD
+
+
+ I-MOD
+transitórias I-MOD
+, I-MOD
+
+
+ I-MOD
 e I-MOD
+
+
+ I-MOD
 dá I-MOD
-outras O
-providências. O
-emenda O
+
+
+ I-MOD
+outras I-MOD
+
+
+ I-MOD
+providências I-MOD
+. I-MOD
+
+
+ I-MOD
+emenda I-MOD
 nº O
-acrescente-se B-ADD
-ao I-ADD
-art. I-MOD
-4º I-ADD
-da I-MOD
-pec I-MOD
-nº I-MOD
-6, I-MOD
-de I-MOD
-2019: I-MOD
-“art. I-ADD
-4º.......................................................................................... I-MOD
+
+
+ O
+acrescente O
+- O
+se I-ADD
+a I-MOD
+o I-MOD
+art I-MOD
+. I-MOD
+4º I-SUP
+da I-SUP
+pec I-SUP
+nº I-SUP
+6 I-SUP
+, I-SUP
+de I-ADD
+2019 I-ADD
+: I-ADD
+
+
+ I-MOD
+“ I-MOD
+art I-MOD
+. I-MOD
+4º I-MOD
+.......................................................................................... I-MOD
+
+
+ I-MOD
 ...................................................................................................... I-MOD
-§ I-MOD
+
+
+ I-MOD
+§ I-ADD
 7º- I-MOD
-aplicam-se I-MOD
+aplicam I-MOD
+- I-MOD
+se I-MOD
 as I-MOD
 disposições I-MOD
 concernentes I-MOD
-aos I-MOD
+a I-MOD
+os I-MOD
 policiais I-MOD
 de I-MOD
-que I-MOD
-trata I-MOD
-este I-MOD
+que I-ADD
+trata I-ADD
+este I-ADD
 artigo I-MOD
-às I-MOD
+à I-MOD
+s I-MOD
 guardas I-ADD
 municipais I-MOD
 a I-MOD
 que I-MOD
-se I-SUP
+se I-MOD
 refere I-SUP
 o I-SUP
 § I-SUP
+
+
+ I-SUP
 8º I-SUP
-do I-SUP
-art. O
-144.”(nr) I-SUP
+do I-MOD
+art I-MOD
+. I-SUP
+144.”(nr I-MOD
+) O
+
+ O

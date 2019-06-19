@@ -1,49 +1,75 @@
-contribuição, O
-ou O
+intercalado O
+” O
 comissão O
 destinada O
 proferir O
 parecer O
 à O
+
+
+ O
 proposta O
 de O
 emenda O
 à O
 constituição O
 nº O
-06, O
+06 O
+, O
 de O
 2019 O
+
+
+
+
+ O
 modifica B-MOD
-o O
-sistema O
-de O
+o I-MOD
+sistema I-MOD
+de I-MOD
 previdência I-MOD
-social, I-MOD
+social I-MOD
+, I-MOD
 estabelece I-MOD
 regras I-MOD
 de I-MOD
-transição, I-MOD
+transição I-MOD
+, I-MOD
 e I-MOD
-dá I-SUP
-outras O
-providências. O
+dá I-MOD
+outras I-MOD
+providências I-SUP
+. O
+
+
+
+
+ O
 emenda O
 na O
 comissão O
 aditiva O
 nº O
-(do O
+
+
+ O
+( O
+do O
 sr. O
 joão O
 h O
 campos O
 e O
-outros) O
+outros I-SUP
+) I-SUP
+
+
+ I-ADD
 destina I-ADD
 à I-ADD
 educação I-ADD
-20% I-ADD
+20 I-ADD
+% I-ADD
 do I-ADD
 que I-ADD
 for I-ADD
@@ -59,29 +85,49 @@ o I-MOD
 teto I-MOD
 dos I-ADD
 gastos I-ADD
-com I-MOD
-educação. I-MOD
-inclua-se I-MOD
+com I-ADD
+educação I-ADD
+. I-ADD
+
+
+
+
+
+
+ I-ADD
+inclua I-ADD
+- I-MOD
+se I-MOD
 na I-MOD
 pec I-MOD
-n. I-SUP
-06, I-SUP
+n. I-MOD
+06 I-SUP
+, I-MOD
 de I-MOD
 2019 I-MOD
 os I-MOD
 seguintes I-MOD
-dispositivos: I-MOD
-“art. I-MOD
+dispositivos I-MOD
+: I-MOD
+
+
+ I-MOD
+“ I-MOD
+art I-MOD
+. I-MOD
 a I-MOD
 partir I-MOD
-de I-MOD
-2020, I-MOD
-adicionalmente I-SUP
-aos I-SUP
+de O
+2020 O
+, I-MOD
+adicionalmente I-MOD
+a I-SUP
+os I-SUP
 recursos I-SUP
 previstos I-SUP
 no I-SUP
-art. I-SUP
+art I-SUP
+. I-SUP
 212 I-MOD
 da I-MOD
 constituição I-MOD
@@ -91,8 +137,8 @@ aplicado I-MOD
 o I-MOD
 percentual I-MOD
 de I-ADD
-vinte I-MOD
-por I-MOD
+vinte I-SUP
+por I-SUP
 cento I-SUP
 do I-ADD
 valor I-ADD
@@ -100,22 +146,25 @@ equivalente I-ADD
 à I-ADD
 diferença I-ADD
 entre I-ADD
-o I-MOD
-montante I-MOD
-previsto I-MOD
-no I-MOD
-§1º I-MOD
+o I-ADD
+montante I-ADD
+previsto I-ADD
+no I-ADD
+§ I-ADD
+1º I-SUP
 do I-MOD
-art. I-MOD
+art I-MOD
+. I-MOD
 3º I-MOD
 da I-MOD
 lei I-MOD
 n. I-MOD
-13.808, I-MOD
+13.808 I-MOD
+, I-MOD
 de I-MOD
 15 I-MOD
-de I-MOD
-janeiro I-MOD
+de I-SUP
+janeiro I-SUP
 de I-MOD
 2019 I-MOD
 e I-MOD
@@ -128,41 +177,58 @@ em I-MOD
 cada I-MOD
 exercício I-MOD
 financeiro I-MOD
-subsequente, I-MOD
+subsequente I-MOD
+, I-MOD
 até I-ADD
-que I-ADD
+que I-SUP
 o I-ADD
 montante I-SUP
 previsto I-SUP
-na I-MOD
-lei I-SUP
+na I-SUP
+lei I-MOD
 n. I-SUP
 13.808 I-SUP
+
+
+ I-MOD
 em I-MOD
 janeiro I-MOD
 de I-MOD
-2019 I-MOD
+2019 I-SUP
 seja I-SUP
-zerado”. I-MOD
-inclua-se I-ADD
-no I-ADD
+zerado I-MOD
+” I-MOD
+. I-MOD
+
+
+ I-MOD
+inclua I-MOD
+- I-MOD
+se I-ADD
+no I-MOD
 § I-ADD
 6º I-ADD
-do I-MOD
-art. I-MOD
+do I-ADD
+art I-MOD
+. I-MOD
 107 I-MOD
 do I-MOD
-adct O
-o O
-inciso O
+adct I-MOD
+o I-MOD
+inciso I-MOD
 v I-MOD
-“v I-MOD
+
+
+ I-MOD
+“ I-MOD
+v I-MOD
 - I-MOD
 despesas I-MOD
 relativas I-MOD
-à I-MOD
-função I-MOD
-educação, I-MOD
+à I-ADD
+função I-ADD
+educação I-ADD
+, I-ADD
 inclusive I-ADD
 as I-ADD
 aplicações I-MOD
@@ -176,7 +242,13 @@ refere I-MOD
 o I-SUP
 caput I-MOD
 do I-SUP
-art. I-MOD
-212 O
-da O
-constituição” O
+art I-MOD
+. I-SUP
+212 I-SUP
+da I-SUP
+constituição O
+” O
+
+
+
+ O

@@ -1,67 +1,112 @@
-contribuição O
-..................................................................................................” O
+( O
+) O
 comissão O
 destinada O
 proferir O
 parecer O
 à O
+
+
+ O
 proposta O
 de O
 emenda O
 à O
 constituição O
 nº O
-6, O
+6 O
+, O
 de O
 2019 O
+
+
+ O
 proposta O
 de O
 emenda O
 à O
 constituição O
 nº O
-6, O
-de O
-2019 O
-prevê I-ADD
-a I-ADD
-concessão I-ADD
+6 O
+, O
+de I-SUP
+2019 I-ADD
+
+
+ I-MOD
+prevê I-MOD
+
+
+ I-MOD
+a I-MOD
+
+
+ I-MOD
+concessão I-MOD
+
+
+ I-ADD
 de I-ADD
+
+
+ I-ADD
 aposentadoria I-ADD
 por I-ADD
 condição I-ADD
 especial I-ADD
+
+
+ I-ADD
 de I-ADD
-trabalho I-ADD
+trabalho I-MOD
 para I-MOD
 os I-MOD
 motoristas I-MOD
 de I-MOD
+
+
+ I-MOD
 transporte I-MOD
 rodoviário I-MOD
 de I-MOD
 passageiros I-MOD
 e I-MOD
+
+
+ I-MOD
 de I-MOD
-cargas, I-SUP
+cargas I-MOD
+, I-SUP
 cobradores I-SUP
 e I-SUP
 agentes I-SUP
-de O
-bordo. O
+de I-SUP
+bordo I-SUP
+. I-SUP
+
+
+ I-SUP
 emenda O
 nº O
-acrescente-se B-ADD
-dispositivo I-ADD
-ao I-ADD
-§ I-ADD
-7º I-ADD
+
+
+ O
+acrescente O
+- I-ADD
+se I-ADD
+dispositivo I-MOD
+a I-MOD
+o I-MOD
+§ I-MOD
+7º I-MOD
 do I-SUP
-art. I-SUP
+art I-SUP
+. I-SUP
 201 I-SUP
 contido I-SUP
 no I-SUP
-art. I-SUP
+art I-SUP
+. I-SUP
 1º I-SUP
 da I-SUP
 proposta I-ADD
@@ -70,32 +115,77 @@ emenda I-ADD
 à I-ADD
 constituição I-ADD
 nº I-ADD
-6, I-ADD
-de I-ADD
-2019, I-ADD
-e I-ADD
-inclua-se O
-art. O
+6 I-ADD
+, I-ADD
+de I-SUP
+2019 I-ADD
+, I-ADD
+e I-MOD
+inclua I-MOD
+- I-MOD
+se I-MOD
+art O
+. O
 25-a O
 à O
-pec O
-nº I-ADD
-6, I-ADD
+pec I-SUP
+nº O
+6 O
+, I-ADD
 de I-ADD
-2019, I-ADD
+2019 I-ADD
+, I-ADD
 com I-ADD
 a I-ADD
 seguinte I-ADD
-redação: I-ADD
-“art. I-MOD
-1º............................................................................ I-MOD
+redação I-ADD
+: I-MOD
+
+
+ I-MOD
+“ I-MOD
+art I-MOD
+. I-MOD
+
+
+ I-MOD
+1º I-MOD
+............................................................................ I-MOD
+
+
+ I-MOD
 .......... I-MOD
-“art. I-MOD
-201.......................................................................... I-MOD
+
+
+ I-MOD
+“ I-MOD
+art I-MOD
+. I-MOD
+
+
+ I-MOD
+201 I-MOD
+.......................................................................... I-MOD
+
+
+ I-MOD
 .............. I-MOD
+
+
+ I-MOD
 § I-MOD
-7º............................................................................ I-MOD
+
+
+ I-MOD
+7º I-MOD
+............................................................................ I-MOD
+
+
+ I-MOD
 ................... I-MOD
+
+
+ I-MOD
 v I-MOD
 – I-MOD
 motoristas I-MOD
@@ -103,34 +193,62 @@ profissionais I-MOD
 de I-MOD
 transporte I-MOD
 rodoviário I-MOD
-e O
+e I-ADD
 urbano O
 de O
-passageiros, O
-ou O
+passageiros O
+, O
+ou I-MOD
 de I-MOD
-cargas, I-SUP
+cargas I-MOD
+, I-SUP
 que I-SUP
-exerçam I-SUP
+exerçam I-MOD
 a I-SUP
 sua I-SUP
 profissão I-SUP
-em I-MOD
-veículos I-MOD
-de I-MOD
+em I-SUP
+veículos I-SUP
+de I-SUP
 grande I-MOD
-porte, I-SUP
+porte I-SUP
+, I-SUP
 cobradores I-SUP
 e I-SUP
-agentes I-MOD
+agentes I-SUP
 de I-SUP
-bordo. I-SUP
+bordo I-SUP
+. I-SUP
+
+
+ I-MOD
+................................................................................ I-MOD
+
+
+ I-SUP
+.................. I-SUP
+” I-SUP
+
+
+ I-SUP
+2 I-SUP
+
+
+
+
+ I-SUP
 ................................................................................ I-SUP
-..................” I-SUP
-2 O
-................................................................................ I-SUP
-..................” I-SUP
-“art. I-SUP
+
+
+ I-SUP
+.................. I-MOD
+” I-MOD
+
+
+ I-MOD
+“ I-MOD
+art I-MOD
+. I-MOD
 25-a I-MOD
 até I-MOD
 que I-MOD
@@ -143,19 +261,25 @@ complementar I-ADD
 a I-ADD
 que I-ADD
 se I-ADD
-refere I-ADD
+refere I-MOD
 o I-SUP
-§ I-SUP
+§ I-MOD
 7º I-SUP
 do I-SUP
-art. I-MOD
-201 I-MOD
+art I-SUP
+. I-SUP
+201 I-SUP
+
+
+ I-MOD
 da I-MOD
-constituição, I-MOD
+constituição I-MOD
+, I-ADD
 será I-ADD
 concedida I-ADD
 aposentadoria I-ADD
-ao I-ADD
+a I-ADD
+o I-ADD
 segurado I-ADD
 que I-ADD
 comprove I-ADD
@@ -175,58 +299,74 @@ de O
 passageiros O
 ou O
 de I-MOD
-cargas I-SUP
+cargas I-MOD
 que I-SUP
-exerçam I-SUP
+
+
+ I-SUP
+exerçam I-MOD
 a I-SUP
 sua I-SUP
-profissão I-SUP
-em I-MOD
-veículos I-MOD
-de I-MOD
+profissão I-MOD
+em I-SUP
+veículos I-SUP
+de I-SUP
 grande I-MOD
-porte, I-SUP
+porte I-SUP
+, I-SUP
 cobradores I-SUP
 e I-SUP
 agentes I-SUP
 de I-SUP
-bordo, I-SUP
+bordo I-SUP
+, I-SUP
 desde I-SUP
-que I-SUP
-obedecido I-MOD
-o I-MOD
+que I-MOD
+obedecido I-ADD
+o I-ADD
 seguinte I-MOD
-requisito: I-MOD
+requisito I-ADD
+: I-MOD
+
+
+ I-MOD
 i I-MOD
 – I-MOD
 vinte I-MOD
-e I-MOD
-cinco I-MOD
-anos I-MOD
-de I-MOD
-contribuição. I-ADD
+e I-ADD
+cinco I-ADD
+anos I-ADD
+de I-ADD
+contribuição I-ADD
+. I-ADD
+
+
+ I-ADD
 § I-ADD
 1º I-ADD
 a I-ADD
 aposentadoria I-ADD
 prevista I-ADD
-no I-ADD
-caput I-ADD
+no I-MOD
+caput I-MOD
 será I-MOD
 concedida I-MOD
-ao I-MOD
+a I-MOD
+o I-MOD
 segurado I-MOD
-que I-ADD
+que I-MOD
 comprovar I-MOD
 o I-ADD
 tempo I-ADD
-de I-MOD
-trabalho I-MOD
-permanente, I-MOD
-não I-MOD
+de I-ADD
+trabalho I-ADD
+permanente I-ADD
+, I-ADD
+não I-ADD
 ocasional I-ADD
 nem I-SUP
-intermitente, I-MOD
+intermitente I-SUP
+, I-SUP
 na I-SUP
 função I-MOD
 de I-MOD
@@ -240,32 +380,39 @@ de O
 passageiros O
 ou O
 de I-MOD
-cargas, I-SUP
+cargas I-MOD
+, I-SUP
 que I-SUP
-exerçam I-SUP
+exerçam I-MOD
 a I-SUP
 sua I-SUP
 profissão I-SUP
-em I-MOD
-veículos I-MOD
-de I-MOD
+em I-SUP
+veículos I-SUP
+de I-SUP
 grande I-MOD
-porte, I-SUP
+porte I-SUP
+, I-SUP
 cobradores I-SUP
 e I-SUP
 agentes I-SUP
 de I-SUP
-bordo, I-SUP
+bordo I-SUP
+, I-SUP
 pelo I-SUP
-período I-SUP
+período I-MOD
 previsto I-MOD
 no I-MOD
 inciso I-SUP
-i I-SUP
+i I-MOD
 do I-SUP
-caput. I-MOD
+caput I-MOD
+. I-MOD
+
+
+ I-MOD
 § I-MOD
-2º I-ADD
+2º I-SUP
 o I-ADD
 valor I-ADD
 da I-ADD
@@ -274,33 +421,35 @@ de I-ADD
 que I-ADD
 trata I-ADD
 o I-ADD
-caput O
-corresponderá I-MOD
+caput I-MOD
+corresponderá I-ADD
 a I-ADD
 cem I-ADD
 por I-SUP
 cento I-ADD
 da I-SUP
-média I-MOD
+média I-ADD
 aritmética I-MOD
 definida I-MOD
 na I-MOD
 forma I-MOD
 prevista I-MOD
 no I-MOD
-art. I-MOD
-29, I-MOD
-com I-ADD
-acréscimo I-ADD
-de I-ADD
-dois I-MOD
+art I-MOD
+. I-MOD
+29 I-MOD
+, I-MOD
+com I-MOD
+acréscimo I-MOD
+de I-MOD
+dois I-ADD
 por I-MOD
 cento I-MOD
 para I-MOD
 cada I-ADD
 ano I-ADD
 de I-ADD
-contribuição I-MOD
+contribuição I-ADD
 que I-ADD
 exceder I-ADD
 o I-ADD
@@ -309,10 +458,10 @@ de I-MOD
 vinte I-MOD
 e I-ADD
 cinco I-ADD
-anos I-ADD
+anos I-SUP
 de I-SUP
 contribuição I-SUP
-na I-ADD
+na I-SUP
 atividade I-ADD
 de I-ADD
 motorista I-ADD
@@ -325,38 +474,99 @@ de O
 passageiros O
 ou O
 de I-MOD
-cargas, I-SUP
+cargas I-MOD
+, I-SUP
 que I-SUP
 exerçam I-SUP
-a I-SUP
+a I-MOD
 sua I-SUP
-profissão I-SUP
+profissão I-MOD
+
+
+ I-MOD
 em I-MOD
+
+
+ I-MOD
 veículos I-MOD
+
+
+ I-MOD
 de I-MOD
+
+
+ I-MOD
 grande I-MOD
-porte, I-SUP
+
+
+ I-MOD
+porte I-MOD
+, I-SUP
+
+
+ I-SUP
 cobradores I-SUP
 e I-SUP
 agentes I-SUP
 de I-SUP
-bordo. O
+bordo I-SUP
+. I-SUP
+
+
+
+
+
+
+ I-SUP
 3 O
+
+
+
+
+ O
 termo O
 de O
 apoiamento O
+
+
+ O
 nome O
+
+
+ O
 partido O
+
+
+ O
 assinatura O
+
+
+
+
+
+
+ O
 autor O
-leonardo O
+
+
+ O
+leonardo I-MOD
 monteiro O
-deputado O
-federal O
+
+
+ I-MOD
+deputado I-MOD
+federal I-MOD
 pt- I-MOD
-mg O
+mg I-MOD
+
+
+
+
+ O
 após O
-assinatura, O
+assinatura O
+, O
 favor O
 entrar O
 em O
@@ -364,4 +574,13 @@ contato O
 com O
 ramal O
 55922 O
+
+
+ O
 4 O
+
+
+
+
+
+ O

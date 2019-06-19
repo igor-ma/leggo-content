@@ -1,159 +1,269 @@
-federal O
 bulhões O
+. O
 comissão O
-proposta O
+
+
+
+
+ O
+de O
 emenda O
 constitucional O
 nº O
 06 O
 de O
 2019 O
+
+
+
+
+ O
 modifica B-MOD
-o O
-sistema O
-de O
+o I-MOD
+sistema I-MOD
+de I-MOD
 previdência I-MOD
-social, I-MOD
+social I-MOD
+, I-MOD
 estabelece I-MOD
 regras I-MOD
 de I-MOD
 transição I-MOD
 e I-MOD
 disposições I-MOD
-transitórias, I-MOD
+transitórias I-MOD
+, I-MOD
 e I-MOD
-dá O
-outras O
-providências. O
+dá I-MOD
+outras I-MOD
+providências O
+. O
+
+
+
+
+ O
 emenda O
 aditiva O
 nº O
-_______, O
-de O
+_ O
+_ O
+_ I-MOD
+_ I-MOD
+_ I-MOD
+_ I-MOD
+_ I-MOD
+, I-MOD
+de I-MOD
 2019 O
-(do O
-sr. O
-júlio O
-césar) O
+
+
+ O
+( O
+do O
+sr. I-MOD
+júlio I-MOD
+césar O
+) I-MOD
+
+
+ I-MOD
 altera I-MOD
 as I-MOD
 regras I-MOD
 do I-MOD
-financiamento I-ADD
+financiamento I-MOD
 da I-MOD
-seguridade I-ADD
-social, I-ADD
-por I-ADD
+seguridade I-MOD
+
+
+ I-ADD
+social I-MOD
+, I-ADD
+
+
+ I-MOD
+por I-MOD
+
+
+ I-MOD
 meio I-MOD
+
+
+ I-MOD
 da I-MOD
+
+
+ I-MOD
 incorporação I-MOD
-dos I-MOD
-novos I-MOD
-§§ I-MOD
-5º I-MOD
-e I-MOD
-6º, I-MOD
-ao I-MOD
-art. I-MOD
+dos I-ADD
+novos I-ADD
+§ I-MOD
+§ I-ADD
+5º I-ADD
+e I-ADD
+6º I-ADD
+, I-MOD
+a I-MOD
+o I-MOD
+art I-MOD
+. I-MOD
 159 I-MOD
 da I-MOD
 constituição I-MOD
-federal. I-MOD
-art. I-MOD
+federal I-MOD
+. I-MOD
+
+
+
+
+ I-ADD
+art I-MOD
+. I-MOD
 1º. I-MOD
-acrescente-se B-ADD
-o I-ADD
+acrescente I-MOD
+- I-MOD
+se I-MOD
+o I-MOD
 § I-ADD
 5º I-ADD
 e I-ADD
 demais I-ADD
-incisos, I-ADD
-ao I-MOD
-art.159 I-ADD
-da I-ADD
+incisos I-MOD
+, I-MOD
+a I-ADD
+o I-MOD
+art.159 I-MOD
+da I-MOD
 constituição I-MOD
 federal I-MOD
+
+
+ I-MOD
 “ I-MOD
-art. I-MOD
-159...................................................................................... I-ADD
+art I-MOD
+. I-MOD
+159 I-MOD
+...................................................................................... I-MOD
+
+
+ I-MOD
 ....................................................................................................... I-MOD
-§5º I-MOD
+
+
+ I-MOD
+§ I-ADD
+5º I-ADD
 a I-ADD
 contribuição I-ADD
 social I-ADD
-prevista I-ADD
+prevista I-MOD
 na I-ADD
 alínea I-ADD
-c, I-MOD
-do I-SUP
-inciso I-SUP
-i, I-MOD
+c I-MOD
+, I-SUP
 do I-MOD
-art. I-MOD
+inciso I-MOD
+i I-MOD
+, I-MOD
+do I-ADD
+art I-MOD
+. I-MOD
+
+
+ I-ADD
 195 I-ADD
 será I-ADD
 repartida I-ADD
 nos I-ADD
 termos I-ADD
 do I-ADD
-inciso I-SUP
-i, I-MOD
+inciso I-ADD
+i I-SUP
+, I-SUP
 e I-SUP
-suas I-MOD
-respectivas I-MOD
-alíneas, I-MOD
+suas I-SUP
+respectivas I-SUP
+alíneas I-SUP
+, I-SUP
 do I-SUP
 caput I-SUP
-deste I-MOD
-artigo I-MOD
-§6º I-MOD
-a I-SUP
+d I-SUP
+este I-SUP
+artigo I-SUP
+
+
+ I-SUP
+§ I-ADD
+6º I-ADD
+a I-ADD
 repartição I-ADD
 prevista I-ADD
-no I-SUP
-§5º I-SUP
-deverá I-SUP
+no I-ADD
+§ I-ADD
+5º I-ADD
+deverá I-ADD
 ser I-SUP
-aplicada I-SUP
-pelos I-ADD
-estados, I-SUP
+aplicada I-ADD
+pelos I-SUP
+estados I-SUP
+, I-MOD
 distrito I-MOD
 federal I-MOD
 e I-MOD
 municípios I-MOD
 nos I-MOD
 seguintes I-ADD
-percentuais: I-ADD
+percentuais I-ADD
+: I-ADD
 i I-MOD
-– I-MOD
-ao I-MOD
-menos I-MOD
-50% I-MOD
-em I-MOD
-investimentos; I-MOD
-ii I-MOD
-- I-MOD
-até I-MOD
-50% I-MOD
-para I-MOD
-quitação I-MOD
-de I-MOD
-débitos, I-MOD
+– I-ADD
+a I-ADD
+o I-ADD
+menos I-ADD
+50 I-ADD
+% I-ADD
+em I-ADD
+investimentos I-ADD
+; I-ADD
+
+
+ I-ADD
+ii I-ADD
+- I-ADD
+até I-ADD
+50 I-ADD
+% I-ADD
+para I-ADD
+quitação I-ADD
+de I-ADD
+débitos I-SUP
+, I-SUP
 previdenciários I-MOD
 ou I-MOD
-não, I-MOD
+não I-MOD
+, I-MOD
 com I-ADD
 o I-ADD
-tesouro I-ADD
-ou I-ADD
-com I-MOD
-instituições I-MOD
-oficiais I-MOD
-de I-MOD
-crédito, I-MOD
-respeitada I-MOD
-a I-MOD
-ordem I-MOD
+tesouro I-MOD
+ou I-MOD
+com I-ADD
+instituições I-ADD
+oficiais I-ADD
+de I-ADD
+crédito I-ADD
+, I-ADD
+respeitada I-ADD
+a I-ADD
+ordem I-ADD
 descrita I-MOD
-neste I-MOD
-inciso” I-MOD
+n I-MOD
+este I-MOD
+inciso I-MOD
+” I-MOD
+
+
+
+
+
+ I-MOD
