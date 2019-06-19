@@ -105,7 +105,7 @@ def main():
 	TAMANHO_JANELA = 4
 
 	#lendo arquivos e formatando
-	lista_arquivos = os.listdir('/local/textos_pec6/')[:1]
+	lista_arquivos = os.listdir('/local/textos_pec6/')
 
 	pares_palavra_tag = []
 	contador_blocos_documento = []
@@ -115,12 +115,12 @@ def main():
 		documento_atual = []
 		with open('textos_pec6/' + arquivo, 'r') as arq:
 			texto = arq.read()
-			#doc = nlp(texto)
+			doc = nlp(texto)
 			#for token in doc:
 			#	print(token.text, token.pos_, token.dep_)
-			texto = texto.split()
+			#texto = texto.split()
 			#doc = nlp(texto)
-			#texto = [token.text for token in doc]
+			texto = [token.text for token in doc]
 			for palavra in texto:
 				documento_atual.append((palavra, 'tag_auxiliar'))
 		contador_blocos_documento.append(len(documento_atual))
@@ -142,7 +142,7 @@ def main():
 	
 	#classificando
 	tagger = pycrfsuite.Tagger()
-	tagger.open('modelo.model')
+	tagger.open('modelo_not_apt.model')
 
 
 	#há milhares de blocos
