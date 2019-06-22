@@ -1,0 +1,146 @@
+) O
+11 O
+comissão O
+destinada O
+proferir O
+parecer O
+à O
+
+
+ O
+proposta O
+de O
+emenda O
+à O
+constituição O
+nº O
+6 O
+, O
+de O
+2019 O
+
+
+ O
+proposta O
+de O
+emenda O
+à O
+constituição O
+nº O
+6 O
+, O
+de O
+2019 I-ADD
+
+
+
+
+ I-ADD
+modifica B-MOD
+o I-MOD
+sistema I-MOD
+de I-MOD
+previdência I-MOD
+
+
+ I-MOD
+social I-MOD
+, I-MOD
+estabelece I-MOD
+regras I-MOD
+de I-MOD
+transição I-MOD
+e I-MOD
+disposições I-MOD
+
+
+ I-MOD
+transitórias I-MOD
+, I-MOD
+
+
+ I-MOD
+e I-MOD
+
+
+ I-MOD
+dá I-MOD
+
+
+ I-MOD
+outras I-MOD
+
+
+ I-MOD
+providências I-MOD
+. E-MOD
+
+
+ O
+emenda O
+nº O
+
+
+ O
+suprimam O
+- O
+se I-MOD
+o I-MOD
+art I-MOD
+. I-MOD
+6º I-MOD
+, I-MOD
+o I-MOD
+inciso I-MOD
+iv I-MOD
+do I-MOD
+§ I-SUP
+4º I-SUP
+do I-SUP
+art I-SUP
+. I-SUP
+12 I-SUP
+, I-SUP
+o I-SUP
+art I-SUP
+. I-SUP
+21 I-MOD
+e I-SUP
+o I-MOD
+art I-SUP
+. I-SUP
+25 I-MOD
+, I-MOD
+todos I-SUP
+da I-SUP
+proposta I-ADD
+de I-ADD
+emenda I-SUP
+à I-ADD
+constituição I-ADD
+nº I-SUP
+6 I-ADD
+, I-ADD
+de I-SUP
+2019 I-SUP
+, I-SUP
+que I-ADD
+tratam I-ADD
+sobre I-ADD
+a I-ADD
+aposentadoria I-SUP
+especial I-ADD
+dos I-ADD
+servidores I-ADD
+públicos I-ADD
+e I-ADD
+segurados I-ADD
+do I-ADD
+regime I-ADD
+geral I-ADD
+de I-ADD
+previdência I-ADD
+social I-ADD
+. E-MOD
+
+ O

@@ -1,0 +1,177 @@
+; I-SUP
+2 I-ADD
+proposta I-SUP
+emenda I-ADD
+constituição I-ADD
+nº I-SUP
+6 I-SUP
+, I-SUP
+de O
+2019 O
+
+
+
+
+
+
+ O
+emenda O
+modificativa O
+
+
+ O
+( O
+do O
+sr. O
+daniel O
+almeida O
+e O
+outros O
+) O
+
+
+ I-MOD
+modifica I-MOD
+o I-MOD
+art I-MOD
+. I-MOD
+54 I-MOD
+do I-MOD
+do I-MOD
+ato I-MOD
+das I-MOD
+
+
+ I-MOD
+disposições I-MOD
+constitucionais I-MOD
+transitórias I-MOD
+para I-MOD
+conceder I-MOD
+gratificação I-MOD
+natalina I-MOD
+a I-MOD
+os I-ADD
+seringueiros I-ADD
+recrutados I-SUP
+nos I-ADD
+termos I-ADD
+do I-ADD
+decreto I-ADD
+- I-ADD
+lei I-MOD
+nº I-MOD
+5.813 I-MOD
+, I-MOD
+de I-MOD
+14 I-MOD
+de I-MOD
+setembro I-MOD
+de O
+1943 O
+.. O
+
+
+
+
+ O
+dê O
+- O
+se O
+a O
+o I-MOD
+caput I-MOD
+do I-MOD
+art I-MOD
+. I-MOD
+54 I-MOD
+do I-MOD
+ato I-MOD
+das I-MOD
+disposições I-MOD
+constitucionais I-MOD
+transitórias I-MOD
+a I-MOD
+seguinte I-MOD
+redação I-MOD
+: I-MOD
+
+
+ I-MOD
+“ I-MOD
+art I-MOD
+. I-MOD
+54 I-MOD
+. I-MOD
+os I-ADD
+seringueiros I-ADD
+recrutados I-SUP
+nos I-ADD
+termos I-ADD
+do I-ADD
+decreto I-ADD
+- I-ADD
+lei I-MOD
+nº I-MOD
+
+
+ I-MOD
+5.813 I-MOD
+, I-MOD
+de I-MOD
+14 I-MOD
+de I-MOD
+setembro I-MOD
+de I-MOD
+1943 I-MOD
+, I-SUP
+e I-MOD
+amparados I-MOD
+pelo I-MOD
+decreto I-MOD
+- I-MOD
+lei I-MOD
+nº I-MOD
+
+
+ I-SUP
+9.882 I-MOD
+, I-SUP
+de I-SUP
+16 I-SUP
+de I-SUP
+setembro I-SUP
+de I-SUP
+1946 I-SUP
+, I-MOD
+receberão I-MOD
+, I-MOD
+quando I-MOD
+carentes I-MOD
+, I-MOD
+pensão I-MOD
+mensal I-MOD
+vitalícia I-MOD
+e I-MOD
+gratificação I-MOD
+natalina I-MOD
+no I-MOD
+valor I-MOD
+de I-MOD
+dois I-MOD
+salários I-MOD
+mínimos I-MOD
+. I-MOD
+
+
+ I-MOD
+............................................................................................ I-MOD
+” I-MOD
+( I-MOD
+nr I-MOD
+) I-MOD
+: O
+
+
+
+ O

@@ -1,0 +1,402 @@
+
+ O
+, O
+proposta O
+emenda O
+constituição O
+nº O
+6 O
+, O
+de I-SUP
+2019 I-SUP
+
+
+ I-SUP
+( O
+do O
+poder O
+executivo O
+) O
+
+
+
+
+ O
+modifica B-MOD
+o I-MOD
+sistema I-MOD
+de I-MOD
+previdência I-MOD
+social I-MOD
+, I-MOD
+estabelece I-MOD
+regras I-MOD
+de I-MOD
+transição I-MOD
+e I-MOD
+disposições I-MOD
+transitórias I-MOD
+, I-MOD
+e I-MOD
+dá I-MOD
+outras I-MOD
+providências I-MOD
+. E-MOD
+
+
+
+
+ O
+emenda O
+supressiva O
+nº O
+_ O
+_ O
+_ O
+_ I-MOD
+_ I-MOD
+_ I-MOD
+
+
+
+
+ I-MOD
+suprimam O
+- O
+se O
+do O
+texto O
+da O
+proposta O
+de O
+emenda I-ADD
+à I-ADD
+constituição I-ADD
+nº I-SUP
+6 I-ADD
+, I-ADD
+de I-ADD
+2019 I-SUP
+, I-SUP
+os I-MOD
+seguintes I-MOD
+dispositivos I-MOD
+ou I-MOD
+expressões I-MOD
+: I-MOD
+
+
+ I-MOD
+ I-SUP
+§ I-ADD
+§ I-ADD
+8º I-ADD
+, I-ADD
+8º-a I-ADD
+e I-MOD
+8º-b I-ADD
+do I-ADD
+art I-ADD
+. I-ADD
+195 I-ADD
+da I-ADD
+constituição I-ADD
+federal I-ADD
+, I-ADD
+constantes I-MOD
+do I-MOD
+art I-MOD
+. I-MOD
+1º I-SUP
+da I-SUP
+pec I-SUP
+nº I-SUP
+6 I-SUP
+, I-SUP
+de I-SUP
+2019 I-SUP
+. I-SUP
+
+
+ I-MOD
+ I-SUP
+inciso I-MOD
+iv I-MOD
+do I-MOD
+§ I-MOD
+7º I-SUP
+do I-SUP
+art I-SUP
+. I-MOD
+201 I-MOD
+da I-MOD
+constituição I-MOD
+federal I-MOD
+, I-MOD
+constante I-MOD
+do I-MOD
+art I-MOD
+. I-MOD
+1º I-SUP
+da I-SUP
+pec I-SUP
+nº I-SUP
+6 I-SUP
+, I-SUP
+de I-SUP
+2019 I-ADD
+. I-SUP
+
+
+ I-ADD
+ I-ADD
+§ I-MOD
+7º-a I-SUP
+do I-SUP
+art I-SUP
+. I-SUP
+201 I-MOD
+da I-MOD
+constituição I-MOD
+federal I-MOD
+, I-MOD
+constante I-MOD
+do I-MOD
+art I-MOD
+. I-MOD
+
+
+ I-MOD
+1º I-SUP
+da I-SUP
+pec I-SUP
+nº I-SUP
+6 I-SUP
+, I-SUP
+de I-SUP
+2019 I-ADD
+. I-SUP
+
+
+ I-MOD
+ I-MOD
+§ I-SUP
+3º I-SUP
+do I-SUP
+art I-SUP
+. I-SUP
+22 I-SUP
+da I-SUP
+pec I-SUP
+nº I-SUP
+6 I-SUP
+, I-SUP
+de I-SUP
+2019 I-SUP
+. I-SUP
+
+
+ I-MOD
+ I-MOD
+“ I-MOD
+exceto I-MOD
+para I-MOD
+os I-MOD
+trabalhadores I-MOD
+rurais I-MOD
+a I-MOD
+que I-MOD
+se I-MOD
+refere I-SUP
+o I-SUP
+§ I-SUP
+8º I-MOD
+
+
+ I-ADD
+do I-ADD
+art I-ADD
+. I-ADD
+195 I-ADD
+da I-ADD
+constituição I-ADD
+, I-ADD
+cujo I-MOD
+valor I-MOD
+será I-ADD
+de I-MOD
+um I-MOD
+salário I-MOD
+mínimo I-MOD
+” I-MOD
+, I-MOD
+constante I-MOD
+do I-MOD
+§ I-MOD
+4º I-SUP
+do I-SUP
+art I-SUP
+. I-SUP
+22 I-SUP
+da I-SUP
+pec I-SUP
+nº I-SUP
+6 I-SUP
+, I-SUP
+de I-SUP
+2019 I-SUP
+. I-SUP
+
+
+ I-MOD
+ I-MOD
+“ I-MOD
+reduzidos I-MOD
+em I-MOD
+dois I-MOD
+anos I-MOD
+, I-MOD
+se I-MOD
+mulher I-MOD
+, I-MOD
+e I-MOD
+em I-MOD
+cinco I-MOD
+anos I-MOD
+, I-MOD
+se I-MOD
+homem I-MOD
+, I-MOD
+para I-MOD
+os O
+trabalhadores O
+rurais O
+de O
+ambos O
+os O
+sexos I-MOD
+, I-MOD
+inclusive I-MOD
+aqueles I-MOD
+a I-MOD
+que I-ADD
+se I-SUP
+refere I-MOD
+o I-SUP
+§ I-SUP
+8º I-ADD
+do I-ADD
+art I-ADD
+. I-ADD
+195 I-ADD
+da I-ADD
+constituição I-ADD
+” I-ADD
+, I-ADD
+constante I-MOD
+do I-MOD
+inciso I-MOD
+i I-MOD
+do I-MOD
+art I-MOD
+. I-MOD
+24 I-SUP
+da I-SUP
+pec I-SUP
+nº I-SUP
+6 I-SUP
+, I-SUP
+de I-SUP
+2019 I-SUP
+. I-SUP
+
+
+ I-MOD
+ I-MOD
+“ I-MOD
+exceto I-MOD
+para I-MOD
+os I-MOD
+trabalhadores I-MOD
+rurais I-MOD
+a I-MOD
+que I-MOD
+se I-MOD
+refere I-SUP
+o I-SUP
+§ I-SUP
+8º I-MOD
+
+
+ I-ADD
+do I-ADD
+art I-ADD
+. I-ADD
+195 I-ADD
+da I-ADD
+constituição I-ADD
+, I-ADD
+cujo I-MOD
+valor I-MOD
+será I-MOD
+de I-MOD
+um I-MOD
+salário I-MOD
+- I-MOD
+mínimo I-MOD
+” I-MOD
+, I-ADD
+constante I-ADD
+do I-ADD
+§ I-MOD
+2º I-MOD
+do I-MOD
+art I-MOD
+. I-MOD
+24 I-SUP
+da I-SUP
+pec I-SUP
+nº I-SUP
+6 I-SUP
+, I-SUP
+de I-SUP
+2019 I-SUP
+. I-SUP
+
+
+ I-MOD
+ I-SUP
+parágrafo I-SUP
+único I-MOD
+do I-MOD
+artigo I-MOD
+31 I-SUP
+da I-SUP
+pec I-SUP
+nº I-SUP
+6 I-SUP
+, I-SUP
+de I-SUP
+2019 I-SUP
+. I-SUP
+
+
+ I-MOD
+ I-MOD
+art I-MOD
+. I-MOD
+35 I-SUP
+da I-SUP
+pec I-SUP
+nº I-SUP
+6 I-SUP
+, I-SUP
+de I-SUP
+2019 I-SUP
+. E-SUP
+
+
+
+
+
+ O

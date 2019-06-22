@@ -1,0 +1,93 @@
+° O
+. O
+comissão O
+destinada O
+proferir O
+parecer O
+à O
+proposta O
+de O
+emenda O
+à O
+constituição O
+nº O
+06 O
+, O
+de O
+2019 O
+
+
+
+
+
+
+ I-MOD
+suprima I-MOD
+- I-MOD
+se I-MOD
+o I-MOD
+§ I-MOD
+1º I-MOD
+do I-MOD
+art I-MOD
+. I-MOD
+4º I-MOD
+da I-SUP
+proposta I-SUP
+de I-SUP
+
+
+ O
+emenda O
+à O
+constituição O
+nº O
+06 O
+, I-ADD
+de O
+2019 O
+. O
+
+
+
+
+
+
+ O
+emenda O
+supressiva O
+nº O
+
+
+
+
+ O
+suprima O
+- O
+se I-MOD
+o I-MOD
+§ I-MOD
+1º I-MOD
+do I-MOD
+art I-MOD
+. I-MOD
+4º I-MOD
+, I-SUP
+da I-SUP
+proposta I-SUP
+de O
+emenda O
+à O
+constituição O
+nº O
+06 O
+, I-ADD
+de I-ADD
+2019 I-MOD
+. I-ADD
+
+
+
+
+
+ I-ADD

@@ -1,0 +1,89 @@
+irretratável I-SUP
+” I-ADD
+proposta I-ADD
+emenda I-ADD
+constituição I-ADD
+nº I-ADD
+6 I-ADD
+/2019 O
+
+
+ O
+( O
+do O
+sr. O
+deputado O
+felipe O
+rigoni O
+, O
+da O
+sra. O
+deputada O
+tábata I-MOD
+amaral I-MOD
+e O
+outros O
+) O
+
+
+
+
+ O
+suprime I-MOD
+o I-SUP
+art I-SUP
+. I-SUP
+41 I-SUP
+da I-SUP
+proposta I-ADD
+de I-SUP
+emenda I-ADD
+à I-SUP
+constituição I-SUP
+que I-SUP
+trata I-SUP
+sobre I-SUP
+o I-ADD
+benefício I-MOD
+de I-MOD
+prestação I-SUP
+continuada I-MOD
+dos O
+idosos O
+. O
+
+
+
+
+ O
+emenda O
+supressiva O
+n. O
+
+
+
+
+
+
+ O
+suprima O
+- I-MOD
+se I-MOD
+o I-MOD
+art I-MOD
+. I-MOD
+41 I-ADD
+da I-SUP
+proposta I-SUP
+de I-SUP
+emenda I-SUP
+à I-SUP
+constituição I-SUP
+no I-SUP
+6 I-SUP
+, I-SUP
+de I-SUP
+2019 I-SUP
+. E-SUP
+
+ O

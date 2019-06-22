@@ -1,0 +1,102 @@
+data I-MOD
+” I-MOD
+câmara O
+deputados O
+proposta O
+de O
+emenda O
+à O
+constituição O
+nº O
+6 O
+, O
+de O
+2019 I-ADD
+
+
+
+
+ I-ADD
+modifica B-MOD
+o I-MOD
+sistema I-MOD
+de I-MOD
+previdência I-MOD
+
+
+ I-MOD
+social I-MOD
+, I-MOD
+
+
+ I-MOD
+estabelece I-MOD
+
+
+ I-MOD
+regras I-MOD
+
+
+ I-MOD
+de I-MOD
+
+
+ I-MOD
+transição I-MOD
+e I-MOD
+disposições I-MOD
+transitórias I-MOD
+, I-MOD
+e I-MOD
+dá I-MOD
+outras I-MOD
+providências I-MOD
+. E-MOD
+
+
+
+
+
+
+ O
+emenda O
+supressiva O
+
+
+
+
+ O
+art B-MOD
+. I-MOD
+1º. I-MOD
+suprima I-MOD
+- I-MOD
+se I-MOD
+o I-MOD
+§ I-MOD
+3º I-MOD
+do I-MOD
+art I-SUP
+. I-SUP
+42 I-MOD
+da I-ADD
+constituição I-ADD
+, I-ADD
+alterado I-ADD
+pelo I-ADD
+art I-ADD
+. I-MOD
+1º I-MOD
+da I-MOD
+pec I-MOD
+
+
+ I-MOD
+06/2019 O
+. O
+
+
+
+
+
+ O

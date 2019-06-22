@@ -1,0 +1,137 @@
+texto O
+. E-MOD
+câmara O
+deputados O
+comissão O
+especial O
+destinada O
+a O
+proferir O
+parecer O
+a O
+proposta O
+de O
+emenda O
+à O
+constituição O
+n. O
+6/ O
+2019 O
+
+
+
+
+
+
+ I-MOD
+modifica I-MOD
+o I-MOD
+sistema I-MOD
+de I-MOD
+previdência I-MOD
+social I-MOD
+, I-MOD
+estabelece I-MOD
+regras I-MOD
+de I-MOD
+transição I-MOD
+e I-MOD
+disposições I-MOD
+transitórias I-MOD
+, I-MOD
+e I-MOD
+dá I-MOD
+outras I-MOD
+providências I-MOD
+. E-MOD
+
+
+
+
+
+
+ O
+emenda O
+supressiva O
+
+
+ O
+( O
+do O
+sr. O
+tadeu O
+alencar O
+e O
+outros O
+) O
+
+
+
+
+
+
+ O
+suprime B-SUP
+dispositivo I-SUP
+para I-SUP
+assegurar I-SUP
+o I-SUP
+benefício I-ADD
+da I-SUP
+pensão I-ADD
+por I-MOD
+morte I-MOD
+em I-MOD
+valor O
+não O
+inferior I-ADD
+a I-ADD
+um I-ADD
+salário I-MOD
+mínimo I-ADD
+
+
+
+
+
+
+ I-ADD
+art I-MOD
+. I-ADD
+1º. I-ADD
+suprima I-MOD
+- I-MOD
+se I-MOD
+o I-MOD
+inciso I-MOD
+v I-MOD
+do I-MOD
+art I-SUP
+. I-MOD
+201 I-MOD
+da I-SUP
+constituição I-SUP
+federal I-SUP
+, I-SUP
+contido I-MOD
+no I-MOD
+art I-MOD
+. I-MOD
+1º I-SUP
+da I-SUP
+proposta I-ADD
+de I-SUP
+emenda I-SUP
+à I-SUP
+constituição I-SUP
+n. I-SUP
+6 I-SUP
+, I-SUP
+de I-SUP
+2019 E-SUP
+
+
+
+
+
+ O

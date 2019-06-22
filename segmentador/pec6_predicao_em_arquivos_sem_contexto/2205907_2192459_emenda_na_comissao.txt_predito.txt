@@ -1,0 +1,403 @@
+( I-MOD
+) E-MOD
+comissão O
+destinada O
+proferir O
+parecer O
+à O
+
+
+ O
+proposta O
+de O
+emenda O
+à O
+constituição O
+nº O
+6 O
+, O
+de O
+2019 O
+
+
+ O
+proposta O
+de O
+emenda O
+à O
+constituição O
+nº O
+6 O
+, O
+de O
+2019 I-ADD
+
+
+ I-ADD
+modifica B-MOD
+o I-MOD
+sistema I-MOD
+de I-MOD
+previdência I-MOD
+
+
+ I-MOD
+social I-MOD
+, I-MOD
+estabelece I-MOD
+regras I-MOD
+de I-MOD
+transição I-MOD
+e I-MOD
+
+
+ I-MOD
+disposições I-MOD
+
+
+ I-MOD
+transitórias I-MOD
+, I-MOD
+
+
+ I-MOD
+e I-MOD
+
+
+ I-MOD
+dá I-MOD
+
+
+ I-MOD
+outras I-MOD
+
+
+ I-MOD
+providências I-MOD
+. E-MOD
+
+
+ O
+emenda O
+nº O
+
+
+ O
+( O
+do O
+sr. O
+domingos I-MOD
+sávio I-MOD
+e I-MOD
+outros I-MOD
+) I-MOD
+
+
+
+
+ I-MOD
+com I-MOD
+o I-ADD
+objetivo I-ADD
+de I-ADD
+adotar I-ADD
+uma I-MOD
+regra I-MOD
+de I-SUP
+transição I-SUP
+unificada I-SUP
+para I-SUP
+servidores I-SUP
+públicos I-SUP
+civis I-SUP
+do I-SUP
+regime I-MOD
+próprio I-MOD
+de I-MOD
+previdência I-MOD
+social I-MOD
+e I-ADD
+segurados I-ADD
+do I-ADD
+regime I-MOD
+geral I-ADD
+de I-ADD
+previdência I-MOD
+social I-ADD
+, I-MOD
+modifique I-MOD
+- I-MOD
+se I-MOD
+a I-MOD
+redação I-MOD
+do I-MOD
+inciso I-MOD
+v I-MOD
+do I-MOD
+art I-MOD
+. I-MOD
+3º I-MOD
+e I-MOD
+o I-MOD
+inciso I-MOD
+ii I-SUP
+do I-SUP
+art I-SUP
+. I-SUP
+18 I-SUP
+, I-SUP
+ambos I-SUP
+da I-SUP
+proposta I-SUP
+de O
+emenda O
+à O
+constituição O
+( I-SUP
+pec I-SUP
+) I-ADD
+nº I-SUP
+6 I-SUP
+, I-SUP
+de I-SUP
+2019 I-SUP
+, I-SUP
+e I-MOD
+, I-MOD
+em I-MOD
+decorrência I-MOD
+, I-MOD
+suprimam I-ADD
+- I-ADD
+se I-ADD
+os I-ADD
+§ I-ADD
+§ I-MOD
+2º I-ADD
+e I-ADD
+3º I-MOD
+do I-MOD
+art I-MOD
+. I-MOD
+3º I-MOD
+e I-ADD
+os I-ADD
+§ I-MOD
+§ I-MOD
+1º I-ADD
+e I-ADD
+2º I-SUP
+do I-SUP
+art I-SUP
+. I-SUP
+18 I-SUP
+da I-SUP
+referida I-SUP
+pec I-MOD
+, I-MOD
+da I-MOD
+seguinte I-MOD
+forma I-MOD
+: I-MOD
+
+
+
+
+ I-MOD
+“ I-MOD
+art I-MOD
+. I-MOD
+
+
+ I-MOD
+3º I-MOD
+........................................................................................... I-MOD
+
+
+ I-MOD
+...................................................................................................... I-MOD
+
+
+ I-MOD
+v I-MOD
+- I-ADD
+período I-ADD
+adicional I-ADD
+de I-ADD
+contribuição I-ADD
+equivalente I-ADD
+a I-ADD
+30 I-ADD
+% I-ADD
+( I-ADD
+trinta I-ADD
+por I-ADD
+cento I-ADD
+) I-ADD
+do I-ADD
+tempo I-ADD
+que I-MOD
+, I-MOD
+na I-SUP
+data I-SUP
+de I-SUP
+promulgação I-SUP
+d I-SUP
+esta I-SUP
+emenda I-SUP
+à I-SUP
+constituição I-SUP
+, I-SUP
+faltaria I-ADD
+para I-ADD
+atingir I-ADD
+os I-ADD
+tempos I-ADD
+de I-ADD
+contribuição I-ADD
+previstos I-ADD
+no I-ADD
+inciso I-ADD
+ii I-ADD
+, I-SUP
+até I-ADD
+que I-ADD
+o I-ADD
+servidor I-SUP
+alcance I-SUP
+, I-SUP
+no I-SUP
+máximo I-MOD
+, I-SUP
+sessenta I-SUP
+e I-SUP
+dois I-MOD
+anos I-MOD
+de I-MOD
+idade I-MOD
+, I-MOD
+se I-MOD
+mulher I-MOD
+, I-MOD
+e I-MOD
+sessenta I-MOD
+e I-MOD
+cinco I-MOD
+anos I-MOD
+de I-MOD
+idade I-MOD
+, I-MOD
+se I-MOD
+homem I-MOD
+. I-MOD
+
+
+ I-MOD
+.................................................................................................. I-MOD
+” I-MOD
+
+
+
+
+ I-MOD
+“ I-MOD
+art I-MOD
+. I-MOD
+18 I-MOD
+.......................................................................................... I-MOD
+
+
+ I-MOD
+..................................................................................................... I-MOD
+
+
+ I-MOD
+ii I-ADD
+- I-ADD
+período I-ADD
+adicional I-ADD
+de I-ADD
+contribuição I-ADD
+equivalente I-ADD
+a I-ADD
+30 I-ADD
+% I-ADD
+( I-ADD
+trinta I-ADD
+por I-ADD
+cento I-ADD
+) I-ADD
+do I-ADD
+tempo I-ADD
+que I-MOD
+, I-MOD
+na I-SUP
+data I-SUP
+de I-SUP
+promulgação I-SUP
+d I-SUP
+esta I-SUP
+
+
+ I-SUP
+2 I-SUP
+
+
+
+
+ I-SUP
+emenda I-SUP
+à I-SUP
+constituição I-SUP
+, I-ADD
+faltaria I-ADD
+para I-ADD
+atingir I-ADD
+os I-ADD
+tempos I-ADD
+de I-ADD
+contribuição I-ADD
+previstos I-ADD
+no I-ADD
+inciso I-ADD
+i I-ADD
+, I-SUP
+até I-MOD
+que I-MOD
+o I-MOD
+segurado I-SUP
+alcance I-SUP
+, I-SUP
+no I-SUP
+máximo I-MOD
+, I-SUP
+sessenta I-SUP
+e I-SUP
+dois I-MOD
+anos I-MOD
+de I-MOD
+idade I-MOD
+, I-MOD
+se I-MOD
+mulher I-MOD
+, I-MOD
+e I-MOD
+sessenta I-MOD
+e I-MOD
+cinco I-MOD
+anos I-MOD
+de I-MOD
+idade I-MOD
+, I-MOD
+se I-MOD
+homem I-MOD
+
+
+ I-MOD
+................................................................................................. I-MOD
+” I-MOD
+. E-MOD
+
+
+
+ O

@@ -1,0 +1,192 @@
+solidariedade O
+mg O
+comissão O
+
+
+ O
+de O
+emenda O
+à O
+constituição O
+nº O
+6 O
+de O
+2019 O
+
+
+
+
+ O
+emenda O
+modificativa O
+nº O
+_ O
+_ O
+_ O
+_ I-MOD
+_ I-MOD
+_ I-MOD
+_ I-MOD
+, I-MOD
+de I-MOD
+2019 O
+
+
+ O
+( O
+do O
+sr. O
+domingos I-MOD
+neto I-MOD
+e I-MOD
+outros O
+) I-MOD
+
+
+
+
+ I-MOD
+regulamenta I-MOD
+
+
+ I-MOD
+a I-MOD
+
+
+ I-MOD
+acumulação I-MOD
+
+
+ I-MOD
+de I-ADD
+
+
+ I-ADD
+proventos I-ADD
+de I-ADD
+aposentadoria I-ADD
+do I-ADD
+regime I-ADD
+
+
+ I-ADD
+geral I-ADD
+de I-ADD
+previdência I-ADD
+social I-MOD
+e I-MOD
+a I-MOD
+
+
+ I-MOD
+remuneração I-MOD
+de I-SUP
+emprego I-SUP
+público I-SUP
+. I-SUP
+
+
+
+
+ I-SUP
+art I-MOD
+. I-MOD
+1º. I-MOD
+inclua I-MOD
+- I-MOD
+se I-MOD
+o I-MOD
+§ I-MOD
+2º I-MOD
+a I-MOD
+o I-MOD
+art I-MOD
+. I-MOD
+23 I-SUP
+da I-MOD
+proposta I-MOD
+de O
+emenda O
+constitucional O
+nº O
+06 I-SUP
+de O
+2019 I-MOD
+, I-MOD
+renumerando I-ADD
+- I-MOD
+se I-MOD
+o I-MOD
+atual I-ADD
+parágrafo I-MOD
+único I-ADD
+para I-ADD
+§ I-ADD
+1º I-MOD
+: I-MOD
+
+
+ I-MOD
+“ I-ADD
+art.23 I-MOD
+.......................... I-MOD
+
+
+ I-MOD
+§ I-ADD
+1º I-ADD
+................................. I-ADD
+
+
+ I-ADD
+§ I-ADD
+2º I-MOD
+o I-ADD
+art I-ADD
+. I-MOD
+37 I-MOD
+§ I-MOD
+10 I-MOD
+não I-MOD
+se I-MOD
+aplica I-MOD
+a I-MOD
+os I-MOD
+que I-MOD
+, I-ADD
+no I-ADD
+âmbito I-ADD
+do I-ADD
+regime I-ADD
+geral I-ADD
+da I-ADD
+previdência I-ADD
+social I-ADD
+, I-MOD
+já I-MOD
+estiverem I-MOD
+aposentados I-MOD
+ou I-MOD
+que I-MOD
+já I-ADD
+tenham I-SUP
+cumprido I-ADD
+os I-ADD
+requisitos I-ADD
+para I-ADD
+aposentadoria I-ADD
+voluntaria I-ADD
+na I-ADD
+data I-SUP
+da I-ADD
+promulgação I-SUP
+d I-SUP
+esta I-SUP
+emenda I-SUP
+constitucional I-MOD
+. I-MOD
+” E-SUP
+
+
+
+ O

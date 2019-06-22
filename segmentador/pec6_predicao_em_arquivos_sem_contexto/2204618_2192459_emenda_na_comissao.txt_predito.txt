@@ -1,0 +1,550 @@
+câmara O
+dos O
+deputados O
+
+
+ O
+gabinete O
+do O
+deputado O
+vinicius O
+carvalho O
+– O
+prb O
+/ O
+sp O
+
+
+
+
+
+
+ O
+comissão O
+especial O
+destinada O
+a O
+proferir O
+parecer O
+à O
+proposta O
+de O
+
+
+ O
+emenda O
+à O
+constituição O
+nº O
+6 O
+, O
+de I-SUP
+2019 O
+. E-SUP
+
+
+ O
+proposta O
+de O
+emenda O
+à O
+constituição O
+nº O
+6 O
+, O
+de O
+2019 I-SUP
+. I-ADD
+
+
+ O
+modifica B-MOD
+o I-MOD
+sistema I-MOD
+de I-MOD
+previdência I-MOD
+social I-MOD
+, I-MOD
+estabelece I-MOD
+regras I-MOD
+de I-MOD
+transição I-MOD
+e I-MOD
+disposições I-MOD
+transitórias I-MOD
+, I-MOD
+e I-MOD
+dá I-MOD
+outras I-MOD
+providências I-MOD
+. E-MOD
+
+
+ O
+emenda O
+supressiva O
+, O
+nº. O
+
+
+
+
+ O
+i O
+– I-MOD
+suprima I-MOD
+- I-MOD
+se I-MOD
+a I-MOD
+redação I-MOD
+dada I-MOD
+a I-MOD
+o I-MOD
+art I-MOD
+. I-MOD
+109 I-MOD
+da I-MOD
+cf I-MOD
+pelo I-MOD
+art I-MOD
+. I-MOD
+1º I-MOD
+, I-MOD
+assim I-MOD
+redigida I-MOD
+: I-MOD
+
+
+ I-MOD
+“ I-MOD
+art I-MOD
+. I-MOD
+109 I-MOD
+. I-MOD
+.............................. I-MOD
+
+
+ I-MOD
+i I-MOD
+– I-MOD
+as I-MOD
+causas I-MOD
+em I-MOD
+que I-MOD
+a I-MOD
+união I-SUP
+, I-SUP
+a I-SUP
+entidade I-MOD
+autárquica I-MOD
+ou I-MOD
+a I-MOD
+empresa I-MOD
+pública I-MOD
+federal I-MOD
+for I-MOD
+interessada I-MOD
+na I-MOD
+condição I-MOD
+de I-MOD
+autora I-ADD
+, I-MOD
+ré I-MOD
+, I-MOD
+assistente I-MOD
+ou I-MOD
+oponente I-MOD
+, I-MOD
+exceto I-MOD
+as I-MOD
+de I-MOD
+falência I-ADD
+e I-MOD
+as I-MOD
+sujeitas I-ADD
+à I-ADD
+justiça I-ADD
+eleitoral I-ADD
+e I-ADD
+à I-ADD
+justiça I-ADD
+do I-ADD
+trabalho I-ADD
+; I-ADD
+
+
+ I-MOD
+.................................................. I-MOD
+
+
+ I-MOD
+§ I-MOD
+3º I-MOD
+lei I-MOD
+poderá I-MOD
+autorizar I-MOD
+que I-MOD
+as I-MOD
+causas I-MOD
+de I-MOD
+competência I-MOD
+da I-MOD
+justiça I-MOD
+federal I-MOD
+, I-MOD
+em I-MOD
+que I-MOD
+forem I-MOD
+parte I-MOD
+instituição I-MOD
+de I-MOD
+previdência I-MOD
+social I-MOD
+e I-MOD
+segurado I-MOD
+, I-MOD
+possam I-MOD
+ser I-SUP
+processadas I-SUP
+e I-SUP
+julgadas I-SUP
+na I-SUP
+justiça I-SUP
+estadual I-SUP
+, I-SUP
+quando I-SUP
+a I-MOD
+comarca I-MOD
+do I-MOD
+domicílio I-MOD
+do I-MOD
+segurado I-MOD
+não I-MOD
+for I-MOD
+sede I-MOD
+de I-MOD
+vara I-MOD
+federal I-MOD
+. I-MOD
+
+
+ I-MOD
+........................................... I-MOD
+
+
+ I-MOD
+§ I-SUP
+6º I-SUP
+compete I-MOD
+exclusivamente I-MOD
+à I-MOD
+justiça I-MOD
+federal I-SUP
+decidir I-MOD
+sobre I-MOD
+a I-MOD
+existência I-MOD
+de I-MOD
+interesse I-MOD
+jurídico I-MOD
+da I-MOD
+união I-MOD
+, I-MOD
+de I-MOD
+entidade I-SUP
+autárquica I-SUP
+ou I-SUP
+de I-SUP
+empresas I-SUP
+públicas I-SUP
+federais I-SUP
+, I-SUP
+que I-SUP
+justifique I-SUP
+o I-MOD
+deslocamento I-MOD
+da I-MOD
+competência I-MOD
+de I-SUP
+processo I-SUP
+que I-SUP
+tramitava I-SUP
+na I-MOD
+justiça I-SUP
+estadual I-SUP
+. I-MOD
+” I-MOD
+( I-MOD
+nr I-MOD
+) I-MOD
+
+
+
+
+ I-MOD
+ii I-MOD
+– I-MOD
+suprima I-MOD
+- I-MOD
+se I-MOD
+a I-MOD
+redação I-MOD
+dada I-MOD
+a I-MOD
+o I-MOD
+§ I-MOD
+5º I-ADD
+do I-ADD
+art I-ADD
+. I-ADD
+195 I-ADD
+pelo I-ADD
+art I-ADD
+. I-ADD
+1º I-ADD
+, I-MOD
+assim I-MOD
+redigida I-MOD
+: I-MOD
+
+
+ I-ADD
+“ I-ADD
+art I-ADD
+. I-ADD
+195 I-ADD
+.................................... I-ADD
+
+
+ I-ADD
+..................................................... I-ADD
+
+
+ I-ADD
+§ I-MOD
+5º I-MOD
+nenhum I-MOD
+benefício I-ADD
+ou I-MOD
+serviço I-MOD
+da I-MOD
+seguridade I-ADD
+social I-ADD
+poderá I-ADD
+ser I-ADD
+criado I-ADD
+, I-SUP
+majorado I-SUP
+ou I-SUP
+estendido I-SUP
+por I-MOD
+ato I-MOD
+administrativo I-MOD
+, I-MOD
+lei I-MOD
+ou I-MOD
+decisão I-MOD
+judicial I-MOD
+, I-MOD
+sem I-MOD
+a I-MOD
+correspondente I-MOD
+fonte I-ADD
+de I-MOD
+custeio I-MOD
+total I-SUP
+. I-SUP
+” I-SUP
+
+
+
+
+ I-MOD
+2 I-SUP
+
+
+
+
+
+
+ O
+câmara O
+dos O
+deputados O
+
+
+ O
+gabinete O
+do O
+deputado O
+vinicius O
+carvalho O
+– O
+prb O
+/ O
+sp I-MOD
+
+
+
+
+ I-MOD
+iii I-MOD
+- I-MOD
+suprima I-MOD
+- I-MOD
+se I-MOD
+os I-MOD
+art I-MOD
+. I-MOD
+43 I-MOD
+e I-MOD
+44 I-MOD
+, I-MOD
+assim I-MOD
+redigidos I-MOD
+
+
+ I-MOD
+“ I-MOD
+art I-MOD
+. I-MOD
+43 I-MOD
+. I-MOD
+permanecerão I-MOD
+na I-MOD
+justiça I-MOD
+estadual I-MOD
+as I-MOD
+causas I-MOD
+relativas I-MOD
+a I-MOD
+acidentes I-MOD
+de I-MOD
+trabalho I-MOD
+que I-MOD
+envolvam I-MOD
+a I-MOD
+união I-MOD
+, I-MOD
+entidade I-MOD
+autárquica I-SUP
+ou I-SUP
+as I-SUP
+empresas I-SUP
+públicas I-SUP
+federais I-SUP
+, I-SUP
+ajuizadas I-SUP
+até I-SUP
+a I-MOD
+data I-MOD
+de I-SUP
+promulgação I-SUP
+d I-SUP
+esta I-SUP
+emenda I-SUP
+à I-SUP
+constituição I-SUP
+, I-SUP
+hipótese I-ADD
+em I-ADD
+que I-SUP
+lei I-SUP
+poderá I-SUP
+dispor I-SUP
+sobre I-MOD
+a I-MOD
+transferência I-MOD
+dos I-SUP
+processos I-MOD
+em I-MOD
+tramitação I-MOD
+para I-MOD
+a I-MOD
+justiça I-MOD
+federal I-MOD
+. I-MOD
+” I-MOD
+
+
+ I-MOD
+“ I-MOD
+art I-MOD
+. I-MOD
+44 I-MOD
+. I-MOD
+até I-MOD
+que I-MOD
+seja I-MOD
+publicada I-MOD
+a I-ADD
+lei I-MOD
+a I-MOD
+que I-ADD
+se I-MOD
+refere I-MOD
+o I-MOD
+§ I-MOD
+3º I-MOD
+do I-SUP
+art I-SUP
+. I-SUP
+109 I-SUP
+da I-SUP
+constituição I-SUP
+, I-SUP
+poderão I-SUP
+ser I-SUP
+processadas I-SUP
+e I-SUP
+julgadas I-SUP
+na I-SUP
+justiça I-MOD
+estadual I-MOD
+as I-MOD
+causas I-MOD
+previdenciárias I-MOD
+, I-MOD
+acidentárias I-MOD
+ou I-MOD
+não I-MOD
+, I-MOD
+ajuizadas O
+pelos O
+segurados I-SUP
+ou I-ADD
+por I-ADD
+seus I-ADD
+dependentes I-ADD
+, I-SUP
+de I-ADD
+competência I-ADD
+da I-MOD
+justiça I-MOD
+federal I-MOD
+, I-MOD
+quando I-MOD
+a I-MOD
+comarca I-MOD
+de I-MOD
+domicílio I-MOD
+do I-MOD
+segurado I-MOD
+distar I-MOD
+mais I-MOD
+de I-MOD
+cem I-MOD
+quilômetros I-MOD
+da I-MOD
+sede I-MOD
+de I-MOD
+vara I-MOD
+do I-MOD
+juízo I-MOD
+federal I-MOD
+. I-MOD
+” E-MOD
+
+
+
+ O

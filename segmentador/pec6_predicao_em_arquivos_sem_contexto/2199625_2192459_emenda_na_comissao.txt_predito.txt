@@ -1,0 +1,481 @@
+. O
+........................................................................................................................... O
+câmara O
+deputados O
+comissão O
+especial O
+destinada O
+a O
+apreciar O
+e O
+proferir O
+parecer O
+à O
+
+
+ O
+proposta O
+de O
+emenda O
+à O
+constituição O
+nº O
+6 O
+, O
+de O
+2019 O
+– O
+reforma O
+da O
+previdência O
+
+
+
+
+ O
+proposta O
+de O
+emenda O
+à O
+constituição O
+nº O
+6 O
+, O
+de O
+2019 I-ADD
+
+
+
+
+ I-ADD
+modifica B-MOD
+o I-MOD
+sistema I-MOD
+de I-MOD
+previdência I-MOD
+social I-MOD
+, I-MOD
+
+
+ I-MOD
+estabelece I-MOD
+
+
+ I-MOD
+regras I-MOD
+
+
+ I-MOD
+de I-MOD
+
+
+ I-MOD
+transição I-MOD
+
+
+ I-MOD
+e I-MOD
+
+
+ I-MOD
+disposições I-MOD
+transitórias I-MOD
+, I-MOD
+e I-MOD
+dá I-MOD
+outras I-MOD
+
+
+ I-MOD
+providências I-MOD
+. E-MOD
+
+
+
+
+ O
+emenda O
+modificativa O
+nº O
+
+
+ O
+( O
+dos O
+srs I-MOD
+. I-MOD
+dr. I-MOD
+frederico I-MOD
+, I-MOD
+marreca I-MOD
+filho I-MOD
+e I-MOD
+outros I-MOD
+) I-MOD
+
+
+
+
+ I-MOD
+art I-MOD
+. I-MOD
+1º. O
+dê O
+- O
+se O
+à O
+proposta O
+de O
+emenda O
+à O
+constituição O
+nº O
+06 O
+, I-ADD
+de I-ADD
+2019 O
+, I-MOD
+a I-MOD
+seguinte I-MOD
+redação I-MOD
+: I-MOD
+
+
+ I-MOD
+“ I-MOD
+
+
+ I-MOD
+art I-MOD
+. I-MOD
+
+
+ I-MOD
+6º. I-MOD
+
+
+ I-MOD
+............................................................................................. I-MOD
+
+
+ I-MOD
+.......................................................................................................... I-MOD
+
+
+ I-MOD
+§ I-MOD
+4º I-MOD
+................................................................................................... I-MOD
+
+
+ I-MOD
+.......................................................................................................... I-MOD
+
+
+ I-MOD
+ii I-ADD
+– I-ADD
+a I-ADD
+cem I-ADD
+por I-ADD
+centro I-MOD
+da I-MOD
+média I-MOD
+aritmética I-MOD
+simples I-MOD
+das I-MOD
+remunerações I-MOD
+e I-ADD
+dos I-ADD
+salários I-ADD
+de I-ADD
+contribuição I-ADD
+correspondentes I-ADD
+a I-ADD
+cem I-ADD
+por I-ADD
+cento I-SUP
+de I-ADD
+todo I-ADD
+o I-ADD
+período I-MOD
+contributivo I-MOD
+. I-MOD
+
+
+ I-MOD
+................................................................................................. I-MOD
+” I-MOD
+
+
+ I-MOD
+( I-MOD
+nr I-MOD
+) I-MOD
+
+
+ I-MOD
+“ I-MOD
+art I-MOD
+. I-MOD
+
+
+ I-MOD
+12 I-MOD
+. I-MOD
+
+
+ I-MOD
+............................................................................................. I-MOD
+
+
+ I-MOD
+.......................................................................................................... I-MOD
+
+
+ I-MOD
+§ I-MOD
+7º I-MOD
+................................................................................................... I-MOD
+
+
+ I-MOD
+i I-MOD
+- I-MOD
+na I-MOD
+hipótese I-MOD
+prevista I-MOD
+no I-ADD
+inciso I-SUP
+i I-ADD
+do I-ADD
+§ I-SUP
+3º I-SUP
+e I-MOD
+nos I-SUP
+incisos I-SUP
+i I-SUP
+a I-MOD
+iii I-MOD
+do I-MOD
+§ I-MOD
+
+
+ I-MOD
+4º I-MOD
+, I-MOD
+a I-MOD
+sessenta I-MOD
+por I-MOD
+cento I-MOD
+da I-MOD
+média I-MOD
+aritmética I-ADD
+a I-MOD
+que I-MOD
+se I-MOD
+refere I-MOD
+o I-MOD
+§ I-MOD
+6º O
+, I-MOD
+
+
+
+
+
+
+ O
+câmara I-ADD
+dos I-ADD
+deputados I-ADD
+
+
+
+
+ I-ADD
+acrescidos I-ADD
+de I-ADD
+dois I-ADD
+por I-ADD
+cento I-ADD
+para I-ADD
+cada I-ADD
+ano I-ADD
+de I-ADD
+contribuição I-ADD
+que I-ADD
+exceder I-ADD
+a I-ADD
+vinte I-ADD
+anos I-ADD
+de I-ADD
+contribuição I-ADD
+; I-ADD
+
+
+ I-ADD
+.......................................................................................................... I-ADD
+
+
+ I-ADD
+iv I-MOD
+- I-MOD
+na I-MOD
+hipótese I-MOD
+prevista I-MOD
+nos I-MOD
+incisos I-MOD
+iv I-MOD
+e I-MOD
+v I-MOD
+do I-MOD
+§ I-MOD
+4º I-MOD
+, I-MOD
+a I-MOD
+cem I-MOD
+por I-MOD
+cento I-ADD
+da I-ADD
+média I-ADD
+aritmética I-ADD
+a I-MOD
+que I-MOD
+se I-MOD
+refere I-MOD
+o I-MOD
+§ I-MOD
+6º. I-MOD
+
+
+ I-MOD
+................................................................................................. I-MOD
+” I-MOD
+
+
+ I-MOD
+( I-MOD
+nr I-MOD
+) I-MOD
+
+
+ I-MOD
+“ I-MOD
+art I-MOD
+. I-MOD
+
+
+ I-MOD
+21 I-MOD
+. I-MOD
+
+
+ I-MOD
+............................................................................................. I-ADD
+
+
+ I-MOD
+.......................................................................................................... I-MOD
+
+
+ I-MOD
+§ I-MOD
+4º I-ADD
+o I-ADD
+valor I-ADD
+da I-ADD
+aposentadoria I-ADD
+de I-ADD
+que I-ADD
+trata I-ADD
+este I-ADD
+artigo I-ADD
+corresponderá I-ADD
+a I-ADD
+cem I-ADD
+por I-ADD
+cento I-ADD
+da I-ADD
+média I-ADD
+aritmética I-ADD
+definida I-ADD
+na I-MOD
+forma I-MOD
+prevista I-MOD
+no I-MOD
+art I-MOD
+. I-MOD
+29 I-MOD
+. I-SUP
+” I-MOD
+( I-MOD
+nr I-MOD
+) I-MOD
+
+
+ I-MOD
+“ I-MOD
+art I-MOD
+. I-MOD
+
+
+ I-MOD
+25 I-MOD
+. I-MOD
+
+
+ I-MOD
+............................................................................................. I-ADD
+
+
+ I-ADD
+.......................................................................................................... I-MOD
+
+
+ I-MOD
+§ I-MOD
+1º I-ADD
+o I-ADD
+valor I-ADD
+da I-ADD
+aposentadoria I-ADD
+de I-ADD
+que I-ADD
+trata I-ADD
+este I-ADD
+artigo I-ADD
+corresponderá I-ADD
+a I-ADD
+cem I-ADD
+por I-ADD
+cento I-ADD
+da I-ADD
+média I-ADD
+aritmética I-ADD
+definida I-ADD
+na I-MOD
+forma I-MOD
+prevista I-MOD
+no I-MOD
+art I-MOD
+. I-MOD
+29 I-MOD
+. I-SUP
+
+
+ I-MOD
+................................................................................................. I-MOD
+” I-MOD
+
+
+ I-MOD
+( I-MOD
+nr I-MOD
+) E-MOD
+
+
+
+
+
+ O

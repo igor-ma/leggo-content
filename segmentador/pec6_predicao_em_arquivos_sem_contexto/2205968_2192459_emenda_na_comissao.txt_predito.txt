@@ -1,0 +1,501 @@
+° O
+. O
+câmara O
+deputados O
+comissão O
+especial O
+destinada O
+a O
+proferir O
+parecer O
+à O
+
+
+ O
+proposta O
+de O
+emenda O
+à O
+constituição O
+n. O
+6/ O
+2019 O
+
+
+
+
+
+
+ I-MOD
+modifica I-MOD
+o I-MOD
+sistema I-MOD
+de I-MOD
+previdência I-MOD
+social I-MOD
+, I-MOD
+estabelece I-MOD
+
+
+ I-MOD
+regras I-MOD
+de I-MOD
+transição I-MOD
+e I-MOD
+disposições I-MOD
+transitórias I-MOD
+, I-MOD
+e I-MOD
+dá I-MOD
+outras I-MOD
+providências I-MOD
+. E-MOD
+
+
+
+
+ O
+emenda O
+modificativa O
+
+
+ O
+( O
+do O
+sr. O
+tadeu O
+alencar O
+e O
+outros I-MOD
+) I-MOD
+
+
+
+
+ I-MOD
+mantém I-MOD
+na I-MOD
+constituição I-MOD
+federal I-MOD
+as I-MOD
+idades I-MOD
+mínimas I-MOD
+
+
+ I-SUP
+de I-SUP
+55 I-SUP
+e I-SUP
+60 I-SUP
+anos I-SUP
+, I-SUP
+respectivamente I-SUP
+, I-SUP
+para I-SUP
+trabalhadoras I-MOD
+
+
+ I-MOD
+e I-MOD
+trabalhadores O
+rurais O
+, O
+e O
+estabelece O
+de I-MOD
+tempo I-MOD
+de I-MOD
+atividade I-MOD
+rural I-ADD
+fixado I-SUP
+constitucionalmente I-SUP
+em I-SUP
+15 I-SUP
+anos I-SUP
+
+
+ I-SUP
+para I-SUP
+o I-SUP
+segurado I-MOD
+especial I-MOD
+. I-MOD
+
+
+
+
+
+
+ I-MOD
+art I-MOD
+. I-MOD
+1º I-MOD
+dê I-MOD
+- I-MOD
+se I-MOD
+a I-MOD
+o I-MOD
+inciso I-MOD
+v I-MOD
+, I-MOD
+a I-MOD
+o I-MOD
+§ I-MOD
+3º I-ADD
+, I-MOD
+a I-MOD
+o I-ADD
+§ I-MOD
+7º I-MOD
+e I-MOD
+seu I-MOD
+inciso I-MOD
+iv I-MOD
+, I-ADD
+e I-ADD
+a I-MOD
+o I-MOD
+§ I-MOD
+7º- I-MOD
+
+
+ I-MOD
+a I-MOD
+, I-MOD
+todos I-SUP
+do I-SUP
+art I-SUP
+. I-SUP
+201 I-SUP
+da I-SUP
+constituição I-SUP
+federal I-SUP
+, I-SUP
+contido I-MOD
+no I-MOD
+art I-MOD
+. I-MOD
+1º I-SUP
+da I-MOD
+proposta I-MOD
+de I-SUP
+emenda I-SUP
+constitucional I-SUP
+n. I-SUP
+6 I-SUP
+, I-SUP
+de I-MOD
+2019 I-SUP
+, I-SUP
+a I-SUP
+redação I-SUP
+que I-MOD
+segue I-MOD
+: I-MOD
+
+
+
+
+ I-SUP
+“ I-SUP
+art I-SUP
+. I-SUP
+201 I-MOD
+. I-MOD
+..................................................................................................... I-SUP
+
+
+ I-SUP
+.................................................................................................................... I-MOD
+
+
+ I-MOD
+§ I-MOD
+7º I-MOD
+.............................................................................................................. I-MOD
+
+
+ I-MOD
+.................................................................................................................... I-MOD
+
+
+ I-MOD
+iv I-MOD
+- I-MOD
+trabalhadores I-MOD
+rurais I-MOD
+, I-MOD
+observada I-SUP
+a I-SUP
+idade I-MOD
+de I-MOD
+60 I-SUP
+( I-SUP
+sessenta I-MOD
+) I-MOD
+anos I-MOD
+, I-MOD
+se I-MOD
+homem I-MOD
+, I-MOD
+e I-MOD
+55 I-MOD
+( I-MOD
+cinquenta I-MOD
+e I-MOD
+cinco I-MOD
+) I-MOD
+anos I-MOD
+, I-MOD
+se I-MOD
+mulher I-ADD
+. I-ADD
+
+
+ I-ADD
+§ I-ADD
+7º-a I-MOD
+os I-MOD
+trabalhadores I-MOD
+rurais I-MOD
+a I-MOD
+que I-MOD
+se I-MOD
+refere I-SUP
+o I-SUP
+§ I-SUP
+8º I-ADD
+do I-ADD
+art I-ADD
+. I-ADD
+195 I-ADD
+da I-ADD
+constituição I-ADD
+poderão I-ADD
+aposentar I-ADD
+- I-SUP
+se I-SUP
+a I-MOD
+os I-MOD
+60 I-MOD
+( I-MOD
+sessenta I-SUP
+) I-SUP
+anos I-MOD
+de I-MOD
+idade I-MOD
+, I-MOD
+se I-MOD
+homem I-MOD
+, O
+e I-MOD
+55 I-MOD
+( I-MOD
+cinquenta I-MOD
+e I-MOD
+cinco I-MOD
+) I-MOD
+anos I-MOD
+de I-MOD
+idade I-MOD
+, I-MOD
+se I-MOD
+mulher I-MOD
+, I-MOD
+e I-MOD
+15 I-MOD
+( I-MOD
+quinze I-SUP
+) I-SUP
+anos I-SUP
+de I-SUP
+efetivo I-SUP
+exercício I-SUP
+da I-SUP
+atividade I-ADD
+rural I-ADD
+em I-ADD
+regime I-SUP
+de O
+economia O
+
+
+
+
+
+
+ O
+câmara I-MOD
+dos I-MOD
+deputados I-MOD
+
+
+
+
+ I-MOD
+familiar I-MOD
+, I-MOD
+e I-ADD
+farão I-ADD
+jus I-ADD
+à I-ADD
+aposentadoria I-ADD
+e I-ADD
+demais I-ADD
+benefícios I-ADD
+da I-ADD
+previdência I-MOD
+social I-MOD
+no I-MOD
+valor I-MOD
+de I-MOD
+um I-MOD
+salário I-ADD
+mínimo I-ADD
+. I-ADD
+
+
+ I-MOD
+............................................................................................................ I-ADD
+( I-ADD
+nr I-MOD
+) I-MOD
+” I-MOD
+
+
+
+
+
+
+ I-MOD
+art I-MOD
+. I-MOD
+3º. I-MOD
+suprimam I-MOD
+- I-MOD
+se I-MOD
+da I-MOD
+proposta I-MOD
+de I-MOD
+emenda I-MOD
+constitucional I-SUP
+n. I-SUP
+6 I-SUP
+, I-SUP
+de I-MOD
+2019 I-SUP
+
+
+ I-SUP
+os I-MOD
+dispositivos I-MOD
+que I-MOD
+seguem I-MOD
+: I-MOD
+
+
+ I-MOD
+a I-ADD
+) I-ADD
+os I-ADD
+§ I-ADD
+§ I-ADD
+8º I-ADD
+, I-ADD
+8º-a I-ADD
+e I-MOD
+8º-b I-ADD
+do I-ADD
+art I-ADD
+. I-ADD
+195 I-ADD
+da I-ADD
+constituição I-ADD
+federal I-ADD
+, I-ADD
+contidos I-MOD
+no I-MOD
+art I-MOD
+. I-MOD
+1º I-MOD
+; I-MOD
+
+
+ I-MOD
+b I-MOD
+) I-MOD
+o I-MOD
+§ I-MOD
+3º I-SUP
+do I-SUP
+art I-SUP
+. I-SUP
+22 I-SUP
+e I-SUP
+o I-SUP
+art I-SUP
+. I-SUP
+35 I-MOD
+, I-MOD
+todos I-SUP
+da I-MOD
+proposta I-MOD
+de I-SUP
+emenda I-SUP
+constitucional I-SUP
+n. I-SUP
+6 I-SUP
+, I-SUP
+de I-MOD
+2019 I-SUP
+. I-SUP
+
+
+ I-SUP
+c I-SUP
+) I-SUP
+a I-SUP
+expressão I-SUP
+“ I-SUP
+, I-SUP
+para I-SUP
+os I-SUP
+trabalhadores I-MOD
+rurais O
+de O
+ambos O
+os O
+sexos I-MOD
+, I-MOD
+inclusive I-MOD
+aqueles I-MOD
+a I-MOD
+que I-ADD
+se I-SUP
+refere I-MOD
+o I-SUP
+§ I-SUP
+8º I-ADD
+do I-ADD
+art I-ADD
+. I-ADD
+195 I-ADD
+da I-ADD
+constituição I-ADD
+” I-ADD
+, I-ADD
+contida I-SUP
+no I-MOD
+inciso I-MOD
+i I-MOD
+do I-MOD
+art I-MOD
+. I-MOD
+24 I-MOD
+” E-MOD
+
+
+
+
+
+ O

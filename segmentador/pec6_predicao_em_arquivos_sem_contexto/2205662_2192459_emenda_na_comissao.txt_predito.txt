@@ -1,0 +1,283 @@
+( I-MOD
+) E-MOD
+comissão O
+destinada O
+analisar O
+a O
+proposta O
+de O
+
+
+ O
+emenda O
+á O
+constituição O
+nº O
+6 O
+de O
+2019 O
+
+
+
+
+ O
+proposta O
+de O
+emenda O
+à O
+constituição O
+nº O
+6 O
+de O
+2019 O
+
+
+
+
+
+
+ O
+emenda I-SUP
+nº O
+
+
+ O
+( O
+do O
+senhor O
+dep I-MOD
+. I-MOD
+zé I-MOD
+vitor I-MOD
+e I-MOD
+outros I-MOD
+) I-MOD
+
+
+
+
+ I-ADD
+reenquadra I-ADD
+os I-ADD
+garimpeiros I-ADD
+como I-ADD
+
+
+ I-ADD
+segurados I-SUP
+
+
+ I-SUP
+especiais I-SUP
+
+
+ I-SUP
+no I-SUP
+
+
+ I-SUP
+texto I-SUP
+
+
+ I-ADD
+da I-ADD
+
+
+ I-ADD
+constituição I-ADD
+federal I-MOD
+, I-MOD
+assegurando I-MOD
+a I-MOD
+eles I-MOD
+direitos I-MOD
+previdenciários I-MOD
+. I-MOD
+
+
+
+
+ I-MOD
+art I-MOD
+. I-MOD
+1º I-MOD
+modifique I-MOD
+- I-MOD
+se I-MOD
+o I-MOD
+inciso I-MOD
+§ I-MOD
+8º I-ADD
+do I-ADD
+art I-ADD
+. I-ADD
+195 I-SUP
+da I-ADD
+constituição I-ADD
+da I-ADD
+república I-ADD
+, I-MOD
+alterado I-SUP
+pelo I-SUP
+art I-SUP
+. I-MOD
+1 O
+° I-SUP
+da I-SUP
+pec I-SUP
+nº I-SUP
+6 I-SUP
+de I-SUP
+2019 I-SUP
+, I-SUP
+para I-SUP
+que I-MOD
+passe I-ADD
+a I-MOD
+constar I-MOD
+a I-MOD
+seguinte I-MOD
+redação I-MOD
+: I-MOD
+
+
+ I-MOD
+“ I-MOD
+art I-MOD
+. I-MOD
+1º I-MOD
+a I-MOD
+constituição I-MOD
+passa I-MOD
+a I-MOD
+vigorar I-MOD
+com I-MOD
+as I-MOD
+seguintes I-MOD
+alterações I-MOD
+: I-MOD
+
+
+ I-MOD
+.......................................................................................................... I-MOD
+
+
+ I-MOD
+.......................................................................................................... I-ADD
+
+
+
+
+ I-ADD
+art I-ADD
+. I-ADD
+195 I-ADD
+. I-ADD
+.............................................................................................. I-ADD
+
+
+
+
+ I-ADD
+.............................................................................................................. I-ADD
+
+
+ I-MOD
+.............................................................................................................. I-MOD
+
+
+ I-MOD
+§ I-MOD
+8 I-MOD
+° I-MOD
+o I-MOD
+produtor I-MOD
+rural I-MOD
+, I-ADD
+na I-MOD
+condição I-ADD
+de I-ADD
+proprietário I-MOD
+ou I-MOD
+possuidor I-MOD
+, I-MOD
+o I-MOD
+extrativista I-MOD
+, I-MOD
+o I-MOD
+garimpeiro I-MOD
+e I-MOD
+o I-MOD
+pescador I-MOD
+artesanal I-MOD
+, I-SUP
+e I-SUP
+os I-SUP
+seus I-SUP
+respectivos I-SUP
+cônjuges I-SUP
+ou I-SUP
+companheiros I-SUP
+e I-SUP
+filhos I-SUP
+maiores I-SUP
+de I-SUP
+dezesseis I-SUP
+anos I-SUP
+que I-SUP
+exerçam I-SUP
+suas I-SUP
+atividades I-SUP
+em I-MOD
+regime I-MOD
+de I-MOD
+economia I-MOD
+familiar I-MOD
+, I-MOD
+sem I-MOD
+empregados I-MOD
+permanentes I-MOD
+, I-ADD
+contribuirão I-MOD
+para I-MOD
+a I-MOD
+previdência I-MOD
+social I-MOD
+com I-MOD
+o I-MOD
+valor I-MOD
+resultante I-MOD
+da I-SUP
+aplicação I-SUP
+de I-SUP
+alíquota I-SUP
+sobre I-SUP
+o I-SUP
+resultado I-SUP
+da I-SUP
+comercialização I-SUP
+da I-MOD
+produção I-MOD
+rural I-MOD
+, I-ADD
+observado I-ADD
+o I-ADD
+valor I-ADD
+mínimo I-ADD
+anual I-ADD
+previsto I-ADD
+em I-ADD
+lei I-ADD
+. I-ADD
+
+
+ I-MOD
+.............................................................................................................. I-MOD
+
+
+ O
+.............................................................................................................. O
+
+
+
+ O

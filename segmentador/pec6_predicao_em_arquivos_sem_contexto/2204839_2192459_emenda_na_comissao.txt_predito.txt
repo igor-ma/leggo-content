@@ -1,0 +1,215 @@
+” I-MOD
+2 O
+proposta O
+emenda O
+constituição O
+n.º O
+6 O
+, O
+de O
+2019 I-SUP
+
+
+ I-SUP
+( O
+do O
+poder O
+executivo O
+) O
+
+
+
+
+ O
+modifica B-MOD
+o I-MOD
+sistema I-MOD
+de I-MOD
+previdência I-MOD
+
+
+ I-MOD
+social I-MOD
+, I-MOD
+
+
+ I-MOD
+estabelece I-MOD
+
+
+ I-MOD
+regras I-MOD
+
+
+ I-MOD
+de I-MOD
+
+
+ I-MOD
+transição I-MOD
+e I-MOD
+disposições I-MOD
+transitórias I-MOD
+, I-MOD
+e I-MOD
+dá I-MOD
+outras I-MOD
+providências I-MOD
+. E-MOD
+
+
+
+
+
+
+ O
+emenda O
+supressiva O
+nº O
+
+
+ O
+art B-MOD
+. I-MOD
+1º. I-MOD
+suprimam I-MOD
+- I-MOD
+se I-MOD
+o I-MOD
+art I-MOD
+. I-MOD
+149 I-MOD
+do I-MOD
+art I-MOD
+. I-MOD
+1º I-MOD
+da I-MOD
+pec I-ADD
+6/2019 I-SUP
+, I-MOD
+bem I-ADD
+como I-ADD
+todos I-ADD
+os I-SUP
+seus I-SUP
+parágrafos I-SUP
+, I-SUP
+incisos I-SUP
+e I-SUP
+alíneas I-SUP
+; I-SUP
+art I-MOD
+. I-MOD
+2º. I-MOD
+suprima I-MOD
+- I-MOD
+se I-MOD
+do I-MOD
+art I-MOD
+. I-MOD
+1º I-MOD
+da I-MOD
+pec I-MOD
+6/2019 I-MOD
+, I-MOD
+o I-MOD
+inciso I-MOD
+ii I-ADD
+do I-ADD
+art I-ADD
+. I-ADD
+195 I-ADD
+
+
+ I-ADD
+proposto I-ADD
+; I-ADD
+
+
+ I-ADD
+art I-MOD
+. I-MOD
+3º. I-MOD
+suprimam I-MOD
+- I-MOD
+se I-MOD
+o I-MOD
+art I-MOD
+. I-ADD
+13 I-ADD
+e I-ADD
+seus I-ADD
+§ I-ADD
+§ I-ADD
+1º I-ADD
+e I-ADD
+2º I-ADD
+da I-MOD
+pec I-MOD
+6/2019 I-MOD
+; I-MOD
+art I-MOD
+. I-MOD
+4º. I-MOD
+suprimam I-MOD
+- I-MOD
+se I-MOD
+o I-MOD
+caput I-MOD
+do I-MOD
+art I-MOD
+. I-MOD
+14 I-SUP
+, I-SUP
+parágrafos I-SUP
+e I-MOD
+incisos I-MOD
+da I-MOD
+pec I-MOD
+
+
+ I-MOD
+6/2019 I-MOD
+; I-MOD
+
+
+ I-MOD
+art I-MOD
+. I-MOD
+5º. I-MOD
+suprimam I-MOD
+- I-MOD
+se I-MOD
+o I-MOD
+art I-MOD
+. I-ADD
+15 I-ADD
+e I-ADD
+seus I-ADD
+§ I-SUP
+§ I-SUP
+1º I-ADD
+e I-ADD
+2º I-ADD
+da I-MOD
+pec I-MOD
+6/2019 I-MOD
+; I-MOD
+art I-MOD
+. I-MOD
+6º. I-MOD
+suprima I-MOD
+- I-MOD
+se I-MOD
+o I-MOD
+art I-MOD
+. I-MOD
+45 I-MOD
+da I-MOD
+pec I-MOD
+6/2019 I-MOD
+. O
+
+
+
+ O

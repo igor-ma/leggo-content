@@ -1,0 +1,373 @@
+câmara O
+deputados O
+proposta O
+emenda O
+constituição O
+nº O
+006 O
+, O
+de O
+2019 O
+
+
+
+
+
+
+ O
+altera I-MOD
+os I-MOD
+arts I-MOD
+. I-MOD
+37 I-MOD
+, I-MOD
+38 I-MOD
+, I-MOD
+39 I-MOD
+, I-MOD
+40 I-MOD
+, I-MOD
+42 I-MOD
+, I-ADD
+149 I-ADD
+, I-SUP
+
+
+ I-SUP
+195 I-SUP
+, I-SUP
+201 I-ADD
+, I-ADD
+203 I-SUP
+da I-SUP
+constituição I-SUP
+, I-SUP
+para I-SUP
+
+
+ I-SUP
+dispor I-ADD
+sobre I-MOD
+a I-MOD
+seguridade I-MOD
+social I-MOD
+, I-MOD
+
+
+ I-MOD
+estabelece I-MOD
+regras I-MOD
+de I-MOD
+transição I-MOD
+e I-MOD
+dá I-MOD
+
+
+ I-MOD
+outras I-MOD
+providências I-MOD
+. E-MOD
+
+
+
+
+
+
+ O
+emenda O
+modificativa O
+
+
+
+
+
+
+ O
+altere O
+- O
+se O
+o I-MOD
+art I-MOD
+. I-MOD
+1º I-MOD
+da I-MOD
+pec I-MOD
+006 I-MOD
+, I-MOD
+de O
+2019 I-MOD
+, I-MOD
+passando I-MOD
+a I-MOD
+ter I-MOD
+a I-MOD
+seguinte I-MOD
+redação I-MOD
+: I-MOD
+
+
+
+
+ I-MOD
+cf I-MOD
+, I-MOD
+art I-MOD
+. I-MOD
+40 I-MOD
+
+
+ I-MOD
+[ I-MOD
+... I-ADD
+] I-ADD
+. I-MOD
+
+
+ I-MOD
+§ I-MOD
+1º I-ADD
+são I-ADD
+isentos I-ADD
+de I-ADD
+contribuição I-ADD
+previdenciária I-ADD
+de I-ADD
+forma I-ADD
+gradual I-ADD
+, I-MOD
+à I-ADD
+razão I-ADD
+de I-ADD
+10 I-ADD
+% I-ADD
+( I-ADD
+dez I-ADD
+por I-ADD
+cento I-ADD
+) I-ADD
+a I-MOD
+o I-ADD
+ano I-ADD
+, I-MOD
+a I-MOD
+partir I-MOD
+de I-MOD
+65 I-MOD
+
+
+ I-MOD
+( I-MOD
+sessenta I-MOD
+e I-MOD
+cinco I-MOD
+) I-MOD
+anos I-MOD
+de I-MOD
+idade I-MOD
+, I-SUP
+o I-SUP
+aposentado I-MOD
+e I-MOD
+o I-MOD
+pensionista I-MOD
+, I-MOD
+cessando I-MOD
+a I-MOD
+os I-MOD
+75 I-MOD
+( I-MOD
+setenta I-MOD
+e I-SUP
+cinco I-SUP
+) I-SUP
+anos I-MOD
+de I-MOD
+idade I-MOD
+. I-SUP
+
+
+
+
+ I-ADD
+§ I-ADD
+1º-a I-ADD
+lei I-ADD
+complementar I-ADD
+de I-ADD
+iniciativa I-ADD
+do I-MOD
+poder I-MOD
+executivo I-MOD
+federal I-MOD
+disporá I-MOD
+sobre I-MOD
+as I-MOD
+normas I-MOD
+gerais I-MOD
+de I-MOD
+organização I-MOD
+, I-MOD
+de I-MOD
+funcionamento I-MOD
+e I-MOD
+de I-MOD
+responsabilidade I-MOD
+previdenciária I-MOD
+na I-MOD
+gestão I-MOD
+dos I-MOD
+regimes I-MOD
+próprios I-MOD
+de I-MOD
+previdência I-MOD
+social I-MOD
+de I-MOD
+que I-MOD
+trata I-MOD
+este I-MOD
+artigo I-ADD
+, I-MOD
+contemplará I-MOD
+modelo I-MOD
+de I-MOD
+apuração I-ADD
+dos I-ADD
+compromissos I-ADD
+e I-ADD
+seu I-ADD
+financiamento I-ADD
+, I-ADD
+de I-ADD
+arrecadação I-ADD
+, I-ADD
+de I-MOD
+aplicação I-MOD
+e I-MOD
+de I-MOD
+utilização I-MOD
+de I-MOD
+recursos I-MOD
+, I-MOD
+dos I-MOD
+benefícios I-MOD
+, I-MOD
+da I-MOD
+fiscalização I-MOD
+pela I-MOD
+união I-MOD
+e I-MOD
+do I-MOD
+controle I-MOD
+externo I-MOD
+e I-MOD
+social I-MOD
+, I-MOD
+e I-MOD
+estabelecerá I-MOD
+, I-MOD
+dentre I-MOD
+outros I-MOD
+critérios I-MOD
+e I-MOD
+parâmetros I-MOD
+: I-MOD
+( I-MOD
+nr I-MOD
+) I-MOD
+cf I-MOD
+, I-MOD
+art I-MOD
+. I-MOD
+149 I-MOD
+
+
+
+
+ I-MOD
+§ I-MOD
+1º I-MOD
+a I-MOD
+união I-MOD
+, I-MOD
+os I-MOD
+estados I-MOD
+, I-MOD
+o I-MOD
+distrito I-MOD
+federal I-MOD
+e I-MOD
+os I-MOD
+municípios I-MOD
+instituirão I-MOD
+, I-MOD
+por I-ADD
+meio I-ADD
+de I-ADD
+lei I-ADD
+, I-ADD
+observados I-ADD
+os I-ADD
+parâmetros I-ADD
+estabelecidos I-ADD
+na I-ADD
+lei I-ADD
+complementar I-ADD
+a I-ADD
+que I-ADD
+se I-ADD
+refere I-ADD
+os I-ADD
+§ I-ADD
+§ I-ADD
+1º I-ADD
+e I-ADD
+1º-a I-ADD
+do I-MOD
+art I-ADD
+. I-ADD
+40 I-ADD
+, I-ADD
+contribuições I-ADD
+ordinárias I-ADD
+e I-ADD
+extraordinárias I-MOD
+, I-SUP
+cobradas I-SUP
+dos I-MOD
+servidores I-MOD
+públicos I-MOD
+, I-MOD
+dos I-MOD
+aposentados I-MOD
+e I-MOD
+dos I-ADD
+pensionistas I-MOD
+, I-MOD
+em I-MOD
+benefícios I-SUP
+d I-SUP
+estes I-SUP
+, I-SUP
+para I-ADD
+o I-SUP
+custeio I-ADD
+do I-MOD
+regime I-MOD
+próprio I-MOD
+de I-MOD
+previdência I-MOD
+social I-MOD
+de I-MOD
+que I-MOD
+trata I-MOD
+o I-MOD
+art I-MOD
+. I-MOD
+40 I-MOD
+. E-ADD
+
+
+
+
+
+ O

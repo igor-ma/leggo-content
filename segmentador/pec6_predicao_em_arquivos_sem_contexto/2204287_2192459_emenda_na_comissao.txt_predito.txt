@@ -1,0 +1,383 @@
+época I-MOD
+” E-MOD
+comissão O
+destinada O
+emitir O
+parecer O
+sobre O
+a O
+proposta O
+de O
+
+
+ O
+emenda O
+à O
+constituição O
+nº O
+6 O
+de O
+2019 O
+
+
+
+
+
+
+ O
+proposta O
+de O
+emenda O
+à O
+constituição O
+nº O
+6 O
+, I-ADD
+de I-SUP
+2019 O
+
+
+ O
+( O
+do O
+sr. O
+ricardo O
+izar O
+) O
+
+
+
+
+ O
+modifica B-MOD
+o I-MOD
+sistema I-MOD
+de I-MOD
+previdência I-MOD
+
+
+ I-MOD
+social I-MOD
+, I-MOD
+estabelece I-MOD
+regras I-MOD
+de I-MOD
+transição I-MOD
+e I-MOD
+
+
+ I-MOD
+disposições I-MOD
+
+
+ I-MOD
+transitórias I-MOD
+, I-MOD
+
+
+ I-MOD
+e I-MOD
+
+
+ I-MOD
+dá I-MOD
+
+
+ I-MOD
+outras I-MOD
+
+
+ I-MOD
+providências I-MOD
+. E-MOD
+
+
+
+
+ O
+emenda O
+
+
+ O
+dê O
+- I-MOD
+se I-MOD
+a I-MOD
+os I-MOD
+arts I-MOD
+. I-MOD
+12 I-MOD
+e I-MOD
+26 I-SUP
+da I-SUP
+proposta I-SUP
+de O
+emenda I-SUP
+à I-ADD
+constituição I-ADD
+nº I-SUP
+6 I-ADD
+, I-ADD
+de I-ADD
+2019 I-SUP
+, I-SUP
+a I-MOD
+seguinte I-MOD
+redação I-MOD
+: I-MOD
+
+
+ I-MOD
+“ I-MOD
+art I-MOD
+. I-MOD
+12 I-MOD
+. I-MOD
+.................................................................................................... I-MOD
+
+
+ I-MOD
+.................................................................................................................. I-MOD
+
+
+ I-MOD
+§ I-MOD
+7º. I-MOD
+.......................................................................................................... I-ADD
+
+
+ I-MOD
+.................................................................................................................. I-MOD
+
+
+ I-MOD
+ii I-MOD
+- I-MOD
+na I-MOD
+hipótese I-MOD
+prevista I-MOD
+no I-ADD
+inciso I-SUP
+ii I-ADD
+do I-ADD
+§ I-MOD
+3º I-MOD
+, I-MOD
+a I-MOD
+sessenta I-MOD
+por I-MOD
+cento I-MOD
+da I-MOD
+média I-MOD
+aritmética I-ADD
+a I-MOD
+que I-MOD
+se I-MOD
+refere I-MOD
+o I-ADD
+§ I-ADD
+5º I-ADD
+, I-ADD
+acrescidos I-ADD
+de I-ADD
+dois I-ADD
+por I-ADD
+cento I-ADD
+para I-ADD
+cada I-ADD
+ano I-ADD
+de I-ADD
+contribuição I-ADD
+que I-ADD
+exceder I-ADD
+a I-ADD
+vinte I-ADD
+anos I-ADD
+de I-ADD
+contribuição I-ADD
+, I-ADD
+exceto I-ADD
+em I-ADD
+caso I-ADD
+de I-MOD
+acidente I-MOD
+de I-MOD
+trabalho I-MOD
+, I-MOD
+de I-MOD
+doenças I-MOD
+profissionais I-MOD
+, I-MOD
+de I-MOD
+doenças I-MOD
+do I-MOD
+trabalho I-MOD
+e I-MOD
+de I-MOD
+doenças I-MOD
+de I-MOD
+parkinson I-MOD
+e I-MOD
+alzheimer I-MOD
+, I-MOD
+situação I-MOD
+em I-MOD
+que I-MOD
+corresponderão I-ADD
+a I-ADD
+cem I-ADD
+por I-ADD
+cento I-ADD
+média I-ADD
+a I-ADD
+que I-ADD
+se I-ADD
+refere I-MOD
+o I-MOD
+§ I-MOD
+6º I-MOD
+; I-ADD
+
+
+ I-ADD
+.................................................................................................................. I-ADD
+
+
+ I-MOD
+§ I-MOD
+13 I-ADD
+. I-ADD
+os I-ADD
+aposentados I-ADD
+por I-ADD
+incapacidade I-ADD
+permanente I-ADD
+decorrente I-ADD
+das I-ADD
+doenças I-ADD
+de I-ADD
+parkinson I-MOD
+e I-MOD
+alzheimer I-MOD
+ficam I-MOD
+dispensados I-MOD
+das I-MOD
+reavaliações I-MOD
+periódicas I-SUP
+previstas I-ADD
+no I-SUP
+inciso I-ADD
+ii I-ADD
+, I-ADD
+do I-SUP
+§ I-ADD
+2º I-MOD
+, I-MOD
+do I-MOD
+art I-ADD
+. I-MOD
+40 I-MOD
+, I-MOD
+da I-MOD
+constituição I-MOD
+federal I-MOD
+. I-MOD
+” I-MOD
+
+
+ I-MOD
+“ I-MOD
+art I-MOD
+. I-MOD
+26 I-MOD
+. I-MOD
+..................................................................................................... I-MOD
+
+
+ I-MOD
+§ I-MOD
+1º I-MOD
+nas I-MOD
+hipóteses I-MOD
+de I-MOD
+acidente I-MOD
+de I-MOD
+trabalho I-MOD
+, I-MOD
+doenças I-MOD
+profissionais I-MOD
+, I-MOD
+doenças I-MOD
+do I-MOD
+trabalho I-MOD
+e I-MOD
+doenças I-MOD
+de I-MOD
+parkinson I-MOD
+e I-MOD
+alzheimer I-ADD
+o I-ADD
+valor I-ADD
+da I-ADD
+aposentadoria I-ADD
+a I-ADD
+que I-ADD
+se I-ADD
+refere I-ADD
+o I-MOD
+caput I-MOD
+corresponderá I-ADD
+a I-ADD
+cem I-ADD
+por I-ADD
+cento I-ADD
+da I-ADD
+referida I-ADD
+média I-ADD
+. I-ADD
+
+
+
+
+
+
+ I-ADD
+§ I-ADD
+2º I-ADD
+os I-ADD
+aposentados I-ADD
+por I-ADD
+incapacidade I-ADD
+permanente I-ADD
+decorrente I-ADD
+das I-ADD
+doenças I-ADD
+de I-ADD
+parkinson I-MOD
+e I-MOD
+alzheimer I-MOD
+ficam I-MOD
+dispensados I-MOD
+do I-MOD
+exame I-MOD
+previsto I-MOD
+no I-SUP
+art I-SUP
+. I-MOD
+101 I-MOD
+
+
+ I-ADD
+da I-ADD
+lei I-ADD
+nº I-ADD
+8.213 I-ADD
+, I-ADD
+de I-ADD
+1991 I-ADD
+. I-ADD
+” E-ADD
+
+
+
+ O

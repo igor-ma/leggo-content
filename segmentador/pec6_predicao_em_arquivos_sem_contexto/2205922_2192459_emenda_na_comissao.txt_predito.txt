@@ -1,0 +1,269 @@
+; O
+................................................................................................... O
+câmara O
+deputados O
+proposta O
+de O
+emenda O
+à O
+constituição O
+
+
+ O
+( O
+do O
+poder O
+executivo O
+) O
+
+
+
+
+
+
+ O
+modifica B-MOD
+o I-MOD
+sistema I-MOD
+de I-MOD
+previdência I-MOD
+social I-MOD
+, I-MOD
+estabelece I-MOD
+regras I-MOD
+de I-MOD
+transição I-MOD
+e I-MOD
+disposições I-MOD
+transitórias I-MOD
+, I-MOD
+e I-MOD
+dá I-MOD
+outras I-MOD
+providências I-MOD
+. E-MOD
+
+
+
+
+
+
+ O
+emenda O
+modificativa O
+n.º O
+: O
+
+
+ O
+art O
+. O
+1 O
+dê O
+- O
+se O
+a O
+o O
+capítulo O
+vi O
+disposições O
+transitórias O
+
+
+ O
+relacionadas O
+ao O
+regime O
+geral O
+de O
+previdência O
+social I-ADD
+. B-ADD
+
+
+ I-ADD
+aposentadoria I-ADD
+por I-ADD
+idade I-ADD
+e I-ADD
+por I-ADD
+tempo I-ADD
+de I-ADD
+contribuição I-ADD
+: I-ADD
+
+
+ I-ADD
+art I-ADD
+. I-ADD
+24 I-MOD
+. I-MOD
+até I-MOD
+que I-MOD
+entre I-MOD
+em I-ADD
+vigor I-ADD
+a I-ADD
+nova I-ADD
+lei I-ADD
+complementar I-ADD
+a I-ADD
+que I-ADD
+se I-ADD
+refere I-ADD
+o I-MOD
+
+
+ I-MOD
+§ I-MOD
+1º I-SUP
+do I-SUP
+art I-SUP
+. I-SUP
+201 I-SUP
+da I-SUP
+constituição I-SUP
+, I-SUP
+o I-SUP
+segurado I-ADD
+filiado I-ADD
+a I-ADD
+o I-ADD
+regime I-ADD
+geral I-ADD
+de I-ADD
+previdência I-ADD
+social I-ADD
+após I-MOD
+a I-MOD
+data I-MOD
+de I-MOD
+promulgação I-SUP
+d I-SUP
+esta I-SUP
+emenda I-SUP
+à I-SUP
+constituição I-SUP
+será I-SUP
+aposentado I-ADD
+quando I-ADD
+preencher I-MOD
+, I-MOD
+cumulativamente I-MOD
+, I-MOD
+os I-ADD
+seguintes I-ADD
+requisitos I-ADD
+: I-ADD
+i I-ADD
+– I-SUP
+cinquenta I-SUP
+e I-SUP
+três I-SUP
+anos I-MOD
+de I-MOD
+idade I-MOD
+, I-MOD
+se I-MOD
+mulher I-MOD
+, I-MOD
+e I-MOD
+cinquenta I-MOD
+e I-MOD
+oito I-MOD
+anos I-MOD
+de I-MOD
+idade I-MOD
+, I-MOD
+se I-MOD
+homem I-MOD
+, I-MOD
+reduzidos I-MOD
+em I-MOD
+cinco I-MOD
+anos I-MOD
+, I-MOD
+se I-MOD
+mulher I-MOD
+, I-MOD
+e I-MOD
+em I-MOD
+dois I-MOD
+anos I-MOD
+, I-MOD
+se I-MOD
+homem I-MOD
+, I-MOD
+para I-MOD
+os O
+trabalhadores O
+rurais O
+de O
+ambos O
+os O
+sexos I-MOD
+, I-MOD
+inclusive I-MOD
+aqueles I-MOD
+a I-MOD
+que I-ADD
+se I-SUP
+refere I-MOD
+o I-SUP
+§ I-SUP
+8º I-ADD
+do I-ADD
+art I-ADD
+. I-ADD
+195 I-ADD
+da I-ADD
+constituição I-ADD
+; I-ADD
+e I-ADD
+
+
+ I-MOD
+ii I-MOD
+- I-MOD
+vinte I-MOD
+anos I-ADD
+de I-ADD
+tempo I-ADD
+de I-ADD
+contribuição I-ADD
+. I-ADD
+
+
+ I-ADD
+art I-ADD
+. I-ADD
+2º I-SUP
+esta I-SUP
+emenda I-SUP
+à I-SUP
+constituição I-SUP
+entra I-SUP
+em I-SUP
+vigor I-SUP
+na I-SUP
+data I-SUP
+de I-SUP
+sua I-SUP
+publicação I-SUP
+. E-MOD
+
+
+
+
+
+
+ O
+câmara O
+dos O
+deputados O
+
+
+
+
+
+ O

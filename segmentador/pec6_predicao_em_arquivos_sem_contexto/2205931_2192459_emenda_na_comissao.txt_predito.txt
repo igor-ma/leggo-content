@@ -1,0 +1,674 @@
+artigo I-SUP
+. O
+proposta O
+emenda O
+constituição O
+nº O
+6 O
+, O
+de O
+2019 O
+
+
+
+
+
+
+ I-SUP
+modifica B-MOD
+
+
+ I-MOD
+o I-MOD
+
+
+ I-MOD
+sistema I-MOD
+
+
+ I-MOD
+de I-MOD
+
+
+ I-MOD
+previdência I-MOD
+social I-MOD
+, I-MOD
+estabelece I-MOD
+
+
+ I-MOD
+regras I-MOD
+
+
+ I-MOD
+de I-MOD
+
+
+ I-MOD
+transição I-MOD
+
+
+ I-MOD
+e I-MOD
+
+
+ I-MOD
+disposições I-MOD
+transitórias I-MOD
+, I-MOD
+e I-MOD
+dá I-MOD
+
+
+ I-MOD
+outras I-MOD
+providências I-MOD
+. E-MOD
+
+
+
+
+ O
+emenda O
+modificativa O
+
+
+
+
+ O
+art O
+. O
+1º. O
+dê I-MOD
+- I-MOD
+se I-MOD
+a O
+o I-MOD
+inciso I-MOD
+ii I-ADD
+, I-MOD
+com I-MOD
+acréscimo I-MOD
+da I-MOD
+alínea I-MOD
+“ I-MOD
+a I-MOD
+” I-MOD
+e I-MOD
+alínea I-MOD
+
+
+ I-MOD
+“ I-MOD
+b I-MOD
+” I-MOD
+, I-MOD
+do I-MOD
+§ I-MOD
+7º I-MOD
+, I-MOD
+do I-MOD
+art I-MOD
+. I-MOD
+12 I-MOD
+, I-MOD
+da I-MOD
+pec I-MOD
+6/2019 I-MOD
+a I-MOD
+seguinte I-MOD
+redação I-MOD
+: I-MOD
+art I-MOD
+. I-MOD
+12 I-MOD
+.................................................................................... I-MOD
+
+
+ I-MOD
+§ I-MOD
+7º I-MOD
+........................................................................................ I-MOD
+
+
+ I-MOD
+ii I-MOD
+- I-MOD
+na I-MOD
+hipótese I-MOD
+prevista I-MOD
+no I-ADD
+inciso I-SUP
+ii I-ADD
+do I-ADD
+§ I-MOD
+3º I-MOD
+, I-MOD
+a I-MOD
+sessenta I-MOD
+por I-MOD
+cento I-MOD
+da I-MOD
+média I-MOD
+aritmética I-ADD
+a I-MOD
+que I-MOD
+se I-MOD
+refere I-MOD
+o I-ADD
+§ I-ADD
+5º I-ADD
+, I-ADD
+acrescidos I-ADD
+de I-ADD
+dois I-ADD
+por I-ADD
+cento I-ADD
+para I-ADD
+cada I-ADD
+ano I-ADD
+de I-ADD
+contribuição I-ADD
+que I-ADD
+exceder I-ADD
+a I-ADD
+vinte I-ADD
+anos I-ADD
+de I-ADD
+contribuição I-ADD
+, I-ADD
+exceto I-ADD
+em I-ADD
+caso I-ADD
+de I-MOD
+acidente I-MOD
+de I-MOD
+trabalho I-MOD
+, I-MOD
+de I-MOD
+doenças I-MOD
+profissionais I-MOD
+e I-MOD
+de I-MOD
+doenças I-MOD
+do I-MOD
+trabalho I-MOD
+, I-MOD
+de I-MOD
+moléstia I-MOD
+profissional I-MOD
+ou I-MOD
+de I-MOD
+doença I-MOD
+grave I-MOD
+, I-MOD
+contagiosa I-SUP
+ou I-MOD
+incurável I-MOD
+, I-MOD
+na I-MOD
+forma I-MOD
+da I-MOD
+lei I-MOD
+, I-MOD
+situação I-ADD
+em I-ADD
+que I-ADD
+corresponderão I-ADD
+à I-ADD
+: I-ADD
+
+
+
+
+ I-ADD
+a I-ADD
+) I-ADD
+totalidade I-ADD
+da I-SUP
+remuneração I-SUP
+do I-ADD
+servidor I-SUP
+público I-SUP
+no I-SUP
+cargo I-SUP
+efetivo I-SUP
+em I-SUP
+que I-ADD
+se I-ADD
+der I-ADD
+a I-ADD
+aposentadoria I-ADD
+, I-ADD
+observado I-ADD
+o I-ADD
+disposto I-ADD
+no I-MOD
+§ I-MOD
+10 I-MOD
+do I-MOD
+art I-MOD
+. I-MOD
+3º I-MOD
+, I-SUP
+para I-SUP
+o I-SUP
+servidor I-SUP
+público I-SUP
+que I-SUP
+tenha I-SUP
+ingressado I-SUP
+no I-SUP
+serviço I-SUP
+público I-SUP
+em I-SUP
+cargo I-SUP
+efetivo I-SUP
+até I-MOD
+31 I-MOD
+de I-MOD
+dezembro I-MOD
+de I-MOD
+2003 I-MOD
+, I-MOD
+reajustados I-MOD
+de I-MOD
+acordo I-MOD
+com I-MOD
+o I-MOD
+disposto I-MOD
+no I-MOD
+art I-SUP
+. I-MOD
+7º I-MOD
+da I-MOD
+emenda I-MOD
+constitucional I-MOD
+nº I-MOD
+41 I-MOD
+, I-MOD
+de I-MOD
+2003 I-MOD
+. I-MOD
+
+
+
+
+ I-MOD
+b I-MOD
+) I-MOD
+cem I-MOD
+por I-MOD
+cento I-MOD
+média I-ADD
+a I-ADD
+que I-ADD
+se I-ADD
+refere I-MOD
+o I-MOD
+§ I-SUP
+6º I-ADD
+, I-SUP
+para I-SUP
+o I-SUP
+servidor I-SUP
+público I-SUP
+que I-SUP
+venha I-SUP
+a I-SUP
+se I-ADD
+aposentar I-ADD
+por I-ADD
+invalidez I-ADD
+permanente I-ADD
+não I-ADD
+contemplado I-ADD
+na I-ADD
+alínea I-ADD
+“ I-MOD
+a I-ADD
+” I-SUP
+, I-ADD
+reajustados I-ADD
+nos I-ADD
+termos I-ADD
+estabelecidos I-ADD
+para I-ADD
+o I-ADD
+regime I-ADD
+geral I-ADD
+de I-ADD
+
+
+ I-ADD
+previdência I-ADD
+social I-MOD
+. I-MOD
+
+
+
+
+ I-MOD
+art I-MOD
+. I-MOD
+2º. I-MOD
+dê I-MOD
+- I-MOD
+se I-MOD
+a O
+o I-MOD
+inciso I-MOD
+ii I-ADD
+do I-MOD
+§ I-SUP
+1º I-SUP
+do I-SUP
+art I-SUP
+. I-MOD
+8º I-MOD
+da I-MOD
+pec I-MOD
+6/2019 I-MOD
+a I-MOD
+seguinte I-MOD
+redação I-MOD
+: I-MOD
+
+
+ I-MOD
+art I-MOD
+. I-MOD
+8º I-MOD
+..................................................................................... I-MOD
+
+
+ I-MOD
+§ I-MOD
+1º I-MOD
+.................................................................................... I-MOD
+
+
+ I-MOD
+ii I-MOD
+- I-MOD
+na I-MOD
+hipótese I-MOD
+de I-SUP
+óbito I-SUP
+de I-SUP
+servidor I-SUP
+público I-SUP
+em I-SUP
+atividade I-SUP
+, I-SUP
+as I-SUP
+cotas I-SUP
+serão I-SUP
+calculadas I-SUP
+sobre I-SUP
+o I-SUP
+valor I-SUP
+dos I-SUP
+proventos I-SUP
+a I-SUP
+que I-SUP
+o I-SUP
+servidor I-SUP
+público I-SUP
+teria I-SUP
+direito I-SUP
+se I-SUP
+fosse I-ADD
+aposentado I-ADD
+por I-ADD
+incapacidade I-ADD
+permanente I-ADD
+na I-ADD
+data I-ADD
+do I-SUP
+óbito I-SUP
+, I-SUP
+exceto I-MOD
+na I-MOD
+hipótese I-MOD
+de I-MOD
+o I-MOD
+óbito I-MOD
+ter I-MOD
+sido I-MOD
+decorrente I-MOD
+de I-MOD
+acidente I-MOD
+do I-MOD
+trabalho I-MOD
+, I-MOD
+de I-MOD
+doença I-MOD
+profissional O
+ou I-MOD
+do I-MOD
+trabalho I-MOD
+, O
+de O
+moléstia I-MOD
+profissional I-MOD
+ou I-MOD
+de I-MOD
+doença I-MOD
+grave I-MOD
+, I-MOD
+contagiosa I-MOD
+ou I-MOD
+
+
+ I-MOD
+incurável I-MOD
+, I-MOD
+na I-MOD
+forma I-MOD
+da I-MOD
+lei I-MOD
+, I-MOD
+situação I-ADD
+em I-ADD
+que I-ADD
+corresponderão I-ADD
+à I-ADD
+totalidade I-ADD
+da I-SUP
+remuneração I-SUP
+do I-ADD
+servidor I-SUP
+público I-SUP
+no I-SUP
+cargo I-SUP
+efetivo I-SUP
+, I-SUP
+observado I-SUP
+o I-MOD
+disposto I-MOD
+no I-MOD
+§ I-MOD
+10 I-MOD
+do I-MOD
+art I-MOD
+. I-MOD
+3º I-MOD
+, I-SUP
+e I-MOD
+, I-MOD
+em I-MOD
+qualquer I-MOD
+hipótese I-SUP
+, I-SUP
+o I-SUP
+limite I-SUP
+máximo I-SUP
+estabelecido I-SUP
+para I-SUP
+os I-ADD
+benefícios I-ADD
+do I-ADD
+regime I-ADD
+geral I-ADD
+de I-ADD
+previdência I-ADD
+social I-ADD
+, I-ADD
+acrescido I-ADD
+de I-ADD
+setenta I-ADD
+por I-ADD
+cento I-ADD
+da I-ADD
+parcela I-ADD
+excedente I-ADD
+a I-MOD
+esse I-MOD
+limite I-MOD
+; I-MOD
+
+
+
+
+ I-MOD
+art I-MOD
+. I-MOD
+3º. I-MOD
+dê I-MOD
+- I-MOD
+se I-MOD
+a O
+o I-MOD
+inciso I-MOD
+ii I-ADD
+, I-ADD
+do I-ADD
+§ I-ADD
+9º I-MOD
+, I-SUP
+do I-SUP
+art I-SUP
+. I-MOD
+12 I-MOD
+, I-MOD
+da I-MOD
+pec I-MOD
+6/2019 I-MOD
+a I-MOD
+seguinte I-MOD
+redação I-MOD
+: I-MOD
+
+
+
+
+ I-MOD
+art I-MOD
+. I-MOD
+12 I-SUP
+.................................................................................... I-MOD
+
+
+ I-MOD
+§ I-SUP
+9º I-MOD
+........................................................................................ I-MOD
+
+
+ I-MOD
+ii I-MOD
+- I-MOD
+na I-MOD
+hipótese I-MOD
+de I-SUP
+óbito I-SUP
+de I-SUP
+servidor I-SUP
+público I-SUP
+em I-SUP
+atividade I-SUP
+, I-SUP
+as I-SUP
+cotas I-SUP
+serão I-SUP
+calculadas I-SUP
+sobre I-SUP
+o I-SUP
+valor I-SUP
+dos I-SUP
+proventos I-SUP
+a I-MOD
+os I-SUP
+quais I-SUP
+o I-SUP
+servidor I-SUP
+público I-SUP
+teria I-SUP
+direito I-SUP
+se I-SUP
+fosse I-ADD
+aposentado I-ADD
+por I-ADD
+incapacidade I-ADD
+permanente I-ADD
+na I-ADD
+data I-ADD
+do I-ADD
+óbito I-ADD
+, I-MOD
+exceto I-MOD
+se I-MOD
+o I-MOD
+óbito I-MOD
+tiver I-MOD
+sido I-MOD
+decorrente I-MOD
+de I-MOD
+acidente I-MOD
+do I-MOD
+trabalho I-MOD
+, I-MOD
+doença I-MOD
+profissional I-MOD
+ou O
+do I-MOD
+trabalho I-MOD
+, O
+de O
+moléstia I-MOD
+profissional I-MOD
+ou I-MOD
+de I-MOD
+doença I-MOD
+grave I-MOD
+, I-MOD
+contagiosa I-SUP
+ou I-MOD
+incurável I-MOD
+, I-MOD
+na I-MOD
+forma I-MOD
+da I-MOD
+lei I-MOD
+, I-MOD
+situação I-MOD
+em I-MOD
+que I-MOD
+corresponderão I-ADD
+a I-ADD
+cem I-ADD
+por I-ADD
+cento I-ADD
+da I-ADD
+média I-ADD
+referida I-ADD
+no I-ADD
+§ I-SUP
+6º I-SUP
+; E-SUP
+
+
+
+ O

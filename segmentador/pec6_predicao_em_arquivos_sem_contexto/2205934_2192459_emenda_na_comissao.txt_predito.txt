@@ -1,0 +1,115 @@
+da O
+. O
+comissão O
+destinada O
+proferir O
+parecer O
+à O
+
+
+ O
+proposta O
+de O
+emenda O
+à O
+constituição O
+nº O
+6 O
+, O
+de O
+2019 O
+
+
+ O
+proposta O
+de O
+emenda O
+à O
+constituição O
+nº O
+6 O
+, O
+de O
+2019 I-MOD
+
+
+ I-MOD
+altera I-MOD
+a I-MOD
+redação I-MOD
+da I-MOD
+proposta I-ADD
+de I-SUP
+
+
+ O
+emenda I-ADD
+à O
+constituição O
+nº O
+6/2019 O
+para I-ADD
+
+
+ I-ADD
+regressar I-MOD
+a I-MOD
+o I-MOD
+texto I-MOD
+constitucional I-MOD
+a I-MOD
+menção I-MOD
+
+
+ I-SUP
+expressa I-MOD
+à I-SUP
+proteção I-ADD
+à O
+maternidade O
+. O
+
+
+ O
+emenda O
+nº O
+
+
+ O
+suprima O
+- O
+se I-MOD
+a I-MOD
+alteração I-MOD
+que I-MOD
+o I-MOD
+art I-MOD
+. I-MOD
+1º I-SUP
+da I-SUP
+proposta I-ADD
+de I-ADD
+emenda I-ADD
+à I-ADD
+constituição I-ADD
+nº I-SUP
+6 I-ADD
+, I-ADD
+de I-ADD
+2019 I-ADD
+, I-ADD
+faz I-ADD
+a I-ADD
+o I-ADD
+inciso I-ADD
+ii I-SUP
+do I-SUP
+art I-SUP
+. I-SUP
+201 I-SUP
+da I-SUP
+constituição I-SUP
+federal I-SUP
+. E-SUP
+
+ O

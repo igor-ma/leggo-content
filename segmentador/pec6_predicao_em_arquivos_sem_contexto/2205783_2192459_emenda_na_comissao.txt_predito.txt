@@ -1,0 +1,148 @@
+( I-MOD
+) E-MOD
+câmara O
+deputados O
+gabinete O
+deputado O
+sidney I-MOD
+leite I-MOD
+– I-MOD
+psd I-MOD
+/ O
+am O
+
+
+
+
+
+
+ O
+comissão O
+especial O
+
+
+
+
+ O
+proposta O
+de O
+emenda O
+constitucional O
+nº O
+06 O
+de O
+2019 O
+
+
+
+
+ O
+emenda O
+supressiva O
+nº O
+_ O
+_ O
+_ O
+_ I-MOD
+_ I-MOD
+_ I-MOD
+_ I-MOD
+, I-MOD
+de I-MOD
+2019 O
+
+
+ O
+( O
+do O
+sr. O
+sidney O
+leite I-MOD
+e I-MOD
+outros O
+) I-MOD
+revoga I-MOD
+
+
+ I-MOD
+artigos I-MOD
+
+
+ I-MOD
+que I-MOD
+
+
+ I-MOD
+tratam I-MOD
+
+
+ I-MOD
+da I-MOD
+
+
+ I-MOD
+desconstitucionalização I-MOD
+de I-MOD
+assuntos I-MOD
+previdenciários I-MOD
+. I-MOD
+
+
+
+
+ I-MOD
+art.1º I-MOD
+suprimam I-MOD
+- I-MOD
+se I-MOD
+os I-MOD
+seguintes I-MOD
+dispositivos I-MOD
+da I-MOD
+proposta I-MOD
+de I-SUP
+emenda I-SUP
+constitucional I-SUP
+nº I-SUP
+6 I-SUP
+de I-SUP
+2019 I-ADD
+: I-ADD
+i I-SUP
+– I-ADD
+inciso I-ADD
+i I-ADD
+do I-MOD
+§ I-MOD
+1º I-MOD
+do I-MOD
+art.40 I-MOD
+da I-MOD
+constituição I-MOD
+federal I-MOD
+, I-MOD
+conforme I-MOD
+art I-MOD
+. I-MOD
+1º I-MOD
+da I-MOD
+pec I-MOD
+; I-MOD
+
+
+ I-MOD
+ii I-MOD
+- I-MOD
+§ I-MOD
+1º I-SUP
+do I-SUP
+art I-MOD
+. I-SUP
+201 I-SUP
+da I-MOD
+pec I-SUP
+. E-SUP
+
+
+
+ O

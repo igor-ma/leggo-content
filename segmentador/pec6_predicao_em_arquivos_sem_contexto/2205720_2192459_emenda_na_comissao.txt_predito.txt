@@ -1,0 +1,573 @@
+câmara O
+deputados O
+câmara O
+deputados O
+proposta O
+de O
+emenda O
+constitucional O
+nº O
+06 O
+, O
+de O
+2019 O
+
+
+
+
+ O
+emenda O
+modificativa O
+nº O
+_ O
+_ O
+_ O
+_ I-MOD
+
+
+ I-MOD
+altera I-MOD
+o I-MOD
+art I-MOD
+. I-MOD
+8º I-ADD
+, I-SUP
+§ I-SUP
+1º I-SUP
+, I-SUP
+incisos I-SUP
+ii I-SUP
+e I-MOD
+iii I-MOD
+, I-SUP
+suprime I-ADD
+o I-ADD
+atual I-ADD
+inciso I-ADD
+iii I-SUP
+, I-SUP
+do I-SUP
+art I-SUP
+. I-SUP
+8º I-MOD
+, I-MOD
+§ I-MOD
+1º I-ADD
+, I-ADD
+renumera I-ADD
+o I-ADD
+seu I-ADD
+atual I-ADD
+inciso I-ADD
+iv I-ADD
+, I-ADD
+para I-MOD
+inciso I-MOD
+iii I-MOD
+, I-MOD
+altera I-MOD
+o I-MOD
+art I-MOD
+. I-MOD
+8º I-MOD
+, I-MOD
+§ I-MOD
+2º I-MOD
+, I-MOD
+suprime I-MOD
+o I-MOD
+parágrafo I-MOD
+9º I-MOD
+, I-SUP
+do I-MOD
+art I-SUP
+. I-SUP
+12 I-SUP
+, I-SUP
+bem I-SUP
+como I-SUP
+suprime I-SUP
+os I-SUP
+incisos I-SUP
+iii I-SUP
+e I-MOD
+v I-MOD
+do I-MOD
+parágrafo I-MOD
+10 I-MOD
+do I-MOD
+art I-MOD
+. I-MOD
+12 I-MOD
+, I-MOD
+todos I-MOD
+da I-SUP
+pec I-SUP
+06/2019 I-MOD
+, I-MOD
+que I-MOD
+modifica I-MOD
+o I-MOD
+sistema I-MOD
+de I-MOD
+previdência I-MOD
+social I-MOD
+, I-MOD
+estabelece I-MOD
+regras I-MOD
+de I-MOD
+transição I-MOD
+e I-MOD
+disposições I-MOD
+transitórias I-MOD
+, I-MOD
+e I-MOD
+dá I-MOD
+outras I-MOD
+providências I-MOD
+. I-MOD
+
+
+
+
+
+
+ I-MOD
+art.1º. I-MOD
+dá I-MOD
+- I-MOD
+se I-MOD
+a I-MOD
+seguinte I-MOD
+redação I-MOD
+a I-MOD
+o I-MOD
+artigo I-MOD
+8º I-MOD
+, I-MOD
+da I-SUP
+pec I-MOD
+06/19 I-MOD
+: I-MOD
+
+
+
+
+
+
+ I-MOD
+“ I-MOD
+art I-MOD
+. I-MOD
+8º I-MOD
+......................................................................................... I-MOD
+
+
+ I-MOD
+§ I-MOD
+1º I-MOD
+o I-ADD
+valor I-ADD
+da I-ADD
+pensão I-MOD
+por O
+morte I-ADD
+de O
+que O
+trata I-MOD
+o I-MOD
+caput I-MOD
+, I-MOD
+será I-MOD
+igual I-MOD
+: I-MOD
+” I-MOD
+( I-MOD
+nr I-MOD
+) I-MOD
+
+
+ I-MOD
+“ I-MOD
+i I-MOD
+- I-MOD
+a I-MOD
+o I-MOD
+valor I-MOD
+da I-MOD
+totalidade I-MOD
+dos I-MOD
+proventos I-MOD
+do I-MOD
+servidor I-MOD
+falecido I-MOD
+, I-SUP
+até I-SUP
+o I-SUP
+limite I-SUP
+máximo I-SUP
+estabelecido I-SUP
+para I-SUP
+os I-ADD
+benefícios I-ADD
+do I-ADD
+regime I-ADD
+geral I-ADD
+de I-ADD
+previdência I-ADD
+social I-ADD
+de I-MOD
+que I-MOD
+trata I-MOD
+o I-MOD
+art I-ADD
+. I-ADD
+201 I-ADD
+, I-ADD
+acrescido I-MOD
+de I-MOD
+sessenta I-ADD
+e I-ADD
+cinco I-ADD
+por I-MOD
+cento I-MOD
+da I-MOD
+parcela I-MOD
+excedente I-ADD
+a I-MOD
+este I-MOD
+limite I-ADD
+, I-MOD
+caso I-MOD
+aposentado I-MOD
+à I-ADD
+data I-MOD
+do I-MOD
+óbito I-MOD
+; I-MOD
+ou I-MOD
+( I-MOD
+nr I-MOD
+) I-MOD
+
+
+
+
+ I-MOD
+“ I-MOD
+ii I-MOD
+- I-MOD
+a I-MOD
+o I-MOD
+valor I-MOD
+da I-MOD
+totalidade I-ADD
+da I-ADD
+remuneração I-ADD
+do I-ADD
+servidor I-ADD
+no I-ADD
+cargo I-ADD
+efetivo I-ADD
+em I-ADD
+que I-ADD
+se I-ADD
+deu I-MOD
+o I-MOD
+falecimento I-MOD
+, I-SUP
+até I-SUP
+o I-SUP
+limite I-SUP
+máximo I-SUP
+estabelecido I-SUP
+para I-SUP
+os I-ADD
+benefícios I-ADD
+do I-ADD
+regime I-ADD
+geral I-ADD
+de I-ADD
+previdência I-ADD
+social I-ADD
+de I-MOD
+que I-MOD
+trata I-MOD
+o I-MOD
+art I-ADD
+. I-ADD
+201 I-ADD
+, I-ADD
+acrescido I-MOD
+de I-MOD
+sessenta I-ADD
+e I-ADD
+cinco I-ADD
+por I-MOD
+cento I-MOD
+da I-MOD
+parcela I-MOD
+excedente I-ADD
+a I-MOD
+este I-MOD
+limite I-MOD
+, I-MOD
+caso I-MOD
+em I-SUP
+atividade I-MOD
+na I-SUP
+data I-SUP
+do I-SUP
+óbito I-SUP
+. I-MOD
+( I-MOD
+nr I-MOD
+) I-MOD
+
+
+ I-MOD
+1 I-MOD
+
+
+
+
+ I-MOD
+“ I-MOD
+iii I-MOD
+- I-MOD
+
+
+
+
+ I-MOD
+( I-MOD
+renumerado I-MOD
+) I-MOD
+
+
+ I-MOD
+§ I-MOD
+2º I-ADD
+as I-ADD
+pensão I-ADD
+concedidas I-ADD
+nos I-MOD
+termos I-MOD
+do I-ADD
+disposto I-ADD
+n I-ADD
+este I-SUP
+artigo I-SUP
+serão I-SUP
+revistas I-SUP
+na I-SUP
+mesma I-SUP
+proporção I-SUP
+e I-SUP
+na I-SUP
+mesma I-MOD
+data I-MOD
+, I-MOD
+sempre I-MOD
+que I-MOD
+se I-MOD
+modificar I-MOD
+a I-MOD
+remuneração I-SUP
+dos I-MOD
+servidores I-SUP
+em I-SUP
+atividade I-SUP
+, I-SUP
+inclusive I-SUP
+quando I-SUP
+decorrentes I-SUP
+da I-MOD
+transformação I-MOD
+ou I-MOD
+reclassificação I-MOD
+do I-MOD
+cargo I-MOD
+ou I-MOD
+função I-MOD
+em I-MOD
+que I-ADD
+se I-ADD
+deu I-ADD
+a I-ADD
+aposentadoria I-ADD
+ou I-ADD
+que I-ADD
+serviu I-ADD
+de I-ADD
+referência I-SUP
+para I-SUP
+a I-MOD
+concessão I-SUP
+da I-MOD
+pensão I-MOD
+. I-MOD
+( I-MOD
+nr I-MOD
+) I-MOD
+
+
+ I-MOD
+§ I-MOD
+3º I-MOD
+o I-MOD
+disposto I-MOD
+n I-MOD
+este I-MOD
+artigo I-MOD
+não I-MOD
+se I-ADD
+aplica I-ADD
+a I-ADD
+o I-MOD
+servidor I-ADD
+que I-ADD
+tenha I-SUP
+ingressado I-SUP
+após I-ADD
+a I-ADD
+instituição I-ADD
+do I-ADD
+regime I-ADD
+de I-ADD
+previdência I-ADD
+complementar I-SUP
+ou I-SUP
+que I-SUP
+tenha I-SUP
+exercido I-SUP
+a I-SUP
+opção I-SUP
+correspondente I-SUP
+, I-SUP
+nos I-ADD
+termos I-ADD
+do I-SUP
+disposto I-SUP
+nos I-SUP
+§ I-SUP
+14 I-SUP
+, I-SUP
+§ I-SUP
+15 I-SUP
+e I-SUP
+§ I-SUP
+16 I-SUP
+do I-SUP
+art I-SUP
+. I-SUP
+40 I-SUP
+
+
+ I-MOD
+da I-ADD
+constituição I-ADD
+, I-ADD
+hipótese I-ADD
+em I-ADD
+que I-MOD
+a I-MOD
+pensão I-SUP
+observará I-SUP
+o I-SUP
+disposto I-SUP
+no I-SUP
+§ I-SUP
+8º I-SUP
+do I-SUP
+art I-SUP
+. I-SUP
+
+
+ I-SUP
+12 I-MOD
+” I-MOD
+
+
+ I-MOD
+art I-MOD
+. I-MOD
+2º. I-MOD
+suprima I-MOD
+- I-MOD
+se I-MOD
+o I-MOD
+parágrafo I-MOD
+9º I-MOD
+, I-MOD
+do I-SUP
+artigo I-SUP
+12 I-SUP
+, I-SUP
+da I-SUP
+pec I-SUP
+06 I-SUP
+, I-MOD
+de I-MOD
+2019 I-MOD
+. I-MOD
+
+
+
+
+ I-MOD
+art I-MOD
+. I-MOD
+3º. I-MOD
+suprima I-MOD
+- I-MOD
+se I-MOD
+o I-MOD
+inciso I-MOD
+iii I-MOD
+do I-ADD
+§ I-MOD
+10 I-MOD
+do I-MOD
+art I-MOD
+. I-MOD
+12 I-MOD
+da I-MOD
+pec I-SUP
+06 I-SUP
+, I-SUP
+de I-MOD
+2019 I-MOD
+. I-MOD
+
+
+
+
+ I-MOD
+art I-MOD
+. I-MOD
+4º. I-MOD
+suprima I-MOD
+- I-MOD
+se I-MOD
+o I-MOD
+inciso I-MOD
+v I-MOD
+do I-MOD
+§ I-MOD
+10 I-MOD
+do I-MOD
+art I-MOD
+. I-MOD
+12 I-MOD
+da I-MOD
+pec I-SUP
+06 I-SUP
+, I-SUP
+de O
+2019 O
+. I-SUP
+
+
+
+ I-SUP

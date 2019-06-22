@@ -1,0 +1,464 @@
+câmara O
+deputados O
+comissão O
+destinada O
+emitir O
+parecer O
+
+
+ O
+sobre O
+a O
+proposta O
+de O
+emenda O
+à O
+constituição O
+nº O
+6 O
+, O
+de I-SUP
+
+
+ I-SUP
+2019 I-SUP
+. O
+
+
+ O
+proposta O
+de O
+emenda O
+à O
+constituição O
+nº O
+6 O
+, O
+de O
+2019 O
+
+
+
+
+
+
+ O
+emenda O
+modificativa O
+nº O
+
+
+ O
+( O
+da O
+sra. I-MOD
+leandre I-MOD
+e I-MOD
+outras I-MOD
+) I-MOD
+
+
+
+
+ I-MOD
+assegura I-MOD
+a I-MOD
+os I-MOD
+filiados I-MOD
+do I-MOD
+rgps I-MOD
+a I-MOD
+contagem I-MOD
+do I-MOD
+tempo I-ADD
+
+
+ I-ADD
+de I-ADD
+
+
+ I-ADD
+contribuição I-ADD
+
+
+ I-ADD
+quando I-ADD
+
+
+ I-ADD
+exercerem I-ADD
+
+
+ I-MOD
+atividades I-MOD
+de I-SUP
+cuidador I-SUP
+de I-SUP
+criança I-SUP
+na I-MOD
+fase I-MOD
+da I-MOD
+primeira I-SUP
+infância I-SUP
+, I-MOD
+de I-MOD
+idoso I-MOD
+e I-MOD
+de I-MOD
+pessoa I-MOD
+portadora I-MOD
+de I-MOD
+deficiência I-MOD
+quando I-MOD
+seja I-MOD
+necessário I-MOD
+cuidado I-MOD
+em I-MOD
+tempo I-MOD
+integral I-MOD
+. I-MOD
+
+
+ I-MOD
+art I-MOD
+. I-MOD
+1º. I-MOD
+o I-MOD
+art I-MOD
+. I-MOD
+24 I-SUP
+da I-SUP
+proposta I-SUP
+de O
+emenda O
+à O
+constituição O
+nº O
+06 O
+, I-ADD
+de I-ADD
+2019 I-MOD
+, I-ADD
+passa I-ADD
+a I-ADD
+vigorar I-ADD
+acrescido I-ADD
+dos I-ADD
+§ I-ADD
+§ I-ADD
+4º I-ADD
+, I-MOD
+5º I-MOD
+e I-MOD
+6º I-MOD
+: I-MOD
+art I-MOD
+. I-MOD
+24 I-MOD
+. I-MOD
+................................................................................................. I-MOD
+
+
+ I-MOD
+......................................................................................................... I-MOD
+
+
+ I-MOD
+§ I-MOD
+4º I-MOD
+será I-MOD
+computado I-ADD
+como I-ADD
+tempo I-MOD
+de I-ADD
+contribuição I-ADD
+para I-ADD
+fins I-ADD
+de I-ADD
+aposentadoria I-ADD
+, I-MOD
+independentemente I-ADD
+de I-ADD
+recolhimento I-ADD
+de I-ADD
+contribuição I-ADD
+previdenciária I-ADD
+, I-ADD
+o I-ADD
+período I-ADD
+: I-MOD
+
+
+ I-ADD
+i I-ADD
+– I-ADD
+do I-ADD
+exercício I-ADD
+pela I-ADD
+mulher I-ADD
+no I-MOD
+cuidado I-ADD
+direto I-MOD
+, I-MOD
+não I-SUP
+compartilhado I-MOD
+e I-MOD
+sem I-ADD
+remuneração I-ADD
+, I-ADD
+de I-ADD
+crianças I-ADD
+consideradas I-MOD
+na I-MOD
+fase I-MOD
+da I-SUP
+primeira I-SUP
+infância I-SUP
+, I-ADD
+nos I-ADD
+termos I-ADD
+do I-ADD
+art I-ADD
+. I-ADD
+2º I-MOD
+da I-MOD
+lei I-MOD
+nº. I-MOD
+13.257 I-MOD
+, I-ADD
+de I-ADD
+08 I-MOD
+de I-MOD
+março I-MOD
+de I-MOD
+2016 I-MOD
+; I-MOD
+
+
+ I-MOD
+ii I-MOD
+- I-MOD
+do I-MOD
+exercício I-MOD
+pela(o I-MOD
+) I-MOD
+cônjuge I-MOD
+, I-MOD
+companheira(o I-MOD
+) I-MOD
+ou I-MOD
+parente I-MOD
+em I-MOD
+linha I-MOD
+reta O
+, O
+colateral O
+ou O
+por I-MOD
+afinidade I-MOD
+, I-MOD
+até I-MOD
+o I-ADD
+segundo I-MOD
+grau I-MOD
+, I-MOD
+de I-MOD
+atividade I-MOD
+de I-MOD
+cuidador(a I-MOD
+) I-MOD
+, I-MOD
+em I-MOD
+tempo I-MOD
+integral I-ADD
+e I-ADD
+sem I-ADD
+remuneração I-MOD
+, I-MOD
+de I-MOD
+pessoa I-MOD
+idosa I-MOD
+ou I-MOD
+portadora I-MOD
+de I-MOD
+deficiência I-SUP
+que I-SUP
+seja I-ADD
+incapaz I-ADD
+para I-SUP
+o I-SUP
+exercício I-ADD
+das I-MOD
+atividades I-ADD
+
+
+ I-ADD
+básicas I-ADD
+
+
+ I-MOD
+da I-MOD
+
+
+ I-MOD
+vida I-MOD
+
+
+ I-MOD
+diária I-MOD
+, I-MOD
+
+
+ I-MOD
+que I-MOD
+
+
+ I-MOD
+esteja I-MOD
+
+
+ I-MOD
+sob I-MOD
+
+
+ I-MOD
+sua I-MOD
+
+
+ I-MOD
+responsabilidade I-MOD
+. I-MOD
+
+
+ I-MOD
+página I-MOD
+_ I-MOD
+_ I-MOD
+_ I-MOD
+_ I-MOD
+_ I-MOD
+de I-MOD
+_ I-MOD
+_ I-MOD
+_ I-MOD
+_ I-ADD
+_ I-MOD
+_ I-MOD
+
+
+
+
+
+
+ I-MOD
+§ I-MOD
+5º I-MOD
+aplica I-MOD
+- I-MOD
+se I-MOD
+o I-MOD
+disposto I-MOD
+no I-MOD
+§ I-SUP
+4º I-SUP
+d I-SUP
+este I-SUP
+artigo I-SUP
+, I-SUP
+no I-ADD
+que I-ADD
+couber I-ADD
+, I-ADD
+à I-ADD
+s I-ADD
+normas I-ADD
+estabelecidas I-SUP
+no I-SUP
+art I-SUP
+. I-SUP
+18 I-SUP
+, I-SUP
+art I-MOD
+. I-MOD
+19 I-ADD
+e I-ADD
+art I-MOD
+. I-MOD
+20 I-MOD
+, I-ADD
+ou I-ADD
+pela I-ADD
+lei I-ADD
+complementar I-MOD
+a I-MOD
+que I-ADD
+se I-ADD
+refere I-ADD
+o I-MOD
+§ I-MOD
+1º I-SUP
+do I-SUP
+art I-SUP
+. I-SUP
+201 I-SUP
+da I-SUP
+constituição I-SUP
+. I-SUP
+
+
+ I-SUP
+§ I-SUP
+6º I-MOD
+ato I-ADD
+do I-ADD
+poder I-ADD
+executivo I-ADD
+regulamentará I-MOD
+a I-ADD
+comprovação I-ADD
+do I-MOD
+disposto I-SUP
+no I-SUP
+§ I-SUP
+4º I-SUP
+d I-SUP
+este I-SUP
+artigo I-SUP
+. I-SUP
+
+
+ I-MOD
+art I-MOD
+. I-MOD
+2º I-MOD
+- I-MOD
+suprima I-MOD
+- I-MOD
+se I-MOD
+o I-MOD
+§ I-MOD
+3º I-MOD
+do I-MOD
+art I-SUP
+. I-SUP
+201 I-MOD
+, I-SUP
+constante I-MOD
+do I-SUP
+art I-MOD
+. I-MOD
+1º I-SUP
+da I-SUP
+proposta I-ADD
+de I-ADD
+emenda I-ADD
+à O
+constituição O
+nº O
+06 O
+, I-ADD
+de O
+2019 O
+. O
+
+ O

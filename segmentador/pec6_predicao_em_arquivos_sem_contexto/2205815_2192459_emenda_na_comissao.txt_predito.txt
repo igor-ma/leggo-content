@@ -1,0 +1,754 @@
+demais O
+. O
+câmara O
+deputados O
+gabinete O
+do I-MOD
+deputado I-MOD
+luciano I-MOD
+ducci O
+– I-MOD
+psb I-MOD
+/ O
+pr O
+
+
+
+
+
+
+ O
+comissão O
+especial O
+destinada O
+a O
+proferir O
+parecer O
+à O
+
+
+ O
+proposta O
+de O
+emenda O
+à O
+constituição O
+nº O
+6 O
+, O
+de O
+2019 O
+
+
+ O
+proposta O
+de O
+emenda O
+à O
+constituição O
+nº O
+6 O
+, O
+de O
+2019 I-ADD
+
+
+
+
+ I-ADD
+modifica B-MOD
+o I-MOD
+sistema I-MOD
+de I-MOD
+previdência I-MOD
+
+
+ I-MOD
+social I-MOD
+, I-MOD
+estabelece I-MOD
+regras I-MOD
+de I-MOD
+transição I-MOD
+e I-MOD
+
+
+ I-MOD
+disposições I-MOD
+
+
+ I-MOD
+transitórias I-MOD
+, I-MOD
+
+
+ I-MOD
+e I-MOD
+
+
+ I-MOD
+dá I-MOD
+
+
+ I-MOD
+outras I-MOD
+
+
+ I-MOD
+providências I-MOD
+. E-MOD
+
+
+
+
+ O
+emenda O
+nº O
+
+
+
+
+ O
+altere O
+- O
+se I-MOD
+a I-MOD
+redação I-MOD
+do I-MOD
+§ I-MOD
+4º I-MOD
+do I-MOD
+art I-MOD
+. I-MOD
+40 I-MOD
+e I-MOD
+do I-MOD
+inciso I-MOD
+v I-MOD
+do I-MOD
+caput I-SUP
+do I-SUP
+art I-SUP
+. I-SUP
+201 I-SUP
+, I-SUP
+contidos I-SUP
+no I-SUP
+art I-SUP
+. I-MOD
+1º I-SUP
+da I-SUP
+proposta I-ADD
+de I-ADD
+emenda I-ADD
+à I-ADD
+constituição I-ADD
+nº I-SUP
+6 I-ADD
+, I-SUP
+de I-SUP
+2019 I-SUP
+, I-SUP
+para I-MOD
+prever I-SUP
+que I-SUP
+as I-SUP
+pensões I-SUP
+não I-MOD
+terão I-SUP
+valores I-SUP
+inferiores I-ADD
+a I-ADD
+um I-ADD
+salário I-ADD
+mínimo I-ADD
+e I-ADD
+, O
+em I-ADD
+decorrência I-ADD
+, O
+dê O
+- O
+se O
+nova O
+redação O
+: I-MOD
+i I-ADD
+) I-MOD
+a I-MOD
+o I-ADD
+§ I-SUP
+8º I-SUP
+e I-SUP
+à I-SUP
+alínea I-SUP
+“ I-SUP
+a I-SUP
+” I-SUP
+do I-MOD
+inciso I-MOD
+iii I-MOD
+do I-MOD
+§ I-MOD
+10 I-MOD
+do I-MOD
+art I-MOD
+. I-MOD
+12 I-MOD
+da I-SUP
+proposta I-SUP
+de I-SUP
+emenda I-SUP
+à I-ADD
+constituição I-ADD
+nº I-SUP
+6 I-SUP
+, I-ADD
+de I-ADD
+2019 I-SUP
+; I-SUP
+ii I-MOD
+) I-MOD
+a I-SUP
+o I-MOD
+art I-ADD
+. I-MOD
+28 I-MOD
+; I-MOD
+iii I-MOD
+) I-MOD
+a I-MOD
+o I-ADD
+inciso I-ADD
+i I-MOD
+do I-MOD
+§ I-MOD
+2º I-MOD
+do I-MOD
+art I-MOD
+. I-MOD
+30 I-SUP
+da I-SUP
+proposta I-SUP
+de I-SUP
+emenda I-SUP
+à I-ADD
+constituição I-ADD
+nº I-SUP
+6 I-ADD
+, I-ADD
+de I-ADD
+2019 I-ADD
+, I-ADD
+da I-ADD
+seguinte I-MOD
+forma I-MOD
+: I-MOD
+
+
+
+
+ I-MOD
+“ I-MOD
+art I-MOD
+. I-MOD
+
+
+ I-MOD
+1º I-MOD
+........................................................................................... I-MOD
+
+
+ I-MOD
+...................................................................................................... I-MOD
+
+
+
+
+ I-MOD
+art I-MOD
+. I-MOD
+40 I-MOD
+.......................................................................................... I-ADD
+
+
+ I-MOD
+...................................................................................................... I-MOD
+
+
+ I-MOD
+§ I-MOD
+4º I-ADD
+os I-ADD
+proventos I-ADD
+de I-ADD
+aposentadoria I-MOD
+e I-ADD
+as I-ADD
+pensões I-SUP
+não I-SUP
+poderão I-SUP
+ser I-SUP
+inferiores I-SUP
+a I-SUP
+o I-SUP
+valor I-ADD
+mínimo I-ADD
+a I-ADD
+que I-ADD
+se I-ADD
+refere I-ADD
+o I-MOD
+§ I-MOD
+2º I-SUP
+do I-SUP
+art I-SUP
+. I-SUP
+201 I-SUP
+
+
+ I-SUP
+ou I-SUP
+superiores I-SUP
+a I-SUP
+o I-SUP
+limite I-SUP
+máximo I-SUP
+estabelecido I-SUP
+para I-SUP
+o I-SUP
+regime I-SUP
+palácio I-ADD
+do I-ADD
+congresso I-ADD
+nacional I-ADD
+- I-ADD
+praça I-MOD
+dos I-MOD
+três I-MOD
+poderes I-MOD
+- I-MOD
+anexo I-MOD
+iv I-MOD
+- I-MOD
+gabinete I-MOD
+427 O
+- I-MOD
+brasília O
+- O
+df O
+- I-MOD
+cep I-MOD
+70160 I-MOD
+- I-MOD
+900 I-MOD
+
+
+ I-MOD
+telefone I-MOD
+: I-MOD
+( I-MOD
+61 O
+) O
+3215 O
+- O
+5427 O
+
+
+
+
+ O
+câmara O
+dos O
+deputados O
+
+
+ O
+gabinete O
+do I-MOD
+deputado I-MOD
+luciano I-MOD
+ducci O
+– I-MOD
+psb I-ADD
+/ I-ADD
+pr O
+
+
+
+
+
+
+ I-MOD
+geral I-MOD
+de I-MOD
+previdência I-MOD
+social I-MOD
+, I-MOD
+observado I-MOD
+o I-MOD
+disposto I-MOD
+nos I-SUP
+§ I-SUP
+14 I-SUP
+, I-SUP
+§ I-SUP
+
+
+ I-SUP
+15 I-SUP
+e I-SUP
+§ I-SUP
+16 I-SUP
+. I-SUP
+
+
+ I-SUP
+...................................................................................................... I-SUP
+
+
+
+
+ I-SUP
+art I-SUP
+. I-MOD
+201 I-MOD
+........................................................................................ I-MOD
+
+
+ I-MOD
+...................................................................................................... I-MOD
+
+
+ O
+v O
+- I-MOD
+pensão O
+por I-MOD
+morte I-MOD
+do O
+segurado O
+, O
+homem I-MOD
+ou I-MOD
+mulher I-MOD
+, I-MOD
+a I-MOD
+o I-MOD
+cônjuge I-MOD
+ou I-MOD
+a I-MOD
+o I-MOD
+companheiro I-MOD
+e I-MOD
+a I-MOD
+os I-ADD
+seus I-ADD
+dependentes I-MOD
+, I-SUP
+observado I-SUP
+o I-SUP
+disposto I-SUP
+no I-SUP
+§ I-SUP
+2º. I-SUP
+
+
+ I-MOD
+............................................................................................ I-MOD
+” I-MOD
+( I-MOD
+nr I-MOD
+) I-MOD
+
+
+
+
+ I-MOD
+“ I-MOD
+art I-MOD
+. I-MOD
+12 I-MOD
+......................................................................................... I-MOD
+
+
+ I-SUP
+...................................................................................................... I-SUP
+
+
+ I-SUP
+§ I-MOD
+8º I-ADD
+os I-ADD
+proventos I-ADD
+de I-ADD
+aposentadoria I-ADD
+e I-ADD
+as I-ADD
+pensões I-SUP
+não I-SUP
+poderão I-SUP
+ser I-SUP
+inferiores I-SUP
+a I-SUP
+o I-SUP
+valor I-SUP
+a I-MOD
+que I-MOD
+se I-MOD
+refere I-MOD
+o I-MOD
+§ I-MOD
+2º I-MOD
+do I-SUP
+art I-SUP
+. I-SUP
+
+
+ I-SUP
+201 I-SUP
+da I-SUP
+constituição I-SUP
+ou I-SUP
+superiores I-SUP
+a I-SUP
+o I-SUP
+limite I-SUP
+máximo I-SUP
+estabelecido I-SUP
+para I-SUP
+o I-SUP
+regime I-SUP
+geral I-ADD
+de I-ADD
+previdência I-ADD
+social I-ADD
+, I-MOD
+observado I-MOD
+o I-MOD
+disposto I-MOD
+nos I-SUP
+§ I-SUP
+14 I-SUP
+, I-SUP
+§ I-SUP
+15 I-SUP
+e I-SUP
+§ I-SUP
+16 I-SUP
+do I-SUP
+art I-SUP
+. I-SUP
+40 I-SUP
+da I-MOD
+constituição I-ADD
+. I-ADD
+
+
+ I-ADD
+...................................................................................................... I-ADD
+
+
+ I-ADD
+§ I-MOD
+10 I-MOD
+.............................................................................................. I-MOD
+
+
+ I-MOD
+...................................................................................................... I-MOD
+
+
+ I-MOD
+iii I-MOD
+.................................................................................................. I-MOD
+
+
+ I-MOD
+a I-ADD
+) I-ADD
+cem I-ADD
+por I-ADD
+cento I-ADD
+do I-ADD
+valor I-ADD
+igual O
+ou I-MOD
+inferior I-MOD
+a I-MOD
+um I-MOD
+salário I-MOD
+- I-MOD
+mínimo I-MOD
+; I-MOD
+
+
+ I-ADD
+............................................................................................. I-ADD
+” I-ADD
+( I-MOD
+nr I-MOD
+) I-MOD
+
+
+
+
+ I-MOD
+“ I-MOD
+art I-MOD
+. I-MOD
+28 I-MOD
+...................................................................................... I-MOD
+
+
+ I-MOD
+................................................................................................... I-MOD
+
+
+ I-MOD
+§ I-MOD
+5º I-MOD
+o I-MOD
+valor I-MOD
+da I-MOD
+pensão I-MOD
+morte I-MOD
+calculada I-MOD
+na I-MOD
+forma I-MOD
+prevista I-MOD
+no I-MOD
+caput I-MOD
+d I-MOD
+este I-SUP
+artigo I-SUP
+não I-SUP
+poderá I-SUP
+ser I-SUP
+inferior I-SUP
+a I-SUP
+um I-SUP
+salário I-SUP
+mínimo.”(nr I-MOD
+) I-MOD
+
+
+
+
+ I-MOD
+“ I-MOD
+art I-MOD
+. I-MOD
+30 I-MOD
+......................................................................................... I-MOD
+
+
+ I-MOD
+...................................................................................................... I-MOD
+
+
+ I-MOD
+palácio I-MOD
+do I-ADD
+congresso I-ADD
+nacional I-ADD
+- I-ADD
+praça I-MOD
+dos I-MOD
+três I-MOD
+poderes I-MOD
+- I-MOD
+anexo I-MOD
+iv I-MOD
+- I-MOD
+gabinete I-MOD
+427 O
+- I-MOD
+brasília O
+- O
+df O
+- I-MOD
+cep I-MOD
+70160 I-MOD
+- I-MOD
+900 I-MOD
+
+
+ I-MOD
+telefone I-MOD
+: I-MOD
+( I-MOD
+61 O
+) O
+3215 O
+- O
+5427 O
+
+
+
+
+ O
+câmara O
+dos O
+deputados O
+
+
+ O
+gabinete O
+do I-MOD
+deputado I-MOD
+luciano I-MOD
+ducci O
+– I-MOD
+psb I-MOD
+/ I-MOD
+pr O
+
+
+
+
+
+
+ O
+§ O
+
+
+ I-MOD
+2º O
+
+
+ I-MOD
+............................................................................................... I-MOD
+
+
+ I-MOD
+i I-MOD
+- I-MOD
+cem I-MOD
+por I-ADD
+cento I-MOD
+do I-MOD
+valor I-ADD
+igual O
+ou I-MOD
+inferior I-MOD
+a I-MOD
+um I-MOD
+salário I-MOD
+- I-MOD
+mínimo I-MOD
+; I-MOD
+
+
+ I-ADD
+............................................................................................. I-ADD
+” I-ADD
+( I-MOD
+nr I-MOD
+) E-MOD
+
+
+
+
+
+ O

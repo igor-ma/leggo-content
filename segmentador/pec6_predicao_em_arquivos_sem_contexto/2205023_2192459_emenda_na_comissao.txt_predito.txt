@@ -1,0 +1,179 @@
+de O
+. O
+câmara O
+deputados O
+deputado O
+federal O
+joão O
+campos O
+
+
+
+
+ O
+comissão O
+especial O
+destinada O
+a O
+proferir O
+parecer O
+à O
+proposta O
+de O
+emenda O
+à O
+constituição O
+nº O
+6-a O
+, O
+de O
+2019 O
+, O
+do O
+poder O
+executivo O
+, O
+que I-MOD
+" I-ADD
+modifica O
+o I-MOD
+sistema I-MOD
+de I-MOD
+previdência I-MOD
+social I-MOD
+, I-MOD
+estabelece I-MOD
+regras I-MOD
+de I-MOD
+transição I-MOD
+e I-MOD
+disposições I-MOD
+transitórias I-MOD
+, I-MOD
+e I-MOD
+dá I-MOD
+outras I-MOD
+providências I-MOD
+" I-MOD
+- I-MOD
+pec006/2019 I-MOD
+. O
+
+
+
+
+ O
+proposta O
+de O
+emenda O
+à O
+constituição O
+nº O
+06 O
+, O
+de O
+2019 O
+
+
+
+
+ I-MOD
+acrescenta I-MOD
+alteração I-MOD
+a I-MOD
+o I-MOD
+inciso I-MOD
+v I-MOD
+, I-MOD
+do I-SUP
+artigo I-MOD
+49 I-MOD
+da I-MOD
+constituição I-SUP
+federal I-ADD
+. E-ADD
+
+
+
+
+ O
+emenda O
+aditiva O
+
+
+
+
+ O
+acrescente O
+- O
+se O
+à O
+proposta I-ADD
+de I-ADD
+emenda I-ADD
+constitucional I-SUP
+6 I-SUP
+de I-SUP
+2019 I-SUP
+a I-MOD
+alteração I-SUP
+do I-MOD
+inciso I-MOD
+v I-MOD
+, I-MOD
+do I-SUP
+artigo I-MOD
+49 I-MOD
+da I-ADD
+constituição I-ADD
+federal I-ADD
+, I-ADD
+nos I-ADD
+seguintes I-ADD
+termos I-ADD
+: I-ADD
+
+
+ I-ADD
+“ I-ADD
+art I-ADD
+. I-MOD
+49 I-MOD
+........................................................................ I-MOD
+
+
+
+
+ I-MOD
+..................................................................................... I-MOD
+
+
+ I-MOD
+v I-MOD
+– I-MOD
+sustar I-MOD
+os I-MOD
+atos I-MOD
+normativos I-MOD
+dos I-MOD
+outros I-MOD
+poderes I-SUP
+que I-SUP
+exorbitem I-SUP
+o I-SUP
+poder I-SUP
+regulamentar I-SUP
+ou I-SUP
+dos I-SUP
+limites I-SUP
+de I-SUP
+delegação I-SUP
+legislativa I-SUP
+. I-SUP
+” I-SUP
+
+
+
+
+
+ O

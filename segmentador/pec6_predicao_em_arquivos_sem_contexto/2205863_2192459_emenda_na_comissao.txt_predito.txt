@@ -1,0 +1,715 @@
+real I-MOD
+. E-MOD
+câmara O
+deputados O
+comissão O
+especial O
+destinada O
+a O
+proferir O
+parecer O
+à O
+proposta O
+de O
+emenda O
+à O
+constituição O
+nº O
+6 O
+, O
+de O
+2019 O
+, O
+do O
+poder O
+executivo O
+
+
+
+
+
+
+ O
+proposta O
+de O
+emenda O
+à O
+constituição O
+nº O
+6 O
+de O
+2019 I-SUP
+. I-ADD
+
+
+
+
+
+
+ I-SUP
+acrescenta I-ADD
+artigo I-SUP
+à I-ADD
+pec O
+06/2019 O
+para I-SUP
+
+
+ O
+incluir O
+
+
+ I-SUP
+na I-SUP
+
+
+ I-MOD
+regra I-MOD
+
+
+ I-MOD
+de I-MOD
+
+
+ I-MOD
+transição I-MOD
+
+
+ I-MOD
+os I-MOD
+
+
+ I-MOD
+magistrados I-MOD
+, I-MOD
+que I-MOD
+integram I-MOD
+os I-MOD
+tribunais I-MOD
+, I-SUP
+
+
+ I-MOD
+oriundos I-MOD
+do I-MOD
+quinto I-MOD
+constitucional I-MOD
+e I-MOD
+os I-MOD
+
+
+ I-MOD
+magistrados I-MOD
+que I-MOD
+integram I-MOD
+os I-MOD
+tribunais I-MOD
+
+
+ I-SUP
+superiores I-MOD
+, I-MOD
+oriundos I-MOD
+da I-MOD
+advocacia I-MOD
+ou I-SUP
+do I-SUP
+
+
+ I-SUP
+ministério I-SUP
+público I-SUP
+, I-SUP
+que I-MOD
+ingressaram I-MOD
+entre I-MOD
+
+
+ I-MOD
+a I-MOD
+presente I-MOD
+data I-MOD
+e I-MOD
+data I-MOD
+posterior I-MOD
+à I-MOD
+s I-MOD
+das I-MOD
+emendas I-ADD
+constitucionais I-MOD
+nº I-MOD
+20 I-MOD
+, I-MOD
+de I-MOD
+15 I-MOD
+de I-ADD
+
+
+ I-MOD
+dezembro I-MOD
+de I-MOD
+1998 I-MOD
+e I-MOD
+nº I-ADD
+41 I-ADD
+, I-ADD
+de I-MOD
+19 I-MOD
+de I-MOD
+
+
+ I-MOD
+dezembro I-MOD
+de O
+2003 O
+. O
+
+
+
+
+
+
+ O
+emenda O
+aditiva O
+nº O
+
+
+
+
+
+
+ O
+( O
+do O
+senhor I-MOD
+paulo I-MOD
+abi I-MOD
+- I-MOD
+ackel I-MOD
+e I-MOD
+outros I-MOD
+) I-MOD
+
+
+
+
+ I-MOD
+inclua I-MOD
+- I-MOD
+se I-MOD
+na I-ADD
+pec I-ADD
+nº O
+6 I-SUP
+, I-SUP
+de I-ADD
+2019 I-ADD
+, I-ADD
+o I-MOD
+seguinte I-ADD
+art I-ADD
+. I-MOD
+3º-a I-MOD
+: I-MOD
+
+
+
+
+
+
+ I-MOD
+“ I-MOD
+art I-MOD
+. I-MOD
+3º-a. I-MOD
+os I-MOD
+magistrados I-MOD
+, I-MOD
+que I-MOD
+integram I-MOD
+os I-MOD
+tribunais I-SUP
+, I-MOD
+oriundos I-MOD
+do I-MOD
+quinto I-MOD
+constitucional I-MOD
+e I-MOD
+os I-MOD
+magistrados I-MOD
+que I-MOD
+integram I-MOD
+os I-MOD
+tribunais I-SUP
+superiores I-SUP
+, I-MOD
+oriundos I-MOD
+da I-MOD
+advocacia I-SUP
+ou I-SUP
+do I-SUP
+ministério I-SUP
+público I-SUP
+, I-SUP
+que I-SUP
+ingressaram I-SUP
+entre I-MOD
+a I-MOD
+presente I-MOD
+data I-ADD
+e I-MOD
+data I-MOD
+posterior I-MOD
+à I-MOD
+s I-MOD
+das I-MOD
+emendas I-ADD
+constitucionais I-MOD
+nº I-MOD
+20 I-MOD
+, I-MOD
+de I-MOD
+15 I-ADD
+de I-ADD
+dezembro I-MOD
+de I-MOD
+1998 I-MOD
+e I-MOD
+nº I-ADD
+41 I-ADD
+, I-ADD
+de I-MOD
+19 I-MOD
+de I-MOD
+dezembro I-ADD
+de I-ADD
+2003 I-MOD
+terão I-MOD
+seus I-MOD
+vencimentos I-ADD
+integrais I-ADD
+, I-ADD
+com I-ADD
+paridade I-ADD
+, I-ADD
+nos I-ADD
+termos I-ADD
+anteriores I-ADD
+à I-ADD
+emenda I-ADD
+constitucional I-ADD
+nº I-ADD
+20 I-ADD
+, I-ADD
+de I-ADD
+1998 I-ADD
+, I-ADD
+desde I-ADD
+que I-ADD
+, I-ADD
+a I-ADD
+o I-ADD
+se I-MOD
+aposentarem I-MOD
+– I-MOD
+voluntariamente I-MOD
+ou I-MOD
+compulsoriamente I-MOD
+- I-MOD
+, I-MOD
+cumulativamente I-MOD
+, I-MOD
+contem I-MOD
+: I-MOD
+
+
+
+
+ I-MOD
+i I-MOD
+- I-MOD
+na I-ADD
+presente I-ADD
+data I-ADD
+, I-ADD
+com I-ADD
+o I-ADD
+mínimo I-ADD
+de I-ADD
+35 I-ADD
+anos I-ADD
+de I-ADD
+contribuição I-ADD
+previdenciária I-ADD
+, I-ADD
+somadas I-ADD
+as I-ADD
+havidas I-MOD
+no I-MOD
+estágio I-SUP
+de I-ADD
+advocacia I-ADD
+, I-ADD
+no I-ADD
+exercício I-ADD
+da I-ADD
+advocacia I-SUP
+, I-SUP
+no I-SUP
+ministério I-SUP
+público I-SUP
+e I-SUP
+na I-SUP
+magistratura I-SUP
+; I-SUP
+ii I-ADD
+- I-ADD
+com I-ADD
+no I-ADD
+mínimo I-ADD
+15 I-ADD
+( I-ADD
+quinze I-ADD
+) I-ADD
+anos I-ADD
+de I-ADD
+contribuição I-ADD
+previdenciária I-ADD
+na I-ADD
+magistratura I-ADD
+; E-ADD
+
+
+
+
+
+
+ O
+câmara I-SUP
+dos O
+deputados O
+
+
+
+
+
+
+ O
+iii I-ADD
+- I-ADD
+com I-ADD
+no I-ADD
+mínimo I-ADD
+45 I-ADD
+( I-ADD
+quarenta I-SUP
+e I-SUP
+cinco I-SUP
+) I-ADD
+anos I-ADD
+de I-ADD
+contribuição I-ADD
+previdenciária I-ADD
+, I-ADD
+somadas I-ADD
+as I-ADD
+havidas I-MOD
+no I-MOD
+estágio I-SUP
+de I-ADD
+advocacia I-ADD
+, I-ADD
+no I-ADD
+exercício I-ADD
+da I-ADD
+advocacia I-SUP
+, I-SUP
+do I-SUP
+ministério I-SUP
+público I-SUP
+e I-SUP
+da I-SUP
+magistratura I-MOD
+; I-MOD
+iv I-MOD
+- I-MOD
+com I-MOD
+idade I-MOD
+mínima I-MOD
+de I-MOD
+70 I-MOD
+( I-SUP
+setenta I-SUP
+) I-MOD
+anos I-MOD
+; I-MOD
+
+
+
+
+ I-MOD
+v I-MOD
+- I-MOD
+com I-MOD
+interstício I-MOD
+, I-MOD
+entre I-MOD
+a I-ADD
+data I-MOD
+do I-MOD
+seu I-MOD
+ingresso I-SUP
+na I-MOD
+magistratura I-MOD
+e I-SUP
+a I-ADD
+data I-ADD
+de I-ADD
+sua I-ADD
+aposentadoria I-ADD
+, I-ADD
+igual I-ADD
+ou I-ADD
+superior I-ADD
+a I-MOD
+o I-MOD
+interstício I-MOD
+havido I-MOD
+entre I-MOD
+a I-MOD
+data I-MOD
+da I-MOD
+emenda I-MOD
+constitucional I-MOD
+nº I-ADD
+20 I-ADD
+, I-ADD
+de I-MOD
+1998 I-ADD
+, I-ADD
+e I-ADD
+a I-ADD
+data I-ADD
+do I-MOD
+seu I-SUP
+ingresso I-MOD
+na I-MOD
+magistratura I-MOD
+. I-MOD
+
+
+
+
+ I-MOD
+parágrafo I-SUP
+único I-ADD
+. I-ADD
+caso I-ADD
+a I-ADD
+aposentadoria I-ADD
+dos I-ADD
+referidos I-ADD
+magistrados I-ADD
+decorra I-ADD
+de I-SUP
+invalidez I-ADD
+permanente I-ADD
+, I-ADD
+para I-ADD
+se I-ADD
+aposentarem I-ADD
+com I-ADD
+valores I-ADD
+integrais I-ADD
+, I-ADD
+com I-ADD
+paridade I-ADD
+de I-ADD
+vencimento I-ADD
+, I-ADD
+nos I-ADD
+termos I-MOD
+anteriores I-ADD
+a I-ADD
+emenda I-ADD
+constitucional I-ADD
+nº I-ADD
+20 I-ADD
+, I-ADD
+de I-ADD
+1998 I-ADD
+, I-ADD
+deverão I-ADD
+, I-ADD
+cumulativamente I-ADD
+, I-MOD
+contar I-SUP
+: I-ADD
+
+
+
+
+ I-ADD
+i I-ADD
+na I-ADD
+presente I-ADD
+data I-ADD
+, I-ADD
+com I-ADD
+o I-ADD
+mínimo I-ADD
+de I-ADD
+35 I-ADD
+anos I-ADD
+de I-ADD
+contribuição I-ADD
+previdenciária I-ADD
+, I-ADD
+somadas I-ADD
+as I-ADD
+havidas I-MOD
+no I-MOD
+estágio I-SUP
+de I-ADD
+advocacia I-ADD
+, I-ADD
+no I-ADD
+exercício I-ADD
+da I-ADD
+advocacia I-SUP
+, I-SUP
+no I-SUP
+ministério I-SUP
+público I-SUP
+e I-SUP
+na I-SUP
+magistratura I-SUP
+; I-SUP
+ii I-ADD
+- I-ADD
+com I-ADD
+no I-ADD
+mínimo I-ADD
+10 I-ADD
+( I-ADD
+dez I-ADD
+) I-ADD
+anos I-ADD
+de I-ADD
+contribuição I-ADD
+previdenciária I-ADD
+na I-ADD
+magistratura I-ADD
+; I-ADD
+
+
+
+
+ I-MOD
+iii I-ADD
+- I-ADD
+com I-ADD
+no I-ADD
+mínimo I-ADD
+40 I-ADD
+( I-ADD
+quarenta I-ADD
+) I-ADD
+anos I-ADD
+de I-ADD
+contribuição I-ADD
+previdenciária I-ADD
+, I-ADD
+somadas I-ADD
+as I-ADD
+havidas I-MOD
+no I-MOD
+estágio I-SUP
+de I-ADD
+advocacia I-ADD
+, I-ADD
+no I-ADD
+exercício I-ADD
+da I-ADD
+advocacia I-SUP
+, I-SUP
+do I-SUP
+ministério I-SUP
+público I-SUP
+e I-SUP
+da I-SUP
+magistratura I-MOD
+; I-MOD
+iv I-MOD
+- I-MOD
+com I-MOD
+idade I-MOD
+mínima I-MOD
+de I-MOD
+65 I-MOD
+( I-MOD
+sessenta I-MOD
+e I-MOD
+cinco I-MOD
+) I-MOD
+anos I-MOD
+; I-MOD
+v I-MOD
+- I-MOD
+com I-MOD
+interstício I-MOD
+, I-MOD
+entre I-MOD
+a I-ADD
+data I-MOD
+do I-MOD
+seu I-MOD
+ingresso I-SUP
+na I-MOD
+magistratura I-MOD
+e I-SUP
+a I-ADD
+data I-ADD
+de I-ADD
+sua I-ADD
+aposentadoria I-ADD
+, I-ADD
+igual I-ADD
+ou I-ADD
+superior I-ADD
+a I-MOD
+4/5 I-MOD
+( I-MOD
+quatro I-MOD
+quintos I-SUP
+) I-MOD
+do I-MOD
+interstício I-MOD
+havido I-MOD
+entre I-MOD
+a I-MOD
+data I-MOD
+da I-MOD
+emenda I-MOD
+constitucional I-MOD
+nº I-ADD
+20 I-ADD
+, I-ADD
+de I-MOD
+1998 I-ADD
+e I-ADD
+a I-ADD
+data I-ADD
+do I-ADD
+seu I-SUP
+ingresso I-MOD
+na I-MOD
+magistratura I-MOD
+. E-SUP
+
+
+
+
+
+ O

@@ -1,0 +1,957 @@
+pelo O
+. O
+comissão O
+destinada O
+proferir O
+parecer O
+à O
+proposta O
+de O
+emenda O
+à O
+constituição O
+nº O
+6 O
+, O
+de O
+2019 O
+
+
+ O
+proposta O
+de O
+emenda O
+à O
+constituição O
+nº O
+6 O
+, O
+de O
+2019 I-ADD
+
+
+
+
+ I-ADD
+modifica B-MOD
+o I-MOD
+sistema I-MOD
+de I-MOD
+previdência I-MOD
+
+
+ I-MOD
+social I-MOD
+, I-MOD
+estabelece I-MOD
+regras I-MOD
+de I-MOD
+transição I-MOD
+e I-MOD
+
+
+ I-MOD
+disposições I-MOD
+
+
+ I-MOD
+transitórias I-MOD
+, I-MOD
+
+
+ I-MOD
+e I-MOD
+
+
+ I-MOD
+dá I-MOD
+
+
+ I-MOD
+outras I-MOD
+
+
+ I-MOD
+providências I-MOD
+. E-MOD
+
+
+ O
+emenda O
+nº O
+
+
+
+
+ O
+( O
+da O
+sra. I-MOD
+flávia I-MOD
+arruda I-MOD
+– I-MOD
+pl I-MOD
+/ I-MOD
+df I-MOD
+) O
+
+
+ O
+altera I-MOD
+os I-MOD
+arts I-MOD
+. I-MOD
+40 I-ADD
+e I-MOD
+201 I-MOD
+da I-MOD
+constituição I-MOD
+
+
+ I-SUP
+federal I-SUP
+, I-MOD
+contidos I-MOD
+no I-MOD
+art I-MOD
+. I-MOD
+1º I-SUP
+da I-SUP
+pec I-MOD
+, I-SUP
+para I-SUP
+
+
+ I-SUP
+reintroduzir I-SUP
+na I-SUP
+constituição I-SUP
+os I-ADD
+requisitos I-ADD
+
+
+ I-ADD
+para I-ADD
+aposentadoria I-ADD
+dos I-ADD
+professores I-ADD
+e I-ADD
+, I-ADD
+em I-MOD
+
+
+ I-MOD
+decorrência I-MOD
+, I-MOD
+suprime I-MOD
+as I-MOD
+regras I-MOD
+de I-MOD
+transição I-MOD
+
+
+ I-MOD
+e I-MOD
+transitórias I-MOD
+relativas I-MOD
+a I-MOD
+os I-MOD
+professores I-MOD
+. I-MOD
+
+
+ I-MOD
+com I-MOD
+o I-MOD
+objetivo I-MOD
+de I-ADD
+manter I-ADD
+os I-MOD
+atuais I-MOD
+requisitos I-ADD
+de I-ADD
+tempo I-ADD
+de I-ADD
+contribuição I-ADD
+de I-ADD
+e I-ADD
+/ I-ADD
+ou I-ADD
+de I-MOD
+idade I-SUP
+mínima I-SUP
+dos I-MOD
+professores I-MOD
+no I-MOD
+texto I-MOD
+constitucional I-MOD
+, I-MOD
+modifique I-MOD
+- I-MOD
+se I-MOD
+o I-MOD
+art I-MOD
+. I-MOD
+1º I-SUP
+da I-SUP
+proposta I-ADD
+de I-ADD
+emenda I-ADD
+à I-ADD
+constituição I-ADD
+nº I-SUP
+6 I-ADD
+, I-ADD
+de I-ADD
+2019 I-SUP
+: I-SUP
+
+
+ I-MOD
+a I-MOD
+) I-MOD
+acrescente I-MOD
+- I-MOD
+se I-MOD
+§ I-MOD
+1º-a I-MOD
+a I-MOD
+o I-ADD
+art I-ADD
+. I-MOD
+40 I-MOD
+e I-MOD
+a I-MOD
+o I-MOD
+art I-MOD
+. I-SUP
+201 I-SUP
+da I-SUP
+constituição I-SUP
+; I-MOD
+b I-MOD
+) I-MOD
+altere I-MOD
+- I-MOD
+se I-MOD
+a I-MOD
+redação I-MOD
+do I-MOD
+inciso I-MOD
+i I-MOD
+do I-MOD
+§ I-MOD
+2º I-MOD
+do I-MOD
+art I-ADD
+. I-ADD
+40 I-MOD
+da I-MOD
+constituição I-ADD
+e I-ADD
+do I-ADD
+inciso I-ADD
+ii I-ADD
+do I-MOD
+§ I-SUP
+1º I-SUP
+do I-SUP
+art I-SUP
+. I-SUP
+201 I-SUP
+da I-SUP
+constituição I-SUP
+
+
+ I-SUP
+“ I-SUP
+art I-MOD
+. I-MOD
+
+
+ I-MOD
+1º I-MOD
+.......................................................................................... I-MOD
+
+
+ I-MOD
+..................................................................................................... I-MOD
+
+
+ I-MOD
+“ I-MOD
+art I-MOD
+. I-MOD
+40 I-MOD
+......................................................................................... I-ADD
+
+
+ I-ADD
+...................................................................................................... I-ADD
+
+
+ I-ADD
+§ I-MOD
+1º-a I-ADD
+para I-ADD
+os I-SUP
+professores I-ADD
+que I-MOD
+comprovem I-SUP
+exclusivamente I-ADD
+tempo I-ADD
+de I-ADD
+efetivo I-ADD
+exercício I-ADD
+das I-ADD
+funções I-ADD
+de I-ADD
+magistério I-ADD
+na I-ADD
+educação I-ADD
+infantil I-SUP
+e I-SUP
+no I-SUP
+ensino I-MOD
+fundamental I-MOD
+e I-MOD
+médio I-SUP
+, I-SUP
+os I-SUP
+
+
+ I-SUP
+2 I-SUP
+
+
+
+
+ I-ADD
+requisitos I-ADD
+de I-ADD
+idade I-ADD
+e I-ADD
+tempo I-ADD
+de I-ADD
+contribuição I-ADD
+para I-ADD
+aposentadoria I-ADD
+voluntária I-ADD
+, I-ADD
+desde I-ADD
+que I-ADD
+cumprido I-ADD
+tempo I-ADD
+mínimo I-ADD
+de I-ADD
+dez I-ADD
+anos I-ADD
+de I-ADD
+efetivo I-SUP
+exercício I-SUP
+no I-SUP
+serviço I-SUP
+público I-SUP
+e I-SUP
+cinco I-SUP
+anos I-SUP
+no I-SUP
+cargo I-SUP
+efetivo I-SUP
+em I-SUP
+que I-ADD
+se I-ADD
+dará I-ADD
+a I-ADD
+aposentadoria I-ADD
+, I-ADD
+serão I-ADD
+: I-ADD
+
+
+ I-ADD
+i I-MOD
+- I-MOD
+cinquenta I-MOD
+e I-MOD
+cinco I-MOD
+anos I-MOD
+de I-SUP
+idade I-SUP
+e I-SUP
+trinta I-ADD
+anos I-ADD
+de I-ADD
+contribuição I-ADD
+, I-ADD
+se I-ADD
+homem I-ADD
+; I-ADD
+e I-MOD
+
+
+ I-MOD
+ii I-MOD
+- I-MOD
+cinquenta I-MOD
+anos I-MOD
+de I-MOD
+idade I-MOD
+e I-SUP
+vinte I-SUP
+e I-ADD
+cinco I-ADD
+anos I-ADD
+de I-ADD
+contribuição I-ADD
+, I-ADD
+se I-ADD
+mulher I-ADD
+. I-ADD
+
+
+ I-ADD
+§ I-ADD
+2º I-MOD
+.............................................................................................. I-MOD
+
+
+ I-MOD
+i I-ADD
+- I-MOD
+voluntariamente I-ADD
+, I-ADD
+desde I-ADD
+que I-ADD
+observados I-ADD
+a I-ADD
+idade I-ADD
+mínima I-ADD
+e I-SUP
+os I-SUP
+demais I-SUP
+requisitos I-SUP
+previstos I-ADD
+na I-ADD
+nova I-ADD
+lei I-ADD
+complementar I-SUP
+de I-ADD
+que I-ADD
+trata I-ADD
+o I-ADD
+§ I-ADD
+1º I-ADD
+, I-ADD
+com I-ADD
+exceção I-ADD
+dos I-MOD
+professores I-ADD
+, I-ADD
+cujos I-MOD
+requisitos I-MOD
+de I-MOD
+idade I-ADD
+e I-ADD
+tempo I-ADD
+de I-ADD
+contribuição I-ADD
+serão I-ADD
+aqueles I-ADD
+constantes I-ADD
+do I-ADD
+§ I-SUP
+
+
+ I-SUP
+1º-a I-SUP
+d I-SUP
+este I-SUP
+artigo I-MOD
+; I-MOD
+
+
+ I-MOD
+.................................................................................................... I-MOD
+” I-MOD
+
+
+ I-MOD
+“ I-MOD
+art I-MOD
+. I-MOD
+201 I-MOD
+....................................................................................... I-SUP
+
+
+ I-SUP
+...................................................................................................... I-SUP
+
+
+ I-SUP
+§ I-MOD
+1º I-MOD
+.............................................................................................. I-ADD
+
+
+ I-MOD
+...................................................................................................... I-ADD
+
+
+ I-MOD
+ii I-MOD
+- I-MOD
+requisitos I-MOD
+de I-ADD
+elegibilidade I-ADD
+para I-ADD
+os I-ADD
+benefícios I-ADD
+, I-SUP
+que I-ADD
+contemplarão I-ADD
+idade I-ADD
+mínima I-ADD
+, I-ADD
+tempo I-ADD
+de I-ADD
+contribuição I-ADD
+, I-ADD
+carência I-ADD
+e I-ADD
+limites I-ADD
+mínimo I-SUP
+e I-SUP
+máximo I-ADD
+do I-ADD
+valor I-ADD
+dos I-SUP
+benefícios I-SUP
+, I-ADD
+com I-ADD
+exceção I-ADD
+dos I-ADD
+requisitos I-ADD
+de I-ADD
+elegibilidade I-ADD
+para I-ADD
+aposentadoria I-ADD
+dos I-ADD
+professores I-ADD
+que I-ADD
+comprovem I-ADD
+exclusivamente I-MOD
+tempo I-ADD
+de I-ADD
+efetivo I-ADD
+exercício I-ADD
+das I-ADD
+funções I-ADD
+de I-ADD
+magistério I-ADD
+na I-ADD
+educação I-ADD
+infantil I-SUP
+e I-SUP
+no I-SUP
+ensino I-MOD
+fundamental I-SUP
+e I-SUP
+médio I-SUP
+, I-SUP
+previstos I-SUP
+no I-SUP
+§ I-SUP
+1º-a I-SUP
+d I-SUP
+este I-SUP
+artigo I-SUP
+; I-SUP
+
+
+ I-SUP
+...................................................................................................... I-ADD
+
+
+ I-ADD
+§ I-ADD
+1º-a I-ADD
+para I-ADD
+os I-SUP
+professores I-ADD
+que I-MOD
+comprovem I-SUP
+exclusivamente I-ADD
+tempo I-ADD
+de I-ADD
+efetivo I-ADD
+exercício I-ADD
+das I-ADD
+funções I-ADD
+de I-ADD
+magistério I-ADD
+na I-ADD
+educação I-ADD
+infantil I-SUP
+e I-SUP
+no I-SUP
+ensino I-MOD
+fundamental I-MOD
+e I-MOD
+médio I-SUP
+, I-ADD
+os I-ADD
+requisitos I-ADD
+para I-ADD
+aposentadoria I-ADD
+são I-ADD
+trinta I-ADD
+anos I-ADD
+de I-ADD
+contribuição I-ADD
+, I-ADD
+se I-ADD
+homem I-ADD
+, I-ADD
+e I-MOD
+vinte I-MOD
+e I-ADD
+cinco I-ADD
+anos I-ADD
+de I-ADD
+contribuição I-ADD
+, I-ADD
+se I-ADD
+mulher I-ADD
+, I-ADD
+sem I-MOD
+exigência I-MOD
+de I-MOD
+idade I-SUP
+mínima I-SUP
+. I-MOD
+
+
+ I-MOD
+.................................................................................................... I-MOD
+” I-MOD
+
+
+
+
+ I-MOD
+em I-MOD
+decorrência I-MOD
+, I-MOD
+excluam I-MOD
+- I-MOD
+se I-MOD
+regras I-MOD
+de I-MOD
+transição I-MOD
+e I-MOD
+disposições I-MOD
+transitórias I-MOD
+relativas I-MOD
+a I-MOD
+o I-MOD
+professor I-MOD
+, I-MOD
+mediante I-MOD
+as I-MOD
+seguintes O
+supressões O
+: O
+
+
+ O
+3 O
+
+
+
+
+ O
+a I-SUP
+) I-SUP
+o I-SUP
+item I-SUP
+1 I-SUP
+da I-SUP
+alínea I-SUP
+“ I-SUP
+e I-SUP
+” I-MOD
+do I-MOD
+inciso I-MOD
+i I-MOD
+do I-MOD
+§ I-MOD
+1º I-MOD
+do I-MOD
+art I-ADD
+. I-ADD
+40 I-MOD
+da I-ADD
+constituição I-ADD
+contido I-MOD
+no I-ADD
+art I-SUP
+. I-SUP
+1º I-MOD
+da I-MOD
+pec I-MOD
+; I-MOD
+
+
+ I-MOD
+b I-MOD
+) I-MOD
+o I-MOD
+inciso I-MOD
+iii I-MOD
+do I-MOD
+§ I-MOD
+7º I-SUP
+do I-SUP
+art I-SUP
+. I-SUP
+201 I-SUP
+da I-SUP
+constituição I-SUP
+, I-SUP
+contido I-SUP
+no I-SUP
+art I-SUP
+. I-MOD
+
+
+ I-MOD
+1º I-MOD
+da I-MOD
+pec I-MOD
+; I-MOD
+
+
+ I-MOD
+b I-MOD
+) I-MOD
+os I-MOD
+§ I-MOD
+§ I-MOD
+5º I-MOD
+e I-ADD
+6º I-MOD
+e I-MOD
+o I-MOD
+trecho I-MOD
+“ I-MOD
+ou I-MOD
+a I-MOD
+os I-MOD
+sessenta I-MOD
+anos I-MOD
+de I-MOD
+idade I-MOD
+, I-MOD
+se I-ADD
+titulares I-ADD
+do I-ADD
+cargo I-ADD
+de I-ADD
+professor I-ADD
+de I-ADD
+que I-ADD
+trata I-MOD
+o I-MOD
+§ I-MOD
+5º I-MOD
+, I-MOD
+para I-MOD
+ambos I-MOD
+os I-MOD
+sexos I-MOD
+” I-SUP
+do I-MOD
+inciso I-MOD
+i I-MOD
+do I-MOD
+§ I-MOD
+7º I-MOD
+do I-MOD
+art I-MOD
+. I-MOD
+3º I-SUP
+da I-SUP
+pec I-SUP
+nº I-SUP
+6 I-SUP
+, I-SUP
+de I-SUP
+2019 I-SUP
+, I-SUP
+
+
+ I-SUP
+c I-SUP
+) I-SUP
+a I-MOD
+expressão I-MOD
+“ I-MOD
+e I-SUP
+dos I-SUP
+professores I-MOD
+” I-MOD
+da I-MOD
+primeira I-MOD
+seção I-MOD
+do I-MOD
+capítulo I-MOD
+iii I-SUP
+da I-SUP
+pec I-SUP
+nº I-SUP
+6 I-SUP
+, I-SUP
+de I-SUP
+2019 I-SUP
+; I-SUP
+
+
+ I-SUP
+d I-SUP
+) I-SUP
+o I-SUP
+inciso I-SUP
+i I-SUP
+do I-MOD
+§ I-MOD
+4º I-SUP
+do I-SUP
+art I-SUP
+. I-MOD
+12 I-SUP
+da I-SUP
+pec I-SUP
+nº I-SUP
+6 I-SUP
+, I-SUP
+de I-SUP
+2019 I-SUP
+; I-SUP
+e I-SUP
+) I-SUP
+o I-SUP
+§ I-MOD
+3º I-SUP
+do I-SUP
+art I-SUP
+. I-SUP
+18 I-SUP
+da I-SUP
+pec I-SUP
+nº I-SUP
+6 I-SUP
+, I-SUP
+de I-ADD
+2019 I-ADD
+, I-SUP
+bem I-SUP
+como I-SUP
+a I-SUP
+expressão I-SUP
+“ I-SUP
+e I-SUP
+dos I-SUP
+professores I-MOD
+” I-MOD
+da I-MOD
+primeira I-MOD
+seção I-MOD
+do I-MOD
+capítulo I-MOD
+v I-MOD
+da I-MOD
+pec I-MOD
+nº I-SUP
+6 I-SUP
+, I-SUP
+de I-SUP
+2019 I-SUP
+, I-SUP
+e I-MOD
+as I-MOD
+menções I-MOD
+a I-MOD
+o I-MOD
+§ I-MOD
+3º I-MOD
+constante I-MOD
+da I-MOD
+redação I-MOD
+do I-MOD
+§ I-MOD
+5º I-SUP
+do I-SUP
+art I-SUP
+. I-SUP
+18 I-SUP
+; I-SUP
+f I-SUP
+) I-SUP
+o I-SUP
+§ I-SUP
+2º I-ADD
+do I-ADD
+art I-ADD
+. O
+19 I-ADD
+da I-ADD
+pec I-ADD
+nº I-ADD
+6 I-ADD
+, I-SUP
+de I-ADD
+2019 I-ADD
+, I-SUP
+bem I-SUP
+como I-SUP
+a I-SUP
+expressão I-SUP
+“ I-SUP
+e I-SUP
+§ I-SUP
+2º I-SUP
+” I-MOD
+da I-MOD
+redação I-MOD
+do I-MOD
+§ I-MOD
+4º I-MOD
+do I-MOD
+art I-MOD
+. I-MOD
+19 I-SUP
+; I-SUP
+e I-SUP
+
+
+ I-SUP
+g I-SUP
+) I-SUP
+o I-SUP
+§ I-SUP
+1º I-SUP
+do I-MOD
+art I-MOD
+. I-MOD
+24 I-SUP
+da I-SUP
+pec I-SUP
+nº I-SUP
+6 I-SUP
+, I-SUP
+de O
+2019 I-SUP
+: E-SUP
+
+ O

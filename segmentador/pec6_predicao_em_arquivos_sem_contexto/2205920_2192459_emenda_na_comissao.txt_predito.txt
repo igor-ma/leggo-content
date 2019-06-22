@@ -1,0 +1,327 @@
+de O
+. O
+comissão O
+destinada O
+proferir O
+parecer O
+à O
+proposta O
+de O
+emenda O
+à O
+constituição O
+nº O
+06 O
+, O
+de O
+2019 O
+
+
+
+
+
+
+ O
+modifica B-MOD
+o I-MOD
+sistema I-MOD
+de I-MOD
+previdência I-MOD
+social I-MOD
+, I-MOD
+estabelece I-MOD
+
+
+ I-MOD
+regras I-MOD
+
+
+ I-MOD
+de I-MOD
+
+
+ I-MOD
+transição I-MOD
+
+
+ I-MOD
+e I-MOD
+
+
+ I-MOD
+disposições I-MOD
+transitórias I-MOD
+, I-MOD
+e I-MOD
+dá I-MOD
+outras I-MOD
+
+
+ I-MOD
+providências I-MOD
+. E-MOD
+
+
+
+
+
+
+ O
+emenda O
+modificativa O
+nº O
+
+
+ O
+modifica B-MOD
+a O
+pec O
+06/2019 O
+nos I-MOD
+artigos I-MOD
+201 I-MOD
+do I-SUP
+
+
+ I-SUP
+art I-MOD
+. I-SUP
+1º I-MOD
+, I-MOD
+art I-MOD
+. I-MOD
+21 I-MOD
+e I-SUP
+art I-SUP
+. I-SUP
+25 I-SUP
+para I-SUP
+manter I-SUP
+a I-SUP
+possibilidade I-ADD
+
+
+ I-ADD
+de I-ADD
+
+
+ I-ADD
+aposentadoria I-ADD
+
+
+ I-ADD
+para I-ADD
+
+
+ I-ADD
+agentes I-ADD
+patrimoniais I-SUP
+
+
+
+
+ I-SUP
+art I-SUP
+. E-SUP
+1º I-MOD
+dê I-MOD
+- I-MOD
+se I-MOD
+a I-MOD
+o I-MOD
+inciso I-MOD
+ii I-MOD
+do I-MOD
+§ I-MOD
+7º I-SUP
+do I-SUP
+art I-SUP
+. I-SUP
+201 I-SUP
+do I-SUP
+art I-SUP
+. I-SUP
+1º I-SUP
+da I-SUP
+proposta I-ADD
+de I-ADD
+emenda I-ADD
+à O
+constituição O
+nº O
+06 O
+, O
+de O
+2019 O
+a I-MOD
+seguinte I-MOD
+redação I-MOD
+: I-MOD
+art I-MOD
+. I-MOD
+1º I-MOD
+
+
+ I-MOD
+.............................................................................................. I-SUP
+
+
+ I-SUP
+art I-SUP
+. I-MOD
+201 I-MOD
+................................................................................. I-SUP
+
+
+ I-MOD
+............................................................................................... I-MOD
+
+
+ I-MOD
+§ I-MOD
+7º I-MOD
+....................................................................................... I-MOD
+
+
+ I-MOD
+.............................................................................................. I-MOD
+
+
+ I-MOD
+ii I-MOD
+- I-MOD
+cujas I-MOD
+atividades I-MOD
+sejam I-MOD
+exercidas I-MOD
+com I-SUP
+efetiva I-SUP
+exposição I-SUP
+a I-SUP
+agentes I-SUP
+nocivos I-SUP
+químicos I-SUP
+, I-SUP
+físicos I-SUP
+e I-MOD
+biológicos I-MOD
+prejudiciais O
+à O
+saúde I-MOD
+, I-MOD
+ou I-SUP
+associação I-SUP
+d I-SUP
+esses I-SUP
+agentes I-SUP
+; I-SUP
+ou I-SUP
+em I-SUP
+atividade I-SUP
+de I-MOD
+risco I-MOD
+. I-MOD
+
+
+
+
+ I-MOD
+................................................................................................................... I-MOD
+
+
+ I-MOD
+art I-MOD
+. I-MOD
+2º I-MOD
+suprima I-MOD
+- I-MOD
+se I-MOD
+a I-MOD
+expressão I-MOD
+“ I-MOD
+, I-MOD
+vedados I-SUP
+a I-SUP
+caracterização I-MOD
+por O
+categoria O
+profissional O
+ou O
+ocupação O
+e O
+o I-MOD
+enquadramento I-MOD
+por I-MOD
+periculosidade I-MOD
+” I-MOD
+do I-MOD
+caput I-SUP
+do I-MOD
+art I-MOD
+. I-MOD
+21 I-SUP
+da I-SUP
+proposta I-ADD
+de I-ADD
+emenda O
+à O
+constituição O
+nº O
+06 O
+, I-ADD
+de I-ADD
+2019 I-MOD
+. I-MOD
+
+
+
+
+ I-MOD
+art I-MOD
+. I-MOD
+3º I-MOD
+suprima I-MOD
+- I-MOD
+se I-MOD
+a I-MOD
+expressão I-MOD
+“ I-MOD
+, I-MOD
+vedados I-SUP
+a I-SUP
+caracterização I-MOD
+por O
+categoria O
+profissional O
+ou O
+ocupação O
+e O
+o I-MOD
+enquadramento I-MOD
+por I-MOD
+periculosidade I-MOD
+” I-MOD
+do I-MOD
+caput I-MOD
+do I-MOD
+art I-MOD
+. I-MOD
+25 I-SUP
+da I-ADD
+proposta I-ADD
+de I-ADD
+emenda O
+à O
+constituição O
+nº O
+06 O
+, I-ADD
+de O
+2019 O
+. O
+
+
+
+
+
+ O

@@ -1,0 +1,256 @@
+valor O
+. O
+câmara O
+deputados O
+liderança O
+do I-MOD
+partido I-MOD
+socialismo I-MOD
+e I-MOD
+liberdade I-MOD
+
+
+ O
+assessoria O
+técnica O
+
+
+
+
+
+
+ O
+emenda O
+à O
+proposta O
+de O
+emenda O
+à O
+constituição O
+nº O
+6 O
+de O
+2019 I-SUP
+. I-SUP
+
+
+
+
+ I-SUP
+modifica B-MOD
+na I-MOD
+pec I-MOD
+06/2019 I-MOD
+dispositivos I-MOD
+relacionados I-MOD
+a I-MOD
+o I-MOD
+aumento I-MOD
+da I-MOD
+participação I-MOD
+popular I-MOD
+por I-MOD
+meio I-MOD
+da I-MOD
+proposta I-MOD
+de O
+referendo O
+. O
+
+
+
+
+
+
+ O
+emenda O
+modificativa O
+n.º O
+_ O
+_ O
+_ O
+_ O
+_ I-MOD
+_ I-MOD
+_ I-MOD
+_ I-MOD
+_ I-MOD
+_ O
+_ O
+_ O
+
+
+
+
+
+
+ O
+dê O
+- O
+se I-MOD
+a I-MOD
+o I-MOD
+art I-MOD
+. I-MOD
+47 I-SUP
+da I-SUP
+proposta I-ADD
+de I-ADD
+emenda O
+à O
+constituição O
+nº O
+06 O
+
+
+ O
+de O
+2019 O
+a I-MOD
+seguinte I-MOD
+redação I-MOD
+: I-MOD
+
+
+ I-MOD
+“ I-MOD
+art I-MOD
+. I-SUP
+47 I-SUP
+. I-ADD
+essa I-ADD
+emenda I-SUP
+à I-SUP
+constituição I-SUP
+, I-SUP
+para I-SUP
+entrar I-SUP
+em I-SUP
+vigor I-MOD
+, I-MOD
+dependerá I-MOD
+de I-MOD
+aprovação I-MOD
+em I-MOD
+referendo I-MOD
+popular I-MOD
+, I-MOD
+nos I-MOD
+termos I-MOD
+do I-MOD
+art I-SUP
+. I-SUP
+14 I-SUP
+, I-SUP
+ii I-MOD
+, I-MOD
+da I-MOD
+constituição I-ADD
+federal I-ADD
+. I-ADD
+
+
+ I-ADD
+§ I-MOD
+1º I-MOD
+o I-MOD
+referendo I-MOD
+popular I-MOD
+a I-MOD
+que I-MOD
+se I-MOD
+refere I-MOD
+o I-SUP
+caput I-MOD
+d I-MOD
+este I-SUP
+artigo I-MOD
+será I-SUP
+realizado I-SUP
+em I-SUP
+até I-SUP
+noventa I-SUP
+dias I-SUP
+a I-SUP
+partir I-SUP
+da I-SUP
+promulgação I-SUP
+d I-SUP
+esta I-SUP
+emenda I-SUP
+à I-SUP
+constituição I-SUP
+, I-SUP
+sob I-MOD
+responsabilidade I-MOD
+do I-MOD
+tribunal I-MOD
+superior I-MOD
+eleitoral I-MOD
+. I-MOD
+
+
+ I-MOD
+§ I-MOD
+2º I-MOD
+no I-ADD
+caso I-ADD
+de I-ADD
+rejeição I-MOD
+pelo I-SUP
+povo I-SUP
+, I-ADD
+esta I-SUP
+emenda I-SUP
+à I-SUP
+constituição I-SUP
+não I-SUP
+entrará I-SUP
+em I-SUP
+vigor I-SUP
+, I-SUP
+e I-SUP
+nem I-MOD
+produzirá I-SUP
+efeitos I-MOD
+. I-MOD
+
+
+ I-MOD
+§ I-MOD
+3º I-MOD
+em I-MOD
+caso I-MOD
+de I-MOD
+aprovação I-MOD
+do I-MOD
+referendo I-MOD
+popular I-MOD
+, I-MOD
+o I-MOD
+disposto I-SUP
+n I-SUP
+esta I-SUP
+emenda I-SUP
+à I-SUP
+constituição I-SUP
+entrará I-SUP
+em I-SUP
+vigor I-SUP
+na I-SUP
+data I-MOD
+de I-MOD
+publicação I-MOD
+de I-MOD
+seu I-MOD
+resultado I-MOD
+pelo I-MOD
+tribunal I-MOD
+superior I-MOD
+eleitoral I-MOD
+. I-MOD
+” E-MOD
+
+
+
+ O

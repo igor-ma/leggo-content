@@ -1,0 +1,261 @@
+; I-MOD
+” E-MOD
+proposta O
+emenda O
+constituição O
+nº O
+6 O
+de O
+2019 O
+
+
+ O
+( O
+do O
+sr. O
+capitão O
+augusto O
+, I-MOD
+guilherme I-MOD
+derrite I-MOD
+e I-MOD
+outros I-MOD
+) I-MOD
+
+
+
+
+ I-MOD
+modifica I-MOD
+o I-MOD
+sistema I-MOD
+de I-MOD
+previdência I-MOD
+social I-MOD
+, I-MOD
+
+
+ I-MOD
+estabelece I-MOD
+regras I-MOD
+de I-MOD
+transição I-MOD
+e I-MOD
+disposições I-MOD
+transitórias I-MOD
+, I-MOD
+e I-MOD
+dá I-MOD
+outras I-MOD
+providências I-MOD
+. E-MOD
+
+
+
+
+ O
+emenda O
+nº O
+
+
+
+
+ O
+dê O
+- O
+se O
+a O
+o I-MOD
+art I-MOD
+. I-MOD
+37 I-MOD
+, I-MOD
+§ I-ADD
+12 I-ADD
+, I-ADD
+da I-ADD
+constituição I-ADD
+federal I-MOD
+, I-MOD
+no I-MOD
+art I-MOD
+. I-MOD
+1º I-MOD
+da I-MOD
+pec I-MOD
+, I-MOD
+a I-MOD
+seguinte I-MOD
+redação I-MOD
+: I-MOD
+
+
+
+
+ I-MOD
+art I-MOD
+. I-MOD
+1º I-MOD
+.............................................................. I-MOD
+
+
+ I-MOD
+........................................................................ I-MOD
+
+
+ I-MOD
+“ I-MOD
+art I-MOD
+. I-MOD
+37 I-MOD
+............................................................ I-MOD
+
+
+ I-MOD
+........................................................................ I-MOD
+
+
+ I-MOD
+§ I-SUP
+12 I-MOD
+. I-MOD
+para I-MOD
+os I-MOD
+fins I-MOD
+do I-MOD
+disposto I-MOD
+no I-MOD
+inciso I-MOD
+xi I-SUP
+do I-SUP
+caput I-SUP
+d I-SUP
+este I-SUP
+artigo I-SUP
+, I-SUP
+fica I-MOD
+facultado I-MOD
+a I-MOD
+os I-MOD
+estados I-MOD
+e I-MOD
+a I-MOD
+o I-MOD
+distrito I-MOD
+federal I-MOD
+e I-MOD
+municípios I-MOD
+, I-MOD
+por I-MOD
+iniciativa O
+parlamentar O
+ou O
+do O
+poder O
+executivo O
+, O
+fixar I-MOD
+, I-ADD
+em I-ADD
+seu I-ADD
+âmbito I-ADD
+, I-ADD
+mediante I-ADD
+emenda I-ADD
+à O
+s B-MOD
+respectivas I-MOD
+constituições I-MOD
+e I-ADD
+leis I-MOD
+orgânicas I-ADD
+, I-ADD
+como I-ADD
+limite I-MOD
+único I-MOD
+, I-MOD
+o I-MOD
+subsídio I-MOD
+mensal I-MOD
+de I-MOD
+desembargador I-MOD
+do I-MOD
+respectivo I-MOD
+tribunal I-MOD
+de I-MOD
+justiça I-MOD
+, I-MOD
+limitado I-MOD
+a I-MOD
+noventa I-MOD
+inteiro I-MOD
+e I-MOD
+vinte I-MOD
+e I-MOD
+cinco I-MOD
+centésimo I-MOD
+por I-MOD
+cento I-MOD
+do I-MOD
+subsídio I-MOD
+mensal I-MOD
+dos I-MOD
+ministros I-MOD
+do I-MOD
+supremo I-MOD
+ttribunal I-MOD
+federal I-MOD
+, I-MOD
+não I-MOD
+se I-MOD
+aplicando I-MOD
+o I-MOD
+disposto I-MOD
+n I-MOD
+este I-MOD
+parágrafo I-MOD
+a I-MOD
+o I-MOD
+subsídio I-MOD
+do I-MOD
+deputado I-MOD
+estadual I-MOD
+e I-MOD
+distrital I-MOD
+e I-MOD
+do I-MOD
+vereador I-MOD
+, I-MOD
+não I-MOD
+podendo I-MOD
+o I-MOD
+subsídio I-MOD
+do I-MOD
+governador I-MOD
+, I-MOD
+fixado I-MOD
+pela I-ADD
+respectiva I-SUP
+assembleia I-SUP
+legislativa I-SUP
+, I-SUP
+ser I-SUP
+inferior I-SUP
+a I-SUP
+o I-SUP
+do I-SUP
+deputado I-MOD
+estadual I-MOD
+ou I-MOD
+distrital I-MOD
+. I-MOD
+” I-MOD
+( I-MOD
+nr I-MOD
+) I-MOD
+
+
+ I-MOD
+.............................................................................. I-MOD
+
+ I-MOD

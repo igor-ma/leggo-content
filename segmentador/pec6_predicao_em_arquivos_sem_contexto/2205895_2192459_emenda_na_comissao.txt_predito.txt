@@ -1,0 +1,325 @@
+de I-MOD
+. I-ADD
+comissão I-ADD
+da I-ADD
+nº I-ADD
+6 O
+, I-SUP
+de I-SUP
+2019 I-SUP
+
+
+
+
+ I-SUP
+proposta I-ADD
+de O
+emenda I-ADD
+à I-ADD
+constituição I-ADD
+nº I-SUP
+6 I-SUP
+, I-SUP
+de O
+2019 O
+
+
+
+
+ O
+emenda O
+modificativa O
+
+
+ O
+( O
+do O
+sr. O
+daniel O
+almeida O
+e O
+outros O
+) E-MOD
+modifica B-MOD
+
+
+ I-MOD
+na I-MOD
+
+
+ I-MOD
+pec I-MOD
+
+
+ I-MOD
+6/2019 I-MOD
+
+
+ I-MOD
+dispositivos I-MOD
+relacionados I-MOD
+a I-MOD
+o I-MOD
+cálculo I-ADD
+de I-ADD
+benefícios I-ADD
+, I-ADD
+à I-ADD
+carência I-ADD
+de I-ADD
+20 I-ADD
+anos I-ADD
+e I-SUP
+à I-ADD
+regra I-ADD
+de I-ADD
+majoração I-ADD
+permanente I-ADD
+da I-ADD
+idade I-ADD
+mínima I-ADD
+. I-MOD
+
+
+
+
+ I-MOD
+art I-MOD
+. I-MOD
+1º I-MOD
+suprimam I-MOD
+- I-MOD
+se I-MOD
+: I-MOD
+
+
+ I-MOD
+i. I-MOD
+
+
+ I-SUP
+o I-SUP
+§ I-SUP
+4º I-SUP
+do I-SUP
+art I-SUP
+. I-SUP
+18 I-SUP
+, I-SUP
+§ I-SUP
+3º I-SUP
+, I-MOD
+do I-ADD
+art I-ADD
+. I-MOD
+19 I-MOD
+, I-MOD
+e I-MOD
+o I-MOD
+art I-MOD
+. I-SUP
+29 I-MOD
+, I-MOD
+ambos I-SUP
+da I-SUP
+pec I-SUP
+nº I-SUP
+6 I-SUP
+; I-SUP
+e I-SUP
+ii I-MOD
+. I-MOD
+
+
+ I-MOD
+as I-MOD
+modificações I-MOD
+do I-MOD
+§ I-MOD
+4º I-MOD
+do I-MOD
+art I-SUP
+201 I-SUP
+, I-SUP
+constantes I-SUP
+do I-SUP
+art I-SUP
+. I-MOD
+1º I-SUP
+da I-SUP
+pec I-SUP
+nº I-SUP
+6 I-ADD
+, I-ADD
+e I-SUP
+o I-ADD
+§ I-SUP
+5º I-SUP
+do I-SUP
+art I-SUP
+. I-SUP
+22 I-SUP
+, I-SUP
+da I-SUP
+pec I-SUP
+nº I-SUP
+6 I-SUP
+. I-SUP
+
+
+ I-SUP
+art I-MOD
+. I-MOD
+2º I-MOD
+suprima I-MOD
+- I-MOD
+se I-MOD
+o I-MOD
+§ I-MOD
+2º I-ADD
+do I-ADD
+art I-SUP
+. I-SUP
+22 I-SUP
+, I-SUP
+da I-SUP
+pec I-SUP
+nº I-SUP
+6 I-MOD
+; I-ADD
+e I-ADD
+substitua I-ADD
+- I-SUP
+se I-MOD
+a I-MOD
+expressão I-MOD
+
+
+ I-MOD
+“ I-MOD
+vinte I-SUP
+anos I-ADD
+de I-ADD
+tempo I-ADD
+de I-ADD
+contribuição I-ADD
+” E-ADD
+por B-SUP
+“ I-ADD
+quinze I-ADD
+anos I-ADD
+de I-ADD
+tempo I-ADD
+de I-ADD
+contribuição I-ADD
+” I-ADD
+, I-ADD
+no I-ADD
+inciso I-ADD
+ii I-MOD
+do I-MOD
+art I-SUP
+. I-MOD
+24 I-MOD
+, I-SUP
+da I-SUP
+pec I-SUP
+nº I-MOD
+6 I-SUP
+. I-SUP
+
+
+ I-SUP
+art I-MOD
+. I-MOD
+3º I-MOD
+substitua I-MOD
+- I-MOD
+se I-MOD
+no I-MOD
+art I-MOD
+. I-MOD
+29 I-MOD
+, I-SUP
+da I-SUP
+pec I-SUP
+nº I-SUP
+6 I-SUP
+, I-SUP
+a I-SUP
+expressão I-SUP
+“ I-SUP
+correspondentes I-SUP
+a I-SUP
+cem I-SUP
+por I-SUP
+cento I-SUP
+de I-ADD
+todo I-MOD
+o I-ADD
+período I-ADD
+contributivo I-SUP
+” I-SUP
+por I-SUP
+“ I-SUP
+correspondentes I-SUP
+e I-SUP
+oitenta I-SUP
+por I-ADD
+cento I-ADD
+das I-ADD
+maiores I-ADD
+contribuições I-ADD
+verificadas I-ADD
+a I-ADD
+o I-ADD
+longo I-ADD
+de I-MOD
+todo I-MOD
+o I-MOD
+período I-MOD
+contributivo I-MOD
+” I-MOD
+. I-MOD
+
+
+ I-MOD
+art I-MOD
+. I-MOD
+4º I-MOD
+substitua I-MOD
+- I-MOD
+se I-MOD
+em I-MOD
+todo I-MOD
+o O
+texto I-ADD
+da I-SUP
+pec I-SUP
+nº I-SUP
+6 I-SUP
+, I-MOD
+a I-MOD
+expressão I-MOD
+“ I-SUP
+sessenta I-MOD
+por I-MOD
+cento I-MOD
+da I-MOD
+média I-MOD
+aritmética I-ADD
+” I-ADD
+por I-ADD
+“ I-ADD
+setenta I-ADD
+por I-ADD
+cento I-ADD
+da I-ADD
+média I-ADD
+aritmética I-ADD
+” I-ADD
+. E-MOD
+
+
+
+ O

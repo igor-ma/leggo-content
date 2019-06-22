@@ -1,0 +1,162 @@
+federal I-MOD
+” E-MOD
+comissão O
+destinada O
+proferir O
+parecer O
+à O
+proposta O
+de O
+emenda O
+à O
+constituição O
+nº O
+6 O
+, O
+de O
+2019 O
+, O
+do O
+poder O
+executivo O
+, O
+que O
+“ O
+modifica O
+o O
+sistema O
+de O
+previdência O
+social O
+, O
+estabelece O
+
+
+ O
+regras O
+de O
+transição O
+e O
+disposições O
+transitórias O
+, O
+e O
+dá O
+
+
+ I-MOD
+outras I-MOD
+providências I-MOD
+. I-MOD
+” E-MOD
+
+
+
+
+ O
+emenda O
+aditiva O
+
+
+ O
+acrescente O
+- O
+se O
+à O
+proposta I-ADD
+de O
+emenda I-ADD
+à I-ADD
+constituição I-ADD
+nº I-SUP
+6 I-ADD
+, I-ADD
+de I-ADD
+2019 I-ADD
+, I-ADD
+dispositivo I-ADD
+com I-ADD
+a I-ADD
+seguinte I-ADD
+redação I-ADD
+: I-MOD
+
+
+ I-MOD
+“ I-MOD
+capítulo I-MOD
+viii I-MOD
+disposições I-MOD
+finais I-MOD
+
+
+ O
+art I-MOD
+. I-MOD
+( I-MOD
+... I-MOD
+) I-MOD
+fica I-MOD
+garantido I-MOD
+a I-MOD
+os I-MOD
+integrantes I-MOD
+da I-MOD
+polícia I-MOD
+federal I-MOD
+, I-MOD
+da I-MOD
+polícia I-MOD
+rodoviária I-MOD
+federal I-MOD
+, I-MOD
+das I-MOD
+polícias I-MOD
+civis I-MOD
+, I-MOD
+das I-MOD
+polícias I-MOD
+militares I-MOD
+e I-MOD
+corpos I-MOD
+de I-MOD
+bombeiros I-MOD
+militares I-MOD
+, I-MOD
+das I-MOD
+guardas I-SUP
+municipais I-SUP
+e I-SUP
+os I-SUP
+agentes I-SUP
+penitenciários I-SUP
+ou I-SUP
+socioeducativos I-SUP
+em I-SUP
+exercício I-MOD
+na I-SUP
+data I-SUP
+da I-SUP
+promulgação I-SUP
+d I-SUP
+esta I-SUP
+emenda I-SUP
+o I-SUP
+direito I-SUP
+de I-SUP
+optar I-ADD
+por I-ADD
+se I-MOD
+aposentar I-MOD
+pelo I-MOD
+regramento I-MOD
+anterior I-MOD
+. I-MOD
+” I-MOD
+( I-MOD
+ac I-MOD
+) E-MOD
+
+
+
+ O

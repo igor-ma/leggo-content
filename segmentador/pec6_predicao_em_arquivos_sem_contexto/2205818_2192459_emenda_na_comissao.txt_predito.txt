@@ -1,0 +1,178 @@
+pec O
+. O
+câmara O
+deputados O
+gabinete O
+do I-MOD
+deputado I-MOD
+luciano I-MOD
+ducci O
+– I-MOD
+psb I-MOD
+/ O
+pr O
+
+
+
+
+
+
+ O
+comissão O
+especial O
+destinada O
+a O
+emitir O
+parecer O
+
+
+ O
+sobre O
+a O
+proposta O
+de O
+emenda O
+à O
+constituição O
+nº O
+6 O
+, O
+de I-SUP
+
+
+ I-SUP
+2019 I-SUP
+. O
+
+
+ O
+proposta O
+de O
+emenda O
+à O
+constituição O
+nº O
+6 O
+, O
+de O
+2019 I-ADD
+
+
+ I-ADD
+modifica B-MOD
+o I-MOD
+sistema I-MOD
+de I-MOD
+previdência I-MOD
+
+
+ I-MOD
+social I-MOD
+, I-MOD
+estabelece I-MOD
+regras I-MOD
+de I-MOD
+transição I-MOD
+e I-MOD
+
+
+ I-MOD
+disposições I-MOD
+
+
+ I-MOD
+transitórias I-MOD
+, I-MOD
+
+
+ I-MOD
+e I-MOD
+
+
+ I-MOD
+dá I-MOD
+
+
+ I-MOD
+outras I-MOD
+
+
+ I-MOD
+providências I-MOD
+. E-MOD
+
+
+ O
+emenda O
+nº O
+
+
+ O
+acrescente O
+- O
+se I-MOD
+a I-MOD
+o I-MOD
+art I-MOD
+. I-MOD
+4º I-SUP
+da I-SUP
+pec I-SUP
+nº I-SUP
+6 I-SUP
+, I-SUP
+de I-SUP
+2019 I-ADD
+: I-SUP
+
+
+ I-MOD
+“ I-MOD
+art I-MOD
+. I-MOD
+4º I-MOD
+.......................................................................................... I-MOD
+
+
+ I-MOD
+...................................................................................................... I-MOD
+
+
+ I-MOD
+§ I-MOD
+7º- I-MOD
+aplicam I-MOD
+- I-MOD
+se I-MOD
+as I-MOD
+disposições I-MOD
+concernentes I-MOD
+a I-MOD
+os I-MOD
+policiais I-MOD
+de I-MOD
+que I-ADD
+trata I-ADD
+este I-ADD
+artigo I-MOD
+à I-MOD
+s B-MOD
+guardas I-MOD
+municipais I-MOD
+a I-MOD
+que I-MOD
+se I-MOD
+refere I-MOD
+o I-SUP
+§ I-SUP
+
+
+ I-MOD
+8º I-SUP
+do I-MOD
+art I-MOD
+. E-SUP
+144.”(nr O
+) O
+
+ O

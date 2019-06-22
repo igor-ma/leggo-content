@@ -1,0 +1,175 @@
+55922 O
+4 O
+comissão O
+– O
+6/19 O
+– O
+previdência O
+social O
+
+
+ O
+proposta O
+de O
+emenda O
+à O
+constituição O
+nº O
+6 O
+, O
+de I-ADD
+2019 I-ADD
+
+
+ I-SUP
+acrescenta I-MOD
+a I-ADD
+o I-ADD
+art I-ADD
+. I-ADD
+195 I-ADD
+da I-ADD
+constituição I-ADD
+
+
+ I-ADD
+federal I-ADD
+, I-ADD
+alterado I-ADD
+pelo I-MOD
+art I-MOD
+. I-MOD
+1º I-ADD
+da I-ADD
+pec I-SUP
+nº I-SUP
+6 I-SUP
+, I-SUP
+de I-SUP
+
+
+ I-ADD
+2019 I-SUP
+, I-SUP
+o I-SUP
+§ I-SUP
+16 I-SUP
+. E-SUP
+
+
+ O
+emenda O
+nº O
+
+
+ O
+acrescente O
+- O
+se I-MOD
+a I-ADD
+o I-ADD
+art I-ADD
+. I-ADD
+195 I-ADD
+da I-ADD
+constituição I-ADD
+federal I-ADD
+, I-ADD
+alterado I-ADD
+pelo I-ADD
+art I-MOD
+. I-MOD
+1º I-ADD
+da I-ADD
+pec I-SUP
+nº I-SUP
+6 I-SUP
+, I-SUP
+de I-ADD
+2019 I-ADD
+, I-SUP
+o I-SUP
+seguinte I-SUP
+§ I-SUP
+16 I-SUP
+: I-SUP
+
+
+ I-ADD
+“ I-ADD
+art I-SUP
+. I-ADD
+195 I-ADD
+....................................................................................... I-ADD
+
+
+ I-ADD
+..................................................................................................... I-ADD
+
+
+ I-ADD
+§ I-ADD
+16 I-ADD
+. I-ADD
+a I-ADD
+contribuição I-ADD
+do I-ADD
+trabalhador I-ADD
+e I-ADD
+dos I-ADD
+demais I-MOD
+segurados I-MOD
+da I-MOD
+previdência I-MOD
+social I-MOD
+, I-MOD
+prevista I-MOD
+no I-MOD
+inciso I-MOD
+ii I-MOD
+do I-SUP
+caput I-SUP
+d I-MOD
+este I-MOD
+artigo I-MOD
+, I-MOD
+será I-MOD
+optativa I-MOD
+quando I-MOD
+o I-MOD
+segurado I-MOD
+comprovar I-ADD
+quarenta I-ADD
+anos I-ADD
+de I-ADD
+contribuição I-ADD
+para I-ADD
+o I-ADD
+regime I-ADD
+geral I-ADD
+de I-ADD
+previdência I-ADD
+social I-ADD
+, I-MOD
+incluindo I-MOD
+, I-MOD
+se I-MOD
+for I-MOD
+o I-MOD
+caso I-MOD
+, I-MOD
+a I-ADD
+contagem I-ADD
+recíproca I-ADD
+de I-ADD
+contribuições I-ADD
+previdenciárias I-ADD
+vertidas I-ADD
+para I-ADD
+outros I-ADD
+regimes I-MOD
+previdenciários I-SUP
+. I-SUP
+” E-MOD
+
+ O

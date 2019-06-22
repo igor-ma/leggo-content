@@ -1,0 +1,259 @@
+( I-MOD
+) I-MOD
+comissão I-ADD
+da I-ADD
+nº I-ADD
+6 O
+, I-SUP
+de I-SUP
+2019 I-SUP
+
+
+
+
+ I-SUP
+proposta I-ADD
+de O
+emenda I-ADD
+à I-ADD
+constituição I-ADD
+nº I-SUP
+6 I-SUP
+, I-SUP
+de O
+2019 O
+
+
+
+
+ O
+emenda O
+modificativa O
+
+
+ O
+( O
+do O
+sr. O
+daniel O
+almeida O
+e O
+outros O
+) O
+
+
+
+
+ I-MOD
+modifica I-SUP
+dispositivos I-SUP
+da I-MOD
+pec I-MOD
+6 I-MOD
+, I-SUP
+de I-SUP
+
+
+ I-SUP
+2019 I-SUP
+, I-MOD
+que I-MOD
+prejudicam I-MOD
+as I-MOD
+trabalhadoras I-MOD
+. I-MOD
+
+
+
+
+ I-MOD
+art I-MOD
+. I-MOD
+1º I-MOD
+suprima I-MOD
+- I-MOD
+se I-MOD
+, I-MOD
+da I-MOD
+pec I-ADD
+nº I-ADD
+6 I-ADD
+, I-ADD
+o I-SUP
+inciso I-ADD
+i I-SUP
+, I-MOD
+do I-MOD
+§ I-MOD
+7º I-MOD
+, I-MOD
+do I-MOD
+art I-MOD
+. I-MOD
+3º. I-MOD
+
+
+ I-MOD
+art I-MOD
+. I-MOD
+2º I-MOD
+substitua I-MOD
+- I-MOD
+se I-MOD
+em I-MOD
+todo I-MOD
+o I-MOD
+texto I-SUP
+da I-SUP
+pec I-MOD
+a I-MOD
+expressão I-MOD
+“ I-MOD
+sessenta I-MOD
+e I-MOD
+dois I-MOD
+anos I-MOD
+, I-MOD
+de I-MOD
+idade I-MOD
+, I-MOD
+se I-MOD
+mulher I-MOD
+” I-MOD
+por I-MOD
+“ I-MOD
+sessenta I-MOD
+anos I-MOD
+, I-MOD
+de I-MOD
+idade I-MOD
+, I-MOD
+se I-MOD
+mulher I-MOD
+” I-MOD
+. I-MOD
+
+
+ I-MOD
+art I-MOD
+. I-MOD
+3º I-MOD
+substitua I-MOD
+- I-MOD
+se I-MOD
+a I-MOD
+expressão I-MOD
+“ I-MOD
+cem I-MOD
+pontos I-MOD
+se I-MOD
+mulher I-MOD
+” I-MOD
+para I-MOD
+“ I-MOD
+noventa I-MOD
+e I-MOD
+cinco I-MOD
+pontos I-MOD
+, I-MOD
+se I-MOD
+mulher I-MOD
+” I-MOD
+, I-MOD
+no I-MOD
+§ I-MOD
+2º I-MOD
+, I-SUP
+do I-SUP
+art I-MOD
+. I-MOD
+3º I-MOD
+, I-SUP
+da I-SUP
+pec I-SUP
+nº I-SUP
+6 I-SUP
+. I-SUP
+
+
+ O
+art I-SUP
+. E-SUP
+4º I-MOD
+dê I-MOD
+- I-MOD
+se I-MOD
+a I-MOD
+o I-MOD
+art I-MOD
+. I-MOD
+24 I-MOD
+, I-MOD
+inciso I-MOD
+i I-MOD
+, I-MOD
+a I-MOD
+seguinte I-MOD
+redação I-MOD
+: I-MOD
+
+
+ I-MOD
+“ I-MOD
+i I-MOD
+- I-MOD
+sessenta I-MOD
+anos I-MOD
+de I-MOD
+idade I-MOD
+, I-MOD
+se I-MOD
+mulher I-MOD
+, I-MOD
+e I-MOD
+sessenta I-MOD
+e I-MOD
+cinco I-MOD
+anos I-MOD
+de I-MOD
+idade I-MOD
+, I-MOD
+se I-MOD
+homem I-MOD
+, I-MOD
+reduzidos I-MOD
+em I-MOD
+cinco I-SUP
+anos I-MOD
+, I-SUP
+para I-SUP
+os I-SUP
+trabalhadores I-SUP
+rurais O
+de O
+ambos O
+os O
+sexos I-MOD
+, I-MOD
+inclusive I-MOD
+aqueles I-MOD
+a I-MOD
+que I-ADD
+se I-SUP
+refere I-MOD
+o I-SUP
+§ I-SUP
+8º I-ADD
+do I-ADD
+art I-ADD
+. I-ADD
+195 I-ADD
+da I-ADD
+constituição I-ADD
+; I-ADD
+e I-ADD
+” I-MOD
+
+
+
+ I-MOD

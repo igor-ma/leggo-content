@@ -1,0 +1,271 @@
+mulher I-ADD
+” I-ADD
+proposta I-ADD
+emenda I-ADD
+constituição I-ADD
+nº I-ADD
+6 I-ADD
+/2019 O
+
+
+ O
+( O
+do O
+sr. O
+deputado O
+felipe O
+rigoni O
+, O
+sra. O
+deputada O
+tabata O
+amaral I-MOD
+e I-MOD
+outros O
+) I-MOD
+
+
+
+
+ I-MOD
+garante I-ADD
+
+
+ I-ADD
+valor I-ADD
+
+
+ I-ADD
+adicional I-ADD
+
+
+ I-ADD
+a I-ADD
+
+
+ I-ADD
+aposentadorias I-ADD
+de I-MOD
+mulheres I-MOD
+com I-MOD
+
+
+ I-MOD
+filhos I-ADD
+, I-ADD
+e I-ADD
+valor I-ADD
+adicional I-ADD
+a I-ADD
+mulheres I-ADD
+
+
+ I-MOD
+que I-MOD
+recebam I-MOD
+até I-ADD
+um I-ADD
+salário I-ADD
+
+
+ I-ADD
+mínimo I-ADD
+na I-ADD
+posição I-ADD
+de I-ADD
+cuidadoras I-ADD
+. E-SUP
+
+
+
+
+ O
+emenda O
+aditiva O
+n. O
+
+
+ O
+art B-MOD
+. I-MOD
+1º I-MOD
+acrescente I-ADD
+- I-ADD
+se I-ADD
+à I-ADD
+proposta I-ADD
+de O
+emenda I-ADD
+à I-SUP
+constituição I-SUP
+no I-SUP
+6 I-SUP
+, I-SUP
+de I-SUP
+2019 I-SUP
+, I-ADD
+o I-MOD
+seguinte I-MOD
+art I-MOD
+. I-MOD
+29-a I-MOD
+: I-MOD
+
+
+ I-MOD
+“ I-MOD
+art I-MOD
+. I-MOD
+29-a. I-MOD
+é I-MOD
+garantido I-MOD
+adicional I-ADD
+no I-ADD
+valor I-ADD
+da I-ADD
+aposentadoria I-ADD
+para I-ADD
+as I-ADD
+mães I-ADD
+. I-ADD
+
+
+ I-ADD
+§ I-ADD
+1º I-ADD
+o I-ADD
+adicional I-ADD
+de I-ADD
+que I-MOD
+trata I-MOD
+o I-ADD
+caput I-ADD
+será I-ADD
+de I-ADD
+5 I-ADD
+% I-ADD
+por I-ADD
+filho I-ADD
+, I-ADD
+até I-ADD
+o I-MOD
+limite I-MOD
+de I-MOD
+cinco I-MOD
+filhos I-MOD
+. I-MOD
+
+
+ I-MOD
+§ I-MOD
+2º I-MOD
+o I-MOD
+disposto I-MOD
+n I-MOD
+este I-MOD
+artigo I-MOD
+não I-MOD
+se I-ADD
+aplica I-ADD
+a I-ADD
+os I-ADD
+benefícios I-ADD
+concedidos I-MOD
+antes I-MOD
+da I-SUP
+publicação I-SUP
+d I-SUP
+esta I-SUP
+emenda I-SUP
+. I-SUP
+
+
+ I-SUP
+§ I-SUP
+3º I-SUP
+ato I-ADD
+do I-ADD
+poder I-ADD
+executivo I-MOD
+regulamentará I-MOD
+o I-ADD
+disposto I-ADD
+n I-ADD
+este I-ADD
+artigo I-MOD
+, I-MOD
+inclusive I-MOD
+quanto I-MOD
+a I-MOD
+o I-MOD
+direito I-MOD
+de I-MOD
+mães I-MOD
+adotivas I-MOD
+. I-MOD
+” I-MOD
+
+
+ I-MOD
+§ I-MOD
+4º I-MOD
+o I-MOD
+adicional I-MOD
+também I-MOD
+será I-MOD
+devido I-ADD
+à I-ADD
+s I-MOD
+mulheres I-MOD
+que I-MOD
+recebam I-ADD
+até I-ADD
+um I-ADD
+salário I-ADD
+mínimo I-ADD
+de I-ADD
+renda I-ADD
+e I-ADD
+que I-ADD
+sejam I-MOD
+cuidadoras I-MOD
+de I-ADD
+dependentes I-ADD
+, I-ADD
+entendidos I-ADD
+como I-ADD
+a I-ADD
+criança I-ADD
+, I-ADD
+o I-ADD
+idoso I-MOD
+ou I-MOD
+a I-MOD
+pessoa I-MOD
+com I-MOD
+deficiência I-MOD
+que I-MOD
+necessite I-MOD
+de I-MOD
+cuidados I-MOD
+intensivos I-MOD
+ou I-MOD
+em I-MOD
+tempo I-MOD
+integral I-SUP
+. I-SUP
+” I-MOD
+
+
+
+
+
+
+ I-MOD
+2 I-SUP
+
+
+
+
+
+ I-SUP
