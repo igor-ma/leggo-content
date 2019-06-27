@@ -1,0 +1,48 @@
+
+             MP                              Emenda  \
+0  MPV 002/2001         EMC 1/2001 CN => MPV 2/2001   
+1  MPV 006/2001   EMC 1/2001 MPV00601 => MPV 6/2001   
+2  MPV 007/2001   EMA 1/2001 MPV00701 => MPV 7/2001   
+3  MPV 008/2001   EMC 1/2001 MPV00801 => MPV 8/2001   
+4  MPV 009/2001   EMC 1/2001 MPV00901 => MPV 9/2001   
+5  MPV 009/2001  EMC 10/2001 MPV00901 => MPV 9/2001   
+6  MPV 009/2001  EMC 11/2001 MPV00901 => MPV 9/2001   
+7  MPV 009/2001  EMC 12/2001 MPV00901 => MPV 9/2001   
+8  MPV 009/2001  EMC 13/2001 MPV00901 => MPV 9/2001   
+9  MPV 009/2001  EMC 14/2001 MPV00901 => MPV 9/2001   
+
+                    Tipo de Emenda Data de Apresentação             Autor  \
+0               Emenda na Comissão           2001-09-28    Geraldo Magela   
+1               Emenda na Comissão           2001-10-29        Paulo Paim   
+2  Emenda Aglutinativa de Plenário           2001-11-13     Inácio Arruda   
+3               Emenda na Comissão           2001-11-06      José Genoíno   
+4               Emenda na Comissão           2001-01-06    Ronaldo Caiado   
+5               Emenda na Comissão           2001-11-06  Silas Brasileiro   
+6               Emenda na Comissão           2001-11-06  Silas Brasileiro   
+7               Emenda na Comissão           2001-11-06    Ronaldo Caiado   
+8               Emenda na Comissão           2001-11-06    Ronaldo Caiado   
+9               Emenda na Comissão           2001-11-06    Ronaldo Caiado   
+
+         Ementa Parecer do Relator na Câmara dos Deputados  \
+0  Inteiro teor                                   Rejeição   
+1  Inteiro teor                                   Rejeição   
+2  Inteiro teor                                   Rejeição   
+3  Inteiro teor                                   Rejeição   
+4  Inteiro teor                                   Rejeição   
+5  Inteiro teor                                   Rejeição   
+6  Inteiro teor                                   Rejeição   
+7  Inteiro teor                                  Aprovação   
+8  Inteiro teor                                   Rejeição   
+9  Inteiro teor                                   Rejeição   
+
+  Pertinência Temática com Objeto da MP?  Setor Beneficiado ou Assunto Tratado  
+0                                    Sim                                     0  
+1                                    Sim                                     0  
+2                                    Sim                                     0  
+3                                    Sim                                     0  
+4                                    Sim                                     0  
+5                                    Sim                                     0  
+6                                    Sim                                     0  
+7                                    Sim                                     0  
+8                                    Sim                                     0  
+9                                    Sim                                     0  

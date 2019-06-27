@@ -1,0 +1,16 @@
+https://stackoverflow.com/questions/16676727/extracting-hyperlinks-from-excel-xlsx-with-python
+https://stackoverflow.com/questions/28973755/python-openpyxl-module-says-attributeerror-tuple-object-has-no-attribute-up
+http://marcomengoli.github.io/python/python-excel/
+https://openpyxl.readthedocs.io/en/latest/usage.html
+https://stackoverflow.com/questions/35325799/pandas-read-excel-with-hyperlink/45446810#45446810
+
+
+alternativa .NET ironpython
+https://stackoverflow.com/questions/16676727/extracting-hyperlinks-from-excel-xlsx-with-python
+
+
+
+mongo:
+https://www.mongodb.com/blog/post/getting-started-with-python-and-mongodb
+https://www.w3schools.com/python/python_mongodb_find.asp
+https://www.tutorialspoint.com/mongodb/mongodb_create_collection.htm
