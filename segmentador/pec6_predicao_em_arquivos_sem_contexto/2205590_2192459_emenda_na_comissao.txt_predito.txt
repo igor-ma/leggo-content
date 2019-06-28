@@ -1,0 +1,195 @@
+valor I-ADD
+. I-ADD
+proposta I-ADD
+emenda I-ADD
+constituição I-ADD
+nº I-ADD
+6 I-ADD
+/2019 O
+
+
+ O
+( O
+do O
+sr. O
+deputado O
+felipe O
+rigoni O
+, O
+da O
+sra. O
+deputada O
+tábata I-MOD
+amaral I-MOD
+e O
+outros I-MOD
+) I-MOD
+
+
+
+
+ I-MOD
+acrescenta I-MOD
+o I-MOD
+§ I-MOD
+4º I-MOD
+a I-MOD
+o I-MOD
+art I-MOD
+. I-MOD
+24 I-SUP
+da I-SUP
+proposta I-SUP
+de I-SUP
+emenda I-SUP
+à I-SUP
+constituição I-SUP
+no I-SUP
+6 I-SUP
+, I-SUP
+de I-SUP
+2019 I-SUP
+, I-SUP
+tratando I-ADD
+sobre I-ADD
+antecipação I-ADD
+de I-ADD
+aposentadoria I-ADD
+em I-SUP
+até I-ADD
+cinco I-ADD
+
+
+ I-ADD
+anos I-MOD
+
+
+ I-MOD
+em I-MOD
+
+
+ I-MOD
+caso I-MOD
+
+
+ I-MOD
+de I-MOD
+
+
+ I-MOD
+desemprego I-MOD
+
+
+ I-MOD
+involuntário I-MOD
+de I-MOD
+longa O
+duração O
+. O
+
+
+
+
+ O
+emenda O
+aditiva O
+n. O
+
+
+
+
+ O
+art B-MOD
+. I-MOD
+1º I-MOD
+acrescente I-MOD
+- I-MOD
+se I-MOD
+o I-MOD
+§ I-MOD
+4º I-MOD
+a I-MOD
+o I-MOD
+art I-MOD
+. I-MOD
+24 I-SUP
+da I-SUP
+proposta I-SUP
+de I-SUP
+emenda I-SUP
+à I-SUP
+constituição I-SUP
+no I-SUP
+6 I-SUP
+, I-SUP
+de I-SUP
+2019 I-SUP
+, I-SUP
+a I-MOD
+seguinte I-MOD
+redação I-MOD
+: I-MOD
+
+
+ I-MOD
+“ I-MOD
+art I-MOD
+. I-MOD
+24 I-MOD
+. I-MOD
+.............................................................................................. I-MOD
+
+
+ I-MOD
+.............................................................................................................. I-MOD
+
+
+ I-MOD
+§ I-MOD
+4º I-MOD
+as I-MOD
+idades I-MOD
+previstas I-SUP
+no I-SUP
+inciso I-SUP
+i I-SUP
+d I-SUP
+este I-SUP
+artigo I-SUP
+para I-SUP
+o I-SUP
+trabalhador I-ADD
+urbano I-ADD
+serão I-MOD
+reduzidas I-MOD
+em I-SUP
+até I-SUP
+cinco I-SUP
+anos I-SUP
+no I-SUP
+caso I-SUP
+de I-SUP
+desemprego I-SUP
+de I-MOD
+longa I-MOD
+duração I-MOD
+. I-MOD
+é I-MOD
+de I-MOD
+longa I-MOD
+duração I-MOD
+o I-MOD
+desemprego I-MOD
+involuntário I-ADD
+com I-ADD
+duração I-MOD
+de I-MOD
+pelo I-MOD
+menos I-MOD
+cinco I-MOD
+anos I-MOD
+contínuos I-SUP
+. I-SUP
+” I-SUP
+
+ I-SUP

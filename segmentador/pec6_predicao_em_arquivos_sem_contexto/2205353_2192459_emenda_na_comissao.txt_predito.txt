@@ -1,0 +1,322 @@
+à O
+. O
+câmara O
+deputados O
+comissão O
+especial I-MOD
+- I-MOD
+pec I-MOD
+6/19 I-MOD
+– I-MOD
+reforma I-MOD
+da O
+previdência O
+. O
+
+
+
+
+
+
+ O
+emenda O
+supressiva O
+n O
+° O
+_ O
+_ O
+_ O
+_ O
+_ O
+_ O
+à O
+proposta O
+de O
+emenda O
+à O
+constituição O
+
+
+ O
+nº O
+6/2019 O
+. O
+
+
+
+
+ I-MOD
+suprime I-MOD
+partes I-MOD
+dos I-MOD
+arts I-SUP
+. I-SUP
+1 I-MOD
+° I-MOD
+e I-MOD
+3 I-SUP
+° I-MOD
+, I-MOD
+e I-SUP
+os I-SUP
+arts I-ADD
+. I-MOD
+2 I-MOD
+° I-MOD
+, I-MOD
+8 I-MOD
+° I-MOD
+, I-MOD
+12 I-MOD
+, I-MOD
+13 I-SUP
+, I-SUP
+14 I-SUP
+, I-SUP
+15 I-SUP
+, I-MOD
+28 I-SUP
+, I-MOD
+30 I-MOD
+, I-MOD
+31 I-MOD
+, I-MOD
+40 I-MOD
+, I-MOD
+41 I-MOD
+e I-MOD
+42 I-MOD
+da I-MOD
+pec I-MOD
+
+
+ I-MOD
+06/2019 I-MOD
+para I-MOD
+adequar I-MOD
+as I-MOD
+regras I-MOD
+relacionadas I-MOD
+
+
+ I-MOD
+a I-MOD
+os I-MOD
+servidors I-MOD
+públicos I-MOD
+ligados I-MOD
+a I-MOD
+regimes I-MOD
+
+
+ I-MOD
+próprios I-MOD
+de I-MOD
+previdência I-MOD
+social I-MOD
+. I-MOD
+
+
+
+
+
+
+ I-MOD
+art I-MOD
+. I-MOD
+1 I-MOD
+° I-MOD
+. I-MOD
+suprima I-MOD
+- I-MOD
+se I-MOD
+o I-MOD
+§ I-MOD
+9 I-MOD
+° I-MOD
+do I-MOD
+art I-MOD
+. I-MOD
+39 I-MOD
+da I-MOD
+constitutição I-MOD
+federal I-MOD
+, I-MOD
+incluído I-MOD
+pelo I-MOD
+art I-MOD
+. I-MOD
+1º I-ADD
+da I-ADD
+proposta I-ADD
+de I-ADD
+emenda I-ADD
+à I-ADD
+constituição I-ADD
+n I-ADD
+° I-ADD
+06/2019 I-ADD
+. I-SUP
+
+
+
+
+ I-SUP
+art I-SUP
+. I-SUP
+2 I-MOD
+° I-MOD
+. I-MOD
+suprima I-MOD
+- I-MOD
+se I-MOD
+a I-MOD
+proposta I-MOD
+a I-MOD
+o I-MOD
+art I-MOD
+. I-MOD
+149 I-MOD
+da I-MOD
+constitutição I-MOD
+federal I-MOD
+, I-MOD
+alterado I-MOD
+pelo I-MOD
+art I-MOD
+. I-MOD
+
+
+ I-MOD
+1º I-SUP
+da I-SUP
+proposta I-ADD
+de I-ADD
+emenda I-ADD
+à I-ADD
+constituição I-ADD
+n I-ADD
+° I-ADD
+06/2019 I-ADD
+. I-MOD
+
+
+
+
+ I-MOD
+art I-MOD
+. I-MOD
+3º. I-MOD
+suprima I-MOD
+- I-MOD
+se I-MOD
+o I-MOD
+inciso I-MOD
+vi I-MOD
+do I-MOD
+parágrafo I-MOD
+único I-SUP
+do I-MOD
+art I-MOD
+. I-MOD
+194 I-MOD
+da I-MOD
+constitutição I-MOD
+federal I-MOD
+, I-MOD
+alterado I-MOD
+pelo I-MOD
+art I-MOD
+. I-MOD
+1º I-ADD
+da I-ADD
+proposta I-ADD
+de I-ADD
+emenda I-ADD
+à I-ADD
+constituição I-ADD
+n I-ADD
+° I-ADD
+06/2019 I-ADD
+. I-SUP
+
+
+
+
+ I-MOD
+art I-MOD
+. I-MOD
+4 I-MOD
+° I-MOD
+. I-MOD
+suprima I-MOD
+- I-MOD
+se I-MOD
+o I-MOD
+§ I-MOD
+10 I-MOD
+do I-MOD
+art I-MOD
+. I-MOD
+3º I-MOD
+da I-SUP
+proposta I-SUP
+de I-SUP
+emenda I-ADD
+à I-ADD
+constituição I-ADD
+n I-ADD
+° I-ADD
+06/2019 I-ADD
+. I-ADD
+
+
+
+
+ I-MOD
+art I-MOD
+. I-MOD
+5 I-MOD
+° I-MOD
+. I-MOD
+suprimam I-MOD
+- I-MOD
+se I-MOD
+os I-MOD
+artigos I-MOD
+8 I-MOD
+° I-MOD
+, I-MOD
+12 I-MOD
+, I-MOD
+13 I-SUP
+, I-SUP
+14 I-SUP
+, I-SUP
+15 I-SUP
+, I-MOD
+28 I-SUP
+, I-MOD
+30 I-MOD
+, I-MOD
+31 I-MOD
+, I-MOD
+40 I-MOD
+, I-MOD
+41 I-MOD
+e I-MOD
+42 I-MOD
+da I-SUP
+proposta I-SUP
+de I-ADD
+emenda I-ADD
+à I-ADD
+constituição I-ADD
+n I-ADD
+° O
+06/2019 O
+. O
+
+
+
+ O

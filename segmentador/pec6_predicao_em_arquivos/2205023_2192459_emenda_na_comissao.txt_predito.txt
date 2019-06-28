@@ -1,10 +1,16 @@
-nº O
 de O
+. O
 câmara O
 deputados O
+deputado O
 federal O
 joão O
 campos O
+
+
+
+
+ O
 comissão O
 especial O
 destinada O
@@ -18,80 +24,131 @@ emenda O
 à O
 constituição O
 nº O
-6-a, O
-de I-ADD
-2019, I-SUP
-do I-SUP
-poder I-SUP
-executivo, I-SUP
-que I-SUP
-"modifica I-SUP
-o I-ADD
-sistema O
-de I-MOD
+6-a O
+, I-ADD
+de O
+2019 O
+, O
+do O
+poder O
+executivo O
+, O
+que O
+" I-ADD
+modifica O
+o I-MOD
+sistema I-MOD
+de O
 previdência I-MOD
-social, I-MOD
+social I-MOD
+, I-MOD
 estabelece I-MOD
 regras I-MOD
 de I-MOD
 transição I-MOD
 e I-MOD
 disposições I-MOD
-transitórias, I-MOD
+transitórias I-MOD
+, I-MOD
 e I-MOD
 dá I-MOD
 outras I-MOD
-providências" I-MOD
-- O
-pec006/2019. O
+providências I-MOD
+" I-MOD
+- I-MOD
+pec006/2019 I-MOD
+. O
+
+
+
+
+ O
 proposta O
 de O
 emenda O
 à O
 constituição O
 nº O
-06, O
+06 O
+, O
 de O
 2019 O
-acrescenta O
+
+
+
+
+ O
+acrescenta I-MOD
 alteração I-MOD
-ao I-MOD
+a I-MOD
+o I-MOD
 inciso I-MOD
-v, I-MOD
+v I-MOD
+, I-SUP
 do I-ADD
 artigo I-ADD
-49 I-MOD
-da O
-constituição O
-federal. O
+49 I-ADD
+da I-ADD
+constituição I-ADD
+federal I-ADD
+. O
+
+
+
+
+ O
 emenda O
 aditiva O
-acrescente-se B-ADD
-à I-ADD
+
+
+
+
+ O
+acrescente O
+- O
+se O
+à O
 proposta I-ADD
 de I-ADD
-emenda I-ADD
+emenda I-SUP
 constitucional O
 6 O
 de I-SUP
 2019 I-SUP
-a I-SUP
-alteração I-MOD
+a I-MOD
+alteração I-SUP
 do I-MOD
-inciso I-SUP
-v, I-SUP
+inciso I-MOD
+v I-SUP
+, I-SUP
 do I-ADD
-artigo I-SUP
+artigo I-ADD
 49 I-ADD
 da I-ADD
 constituição I-ADD
-federal, I-ADD
+federal I-ADD
+, I-ADD
 nos I-ADD
 seguintes I-ADD
-termos: I-MOD
-“art. I-MOD
-49........................................................................ I-MOD
+termos I-ADD
+: I-ADD
+
+
+ I-ADD
+“ I-ADD
+art I-ADD
+. I-MOD
+49 I-MOD
+........................................................................ I-MOD
+
+
+
+
+ I-MOD
 ..................................................................................... I-MOD
+
+
+ I-MOD
 v I-MOD
 – I-MOD
 sustar I-MOD
@@ -109,6 +166,14 @@ regulamentar I-SUP
 ou I-SUP
 dos I-SUP
 limites I-SUP
-de O
-delegação O
-legislativa.” I-MOD
+de I-MOD
+delegação I-MOD
+legislativa I-SUP
+. I-SUP
+” I-SUP
+
+
+
+
+
+ I-SUP

@@ -1,56 +1,90 @@
-antecedentes O
-pedido; O
-proposta O
+; O
+2 O
+proposta I-ADD
 emenda I-ADD
 constituição I-ADD
-nº O
-6, O
-de O
+nº I-ADD
+6 I-ADD
+, I-ADD
+de I-SUP
 2019 O
+
+
+
+
+
+
+ O
 emenda O
 modificativa O
-(do O
+
+
+ O
+( O
+do O
 sr. O
 daniel O
 almeida O
 e O
-outros) O
-modifica O
+outros O
+) O
+
+
+ I-MOD
+modifica I-MOD
 o I-MOD
-art. I-MOD
+art I-MOD
+. O
 54 I-MOD
 do I-MOD
 do I-MOD
 ato I-MOD
 das I-MOD
+
+
+ I-MOD
 disposições I-SUP
-constitucionais I-SUP
+constitucionais I-MOD
 transitórias I-MOD
 para I-MOD
 conceder I-MOD
 gratificação I-MOD
 natalina I-MOD
-aos I-MOD
+a I-MOD
+os I-MOD
 seringueiros I-ADD
-recrutados I-MOD
-nos I-MOD
+recrutados I-ADD
+nos I-ADD
 termos I-ADD
 do I-ADD
-decreto-lei I-ADD
-nº I-SUP
-5.813, I-MOD
+decreto I-ADD
+- I-ADD
+lei I-ADD
+nº I-MOD
+5.813 I-MOD
+, I-MOD
 de I-MOD
 14 I-MOD
 de I-MOD
-setembro I-SUP
-de I-MOD
-1943.. I-SUP
-dê-se I-MOD
-ao I-MOD
+setembro I-MOD
+de O
+1943 O
+.. O
+
+
+
+
+ O
+dê O
+- O
+se O
+a O
+o O
 caput I-MOD
-do I-SUP
-art. I-MOD
-54 I-MOD
+do I-MOD
+art I-SUP
+. I-MOD
+54 I-SUP
 do I-SUP
 ato I-MOD
 das I-MOD
@@ -59,39 +93,62 @@ constitucionais I-MOD
 transitórias I-MOD
 a I-MOD
 seguinte I-MOD
-redação: I-MOD
-“art. I-MOD
-54. I-ADD
-os I-ADD
+redação I-MOD
+: I-MOD
+
+
+ I-MOD
+“ I-MOD
+art I-MOD
+. I-MOD
+54 I-MOD
+. I-MOD
+os I-MOD
 seringueiros I-ADD
 recrutados I-ADD
-nos I-MOD
+nos I-ADD
 termos I-ADD
 do I-ADD
-decreto-lei I-ADD
-nº I-SUP
-5.813, I-MOD
+decreto I-ADD
+- I-ADD
+lei I-ADD
+nº I-MOD
+
+
+ I-MOD
+5.813 I-MOD
+, I-MOD
 de I-MOD
 14 I-MOD
 de I-MOD
 setembro I-MOD
 de I-MOD
-1943, I-MOD
+1943 I-MOD
+, I-MOD
 e I-MOD
 amparados I-MOD
 pelo I-MOD
-decreto-lei I-SUP
-nº I-SUP
-9.882, I-SUP
+decreto I-MOD
+- I-MOD
+lei I-MOD
+nº I-MOD
+
+
+ I-MOD
+9.882 I-MOD
+, I-SUP
 de I-SUP
 16 I-SUP
 de I-SUP
 setembro I-SUP
 de I-SUP
-1946, I-MOD
-receberão, I-MOD
+1946 I-SUP
+, I-MOD
+receberão I-MOD
+, I-MOD
 quando I-MOD
-carentes, I-MOD
+carentes I-MOD
+, I-MOD
 pensão I-MOD
 mensal I-MOD
 vitalícia I-MOD
@@ -103,6 +160,18 @@ valor I-MOD
 de I-MOD
 dois I-MOD
 salários I-MOD
-mínimos. I-MOD
-............................................................................................” I-MOD
-(nr): O
+mínimos I-MOD
+. I-MOD
+
+
+ I-MOD
+............................................................................................ I-MOD
+” I-MOD
+( I-MOD
+nr I-MOD
+) I-MOD
+: I-MOD
+
+
+
+ O

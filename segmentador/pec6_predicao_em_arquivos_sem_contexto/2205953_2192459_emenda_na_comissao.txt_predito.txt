@@ -1,0 +1,493 @@
+’(nr I-MOD
+” I-MOD
+condiciona I-SUP
+início I-MOD
+vigência I-MOD
+da I-SUP
+emenda I-MOD
+constitucional I-MOD
+à I-MOD
+sua I-MOD
+aprovação I-MOD
+em I-MOD
+referendo I-MOD
+popular I-MOD
+. E-MOD
+
+
+
+
+
+
+ O
+câmara O
+dos O
+deputados O
+
+
+ O
+comissão O
+especial O
+destinada O
+a O
+proferir O
+parecer O
+à O
+
+
+ O
+pec O
+6 O
+, O
+de O
+2019 O
+
+
+
+
+
+
+ O
+emenda O
+nº O
+_ O
+_ O
+_ O
+_ I-MOD
+_ I-MOD
+
+
+ I-MOD
+( I-MOD
+dos I-MOD
+senhores I-MOD
+paulo I-MOD
+pimenta I-MOD
+, I-MOD
+afonso I-MOD
+florence I-MOD
+, I-MOD
+airton I-MOD
+faleiro I-MOD
+, I-MOD
+alencar I-MOD
+santana I-MOD
+, I-MOD
+alexandre I-MOD
+padilha I-MOD
+, I-MOD
+arlindo I-MOD
+chinaglia I-MOD
+, I-MOD
+assis I-MOD
+carvalho I-MOD
+, I-MOD
+benedita I-MOD
+da I-MOD
+silva I-MOD
+, I-MOD
+beto I-MOD
+faro I-MOD
+, I-MOD
+bohn I-MOD
+gass I-MOD
+, I-MOD
+carlos I-MOD
+veras I-MOD
+, I-MOD
+carlos I-MOD
+zarattini I-MOD
+, I-MOD
+célio I-MOD
+moura I-MOD
+, I-MOD
+enio I-MOD
+verri I-MOD
+, I-MOD
+erika I-MOD
+kokay I-MOD
+, I-MOD
+frei I-MOD
+anastacio I-MOD
+ribeiro I-MOD
+, I-MOD
+gleisi I-MOD
+hoffmann I-MOD
+, I-MOD
+helder I-MOD
+salomão I-MOD
+, I-MOD
+henrique I-MOD
+fontana I-MOD
+, I-MOD
+joão I-MOD
+daniel I-MOD
+, I-MOD
+jorge I-MOD
+solla I-MOD
+, I-MOD
+josé I-MOD
+airton I-MOD
+cirilo I-MOD
+, I-MOD
+josé I-MOD
+guimarães I-MOD
+, I-MOD
+josé I-MOD
+ricardo I-MOD
+, I-MOD
+joseildo I-MOD
+ramos I-MOD
+, I-MOD
+leonardo I-MOD
+monteiro I-MOD
+, I-MOD
+luizianne I-MOD
+lins I-MOD
+, I-MOD
+marcon I-MOD
+, I-MOD
+margarida I-MOD
+salomão I-MOD
+, I-MOD
+maria I-MOD
+do I-MOD
+rosário I-MOD
+, I-MOD
+marília I-MOD
+arraes I-MOD
+, I-MOD
+merlong I-MOD
+solano I-MOD
+, I-MOD
+natália I-MOD
+bonavides I-MOD
+, I-MOD
+nelson I-MOD
+pellegrino I-MOD
+, I-MOD
+nilto I-MOD
+tatto I-MOD
+, I-MOD
+odair I-MOD
+cunha I-MOD
+, I-MOD
+padre I-MOD
+joão I-MOD
+, I-MOD
+patrus I-MOD
+ananias I-MOD
+, I-MOD
+paulão I-MOD
+, I-MOD
+paulo I-MOD
+guedes I-MOD
+, I-MOD
+paulo I-MOD
+teixeira I-MOD
+, I-MOD
+pedro I-MOD
+uczai I-MOD
+, I-MOD
+professora I-MOD
+rosa I-MOD
+neide I-MOD
+, I-MOD
+reginaldo I-MOD
+lopes I-MOD
+, I-MOD
+rejane I-MOD
+dias I-MOD
+, I-MOD
+rogério I-MOD
+correia I-MOD
+, I-MOD
+rubens I-MOD
+otoni I-MOD
+, I-MOD
+rui I-MOD
+falcão I-MOD
+, I-MOD
+valmir I-MOD
+assunção I-MOD
+, I-MOD
+vander I-MOD
+loubet I-MOD
+, I-MOD
+vicentinho I-MOD
+, I-MOD
+waldenor I-MOD
+pereira I-MOD
+, I-MOD
+zé I-MOD
+carlos I-MOD
+, O
+zé O
+neto O
+, I-MOD
+zeca I-MOD
+dirceu I-MOD
+e I-MOD
+outros I-MOD
+) I-MOD
+
+
+
+
+
+
+ I-MOD
+art I-MOD
+. I-MOD
+1º I-MOD
+dê I-MOD
+- I-MOD
+se I-MOD
+a I-MOD
+o I-MOD
+artigo I-MOD
+47 I-ADD
+da I-MOD
+proposta I-MOD
+de I-SUP
+emenda I-SUP
+constitucional I-SUP
+nº I-SUP
+6 I-SUP
+, I-SUP
+de I-MOD
+2019 I-SUP
+, I-SUP
+a I-MOD
+seguinte I-MOD
+redação I-MOD
+: I-MOD
+
+
+ I-MOD
+“ I-MOD
+art I-MOD
+. I-MOD
+47 I-MOD
+. I-MOD
+a I-MOD
+vigência I-MOD
+das I-MOD
+modificações I-MOD
+introduzidas I-MOD
+na I-MOD
+constituição I-MOD
+federal I-MOD
+por I-SUP
+essa I-SUP
+emenda I-ADD
+constitucional I-SUP
+fica I-SUP
+condicionada I-SUP
+à I-MOD
+sua I-MOD
+aprovação I-MOD
+em I-MOD
+referendo I-SUP
+popular I-SUP
+, I-SUP
+a I-SUP
+ser I-SUP
+realizado I-SUP
+no I-SUP
+prazo I-SUP
+máximo I-SUP
+de I-SUP
+3 I-SUP
+( I-SUP
+três I-SUP
+) O
+meses O
+, I-MOD
+contados I-MOD
+a I-MOD
+partir I-MOD
+da I-SUP
+aprovação I-SUP
+d I-SUP
+esta I-SUP
+emenda I-SUP
+. I-SUP
+
+
+ I-SUP
+§ I-SUP
+1º I-ADD
+o I-MOD
+referendo I-MOD
+de I-MOD
+que I-MOD
+trata I-MOD
+o I-MOD
+caput I-MOD
+será I-MOD
+realizado I-MOD
+de I-MOD
+acordo I-MOD
+com I-MOD
+as I-MOD
+regras I-MOD
+estabelecidas I-MOD
+na I-MOD
+lei I-MOD
+nº I-SUP
+9.709 I-SUP
+, I-MOD
+de I-MOD
+18 I-MOD
+de I-MOD
+novembro I-MOD
+de I-MOD
+1998 I-MOD
+. I-MOD
+
+
+ I-MOD
+§ I-ADD
+2º I-ADD
+havendo I-ADD
+a I-ADD
+rejeição I-ADD
+pelo I-ADD
+povo I-ADD
+brasileiro I-ADD
+, I-ADD
+a I-ADD
+emenda I-SUP
+
+
+ I-SUP
+constitucional I-MOD
+não I-SUP
+entrará I-MOD
+em I-MOD
+vigor I-MOD
+e I-MOD
+será I-MOD
+considerada I-MOD
+rejeitada I-MOD
+. I-MOD
+
+
+ I-MOD
+§ I-MOD
+3º I-MOD
+o I-MOD
+tribunal I-MOD
+superior I-MOD
+eleitoral I-MOD
+expedirá I-MOD
+as I-MOD
+normas I-MOD
+
+
+ I-ADD
+regulamentadoras I-ADD
+necessárias I-ADD
+à I-ADD
+realização I-ADD
+do I-ADD
+referendo I-SUP
+de I-SUP
+que I-SUP
+trata I-SUP
+esta I-SUP
+emenda I-SUP
+. I-SUP
+
+
+ I-MOD
+§ I-MOD
+4º I-MOD
+o I-MOD
+tribunal I-MOD
+superior I-MOD
+eleitoral I-MOD
+organizará I-MOD
+campanhas I-MOD
+de I-MOD
+
+
+ I-MOD
+orientação I-MOD
+do I-MOD
+eleitorado I-MOD
+nacional I-MOD
+, I-MOD
+de I-MOD
+modo I-MOD
+que I-MOD
+sejam I-MOD
+
+
+ I-MOD
+contemplados I-MOD
+, I-MOD
+de I-MOD
+forma I-MOD
+isonômica I-MOD
+, I-MOD
+todos I-MOD
+os I-MOD
+esclarecimentos I-MOD
+e I-MOD
+consequências I-MOD
+da I-MOD
+opção I-ADD
+formulada I-MOD
+. I-MOD
+
+
+ I-MOD
+§ I-MOD
+5º I-MOD
+serão I-MOD
+alocados I-MOD
+a I-MOD
+o I-MOD
+orçamento I-MOD
+do I-MOD
+tribunal I-MOD
+superior I-MOD
+eleitoral I-MOD
+, I-MOD
+
+
+ I-MOD
+a I-MOD
+partir I-MOD
+da I-MOD
+solicitação I-MOD
+d I-MOD
+este I-MOD
+, I-MOD
+pela I-MOD
+união I-MOD
+, I-MOD
+os I-MOD
+recursos I-MOD
+necessários I-MOD
+para I-MOD
+fazer I-SUP
+face I-SUP
+à I-SUP
+s I-SUP
+despesas I-ADD
+com I-ADD
+a I-SUP
+realização I-SUP
+do I-SUP
+referendo I-MOD
+. I-MOD
+” E-ADD
+
+
+
+
+
+ O

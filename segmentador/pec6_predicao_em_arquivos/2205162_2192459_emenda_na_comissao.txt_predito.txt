@@ -1,7 +1,10 @@
-à O
-nº O
+
+
+ O
+. O
 câmara O
 deputados O
+comissão O
 especial O
 destinada O
 a O
@@ -10,34 +13,53 @@ parecer O
 à O
 proposta O
 de O
+
+
+ O
 emenda O
 à O
 constituição O
 nº O
-6-a, O
+6-a O
+, O
 de O
-2019, O
+2019 O
+, O
 do O
 poder O
-executivo, O
+executivo O
+, O
 que O
-"modifica O
+
+
+ O
+" O
+modifica O
 o O
 sistema O
 de O
 previdência O
-social, O
+social O
+, O
 estabelece O
 regras O
 de O
+
+
+ O
 transição O
 e O
 disposições O
-transitórias, O
+transitórias O
+, O
 e O
 dá O
 outras I-MOD
-providências" I-MOD
+providências I-MOD
+" I-MOD
+
+
+ I-MOD
 56ª I-MOD
 legislatura I-MOD
 - I-MOD
@@ -51,103 +73,197 @@ emenda O
 à O
 constituição O
 nº O
-6, O
-de O
+6 O
+, O
+de I-SUP
 2019 O
-(do O
+
+
+ O
+( O
+do O
 sr. O
 valtenir O
 pereira O
 e O
-outros) I-MOD
-acrescenta I-MOD
-a I-SUP
-expressão I-SUP
-“preservando-lhe, I-SUP
-em I-MOD
-caráter I-MOD
-permanente, I-MOD
-o I-MOD
-valor I-MOD
-real”, I-MOD
-aos I-MOD
-artigos I-MOD
-40, O
-§ O
-1, O
-alínea I-MOD
-c I-MOD
-e I-MOD
-201, I-MOD
-§ I-MOD
-1º, I-MOD
-inciso I-ADD
-v, I-ADD
-ambos I-MOD
-da I-MOD
-constituição O
-federal. O
-valor O
-real O
-dos O
-benefícios O
-(i) O
-emenda O
-aditiva O
-art B-ADD
-1º. I-ADD
-acresça-se I-ADD
-ao I-MOD
-artigo I-MOD
-40, I-MOD
-§1º, I-MOD
-i, I-MOD
-“c”, I-MOD
-n. I-MOD
-1, I-MOD
-da I-MOD
-constituição, I-SUP
-na I-MOD
-redação I-SUP
-da I-SUP
-pec I-SUP
-n. I-SUP
-6/2019, I-MOD
+outros O
+) I-SUP
+
+
+
+
+ I-SUP
+acrescenta I-SUP
 a I-MOD
 expressão I-MOD
-“[...] I-MOD
+“ I-MOD
+preservando I-MOD
+- I-MOD
+lhe I-MOD
 , I-MOD
-preservando-lhe, I-MOD
 em I-MOD
 caráter I-MOD
-permanente, I-MOD
+permanente I-MOD
+, I-MOD
 o I-MOD
 valor I-MOD
-real”. I-MOD
-art I-MOD
-2º. I-MOD
-acresça-se I-MOD
-ao I-MOD
-artigo I-MOD
-201, I-MOD
-§1º, I-ADD
-v, I-SUP
+real I-MOD
+” I-MOD
+, I-MOD
+a I-MOD
+os I-MOD
+artigos I-MOD
+40 I-MOD
+, I-MOD
+§ I-MOD
+
+
+ I-MOD
+1 I-MOD
+, I-SUP
+alínea I-SUP
+c I-SUP
+e I-SUP
+201 I-MOD
+, I-SUP
+§ I-MOD
+1º I-MOD
+, I-MOD
+inciso I-MOD
+v I-ADD
+, I-MOD
+ambos I-ADD
+da I-MOD
+constituição I-MOD
+federal I-MOD
+. O
+
+
+
+
+ I-MOD
+valor I-MOD
+real I-MOD
+dos O
+benefícios O
+( O
+i O
+) O
+
+
+
+
+ O
+emenda O
+aditiva O
+
+
+
+
+ O
+art O
+1º. O
+acresça I-MOD
+- I-MOD
+se I-ADD
+a I-MOD
+o I-ADD
+artigo I-ADD
+40 I-ADD
+, I-ADD
+§ I-ADD
+1º I-ADD
+, I-MOD
+i I-MOD
+, I-MOD
+“ I-MOD
+c I-MOD
+” I-SUP
+, I-MOD
+n. I-SUP
+1 I-SUP
+, I-SUP
 da I-SUP
-constituição, I-SUP
+constituição I-SUP
+, I-SUP
 na I-SUP
 redação I-SUP
 da I-SUP
 pec I-SUP
 n. I-SUP
-6/2019, I-MOD
+6/2019 I-MOD
+, I-SUP
 a I-MOD
 expressão I-MOD
-“[...] I-MOD
+“ I-SUP
+[ I-SUP
+... I-MOD
+] I-MOD
 , I-MOD
-preservando-lhe, I-MOD
+preservando I-MOD
+- I-MOD
+lhe I-MOD
+, I-ADD
 em I-MOD
 caráter I-MOD
-permanente, I-MOD
-o I-MOD
-valor O
-real”. I-MOD
+permanente I-MOD
+, I-MOD
+o I-SUP
+valor I-MOD
+real I-MOD
+” I-MOD
+. I-MOD
+
+
+
+
+ I-MOD
+art I-MOD
+2º. I-MOD
+acresça I-MOD
+- I-MOD
+se I-MOD
+a I-MOD
+o I-ADD
+artigo I-ADD
+201 I-ADD
+, I-ADD
+§ I-ADD
+1º I-SUP
+, I-ADD
+v I-ADD
+, I-ADD
+da I-SUP
+constituição I-SUP
+, I-SUP
+na I-SUP
+redação I-SUP
+da I-SUP
+pec I-SUP
+n. I-SUP
+6/2019 I-MOD
+, I-SUP
+a I-MOD
+expressão I-MOD
+“ I-SUP
+[ I-SUP
+... I-MOD
+] I-MOD
+, I-MOD
+preservando I-MOD
+- I-MOD
+lhe I-MOD
+, I-ADD
+em I-MOD
+caráter I-MOD
+permanente I-MOD
+, I-MOD
+o I-SUP
+valor I-MOD
+real I-SUP
+” I-MOD
+. I-SUP
+
+
+
+ I-SUP

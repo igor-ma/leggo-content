@@ -1,0 +1,145 @@
+( I-MOD
+) E-MOD
+câmara O
+deputados O
+comissão O
+especial O
+da O
+proposta O
+de O
+emenda O
+à O
+
+
+ O
+constituição O
+nº O
+6 O
+, O
+de O
+2019 O
+
+
+ O
+proposta O
+de O
+emenda O
+à O
+constituição O
+nº O
+6 O
+, O
+de O
+2019 I-ADD
+
+
+ I-ADD
+modifica B-MOD
+o I-MOD
+sistema I-MOD
+de I-MOD
+previdência I-MOD
+
+
+ I-MOD
+social I-MOD
+, I-MOD
+estabelece I-MOD
+regras I-MOD
+de I-MOD
+transição I-MOD
+e I-MOD
+
+
+ I-MOD
+disposições I-MOD
+
+
+ I-MOD
+transitórias I-MOD
+, I-MOD
+
+
+ I-MOD
+e I-MOD
+
+
+ I-MOD
+dá I-MOD
+
+
+ I-MOD
+outras I-MOD
+
+
+ I-MOD
+providências I-MOD
+. E-MOD
+
+
+ O
+emenda O
+nº O
+
+
+ O
+( O
+do O
+sr. O
+eduardo O
+costa O
+) O
+
+
+ O
+suprimam I-MOD
+- O
+se I-MOD
+as I-MOD
+alterações I-MOD
+a I-MOD
+o I-MOD
+art I-MOD
+. I-MOD
+203 I-MOD
+da I-ADD
+constituição I-ADD
+, I-ADD
+propostas I-MOD
+pelo I-ADD
+art I-ADD
+. I-MOD
+1º I-SUP
+da I-ADD
+proposta I-ADD
+de I-ADD
+emenda I-ADD
+à I-ADD
+constituição I-ADD
+nº I-SUP
+6 I-ADD
+, I-ADD
+de I-ADD
+2019 I-SUP
+, I-SUP
+e I-MOD
+, I-MOD
+em I-MOD
+decorrência I-MOD
+, I-MOD
+suprimam I-MOD
+- I-MOD
+se I-MOD
+os I-MOD
+arts I-MOD
+. I-MOD
+40 I-MOD
+, I-MOD
+41 I-MOD
+e I-MOD
+42 I-MOD
+da I-MOD
+pec I-MOD
+. I-SUP
+
+ O

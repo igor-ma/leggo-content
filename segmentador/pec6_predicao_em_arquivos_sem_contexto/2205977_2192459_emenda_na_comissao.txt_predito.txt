@@ -1,0 +1,231 @@
+constitucional I-MOD
+” E-MOD
+comissão O
+destinada O
+proferir O
+parecer O
+à O
+
+
+ O
+proposta O
+de O
+emenda O
+à O
+constituição O
+nº O
+6 O
+, O
+de O
+2019 O
+
+
+ O
+proposta O
+de O
+emenda O
+à O
+constituição O
+nº O
+6 O
+, O
+de O
+2019 I-ADD
+
+
+ I-ADD
+modifica B-MOD
+o I-MOD
+sistema I-MOD
+de I-MOD
+previdência I-MOD
+
+
+ I-MOD
+social I-MOD
+, I-MOD
+estabelece I-MOD
+regras I-MOD
+de I-MOD
+transição I-MOD
+e I-MOD
+disposições I-MOD
+
+
+ I-MOD
+transitórias I-MOD
+, I-MOD
+
+
+ I-MOD
+e I-MOD
+
+
+ I-MOD
+dá I-MOD
+
+
+ I-MOD
+outras I-MOD
+
+
+ I-MOD
+providências I-MOD
+. E-MOD
+
+
+ O
+emenda O
+nº O
+
+
+ O
+acrescente O
+- O
+se I-MOD
+o I-MOD
+seguinte I-MOD
+parágrafo I-MOD
+a I-MOD
+o I-MOD
+art I-MOD
+. I-MOD
+9º I-SUP
+da I-SUP
+proposta I-ADD
+de I-ADD
+emenda I-ADD
+à I-ADD
+constituição I-ADD
+nº I-SUP
+6 I-ADD
+, I-ADD
+de I-ADD
+2019 I-ADD
+: I-SUP
+
+
+ I-MOD
+“ I-MOD
+art I-MOD
+. I-MOD
+9º I-MOD
+........................................................................................ I-MOD
+
+
+ I-MOD
+..................................................................................................... I-MOD
+
+
+ I-MOD
+§ I-MOD
+5º I-MOD
+o I-ADD
+servidor I-ADD
+que I-ADD
+tenha I-MOD
+preenchido I-ADD
+os I-ADD
+requisitos I-ADD
+para I-ADD
+aposentadoria I-ADD
+voluntária I-ADD
+com I-ADD
+base I-ADD
+no I-ADD
+art I-SUP
+. I-MOD
+2º I-MOD
+da I-MOD
+emenda I-MOD
+constitucional I-MOD
+nº I-MOD
+41 I-MOD
+, I-MOD
+de I-MOD
+2003 I-MOD
+, I-SUP
+antes I-SUP
+da I-SUP
+promulgação I-SUP
+d I-SUP
+esta I-SUP
+emenda I-SUP
+à I-SUP
+constituição I-SUP
+, I-SUP
+que I-ADD
+optar I-SUP
+por I-SUP
+permanecer I-SUP
+em I-SUP
+atividade I-SUP
+e I-SUP
+que I-SUP
+, I-SUP
+após I-SUP
+a I-SUP
+promulgação I-SUP
+d I-SUP
+esta I-SUP
+emenda I-SUP
+à I-SUP
+constituição I-SUP
+, I-ADD
+venha I-ADD
+a I-ADD
+cumprir I-SUP
+os I-SUP
+requisitos I-SUP
+previstos I-SUP
+no I-SUP
+art I-SUP
+. I-SUP
+3º I-SUP
+
+
+ I-MOD
+da I-MOD
+emenda I-MOD
+constitucional I-MOD
+nº O
+47 O
+, O
+de I-MOD
+2005 I-MOD
+, I-MOD
+com I-MOD
+a I-MOD
+redação I-MOD
+vigente I-MOD
+até I-MOD
+a I-MOD
+data I-MOD
+de I-SUP
+promulgação I-SUP
+d I-SUP
+esta I-SUP
+emenda I-SUP
+à I-SUP
+constituição I-SUP
+, I-SUP
+terá I-ADD
+assegurado I-ADD
+o I-ADD
+cálculo I-MOD
+e I-MOD
+o I-MOD
+reajuste I-ADD
+dos I-ADD
+proventos I-ADD
+de I-ADD
+aposentadoria I-ADD
+de I-ADD
+acordo I-ADD
+com I-ADD
+esse I-ADD
+dispositivo I-ADD
+. I-ADD
+” E-ADD
+
+ O

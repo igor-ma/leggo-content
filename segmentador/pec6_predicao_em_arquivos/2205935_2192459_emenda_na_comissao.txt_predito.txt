@@ -1,52 +1,83 @@
-do O
 salarial O
+. O
 comissão O
 da O
 de O
 emenda O
 à O
+
+
+ O
 constituição O
 nº O
-6, O
+6 O
+, O
 de O
 2019 O
+
+
+ O
 proposta O
 de O
 emenda O
 à O
 constituição O
 nº O
-6, O
+6 O
+, O
 de O
 2019 O
-altera B-ADD
+
+
+ I-MOD
+altera I-MOD
 a I-MOD
-redação I-ADD
-da O
+redação I-MOD
+da I-MOD
 proposta I-ADD
 de O
+
+
+ O
 emenda I-ADD
-à I-ADD
+à O
 constituição I-ADD
 nº I-ADD
-6/2019 I-SUP
+6/2019 I-ADD
 para I-SUP
-suprimir I-SUP
-as O
-alterações I-MOD
-feitas O
-ao O
-abono O
-salarial. O
-emenda O
-nº O
-suprimam-se B-SUP
+
+
+ I-SUP
+suprimir O
 as I-SUP
 alterações I-SUP
-feitas I-SUP
-pelo I-SUP
-art. I-MOD
-1º I-MOD
+feitas I-MOD
+a O
+o O
+abono I-MOD
+
+
+ O
+salarial O
+. O
+
+
+ O
+emenda O
+nº O
+
+
+ O
+suprimam O
+- O
+se I-MOD
+as I-MOD
+alterações I-MOD
+feitas I-MOD
+pelo I-MOD
+art I-MOD
+. I-MOD
+1º I-ADD
 da I-SUP
 proposta I-ADD
 de I-SUP
@@ -59,16 +90,19 @@ do I-SUP
 § I-SUP
 3º I-SUP
 do I-MOD
-art. I-MOD
-239 I-ADD
-da I-MOD
-constituição, I-ADD
+art I-ADD
+. I-ADD
+239 I-MOD
+da I-ADD
+constituição I-ADD
+, I-ADD
 bem I-ADD
 como I-ADD
 a I-ADD
-inclusão I-MOD
-dos I-MOD
-§§ I-MOD
+inclusão I-ADD
+dos I-ADD
+§ I-ADD
+§ I-ADD
 3º-a I-MOD
 e I-MOD
 3º-b I-MOD
@@ -77,7 +111,10 @@ mesmo I-MOD
 artigo I-MOD
 do I-MOD
 corpo I-MOD
-permanente I-SUP
-do I-SUP
+permanente I-MOD
+do I-MOD
 texto I-SUP
-constitucional. I-SUP
+constitucional I-MOD
+. I-MOD
+
+ I-MOD

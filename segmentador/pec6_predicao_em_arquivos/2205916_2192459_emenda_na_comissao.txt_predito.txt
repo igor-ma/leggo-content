@@ -1,67 +1,134 @@
-luciano O
-– O
+psb O
+pr O
 proposta O
 emenda O
 constituição O
 n.º O
-6, O
-de O
-2019 O
-(do O
+6 O
+, O
+de I-SUP
+2019 I-SUP
+
+
+ O
+( O
+do O
 poder O
-executivo) O
+executivo O
+) O
+
+
+
+
+ O
 modifica B-MOD
 o O
-sistema O
-de O
-previdência I-MOD
-social, I-MOD
-estabelece I-MOD
-regras I-MOD
+sistema I-MOD
 de I-MOD
+previdência I-MOD
+
+
+ I-MOD
+social I-MOD
+, I-MOD
+
+
+ I-MOD
+estabelece I-MOD
+
+
+ I-MOD
+regras I-MOD
+
+
+ I-MOD
+de I-MOD
+
+
+ I-MOD
 transição I-MOD
 e I-MOD
 disposições I-MOD
-transitórias, I-MOD
+transitórias I-MOD
+, I-MOD
+
+
+ I-MOD
 e I-MOD
-dá O
-outras O
-providências. O
+dá I-MOD
+outras I-MOD
+providências O
+. O
+
+
+
+
+
+
+ O
 emenda O
 modificativa O
 nº O
-art. O
+
+
+
+
+ O
+art B-MOD
+. I-MOD
 1º I-MOD
-modifique-se I-MOD
-os I-MOD
-§§ I-MOD
-3º, I-MOD
-4º, I-MOD
+modifique I-MOD
+- I-MOD
+se I-MOD
+os I-ADD
+§ I-MOD
+§ I-MOD
+3º I-MOD
+, I-MOD
+4º I-MOD
+, I-MOD
 5º I-MOD
 e I-MOD
-6º, I-ADD
+6º I-MOD
+, I-ADD
 bem I-ADD
 como I-ADD
-acrescente-se I-ADD
-novo I-ADD
-§ I-ADD
-7º, I-SUP
-todos I-MOD
+acrescente I-ADD
+- I-ADD
+se I-MOD
+novo I-MOD
+
+
+ I-MOD
+§ I-MOD
+7º I-MOD
+, I-MOD
+todos I-SUP
 do I-MOD
-art. I-MOD
+art I-SUP
+. I-MOD
 4º I-MOD
 da I-MOD
 pec I-MOD
-6/2019, I-MOD
-nos I-MOD
+6/2019 I-MOD
+, I-MOD
+nos I-ADD
 termos I-ADD
 a I-ADD
 seguir I-ADD
-delineados: I-MOD
-art. I-ADD
+delineados I-ADD
+: I-ADD
+art I-MOD
+. I-MOD
 4º. I-MOD
 ........................................................................................ I-MOD
+
+
+ I-MOD
 ..................................................................................................... I-MOD
+
+
+ I-MOD
 § I-MOD
 3º I-MOD
 os I-MOD
@@ -72,11 +139,12 @@ concedidas I-ADD
 nos I-ADD
 termos I-ADD
 do I-ADD
-disposto I-SUP
-neste I-SUP
-artigo I-ADD
-corresponderão I-SUP
-à I-SUP
+disposto I-ADD
+n I-SUP
+este I-ADD
+artigo I-SUP
+corresponderão I-ADD
+à I-ADD
 totalidade I-ADD
 da I-ADD
 remuneração I-SUP
@@ -87,21 +155,24 @@ no I-SUP
 cargo I-SUP
 efetivo I-SUP
 em I-SUP
-que I-MOD
-se I-MOD
-der I-MOD
-a I-SUP
-aposentadoria, I-SUP
-observado I-SUP
+que I-ADD
+se I-ADD
+der I-ADD
+a I-ADD
+aposentadoria I-ADD
+, I-ADD
+observado I-ADD
 o I-ADD
-disposto I-MOD
+disposto I-ADD
 no I-MOD
 § I-MOD
 10 I-MOD
 do I-MOD
-art. I-MOD
-3º, I-MOD
-para I-MOD
+art I-MOD
+. I-MOD
+3º I-MOD
+, I-SUP
+para I-SUP
 o I-MOD
 policial I-SUP
 dos I-SUP
@@ -129,36 +200,46 @@ complementar I-ADD
 pelo I-ADD
 ente I-MOD
 federativo I-MOD
-ao I-SUP
+a I-SUP
+o I-SUP
 qual I-SUP
 esteja I-SUP
 vinculado I-SUP
-ou, I-SUP
+ou I-SUP
+, I-SUP
 para I-SUP
 os I-SUP
 entes I-SUP
 federativos I-SUP
 que I-SUP
 ainda I-SUP
-não I-SUP
-tenham I-SUP
+não I-ADD
+tenham I-ADD
 instituído I-ADD
 o I-ADD
-regime O
+regime I-ADD
 de I-ADD
-previdência I-MOD
-complementar, O
-antes I-MOD
+previdência I-ADD
+complementar I-ADD
+, I-ADD
+antes I-ADD
 da I-MOD
-data I-SUP
+data I-MOD
 de I-SUP
 promulgação I-SUP
-desta I-SUP
+d I-SUP
+esta I-SUP
 emenda I-SUP
 à I-SUP
-constituição. I-SUP
-§ I-SUP
-4º I-SUP
+constituição I-SUP
+. I-SUP
+
+
+
+
+ I-SUP
+§ I-MOD
+4º I-MOD
 os I-MOD
 proventos I-MOD
 das I-MOD
@@ -166,14 +247,16 @@ aposentadorias I-MOD
 concedidas I-ADD
 nos I-ADD
 termos I-ADD
-do I-SUP
-disposto I-SUP
-neste I-SUP
+do I-ADD
+disposto I-ADD
+n I-SUP
+este I-SUP
 artigo I-SUP
 não I-SUP
-serão I-MOD
-inferiores I-SUP
-ao I-ADD
+serão I-SUP
+inferiores I-MOD
+a I-SUP
+o I-MOD
 valor I-MOD
 a I-MOD
 que I-MOD
@@ -183,7 +266,8 @@ o I-SUP
 § I-SUP
 2º I-SUP
 do I-SUP
-art. I-SUP
+art I-ADD
+. I-SUP
 201 I-SUP
 da I-SUP
 constituição I-SUP
@@ -192,31 +276,42 @@ serão I-ADD
 reajustados I-ADD
 de I-ADD
 acordo I-ADD
-com I-SUP
+com I-MOD
 o I-MOD
 disposto I-MOD
-no I-SUP
-art. I-SUP
-7º I-SUP
+no I-MOD
+art I-SUP
+. I-SUP
+7º I-MOD
 da I-MOD
 emenda I-MOD
 constitucional I-MOD
 nº I-MOD
-41, I-MOD
+
+
+ O
+41 I-MOD
+, I-MOD
 de I-MOD
-2003, I-MOD
+2003 I-MOD
+, I-MOD
 se I-ADD
 concedidas I-ADD
 nos I-ADD
 termos I-ADD
 do I-SUP
 disposto I-ADD
-no I-ADD
+no I-SUP
 § I-ADD
 3º. I-SUP
-§ I-SUP
+
+
+
+
+ I-SUP
+§ I-ADD
 5º I-ADD
-o I-ADD
+o I-SUP
 disposto I-ADD
 nos I-ADD
 § I-SUP
@@ -227,20 +322,21 @@ e I-MOD
 não I-MOD
 se I-MOD
 aplica I-MOD
-ao I-MOD
-policial I-MOD
+a I-MOD
+o I-MOD
+policial I-SUP
 tenha I-SUP
 ingressado I-SUP
 no I-SUP
 serviço I-SUP
 público I-SUP
 após I-SUP
-a I-MOD
+a I-SUP
 implementação I-MOD
 de I-MOD
 regime I-ADD
 de I-ADD
-previdência I-MOD
+previdência I-ADD
 complementar I-SUP
 ou I-SUP
 que I-SUP
@@ -248,33 +344,52 @@ tenha I-SUP
 exercido I-SUP
 a I-SUP
 opção I-SUP
-correspondente, I-SUP
-nos I-SUP
+correspondente I-SUP
+, I-SUP
+nos I-ADD
 termos I-ADD
 do I-ADD
 disposto I-ADD
-nos I-ADD
+nos I-SUP
 § I-ADD
-14, I-ADD
+14 I-SUP
+, I-SUP
 § I-ADD
-15 I-ADD
+15 I-SUP
 e I-SUP
+
+
+ I-SUP
 § I-SUP
 16 I-SUP
-do I-SUP
-art. I-MOD
-40 I-MOD
-da I-SUP
-constituição, I-MOD
-hipótese I-MOD
-em I-MOD
-que I-MOD
-os I-MOD
-proventos I-MOD
-de I-MOD
-aposentadoria: I-MOD
-.................................................................................................... I-MOD
+do I-ADD
+art I-ADD
+. I-ADD
+40 I-ADD
+da I-ADD
+constituição I-ADD
+, I-ADD
+hipótese I-ADD
+em I-ADD
+que I-ADD
+os I-ADD
+proventos I-ADD
+de I-ADD
+aposentadoria I-ADD
+: I-ADD
+
+
+ I-ADD
 .................................................................................................... I-ADD
+
+
+ I-ADD
+.................................................................................................... I-ADD
+
+
+
+
+ I-MOD
 § I-MOD
 6º I-MOD
 para I-MOD
@@ -286,43 +401,79 @@ no I-MOD
 inciso I-MOD
 iii I-SUP
 do I-SUP
-caput, I-MOD
+caput I-SUP
+, I-MOD
 serão I-MOD
 considerados I-MOD
-o I-MOD
+o I-SUP
 tempo I-MOD
 de I-MOD
 atividade I-MOD
 militar I-MOD
 nas I-MOD
-forças I-MOD
-armadas, I-SUP
+forças I-SUP
+armadas I-SUP
+, I-MOD
+
+
+ O
 2 I-SUP
+
+
+ I-SUP
 nas I-SUP
 polícias I-SUP
 militares I-SUP
-e I-SUP
+e I-MOD
 nos I-SUP
 corpos I-SUP
 de I-SUP
 bombeiros I-MOD
 militares I-MOD
 e I-MOD
-o I-SUP
-tempo I-SUP
-de I-SUP
+o I-MOD
+tempo I-MOD
+
+
+ I-MOD
+de I-MOD
+
+
+ I-MOD
 atividade I-MOD
-como I-SUP
-agente I-SUP
+
+
+ I-MOD
+como I-MOD
+
+
+ I-MOD
+agente I-MOD
+
+
+ I-MOD
 penitenciário I-MOD
-ou I-SUP
-socioeducativo. I-SUP
+
+
+ I-MOD
+ou I-MOD
+
+
+ I-MOD
+socioeducativo I-MOD
+. I-MOD
+
+
+
+
+ I-SUP
 § I-SUP
 7º I-SUP
-para I-SUP
-todos I-MOD
+para I-MOD
+todos I-SUP
 os I-SUP
-efeitos, I-MOD
+efeitos I-SUP
+, I-MOD
 a I-MOD
 data I-MOD
 de I-MOD
@@ -330,15 +481,27 @@ ingresso I-MOD
 do I-MOD
 militar I-MOD
 nas I-MOD
+
+
+ I-MOD
 forças I-MOD
 armadas I-MOD
-será I-MOD
-considerada I-ADD
+será I-ADD
+considerada I-MOD
 como I-MOD
 data I-MOD
-de I-SUP
+de I-ADD
 ingresso I-SUP
+
+
+ I-SUP
 no I-SUP
-serviço I-MOD
-público O
-(nr) O
+serviço I-SUP
+público I-SUP
+( I-SUP
+nr I-MOD
+) I-MOD
+
+
+
+ I-MOD

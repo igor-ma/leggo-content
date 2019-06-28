@@ -1,14 +1,25 @@
-permanente, I-MOD
-valor O
+valor I-SUP
+. I-MOD
 câmara O
 deputados O
-do O
+liderança O
+do I-MOD
 partido I-MOD
 socialismo I-MOD
 e I-MOD
-liberdade O
+liberdade I-MOD
+
+
+ I-MOD
 assessoria O
 técnica O
+
+
+
+
+
+
+ O
 emenda O
 à O
 proposta O
@@ -19,14 +30,21 @@ constituição O
 nº O
 6 O
 de O
-2019. O
+2019 I-SUP
+. O
+
+
+
+
+ O
 modifica I-SUP
 na I-SUP
-pec O
-06/2019 O
-dispositivos I-MOD
+pec I-MOD
+06/2019 I-SUP
+dispositivos I-SUP
 relacionados I-MOD
-ao I-MOD
+a I-MOD
+o I-MOD
 aumento I-MOD
 da I-MOD
 participação I-MOD
@@ -34,16 +52,46 @@ popular I-MOD
 por I-MOD
 meio I-MOD
 da I-MOD
-proposta O
-de O
-referendo. O
+proposta I-MOD
+de I-MOD
+referendo O
+. O
+
+
+
+
+
+
+ O
 emenda O
 modificativa O
 n.º O
-____________ O
-dê-se B-MOD
-ao I-MOD
-art. I-MOD
+_ O
+_ O
+_ O
+_ I-MOD
+_ I-MOD
+_ I-MOD
+_ I-MOD
+_ I-MOD
+_ I-MOD
+_ O
+_ O
+_ O
+
+
+
+
+
+
+ O
+dê O
+- O
+se O
+a O
+o O
+art I-MOD
+. I-MOD
 47 O
 da O
 proposta I-ADD
@@ -53,37 +101,58 @@ emenda O
 constituição O
 nº O
 06 O
-de I-ADD
+
+
+ O
+de O
 2019 O
-a O
+a I-MOD
 seguinte I-MOD
-redação: I-MOD
-“art. O
-47. I-ADD
-essa O
-emenda I-SUP
+redação I-MOD
+: I-MOD
+
+
+ I-MOD
+“ I-MOD
+art I-MOD
+. I-MOD
+47 I-SUP
+. I-ADD
+essa I-ADD
+emenda O
 à I-SUP
-constituição, I-SUP
+constituição I-SUP
+, I-SUP
 para I-SUP
 entrar I-SUP
 em I-SUP
-vigor, I-MOD
-dependerá I-SUP
+vigor I-SUP
+, I-SUP
+dependerá I-MOD
 de I-MOD
-aprovação I-ADD
-em I-ADD
-referendo I-ADD
-popular, I-ADD
-nos I-ADD
-termos I-ADD
+aprovação I-MOD
+em I-MOD
+referendo I-MOD
+popular I-MOD
+, I-MOD
+nos I-MOD
+termos I-MOD
 do I-MOD
-art. I-ADD
-14, I-MOD
-ii, I-MOD
-da I-MOD
-constituição I-MOD
-federal. I-MOD
-§1º I-MOD
+art I-MOD
+. I-SUP
+14 I-SUP
+, I-MOD
+ii I-MOD
+, I-MOD
+da I-SUP
+constituição I-ADD
+federal I-ADD
+. I-ADD
+
+
+ I-ADD
+§ I-MOD
+1º I-MOD
 o I-MOD
 referendo I-MOD
 popular I-MOD
@@ -91,60 +160,77 @@ a I-MOD
 que I-MOD
 se I-MOD
 refere I-MOD
-o I-MOD
+o I-SUP
 caput I-MOD
-deste I-MOD
+d I-MOD
+este I-MOD
 artigo I-MOD
-será I-MOD
-realizado I-SUP
-em I-SUP
-até I-SUP
+será I-SUP
+realizado I-MOD
+em I-MOD
+até I-MOD
 noventa I-SUP
 dias I-SUP
 a I-SUP
 partir I-SUP
 da I-SUP
 promulgação I-SUP
-desta I-SUP
+d I-SUP
+esta I-SUP
 emenda I-SUP
 à I-SUP
-constituição, I-SUP
+constituição I-MOD
+, I-SUP
 sob I-MOD
 responsabilidade I-MOD
 do I-MOD
 tribunal I-MOD
 superior I-MOD
-eleitoral. I-MOD
-§2º I-MOD
-no I-MOD
-caso I-MOD
-de I-MOD
-rejeição I-SUP
+eleitoral I-MOD
+. I-MOD
+
+
+ I-MOD
+§ I-MOD
+2º I-MOD
+no I-ADD
+caso I-ADD
+de I-ADD
+rejeição I-MOD
 pelo I-SUP
-povo, I-ADD
-esta I-ADD
-emenda I-ADD
-à I-ADD
+povo I-SUP
+, I-ADD
+esta I-SUP
+emenda I-SUP
+à I-SUP
 constituição I-SUP
 não I-SUP
-entrará I-ADD
+entrará I-SUP
 em I-ADD
-vigor, I-ADD
+vigor I-SUP
+, I-SUP
 e I-MOD
 nem I-MOD
-produzirá I-SUP
-efeitos. I-SUP
-§3º I-MOD
+produzirá I-MOD
+efeitos I-MOD
+. I-MOD
+
+
+ I-MOD
+§ I-MOD
+3º I-MOD
 em I-MOD
 caso I-MOD
 de I-MOD
 aprovação I-MOD
 do I-MOD
 referendo I-MOD
-popular, I-SUP
+popular I-MOD
+, I-MOD
 o I-SUP
 disposto I-SUP
-nesta I-SUP
+n I-SUP
+esta I-SUP
 emenda I-SUP
 à I-SUP
 constituição I-SUP
@@ -161,5 +247,10 @@ resultado I-MOD
 pelo I-MOD
 tribunal I-MOD
 superior I-MOD
-eleitoral. I-MOD
-” O
+eleitoral I-MOD
+. I-MOD
+” E-MOD
+
+
+
+ O

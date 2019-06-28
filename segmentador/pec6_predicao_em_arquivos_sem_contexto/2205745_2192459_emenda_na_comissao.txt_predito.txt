@@ -1,0 +1,145 @@
+câmara O
+deputados O
+câmara O
+deputados O
+proposta O
+de O
+emenda O
+à O
+constituição O
+nº O
+06 O
+, O
+de O
+2019 O
+
+
+ I-MOD
+( I-MOD
+do I-MOD
+senhor I-MOD
+deputado I-MOD
+euclydes I-MOD
+pettersen I-MOD
+e I-MOD
+outros I-MOD
+) E-MOD
+
+
+
+
+ O
+emenda O
+modificativa O
+
+
+
+
+ O
+art B-MOD
+. I-MOD
+1º I-MOD
+o I-MOD
+§ I-SUP
+3º I-SUP
+do I-MOD
+artigo I-SUP
+28 I-SUP
+da I-SUP
+proposta I-SUP
+de I-SUP
+emenda O
+constituição O
+nº O
+06 O
+, I-SUP
+de I-ADD
+2019 I-MOD
+, I-MOD
+que I-MOD
+passa I-MOD
+a I-MOD
+vigorar I-MOD
+com I-MOD
+a I-MOD
+seguinte I-MOD
+redação I-MOD
+: I-MOD
+
+
+
+
+ I-MOD
+“ I-MOD
+art I-MOD
+. I-MOD
+28 I-MOD
+. I-MOD
+......................................................................................... I-MOD
+
+
+ I-MOD
+....................................................................................................... I-MOD
+
+
+ I-MOD
+§ I-MOD
+3º I-MOD
+as I-MOD
+condições I-MOD
+necessárias I-MOD
+para I-MOD
+enquadramento I-MOD
+dos I-SUP
+dependentes I-SUP
+serão I-SUP
+determinadas I-SUP
+na I-SUP
+data I-SUP
+do I-SUP
+óbito I-SUP
+do I-SUP
+segurado I-MOD
+, I-MOD
+inclusive I-ADD
+em I-ADD
+relação I-ADD
+a I-MOD
+o I-ADD
+filho I-MOD
+inválido I-MOD
+ou I-MOD
+com I-MOD
+deficiência I-MOD
+. I-MOD
+
+
+ I-MOD
+............................................................................................. I-MOD
+” I-MOD
+( I-MOD
+nr I-MOD
+) I-MOD
+
+
+
+
+ I-MOD
+art I-SUP
+. I-SUP
+2º I-SUP
+esta I-SUP
+emenda I-SUP
+entra I-SUP
+em I-SUP
+vigor I-SUP
+na I-SUP
+data I-SUP
+de I-SUP
+sua I-SUP
+publicação I-SUP
+. I-MOD
+
+
+
+ I-MOD

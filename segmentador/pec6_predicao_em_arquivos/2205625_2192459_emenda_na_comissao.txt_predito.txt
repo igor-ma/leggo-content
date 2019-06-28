@@ -1,24 +1,40 @@
-anos O
-contribuição. O
+
+
+ O
+” O
 proposta O
 emenda O
 constituição O
 n.º O
-6, O
-de O
-2019. O
-(do I-MOD
-poder I-SUP
-executivo) I-SUP
+6 O
+, O
+de I-SUP
+2019 I-SUP
+. I-SUP
+
+
+ O
+( O
+do O
+poder I-MOD
+executivo I-ADD
+) I-ADD
+
+
+
+
+
+
+ I-ADD
 adiciona I-SUP
-artigo I-SUP
+artigo I-ADD
 que I-SUP
 estabelece I-SUP
 que I-SUP
 a I-SUP
 vedação I-SUP
 da I-SUP
-percepção I-MOD
+percepção I-SUP
 simultânea I-ADD
 de I-ADD
 proventos I-ADD
@@ -27,63 +43,96 @@ aposentadoria I-ADD
 do I-ADD
 regime I-ADD
 próprio I-ADD
-de I-MOD
+de I-ADD
 previdência I-MOD
 social I-MOD
 de I-MOD
 que I-MOD
 trata I-MOD
 o I-MOD
-art. I-MOD
-40, I-MOD
+art I-MOD
+. I-MOD
+40 I-MOD
+, I-MOD
 de I-MOD
 proventos I-MOD
 de I-MOD
-inatividade, I-SUP
+inatividade I-MOD
+, I-MOD
 de I-MOD
 que I-MOD
 tratam I-MOD
 os I-MOD
-art. I-MOD
+art I-MOD
+. I-MOD
 42 I-MOD
 e I-MOD
-art. I-MOD
+art I-MOD
+. I-MOD
+
+
+ I-MOD
 142 I-MOD
-e I-ADD
-de I-ADD
+
+
+ I-MOD
+e I-MOD
+
+
+ I-MOD
+de I-MOD
+
+
+ I-MOD
 proventos I-ADD
+
+
+ I-ADD
 de I-ADD
+
+
+ I-ADD
 aposentadoria I-ADD
 do I-ADD
 regime I-ADD
 geral I-ADD
 de I-ADD
 previdência I-ADD
-social, I-ADD
-de I-ADD
+social I-ADD
+, I-MOD
+de I-MOD
 que I-MOD
 trata I-MOD
 o I-MOD
-art. I-MOD
-201, I-MOD
+art I-MOD
+. I-MOD
+
+
+ I-MOD
+201 I-MOD
+, I-MOD
 decorrentes I-MOD
 do I-MOD
-exercício I-MOD
-de O
-cargo, I-MOD
-emprego I-ADD
+exercício I-ADD
+de I-ADD
+cargo I-ADD
+, O
+emprego O
 ou I-ADD
 função I-ADD
-pública, I-ADD
+pública I-ADD
+, I-ADD
 com I-ADD
 a I-ADD
 remuneração I-ADD
 de I-ADD
-cargo, I-MOD
+cargo I-ADD
+, O
 emprego O
 ou O
-função I-MOD
-pública, I-MOD
+função O
+pública I-MOD
+, I-MOD
 ressalvados I-SUP
 os I-MOD
 cargos I-MOD
@@ -91,9 +140,11 @@ acumuláveis I-MOD
 na I-MOD
 forma I-MOD
 prevista I-MOD
-nesta I-MOD
-constituição, I-MOD
-os I-MOD
+n I-MOD
+esta I-MOD
+constituição I-MOD
+, I-MOD
+os I-SUP
 cargos I-MOD
 eletivos I-MOD
 e I-MOD
@@ -106,16 +157,18 @@ em I-MOD
 lei I-MOD
 de I-MOD
 livre I-MOD
-nomeação I-SUP
+nomeação I-MOD
 e I-SUP
-exoneração, I-MOD
+exoneração I-MOD
+, I-MOD
 seja I-MOD
 aplicada I-MOD
 somente I-MOD
-aos I-SUP
+a I-MOD
+os I-SUP
 empregados I-SUP
-públicos I-SUP
-que I-MOD
+públicos I-MOD
+que I-SUP
 ainda I-MOD
 não I-ADD
 estejam I-ADD
@@ -124,56 +177,87 @@ pelo I-ADD
 regime I-ADD
 geral I-ADD
 de I-ADD
-previdência O
-social. O
+previdência I-ADD
+social O
+. O
+
+
+
+
+
+
+ O
 emenda O
 aditiva O
 n.º O
-art. O
-1º O
-acrescente-se B-ADD
-na I-ADD
+
+
+
+
+
+
+ O
+art B-MOD
+. I-MOD
+1º I-MOD
+acrescente I-MOD
+- I-MOD
+se I-ADD
+na O
 proposta I-ADD
-de I-ADD
-emenda I-ADD
+de O
+emenda I-SUP
 à I-ADD
 constituição I-ADD
 nº I-ADD
-6, I-ADD
+6 I-ADD
+, I-ADD
 de I-ADD
-2019, I-ADD
+2019 I-ADD
+, I-ADD
 onde I-ADD
-couber, I-MOD
-o I-MOD
-seguinte I-MOD
-artigo: I-MOD
-art. I-MOD
-xº I-MOD
+couber I-ADD
+, I-ADD
+o I-ADD
+seguinte I-ADD
+artigo I-ADD
+: I-ADD
+art I-ADD
+. I-ADD
+xº I-ADD
 a I-MOD
 vedação I-MOD
 prevista I-MOD
 no I-MOD
-art. I-MOD
-37, I-ADD
+art I-MOD
+. I-ADD
+37 I-ADD
+, I-MOD
 § I-ADD
-10, I-ADD
+10 I-ADD
+, I-ADD
 da I-ADD
 constituição I-ADD
-federal, I-ADD
+federal I-MOD
+, I-ADD
 não I-ADD
-se I-ADD
-aplica I-ADD
-aos I-MOD
+se I-MOD
+aplica I-MOD
+a I-MOD
+os I-MOD
 empregados I-MOD
 que I-MOD
-percebam, I-MOD
-até I-MOD
+percebam I-MOD
+, I-MOD
+até I-SUP
 a I-SUP
-publicação I-MOD
-desta I-MOD
-emenda, I-MOD
-cumulativamente I-MOD
-os I-MOD
+publicação I-SUP
+d I-SUP
+esta I-SUP
+emenda I-SUP
+, I-SUP
+cumulativamente I-SUP
+os I-ADD
 proventos I-ADD
 de I-ADD
 de I-ADD
@@ -183,31 +267,41 @@ regime I-ADD
 geral I-ADD
 de I-ADD
 previdência I-ADD
-social, I-ADD
-de I-ADD
+social I-ADD
+, I-MOD
+de I-MOD
 que I-MOD
 trata I-MOD
 o I-MOD
-art. I-MOD
-201, I-MOD
+art I-MOD
+. I-MOD
+201 I-MOD
+, I-MOD
 decorrentes I-MOD
 do I-MOD
-exercício I-MOD
-de O
-cargo, I-MOD
-emprego I-ADD
+exercício I-ADD
+de I-ADD
+cargo I-ADD
+, O
+emprego O
 ou I-ADD
 função I-ADD
-pública, I-ADD
+pública I-ADD
+, I-ADD
 com I-ADD
 a I-ADD
 remuneração I-ADD
 de I-ADD
-cargo, I-MOD
+cargo I-ADD
+, I-ADD
 emprego O
 ou O
-função I-MOD
-pública, I-MOD
+função O
+
+
+ O
+pública I-MOD
+, I-MOD
 ressalvados I-SUP
 os I-MOD
 cargos I-MOD
@@ -215,9 +309,11 @@ acumuláveis I-MOD
 na I-MOD
 forma I-MOD
 prevista I-MOD
-nesta I-MOD
-constituição, I-MOD
-os I-MOD
+n I-MOD
+esta I-MOD
+constituição I-MOD
+, I-MOD
+os I-SUP
 cargos I-MOD
 eletivos I-MOD
 e I-MOD
@@ -232,4 +328,9 @@ de I-MOD
 livre I-MOD
 nomeação I-MOD
 e I-MOD
-exoneração. O
+exoneração I-MOD
+. I-MOD
+
+
+
+ O

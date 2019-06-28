@@ -1,0 +1,336 @@
+
+
+ I-MOD
+” E-MOD
+proposta O
+emenda O
+constituição O
+n.º O
+6 O
+, O
+de O
+2019 I-SUP
+. I-SUP
+
+
+ O
+( O
+do I-MOD
+poder I-MOD
+executivo I-MOD
+) I-SUP
+
+
+
+
+
+
+ O
+adiciona O
+artigo O
+que I-SUP
+estabelece I-SUP
+que I-SUP
+a I-SUP
+vedação I-SUP
+da O
+percepção I-MOD
+simultânea I-ADD
+de I-ADD
+proventos I-ADD
+de I-ADD
+aposentadoria I-ADD
+do I-ADD
+regime I-ADD
+próprio I-ADD
+de I-ADD
+previdência I-MOD
+social I-MOD
+de I-MOD
+que I-MOD
+trata I-MOD
+o I-MOD
+art I-MOD
+. I-MOD
+40 I-MOD
+, I-MOD
+de I-MOD
+proventos I-MOD
+de I-MOD
+inatividade I-MOD
+, I-MOD
+de I-MOD
+que I-MOD
+tratam I-MOD
+os I-MOD
+art I-MOD
+. I-MOD
+42 I-MOD
+e I-MOD
+art I-MOD
+. I-MOD
+
+
+ I-MOD
+142 I-MOD
+
+
+ I-MOD
+e I-MOD
+
+
+ I-MOD
+de I-MOD
+
+
+ I-MOD
+proventos I-ADD
+
+
+ I-ADD
+de I-ADD
+
+
+ I-ADD
+aposentadoria I-ADD
+do I-ADD
+regime I-ADD
+geral I-ADD
+de I-ADD
+previdência I-ADD
+social I-ADD
+, I-MOD
+de I-MOD
+que I-MOD
+trata I-MOD
+o I-SUP
+art I-SUP
+. I-SUP
+
+
+ I-MOD
+201 I-SUP
+, I-SUP
+decorrentes I-ADD
+do I-ADD
+exercício I-ADD
+de I-ADD
+cargo O
+, O
+emprego O
+ou O
+função I-ADD
+pública O
+, O
+com I-ADD
+a I-ADD
+remuneração I-ADD
+de I-ADD
+cargo I-ADD
+, O
+emprego O
+ou O
+função O
+pública O
+, O
+ressalvados I-SUP
+os I-MOD
+cargos I-MOD
+acumuláveis I-MOD
+na I-MOD
+forma I-MOD
+prevista I-MOD
+n I-MOD
+esta I-MOD
+constituição I-MOD
+, I-MOD
+os I-MOD
+cargos I-SUP
+eletivos I-MOD
+e I-MOD
+os I-MOD
+cargos I-MOD
+em I-MOD
+comissão I-MOD
+declarados I-MOD
+em I-MOD
+lei I-MOD
+de I-MOD
+livre I-MOD
+nomeação I-MOD
+e I-MOD
+exoneração I-SUP
+, I-SUP
+seja I-MOD
+aplicada I-MOD
+somente I-SUP
+a I-SUP
+os I-SUP
+empregados I-SUP
+públicos I-SUP
+que I-SUP
+ainda I-SUP
+não I-ADD
+estejam I-ADD
+aposentados I-ADD
+pelo I-ADD
+regime I-ADD
+geral I-ADD
+de I-ADD
+previdência I-ADD
+social I-ADD
+. E-MOD
+
+
+
+
+
+
+ O
+emenda O
+aditiva O
+n.º O
+
+
+
+
+
+
+ O
+art B-MOD
+. I-MOD
+1º I-MOD
+acrescente I-MOD
+- I-MOD
+se I-MOD
+na I-ADD
+proposta I-ADD
+de O
+emenda I-ADD
+à I-SUP
+constituição I-ADD
+nº I-SUP
+6 I-ADD
+, I-ADD
+de I-ADD
+2019 I-ADD
+, I-ADD
+onde I-ADD
+couber I-ADD
+, I-ADD
+o I-ADD
+seguinte I-ADD
+artigo I-ADD
+: I-ADD
+art I-ADD
+. I-ADD
+xº I-ADD
+a I-MOD
+vedação I-MOD
+prevista I-MOD
+no I-MOD
+art I-ADD
+. I-ADD
+37 I-ADD
+, I-MOD
+§ I-ADD
+10 I-ADD
+, I-ADD
+da I-ADD
+constituição I-ADD
+federal I-MOD
+, I-MOD
+não I-MOD
+se I-ADD
+aplica I-MOD
+a I-MOD
+os I-MOD
+empregados I-ADD
+que I-ADD
+percebam I-MOD
+, I-MOD
+até I-SUP
+a I-SUP
+publicação I-SUP
+d I-SUP
+esta I-SUP
+emenda I-SUP
+, I-SUP
+cumulativamente I-SUP
+os I-ADD
+proventos I-ADD
+de I-ADD
+de I-ADD
+aposentadoria I-ADD
+do I-ADD
+regime I-ADD
+geral I-ADD
+de I-ADD
+previdência I-ADD
+social I-ADD
+, I-MOD
+de I-MOD
+que I-MOD
+trata I-MOD
+o I-SUP
+art I-SUP
+. I-SUP
+201 I-MOD
+, I-SUP
+decorrentes I-ADD
+do I-ADD
+exercício I-ADD
+de I-ADD
+cargo O
+, O
+emprego O
+ou O
+função I-ADD
+pública O
+, O
+com I-ADD
+a I-ADD
+remuneração I-ADD
+de I-ADD
+cargo I-ADD
+, O
+emprego O
+ou O
+função O
+
+
+ O
+pública O
+, I-MOD
+ressalvados I-SUP
+os I-MOD
+cargos I-MOD
+acumuláveis I-MOD
+na I-MOD
+forma I-MOD
+prevista I-MOD
+n I-MOD
+esta I-MOD
+constituição I-MOD
+, I-MOD
+os I-MOD
+cargos I-SUP
+eletivos I-MOD
+e I-MOD
+os I-MOD
+cargos I-MOD
+em I-MOD
+comissão I-MOD
+declarados I-MOD
+em I-MOD
+lei I-MOD
+de I-MOD
+livre I-SUP
+nomeação I-MOD
+e I-MOD
+exoneração I-MOD
+. E-SUP
+
+
+
+ O

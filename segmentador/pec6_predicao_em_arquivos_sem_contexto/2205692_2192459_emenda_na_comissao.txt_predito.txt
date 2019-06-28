@@ -1,0 +1,108 @@
+os O
+; O
+comissão O
+destinada O
+proferir O
+parecer O
+à O
+proposta O
+de O
+emenda O
+à O
+constituição O
+nº O
+06 O
+, O
+de O
+2019 O
+, O
+do O
+poder O
+executivo O
+, O
+que O
+
+
+ O
+" O
+modifica B-MOD
+o I-MOD
+sistema I-MOD
+de I-MOD
+previdência I-MOD
+social I-MOD
+, I-MOD
+estabelece I-MOD
+regras I-MOD
+de I-MOD
+transição I-MOD
+e I-MOD
+disposições I-MOD
+transitórias I-MOD
+, I-MOD
+e I-MOD
+dá I-MOD
+outras I-MOD
+providências I-MOD
+" I-MOD
+– O
+pec O
+06/2019 O
+
+
+
+
+ O
+emenda O
+supressiva O
+
+
+ O
+( O
+do O
+sr. O
+mário I-MOD
+heringer I-MOD
+e O
+outros I-MOD
+) I-MOD
+
+
+
+
+ I-MOD
+art I-MOD
+. I-MOD
+1º I-MOD
+suprimam I-MOD
+- I-MOD
+se I-MOD
+as I-MOD
+alterações I-MOD
+do I-MOD
+inciso I-MOD
+i I-MOD
+, I-MOD
+do I-MOD
+parágrafo I-MOD
+3º I-MOD
+, I-MOD
+do I-SUP
+artigo I-MOD
+42 I-MOD
+da I-ADD
+constituição I-ADD
+federal I-ADD
+promovidas I-ADD
+pelo I-ADD
+artigo I-ADD
+1º I-MOD
+da I-ADD
+pec I-MOD
+nº I-MOD
+6/2019 I-MOD
+. I-MOD
+
+
+
+ I-MOD

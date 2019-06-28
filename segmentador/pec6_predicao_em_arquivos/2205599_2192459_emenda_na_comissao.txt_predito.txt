@@ -1,64 +1,124 @@
-195 O
-constituição; O
+; O
+” O
 proposta O
 emenda O
 constituição O
 nº O
 6 O
 de O
-2019 O
-(do O
+2019 I-SUP
+
+
+ O
+( O
+do O
 sr. O
-capitão O
-augusto, I-MOD
-guilherme O
-derrite O
+capitão I-MOD
+augusto I-MOD
+, I-MOD
+guilherme I-MOD
+derrite I-MOD
 e I-MOD
-outros) I-ADD
+outros I-MOD
+) I-MOD
+
+
+
+
+ I-MOD
 modifica I-MOD
 o I-MOD
-sistema O
-de O
+sistema I-MOD
+de I-MOD
 previdência I-MOD
-social, I-MOD
+social I-MOD
+, I-MOD
+
+
+ I-MOD
 estabelece I-MOD
 regras I-MOD
 de I-MOD
 transição I-MOD
 e I-MOD
 disposições I-MOD
-transitórias, I-MOD
+transitórias I-MOD
+, I-MOD
 e I-MOD
 dá I-MOD
-outras O
-providências. O
+outras I-MOD
+providências I-MOD
+. I-MOD
+
+
+
+
+ O
 emenda O
 nº O
-dê-se B-MOD
-ao I-MOD
-art. I-MOD
-37, I-ADD
-§ I-MOD
-12, I-ADD
+
+
+
+
+ O
+dê O
+- O
+se O
+a O
+o O
+art I-MOD
+. I-MOD
+37 I-ADD
+, I-MOD
+§ I-ADD
+12 I-ADD
+, I-ADD
 da I-ADD
-constituição I-ADD
-federal, I-ADD
+constituição I-SUP
+federal I-MOD
+, I-MOD
 no I-MOD
-art. I-MOD
+art I-MOD
+. I-MOD
 1º I-MOD
 da I-MOD
-pec, I-MOD
+pec I-MOD
+, I-MOD
 a I-MOD
 seguinte I-MOD
-redação: I-MOD
-art. I-MOD
-1º.............................................................. I-MOD
+redação I-MOD
+: I-MOD
+
+
+
+
+ I-MOD
+art I-MOD
+. I-MOD
+1º I-MOD
+.............................................................. I-MOD
+
+
+ I-MOD
 ........................................................................ I-MOD
-“art. I-MOD
-37............................................................ I-MOD
+
+
+ I-MOD
+“ I-MOD
+art I-MOD
+. I-MOD
+37 I-MOD
+............................................................ I-MOD
+
+
+ I-MOD
 ........................................................................ I-MOD
-§ I-MOD
-12. I-MOD
+
+
+ I-MOD
+§ I-SUP
+12 I-MOD
+. I-MOD
 para I-MOD
 os I-MOD
 fins I-MOD
@@ -67,42 +127,53 @@ disposto I-MOD
 no I-MOD
 inciso I-MOD
 xi I-SUP
-do I-MOD
-caput I-MOD
-deste I-MOD
-artigo, I-MOD
+do I-SUP
+caput I-SUP
+d I-SUP
+este I-SUP
+artigo I-MOD
+, I-SUP
 fica I-MOD
-facultado O
-aos I-MOD
+facultado I-MOD
+a I-MOD
+os I-MOD
 estados I-MOD
 e I-MOD
-ao I-MOD
+a I-MOD
+o I-MOD
 distrito I-MOD
 federal I-MOD
 e I-MOD
-municípios, I-MOD
+municípios I-MOD
+, I-MOD
 por I-MOD
 iniciativa I-MOD
-parlamentar I-SUP
-ou I-SUP
-do I-SUP
-poder I-SUP
-executivo, I-SUP
-fixar, I-SUP
-em I-SUP
-seu I-SUP
-âmbito, I-ADD
+parlamentar O
+ou O
+do O
+poder O
+executivo O
+, O
+fixar I-ADD
+, I-ADD
+em I-ADD
+seu I-ADD
+âmbito I-ADD
+, I-ADD
 mediante I-ADD
 emenda I-ADD
-às I-MOD
-respectivas I-MOD
-constituições I-ADD
+à I-MOD
+s B-MOD
+respectivas I-SUP
+constituições I-MOD
 e I-MOD
 leis I-MOD
-orgânicas, I-MOD
-como I-MOD
+orgânicas I-ADD
+, I-ADD
+como I-ADD
 limite I-MOD
-único, I-MOD
+único I-MOD
+, I-MOD
 o I-MOD
 subsídio I-MOD
 mensal I-MOD
@@ -112,13 +183,14 @@ do I-MOD
 respectivo I-MOD
 tribunal I-MOD
 de I-MOD
-justiça, I-MOD
+justiça I-MOD
+, I-MOD
 limitado I-MOD
 a I-MOD
 noventa I-MOD
 inteiro I-MOD
 e I-MOD
-vinte I-MOD
+vinte I-SUP
 e I-MOD
 cinco I-MOD
 centésimo I-MOD
@@ -132,15 +204,18 @@ ministros I-MOD
 do I-MOD
 supremo I-MOD
 ttribunal I-MOD
-federal, I-MOD
+federal I-MOD
+, I-MOD
 não I-MOD
 se I-MOD
 aplicando I-MOD
 o I-MOD
 disposto I-MOD
-neste I-MOD
+n I-MOD
+este I-MOD
 parágrafo I-MOD
-ao I-MOD
+a I-MOD
+o I-MOD
 subsídio I-MOD
 do I-MOD
 deputado I-MOD
@@ -149,25 +224,38 @@ e I-MOD
 distrital I-MOD
 e I-MOD
 do I-MOD
-vereador, I-MOD
+vereador I-MOD
+, I-MOD
 não I-MOD
 podendo I-MOD
 o I-MOD
 subsídio I-MOD
 do I-MOD
-governador, I-MOD
+governador I-MOD
+, I-MOD
 fixado I-MOD
 pela I-MOD
 respectiva I-SUP
 assembleia I-SUP
-legislativa, I-SUP
+legislativa I-SUP
+, I-SUP
 ser I-SUP
 inferior I-SUP
-ao I-SUP
-do I-SUP
-deputado I-SUP
+a I-SUP
+o I-SUP
+do I-MOD
+deputado I-MOD
 estadual I-MOD
 ou I-MOD
-distrital.” O
-(nr) O
-.............................................................................. O
+distrital I-MOD
+. I-MOD
+” I-MOD
+( I-MOD
+nr I-MOD
+) I-MOD
+
+
+ I-MOD
+.............................................................................. I-MOD
+
+ I-MOD

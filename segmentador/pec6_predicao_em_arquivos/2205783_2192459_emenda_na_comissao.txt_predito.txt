@@ -1,14 +1,29 @@
-ambos O
-sexos; O
+( I-MOD
+) O
 câmara O
 deputados O
-deputado O
+gabinete O
+deputado I-MOD
 sidney I-MOD
-leite I-MOD
-– O
-psd/am O
+leite O
+– I-MOD
+psd O
+/ O
+am O
+
+
+
+
+
+
+ O
 comissão O
 especial O
+
+
+
+
+ O
 proposta O
 de O
 emenda O
@@ -17,62 +32,117 @@ nº O
 06 O
 de O
 2019 O
+
+
+
+
+ O
 emenda O
 supressiva O
 nº O
-_______, O
-de O
+_ O
+_ O
+_ I-MOD
+_ I-MOD
+_ I-MOD
+_ I-MOD
+_ I-MOD
+, I-MOD
+de I-MOD
 2019 O
-(do O
-sr. O
-sidney O
-leite O
-e O
-outros) I-MOD
+
+
+ O
+( O
+do O
+sr. I-MOD
+sidney I-MOD
+leite I-MOD
+e I-MOD
+outros I-MOD
+) I-MOD
 revoga I-MOD
+
+
+ I-MOD
 artigos I-MOD
+
+
+ I-MOD
 que I-MOD
+
+
+ I-MOD
 tratam I-MOD
+
+
+ I-MOD
 da I-MOD
+
+
+ I-MOD
 desconstitucionalização I-MOD
 de I-MOD
 assuntos I-MOD
-previdenciários. I-MOD
+previdenciários I-MOD
+. I-MOD
+
+
+
+
+ I-MOD
 art.1º I-MOD
-suprimam-se I-MOD
+suprimam I-MOD
+- I-MOD
+se I-MOD
 os I-MOD
-seguintes I-SUP
-dispositivos I-SUP
-da I-SUP
+seguintes I-MOD
+dispositivos I-MOD
+da I-MOD
 proposta I-MOD
-de I-SUP
-emenda I-ADD
+de I-MOD
+emenda I-SUP
 constitucional I-SUP
-nº O
-6 I-ADD
-de I-ADD
-2019: I-ADD
+nº I-SUP
+6 I-SUP
+de I-SUP
+2019 I-ADD
+: I-ADD
 i I-ADD
-– I-MOD
-inciso I-MOD
-i I-MOD
+– I-ADD
+inciso I-ADD
+i I-ADD
 do I-MOD
-§1º I-MOD
+§ I-MOD
+1º I-ADD
 do I-MOD
 art.40 I-MOD
 da I-MOD
 constituição I-MOD
-federal, I-MOD
+federal I-MOD
+, I-MOD
 conforme I-MOD
-art. I-MOD
+art I-MOD
+. I-MOD
 1º I-MOD
 da I-MOD
-pec; I-MOD
+pec I-MOD
+; I-MOD
+
+
+ I-MOD
 ii I-MOD
 - I-MOD
-§1º I-MOD
+§ I-MOD
+1º I-MOD
 do I-MOD
-art. I-MOD
-201 I-MOD
+art I-MOD
+. I-SUP
+201 I-SUP
 da I-MOD
-pec. O
+pec O
+. O
+
+
+
+ O

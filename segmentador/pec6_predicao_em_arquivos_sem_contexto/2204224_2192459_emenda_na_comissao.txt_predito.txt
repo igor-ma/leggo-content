@@ -1,0 +1,601 @@
+. O
+.................................................................................................................................................... O
+câmara O
+deputados O
+comissão O
+especial O
+destinada O
+a O
+apreciar O
+e O
+proferir O
+parecer O
+à O
+
+
+ O
+proposta O
+de O
+emenda O
+à O
+constituição O
+nº O
+6 O
+, O
+de O
+2019 O
+– O
+reforma O
+da O
+previdência O
+
+
+
+
+ O
+proposta O
+de O
+emenda O
+à O
+constituição O
+nº O
+6 O
+, O
+de O
+2019 I-ADD
+
+
+
+
+ I-ADD
+modifica B-MOD
+o I-MOD
+sistema I-MOD
+de I-MOD
+previdência I-MOD
+social I-MOD
+, I-MOD
+
+
+ I-MOD
+estabelece I-MOD
+
+
+ I-MOD
+regras I-MOD
+
+
+ I-MOD
+de I-MOD
+
+
+ I-MOD
+transição I-MOD
+
+
+ I-MOD
+e I-MOD
+
+
+ I-MOD
+disposições I-MOD
+transitórias I-MOD
+, I-MOD
+e I-MOD
+dá I-MOD
+outras I-MOD
+
+
+ I-MOD
+providências I-MOD
+. E-MOD
+
+
+
+
+ O
+emenda O
+modificativa O
+nº O
+
+
+ O
+( O
+do O
+srs I-MOD
+. I-MOD
+fred I-MOD
+costa I-MOD
+, I-MOD
+orlando I-MOD
+silva I-MOD
+, I-MOD
+soraya I-MOD
+santos I-MOD
+, I-MOD
+carmen I-MOD
+zanotto I-MOD
+, I-MOD
+léo I-MOD
+moraes I-MOD
+, I-MOD
+célio I-MOD
+studart I-MOD
+, I-MOD
+dr. I-MOD
+frederico I-MOD
+e I-MOD
+outros I-MOD
+) I-MOD
+
+
+
+
+ I-MOD
+art I-MOD
+. I-MOD
+1º. O
+dê O
+- O
+se O
+à O
+proposta O
+de O
+emenda O
+à O
+constituição O
+nº O
+06 O
+, O
+de O
+2019 O
+a I-MOD
+seguinte I-MOD
+redação I-MOD
+: I-MOD
+art I-MOD
+. I-MOD
+1º. I-MOD
+............................................................................................... I-MOD
+
+
+ I-MOD
+.......................................................................................................... I-MOD
+
+
+ I-MOD
+art I-MOD
+. I-MOD
+40 I-MOD
+. I-MOD
+..................................................................................... I-ADD
+
+
+ I-MOD
+................................................................................................. I-MOD
+
+
+ I-MOD
+§ I-MOD
+1º I-MOD
+.......................................................................................... I-MOD
+
+
+ I-MOD
+i I-MOD
+- I-MOD
+............................................................................................. I-MOD
+
+
+ I-MOD
+................................................................................................. I-MOD
+
+
+ I-MOD
+e I-MOD
+) I-MOD
+............................................................................................. I-SUP
+
+
+ I-SUP
+................................................................................................. I-SUP
+
+
+ I-SUP
+6 I-ADD
+. I-ADD
+enfermeiros I-ADD
+, I-ADD
+técnicos I-ADD
+de I-ADD
+enfermagem I-ADD
+e I-ADD
+auxiliares I-ADD
+de I-MOD
+enfermagem I-MOD
+e I-MOD
+obstetrizes I-MOD
+que I-MOD
+comprovem I-MOD
+exclusivamente I-ADD
+tempo I-ADD
+de I-ADD
+efetivo I-ADD
+exercício I-ADD
+das I-ADD
+funções I-ADD
+de I-ADD
+enfermagem I-ADD
+; I-ADD
+e I-ADD
+
+
+ I-MOD
+....................................................................................... I-MOD
+” I-MOD
+( I-MOD
+nr I-MOD
+) I-MOD
+
+
+
+
+ I-MOD
+“ I-MOD
+art I-MOD
+. I-MOD
+12 I-SUP
+. E-SUP
+............................................................................................. O
+
+
+
+
+
+
+ O
+câmara O
+dos O
+deputados O
+
+
+
+
+ O
+.......................................................................................................... O
+
+
+ I-MOD
+§ I-MOD
+4º I-MOD
+................................................................................................... I-MOD
+
+
+ I-MOD
+.......................................................................................................... I-MOD
+
+
+ I-MOD
+vi I-MOD
+– I-MOD
+o I-MOD
+titular I-MOD
+de I-MOD
+cargo I-ADD
+de I-MOD
+enfermeiro I-MOD
+, I-MOD
+técnico I-ADD
+de I-MOD
+enfermagem I-MOD
+, I-MOD
+auxiliar I-MOD
+de I-MOD
+enfermagem I-MOD
+e I-MOD
+obstetriz I-MOD
+, I-MOD
+a I-MOD
+os I-MOD
+55 I-MOD
+anos I-MOD
+de I-MOD
+idade I-MOD
+, I-SUP
+vinte I-SUP
+e I-ADD
+cinco I-ADD
+anos I-ADD
+de I-SUP
+contribuição I-ADD
+exclusivamente I-ADD
+em I-ADD
+efetivo I-ADD
+exercício I-ADD
+das I-ADD
+funções I-ADD
+de I-ADD
+enfermagem I-ADD
+, I-SUP
+dez I-ADD
+anos I-SUP
+de I-SUP
+efetivo I-SUP
+exercício I-SUP
+no I-SUP
+serviço I-SUP
+público I-SUP
+e I-SUP
+cinco I-SUP
+anos I-SUP
+no I-SUP
+cargo I-MOD
+efetivo I-MOD
+em I-SUP
+que I-ADD
+for I-ADD
+concedida I-ADD
+a I-ADD
+aposentadoria I-ADD
+, I-ADD
+para I-ADD
+ambos I-ADD
+os I-ADD
+sexos I-MOD
+; I-SUP
+
+
+ I-MOD
+.......................................................................................................... I-MOD
+
+
+ I-MOD
+§ I-MOD
+7º I-MOD
+................................................................................................... I-MOD
+
+
+ I-MOD
+.......................................................................................................... I-MOD
+
+
+ I-MOD
+iv I-MOD
+– I-MOD
+na I-ADD
+hipótese I-SUP
+prevista I-SUP
+no I-SUP
+nos I-SUP
+incisos I-MOD
+v I-SUP
+e I-SUP
+vi I-SUP
+do I-SUP
+§ I-MOD
+4º I-SUP
+, I-MOD
+a I-MOD
+cem I-MOD
+por I-MOD
+cento I-ADD
+da I-ADD
+média I-ADD
+aritmética I-ADD
+a I-MOD
+que I-MOD
+se I-MOD
+refere I-MOD
+o I-MOD
+§ I-MOD
+6º. I-MOD
+
+
+ I-MOD
+................................................................................................ I-MOD
+” I-MOD
+( I-MOD
+nr I-MOD
+) I-MOD
+
+
+
+
+ I-MOD
+“ I-MOD
+art I-MOD
+. I-MOD
+24 I-MOD
+. I-MOD
+............................................................................................. I-MOD
+
+
+ I-MOD
+.......................................................................................................... I-MOD
+
+
+ I-MOD
+§ I-MOD
+1º-a I-ADD
+o I-ADD
+titular I-ADD
+do I-ADD
+cargo I-MOD
+de I-MOD
+enfermeiro I-MOD
+, I-MOD
+técnico I-MOD
+de I-MOD
+enfermagem I-MOD
+ou I-MOD
+auxiliar I-MOD
+de I-MOD
+enfermagem I-MOD
+e I-MOD
+obstetriz I-MOD
+poderá I-MOD
+se I-MOD
+aposentar I-MOD
+a I-MOD
+os I-MOD
+55 I-MOD
+anos I-MOD
+de I-MOD
+idade I-SUP
+, I-SUP
+desde I-SUP
+que I-MOD
+comprove I-MOD
+vinte I-SUP
+e I-ADD
+cinco I-ADD
+anos I-ADD
+de I-SUP
+contribuição I-ADD
+exclusivamente I-ADD
+em I-ADD
+efetivo I-ADD
+exercício I-ADD
+das I-ADD
+funções I-ADD
+de I-ADD
+enfermagem I-ADD
+. I-ADD
+
+
+ I-ADD
+§ I-MOD
+2º I-MOD
+o I-MOD
+valor I-MOD
+das I-MOD
+aposentadorias I-MOD
+de I-MOD
+que I-ADD
+trata I-MOD
+este I-MOD
+artigo I-MOD
+corresponderá I-MOD
+a I-MOD
+sessenta I-MOD
+por I-MOD
+cento I-MOD
+da I-MOD
+média I-MOD
+aritmética I-ADD
+definida I-ADD
+na I-MOD
+forma I-MOD
+prevista I-MOD
+no I-MOD
+art I-MOD
+. I-MOD
+29 I-MOD
+, I-MOD
+com I-MOD
+acréscimo I-MOD
+de I-MOD
+dois I-MOD
+por I-MOD
+cento I-MOD
+para I-ADD
+cada I-ADD
+ano I-ADD
+de I-ADD
+contribuição I-ADD
+que I-ADD
+exceder I-ADD
+o I-ADD
+tempo I-ADD
+de I-ADD
+vinte I-ADD
+anos I-ADD
+de I-ADD
+contribuição I-ADD
+, I-ADD
+exceto I-ADD
+para I-ADD
+os I-ADD
+trabalhadores I-MOD
+rurais I-MOD
+a I-MOD
+que I-MOD
+se I-MOD
+refere I-SUP
+o I-SUP
+§ I-SUP
+
+
+ I-MOD
+8º I-ADD
+do I-ADD
+art I-ADD
+. I-ADD
+195 I-ADD
+da I-ADD
+constituição I-ADD
+, I-ADD
+cujo I-MOD
+valor I-MOD
+será I-MOD
+de I-MOD
+um I-MOD
+salário I-MOD
+- I-MOD
+mínimo I-ADD
+; I-MOD
+e I-ADD
+para I-ADD
+o I-ADD
+titular I-MOD
+de I-MOD
+cargo I-MOD
+de I-MOD
+enfermeiro I-MOD
+, I-MOD
+técnico I-ADD
+de I-MOD
+enfermagem I-MOD
+, I-MOD
+auxiliar I-MOD
+de I-MOD
+enfermagem I-MOD
+e I-MOD
+obstetriz I-MOD
+, I-MOD
+cujo I-MOD
+valor I-MOD
+será I-MOD
+de I-MOD
+cem I-MOD
+por I-MOD
+cento I-ADD
+da I-ADD
+média I-ADD
+aritmética I-ADD
+definida I-ADD
+a I-MOD
+que I-MOD
+se I-MOD
+refere I-MOD
+o I-MOD
+art I-SUP
+. I-SUP
+29 I-SUP
+. E-SUP
+
+
+
+
+
+
+ O
+câmara O
+dos O
+deputados O
+
+
+
+
+
+ O

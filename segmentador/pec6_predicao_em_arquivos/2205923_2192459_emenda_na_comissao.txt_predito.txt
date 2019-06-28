@@ -1,72 +1,126 @@
-e O
-(nr) O
+) O
+2 O
 câmara O
 deputados O
+proposta O
 de O
 emenda O
 à O
 constituição O
-(do O
+
+
+ O
+( O
+do O
 sr. O
 boca O
 aberta O
 e O
-outros) O
-(aposentadoria I-MOD
-dos I-MOD
-produtores I-MOD
-rurais O
+outros B-ADD
+) I-ADD
+
+
+ I-ADD
+( I-ADD
+aposentadoria I-ADD
+dos I-ADD
+produtores I-ADD
+rurais I-ADD
 e I-MOD
 dos I-MOD
-professores) I-MOD
+professores I-MOD
+) I-MOD
+
+
+
+
+ I-MOD
 modifica I-MOD
-o O
-sistema O
-de O
+o I-MOD
+sistema I-MOD
+de I-MOD
 previdência I-MOD
-social, I-MOD
+social I-MOD
+, I-MOD
 estabelece I-MOD
+
+
+ I-MOD
 regras I-MOD
 de I-MOD
 transição I-MOD
 e I-MOD
 disposições I-MOD
-transitórias, I-MOD
+transitórias I-MOD
+, I-MOD
 e I-MOD
-dá O
-outras O
-providências. O
+dá I-MOD
+
+
+ I-MOD
+outras I-MOD
+providências O
+. O
+
+
+
+
+
+
+ O
 emenda O
 modificativa O
-n.º: O
-art. O
-1 O
-dê-se O
-ao O
+n.º O
+: O
+
+
+ O
+art O
+. O
+1 E-SUP
+dê O
+- O
+se O
+a O
+o O
 capítulo O
-iii, O
+iii O
+, O
 das O
 regras O
 de O
 transição O
 relacionadas O
 aos O
+
+
+ O
 regimes O
 próprios O
 de O
 previdência O
-social. O
-aposentadoria O
-dos O
+social O
+. I-MOD
+
+
+ I-MOD
+aposentadoria I-MOD
+dos I-MOD
 produtores I-MOD
-rurais I-MOD
+rurais I-ADD
 e I-MOD
 dos I-MOD
-professores:. I-MOD
-art. I-MOD
+professores I-MOD
+: I-MOD
+. I-MOD
+
+
+ I-MOD
+art I-MOD
+. I-MOD
 3º I-MOD
 ressalvado I-MOD
-o I-MOD
+o I-SUP
 direito I-ADD
 de I-ADD
 opção I-ADD
@@ -76,25 +130,30 @@ pelas I-ADD
 normas I-ADD
 estabelecidas I-ADD
 na I-ADD
-lei I-MOD
-complementar, I-ADD
+lei I-ADD
+complementar I-ADD
+, I-ADD
 o I-ADD
 produtor I-ADD
-rural I-MOD
+rural I-ADD
 e I-MOD
-professores, I-MOD
+professores I-MOD
+, I-MOD
 servidor I-MOD
 público I-MOD
 da I-MOD
-união, I-MOD
+união I-MOD
+, I-MOD
 dos I-MOD
-estados, I-MOD
+estados I-MOD
+, I-MOD
 do I-MOD
 distrito I-MOD
 federal I-MOD
 e I-MOD
-dos I-SUP
-municípios, I-SUP
+dos I-MOD
+municípios I-MOD
+, I-SUP
 incluídas I-SUP
 suas I-SUP
 entidades I-SUP
@@ -102,7 +161,8 @@ autárquicas I-SUP
 e I-SUP
 suas I-SUP
 fundações I-SUP
-públicas, I-SUP
+públicas I-SUP
+, I-SUP
 que I-SUP
 tenha I-SUP
 ingressado I-SUP
@@ -113,23 +173,32 @@ em I-SUP
 cargo I-SUP
 efetivo I-SUP
 até I-MOD
-a I-SUP
-data I-SUP
+a I-MOD
+data I-MOD
 de I-SUP
-promulgação I-ADD
-desta I-SUP
+promulgação I-SUP
+d I-SUP
+esta I-SUP
 emenda I-SUP
-à I-ADD
-constituição I-SUP
-poderá I-SUP
-aposentar-se I-ADD
-voluntariamente I-ADD
+à I-SUP
+constituição I-ADD
+poderá I-ADD
+aposentar I-ADD
+- I-ADD
+se I-MOD
+voluntariamente I-MOD
 quando I-MOD
-preencher, I-MOD
-cumulativamente, I-MOD
+preencher I-MOD
+, I-MOD
+cumulativamente I-MOD
+, I-MOD
 os I-MOD
-seguintes I-MOD
-requisitos: I-MOD
+seguintes I-ADD
+requisitos I-ADD
+: I-ADD
+
+
+ I-ADD
 § I-ADD
 5º I-ADD
 para I-ADD
@@ -159,9 +228,10 @@ infantil I-SUP
 e I-SUP
 no I-SUP
 ensino I-MOD
-fundamental I-MOD
+fundamental I-SUP
 e I-MOD
-médio, I-MOD
+médio I-MOD
+, I-MOD
 os I-MOD
 requisitos I-MOD
 de I-MOD
@@ -177,9 +247,10 @@ os I-ADD
 incisos I-SUP
 i I-SUP
 e I-SUP
-ii I-MOD
-do I-SUP
-caput, I-SUP
+ii I-SUP
+do I-MOD
+caput I-SUP
+, I-MOD
 de I-MOD
 idade I-MOD
 de I-MOD
@@ -193,67 +264,93 @@ o I-MOD
 somatório I-MOD
 da I-MOD
 idade I-MOD
-e I-MOD
-do I-MOD
-tempo I-SUP
-de I-MOD
-contribuição, I-MOD
-incluídas I-MOD
-as I-MOD
-frações I-MOD
-serão: I-MOD
+e I-ADD
+do I-ADD
+tempo I-ADD
+de I-ADD
+contribuição I-ADD
+, I-ADD
+incluídas I-ADD
+as I-ADD
+frações I-ADD
+serão I-MOD
+: I-MOD
+
+
+ I-MOD
 i I-MOD
 - I-MOD
 cinquenta I-MOD
 anos I-MOD
 de I-MOD
-idade, I-MOD
+idade I-MOD
+, I-MOD
 se I-MOD
-mulher, I-MOD
+mulher I-MOD
+, I-MOD
 e I-MOD
 cinquenta I-MOD
 e I-MOD
 dois I-MOD
 anos I-MOD
 de I-MOD
-idade, I-MOD
-se I-SUP
-homem, I-MOD
+idade I-MOD
+, I-MOD
+se I-MOD
+homem I-MOD
+, I-MOD
 na I-MOD
 data I-SUP
 de I-SUP
 promulgação I-SUP
-desta I-SUP
-emenda O
-à O
-constituição; I-SUP
-ii I-SUP
-- I-SUP
+d I-SUP
+esta I-SUP
+emenda I-SUP
+à I-SUP
+constituição I-SUP
+; I-ADD
+
+
+ I-ADD
+ii I-ADD
+- I-ADD
 vinte I-ADD
-anos I-MOD
-de I-MOD
-contribuição, I-MOD
-se I-MOD
-mulher, I-MOD
+anos I-ADD
+de I-ADD
+contribuição I-ADD
+, I-ADD
+se I-ADD
+mulher I-ADD
+, I-ADD
 e I-MOD
 vinte I-MOD
 e I-MOD
-cinco I-MOD
-anos I-MOD
-de I-MOD
-contribuição, I-MOD
-se I-SUP
-homem, I-MOD
+cinco I-ADD
+anos I-ADD
+de I-ADD
+contribuição I-ADD
+, I-ADD
+se I-ADD
+homem I-ADD
+, I-ADD
 na I-MOD
 data I-SUP
 de I-SUP
 promulgação I-SUP
-desta I-SUP
+d I-SUP
+esta I-SUP
 emenda I-SUP
 à I-SUP
-constituição; I-SUP
+constituição I-SUP
+; I-SUP
 e I-SUP
-art. I-SUP
+
+
+
+
+ I-ADD
+art I-SUP
+. I-SUP
 2º I-ADD
 esta I-SUP
 emenda I-SUP
@@ -266,7 +363,21 @@ na I-SUP
 data I-SUP
 de I-SUP
 sua I-SUP
-publicação. I-SUP
-câmara O
+publicação I-MOD
+. I-MOD
+
+
+
+
+
+
+ I-MOD
+câmara I-MOD
 dos O
 deputados O
+
+
+
+
+
+ O

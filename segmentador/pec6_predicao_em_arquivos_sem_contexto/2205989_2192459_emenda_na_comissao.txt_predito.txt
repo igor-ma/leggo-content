@@ -1,0 +1,245 @@
+de O
+. O
+comissão O
+destinada O
+emitir O
+parecer O
+
+
+ O
+sobre O
+a O
+proposta O
+de O
+emenda O
+à O
+constituição O
+nº O
+6 O
+, O
+de I-SUP
+
+
+ I-SUP
+2019 I-SUP
+. O
+
+
+ O
+proposta O
+de O
+emenda O
+à O
+constituição O
+nº O
+6 O
+, O
+de I-SUP
+2019 I-SUP
+
+
+ I-MOD
+art I-MOD
+. I-MOD
+1º I-MOD
+- I-MOD
+o I-MOD
+art I-MOD
+. I-MOD
+20 I-ADD
+da I-ADD
+proposta I-ADD
+de I-ADD
+emenda O
+à O
+constituição O
+nº O
+06 O
+, I-ADD
+de I-MOD
+2019 I-MOD
+passa I-MOD
+a I-MOD
+vigorar I-MOD
+com I-MOD
+a I-MOD
+seguinte I-MOD
+redação I-MOD
+” I-MOD
+. E-MOD
+
+
+ O
+emenda O
+modificativa O
+nº O
+
+
+ O
+art B-MOD
+. I-MOD
+1º I-MOD
+- I-MOD
+o I-MOD
+art I-MOD
+. I-MOD
+20 I-ADD
+da I-ADD
+proposta I-ADD
+de I-ADD
+emenda O
+à O
+constituição O
+nº O
+06 O
+, I-ADD
+de I-MOD
+2019 I-MOD
+passa I-MOD
+a I-MOD
+vigorar I-MOD
+com I-MOD
+a I-MOD
+seguinte I-MOD
+redação I-MOD
+: I-ADD
+art I-MOD
+. I-MOD
+20 I-MOD
+. I-ADD
+ressalvado I-MOD
+o I-ADD
+direito I-ADD
+de I-ADD
+opção I-ADD
+à I-ADD
+aposentadoria I-ADD
+pelas I-ADD
+normas I-ADD
+estabelecidas I-ADD
+nos I-ADD
+art I-SUP
+. I-SUP
+18 I-SUP
+, I-ADD
+art I-MOD
+. I-MOD
+19 I-MOD
+e I-MOD
+art I-MOD
+. I-MOD
+24 I-MOD
+ou I-MOD
+pela I-MOD
+lei I-MOD
+complementar I-MOD
+a I-MOD
+que I-ADD
+se I-ADD
+refere I-ADD
+o I-MOD
+§ I-MOD
+1º I-SUP
+do I-SUP
+art I-SUP
+. I-SUP
+201 I-SUP
+da I-SUP
+constituição I-SUP
+, I-SUP
+fica I-SUP
+assegurado I-ADD
+o I-ADD
+direito I-ADD
+à I-ADD
+aposentadoria I-ADD
+por I-ADD
+tempo I-ADD
+de I-ADD
+contribuição I-ADD
+a I-ADD
+o I-ADD
+segurado I-ADD
+filiado I-ADD
+a I-ADD
+o I-ADD
+regime I-ADD
+geral I-ADD
+de I-ADD
+previdência I-ADD
+social I-ADD
+que I-ADD
+cumprir I-MOD
+período I-MOD
+adicional I-MOD
+correspondente I-ADD
+a I-ADD
+trinta I-ADD
+por I-ADD
+cento I-ADD
+do I-ADD
+tempo I-ADD
+que I-ADD
+, I-MOD
+na I-SUP
+data I-SUP
+de I-SUP
+promulgação I-SUP
+d I-SUP
+esta I-SUP
+emenda I-SUP
+à I-SUP
+constituição I-SUP
+, I-SUP
+faltaria I-SUP
+para I-SUP
+atingir I-ADD
+trinta I-ADD
+anos I-ADD
+de I-ADD
+contribuição I-ADD
+, I-ADD
+se I-ADD
+mulher I-ADD
+, I-ADD
+e I-MOD
+trinta I-MOD
+e I-ADD
+cinco I-ADD
+anos I-ADD
+de I-ADD
+contribuição I-ADD
+, I-ADD
+se I-ADD
+homem I-ADD
+. I-ADD
+
+
+
+
+ I-MOD
+parágrafo I-MOD
+único I-MOD
+. I-MOD
+................................................................................... I-MOD
+
+
+ I-MOD
+.................................................................................................. I-MOD
+( I-MOD
+nr I-MOD
+) I-MOD
+
+
+
+
+
+
+ I-MOD
+1 O
+
+
+
+
+
+ O

@@ -1,60 +1,101 @@
-de O
-de O
+1998 O
+” O
 câmara O
 deputados O
+comissão O
 especial O
 pec O
 6/2019 O
 – O
 reforma O
 da O
+
+
+ O
 previdência O
+
+
+
+
+ O
 pec O
 006/19 O
 - O
 previdência O
 social O
+
+
+
+
+ O
 emenda O
 modificativa O
-n° O
+n O
+° O
 .......... O
-(sr. O
-hiran O
+
+
+ O
+( I-MOD
+sr. I-MOD
+hiran I-MOD
 gonçalves I-MOD
 e I-MOD
-outros) I-MOD
+outros I-MOD
+) I-MOD
+
+
+ I-MOD
 altera I-MOD
 o I-MOD
-art. I-ADD
+art I-ADD
+. I-ADD
 40 I-ADD
 da I-ADD
-constituição, I-ADD
+constituição I-ADD
+, I-ADD
 inserido I-ADD
 no I-ADD
 artigo I-ADD
 1º I-ADD
+
+
+ I-ADD
 da I-SUP
 proposta I-ADD
 de I-ADD
 emenda I-ADD
 à I-ADD
 constituição I-ADD
-nº I-ADD
+nº I-SUP
 6 I-ADD
 de I-ADD
-2019. I-SUP
-art. I-SUP
+2019 I-SUP
+. I-ADD
+
+
+
+
+ O
+art O
+. O
 1º I-MOD
-dê-se I-MOD
-ao I-MOD
-art. I-MOD
-40 I-MOD
-da I-MOD
+dê O
+- O
+se O
+a O
+o I-MOD
+art I-ADD
+. I-MOD
+40 I-ADD
+da I-ADD
 constituição I-ADD
-federal, I-MOD
+federal I-ADD
+, I-ADD
 contido I-MOD
-no I-SUP
-art. I-SUP
+no I-MOD
+art I-MOD
+. I-MOD
 1º I-SUP
 da I-SUP
 proposta I-ADD
@@ -63,24 +104,61 @@ emenda I-ADD
 à I-ADD
 constituição I-ADD
 nº I-ADD
-6, I-ADD
+6 I-ADD
+, I-ADD
 de I-ADD
-2019, I-ADD
-a I-ADD
+2019 I-ADD
+, I-SUP
+a I-MOD
 seguinte I-MOD
-redação: I-MOD
-“art.40........................................................................................... I-MOD
+redação I-MOD
+: I-MOD
+
+
+ I-MOD
+“ I-MOD
+art.40 I-MOD
+........................................................................................... I-MOD
+
+
+ I-MOD
 ...................................................................................................... I-MOD
-§1º................................................................................................ I-MOD
+
+
+ I-MOD
+§ I-MOD
+1º I-MOD
+................................................................................................ I-MOD
+
+
+ I-MOD
 ...................................................................................................... I-MOD
+
+
+ I-MOD
 i I-MOD
+
+
+ I-MOD
 ...................................................................................................... I-MOD
-e).................................................................................................. I-MOD
+
+
+ I-MOD
+e I-MOD
+) I-MOD
+.................................................................................................. I-MOD
+
+
+ I-SUP
 ...................................................................................................... I-MOD
-6. I-MOD
-carreiras I-MOD
-de I-MOD
-oficiais I-MOD
+
+
+ I-SUP
+6 I-MOD
+. I-MOD
+carreiras I-SUP
+de I-SUP
+oficiais I-SUP
 e I-MOD
 agentes I-MOD
 de I-MOD
@@ -89,29 +167,58 @@ da I-SUP
 agência I-MOD
 brasileira I-MOD
 de I-MOD
-inteligência.” I-MOD
-art. I-MOD
-2º I-MOD
-dê-se I-MOD
-ao I-MOD
-art. I-MOD
-4º, I-MOD
-§6º, I-MOD
-da O
+inteligência I-MOD
+. I-MOD
+” I-MOD
+
+
+
+
+ O
+art O
+. O
+2º O
+dê O
+- O
+se O
+a O
+o I-MOD
+art I-MOD
+. I-MOD
+4º I-MOD
+, I-MOD
+§ I-MOD
+6º I-MOD
+, I-MOD
+da I-ADD
 proposta I-ADD
 de I-ADD
 emenda I-ADD
 à I-ADD
 constituição I-ADD
 nº I-ADD
-6, I-ADD
+6 I-ADD
+, I-ADD
 de I-ADD
-2019, I-ADD
-a I-ADD
+2019 I-ADD
+, I-SUP
+a I-MOD
 seguinte I-MOD
-redação: I-MOD
-“art.4º........................................................................................... I-ADD
-...................................................................................................... I-ADD
+redação I-MOD
+: I-MOD
+
+
+ I-MOD
+“ I-MOD
+art.4º I-MOD
+........................................................................................... I-MOD
+
+
+ I-MOD
+...................................................................................................... I-MOD
+
+
+ I-MOD
 § I-ADD
 6º I-MOD
 exclusivamente I-MOD
@@ -124,35 +231,39 @@ no I-MOD
 inciso I-MOD
 iii I-SUP
 do I-SUP
-caput, I-MOD
+caput I-SUP
+, I-MOD
 serão I-MOD
 considerados I-MOD
-o I-MOD
+o I-SUP
 tempo I-MOD
 de I-MOD
 atividade I-MOD
 militar I-MOD
 nas I-MOD
 forças I-MOD
-armadas, I-MOD
+armadas I-MOD
+, I-MOD
 nas I-MOD
 polícias I-MOD
 militares I-MOD
 e I-MOD
-nos I-MOD
-corpos I-MOD
-de I-MOD
+nos I-SUP
+corpos I-SUP
+de I-SUP
 bombeiros I-MOD
-militares, I-MOD
-o I-ADD
-tempo I-ADD
-de I-MOD
+militares I-MOD
+, I-MOD
+o I-SUP
+tempo I-SUP
+de I-SUP
 atividade I-MOD
 como I-SUP
 agente I-SUP
 penitenciário I-SUP
 ou I-SUP
-socioeducativo, I-MOD
+socioeducativo I-SUP
+, I-MOD
 e I-SUP
 como I-SUP
 oficiais I-SUP
@@ -164,33 +275,66 @@ da I-SUP
 agência I-MOD
 brasileira I-MOD
 de I-MOD
-inteligência”. I-MOD
-art. I-MOD
-3º I-MOD
-dê-se I-MOD
-ao I-MOD
-art. I-MOD
-5º, I-MOD
-§6º, I-MOD
-da O
+inteligência I-MOD
+” I-MOD
+. I-MOD
+
+
+
+
+ I-MOD
+art I-MOD
+. I-MOD
+3º E-MOD
+dê B-MOD
+- O
+se O
+a O
+o I-MOD
+art I-MOD
+. I-MOD
+5º I-ADD
+, I-ADD
+§ I-ADD
+6º I-ADD
+, I-ADD
+da I-ADD
 proposta I-ADD
 de I-ADD
 emenda I-ADD
 à I-ADD
 constituição I-ADD
 nº I-ADD
-6, I-ADD
+6 I-ADD
+, I-ADD
 de I-ADD
-2019, I-ADD
-a I-ADD
-seguinte I-ADD
-redação: I-SUP
-1 O
+2019 I-ADD
+, I-SUP
+a I-MOD
+seguinte I-SUP
+redação I-SUP
+: I-SUP
+
+
+ I-SUP
+1 I-SUP
 de I-SUP
 11 I-SUP
+
+
+
+
+
+
+ I-SUP
 câmara O
 dos O
 deputados O
+
+
+
+
+ O
 comissão O
 especial O
 pec O
@@ -198,10 +342,27 @@ pec O
 – O
 reforma O
 da O
+
+
+ O
 previdência O
-“art.5º........................................................................................... O
-...................................................................................................... O
-§6º I-MOD
+
+
+
+
+ O
+“ I-MOD
+art.5º I-MOD
+........................................................................................... I-MOD
+
+
+ I-MOD
+...................................................................................................... I-MOD
+
+
+ I-MOD
+§ I-ADD
+6º I-MOD
 exclusivamente I-MOD
 para I-MOD
 os I-MOD
@@ -212,33 +373,36 @@ no I-MOD
 inciso I-MOD
 iii I-SUP
 do I-SUP
-caput, I-MOD
+caput I-SUP
+, I-MOD
 serão I-MOD
 considerados I-MOD
-o I-MOD
+o I-SUP
 tempo I-MOD
 de I-MOD
 atividade I-MOD
 militar I-MOD
 nas I-MOD
 forças I-MOD
-armadas, I-MOD
+armadas I-MOD
+, I-MOD
 nas I-MOD
 polícias I-MOD
 militares I-MOD
 e I-MOD
-nos I-MOD
-corpos I-MOD
-de I-MOD
+nos I-SUP
+corpos I-SUP
+de I-SUP
 bombeiros I-MOD
-militares, I-MOD
-o I-ADD
-tempo I-MOD
-de I-MOD
+militares I-MOD
+, I-MOD
+o I-SUP
+tempo I-SUP
+de I-SUP
 atividade I-MOD
 como I-MOD
 policial I-SUP
-dos I-SUP
+dos I-MOD
 órgãos O
 a I-MOD
 que I-MOD
@@ -250,15 +414,18 @@ iv I-MOD
 do I-MOD
 caput I-MOD
 do I-MOD
-art. I-MOD
-51, I-MOD
+art I-MOD
+. I-MOD
+51 I-MOD
+, I-MOD
 o I-MOD
 inciso I-MOD
 xiii I-MOD
 do I-MOD
 caput I-MOD
 do I-MOD
-art. I-MOD
+art I-MOD
+. I-MOD
 52 I-MOD
 e I-MOD
 os I-MOD
@@ -266,14 +433,19 @@ incisos I-MOD
 i I-MOD
 a I-MOD
 iv I-MOD
-do I-MOD
+do O
 caput I-MOD
 do I-MOD
-art. I-MOD
+art I-MOD
+. I-MOD
 144 I-MOD
-da I-MOD
-constituição, I-MOD
-e I-MOD
+
+
+ I-MOD
+da I-ADD
+constituição I-ADD
+, I-ADD
+e I-SUP
 como I-SUP
 oficiais I-SUP
 e I-SUP
@@ -284,40 +456,65 @@ da I-SUP
 agência I-MOD
 brasileira I-MOD
 de I-MOD
-inteligência”. I-MOD
-art. O
-4º O
-acrescente-se B-ADD
-à I-ADD
+inteligência I-MOD
+” I-MOD
+. I-MOD
+
+
+
+
+ I-MOD
+art I-MOD
+. I-MOD
+4º I-MOD
+acrescente I-MOD
+- I-MOD
+se I-MOD
+à O
 proposta I-ADD
 de I-ADD
 emenda I-ADD
 à I-ADD
 constituição I-ADD
 nº I-ADD
-6, I-ADD
-de I-ADD
-2019, I-ADD
-o I-ADD
-art. I-ADD
-7º-a, I-ADD
+6 I-ADD
+, I-ADD
+de I-SUP
+2019 I-ADD
+, I-MOD
+o I-MOD
+art I-ADD
+. I-ADD
+7º-a I-ADD
+, I-ADD
 com I-ADD
-a I-ADD
+a I-MOD
 seguinte I-ADD
-redação: I-ADD
-aposentadoria I-ADD
-dos I-ADD
+redação I-ADD
+: I-ADD
+
+
+ I-MOD
+aposentadoria I-MOD
+dos I-MOD
 oficiais I-ADD
 e I-ADD
 agentes I-MOD
 de I-MOD
-inteligência I-SUP
+inteligência I-MOD
 da I-SUP
+
+
+ I-MOD
 agência I-MOD
 brasileira I-MOD
 de I-MOD
 inteligência I-MOD
-art. I-MOD
+
+
+ I-MOD
+art I-MOD
+. I-MOD
 7º-a I-MOD
 ressalvado I-MOD
 o I-MOD
@@ -331,22 +528,27 @@ normas I-ADD
 estabelecidas I-ADD
 na I-ADD
 lei I-ADD
-complementar I-ADD
+complementar I-SUP
 a I-SUP
 que I-ADD
 se I-ADD
 refere I-ADD
-o I-SUP
+o I-MOD
 § I-MOD
+
+
+ I-SUP
 1º I-MOD
 do I-MOD
-art. I-MOD
-40 I-MOD
+art I-ADD
+. I-MOD
+40 I-ADD
 da I-MOD
-constituição, I-MOD
+constituição I-MOD
+, I-MOD
 os I-MOD
-oficiais I-MOD
-e I-MOD
+oficiais I-SUP
+e I-SUP
 agentes I-MOD
 de I-MOD
 inteligência I-SUP
@@ -363,52 +565,70 @@ respectivas I-MOD
 carreiras I-MOD
 até I-MOD
 a I-MOD
-data I-SUP
+data I-MOD
 de I-SUP
-promulgação I-ADD
-desta I-SUP
+promulgação I-SUP
+d I-SUP
+esta I-SUP
 emenda I-SUP
-à I-ADD
-constituição I-SUP
-poderão I-SUP
-aposentar-se I-ADD
-voluntariamente I-ADD
+à I-SUP
+constituição I-ADD
+poderão I-ADD
+aposentar I-ADD
+- I-ADD
+se I-ADD
+voluntariamente I-MOD
 quando I-MOD
-preencherem, I-MOD
-cumulativamente, I-MOD
+preencherem I-MOD
+, I-MOD
+cumulativamente I-MOD
+, I-MOD
 os I-MOD
 seguintes I-MOD
-requisitos: I-MOD
+requisitos I-MOD
+: I-MOD
+
+
+ I-MOD
 i I-MOD
 - I-MOD
 cinquenta I-MOD
 e I-MOD
 cinco I-MOD
-anos I-SUP
+anos I-MOD
 de I-SUP
-idade, I-SUP
+idade I-SUP
+, I-SUP
 para I-SUP
 ambos I-SUP
 os I-MOD
-sexos; I-MOD
+sexos I-MOD
+; I-MOD
 ii I-MOD
 - I-MOD
 vinte I-MOD
 e I-MOD
-cinco I-MOD
-anos I-MOD
-de I-MOD
-contribuição, I-MOD
-se I-MOD
-mulher, I-MOD
+cinco I-ADD
+anos I-ADD
+de I-ADD
+contribuição I-ADD
+, I-ADD
+se I-ADD
+mulher I-ADD
+, I-ADD
+e I-ADD
+trinta I-ADD
+anos I-ADD
+de I-ADD
+contribuição I-ADD
+, I-ADD
+se I-ADD
+homem I-ADD
+; I-ADD
 e I-MOD
-trinta I-MOD
-anos I-MOD
-de I-MOD
-contribuição, I-MOD
-se I-MOD
-homem; I-MOD
-e I-MOD
+
+
+ I-MOD
 iii I-MOD
 - I-MOD
 quinze I-MOD
@@ -419,17 +639,24 @@ em I-MOD
 carreiras I-MOD
 de I-SUP
 oficiais I-MOD
-e I-MOD
+e I-SUP
 agentes I-MOD
 de I-MOD
-inteligência, I-MOD
+inteligência I-MOD
+, I-MOD
 se I-MOD
-mulher, I-MOD
+mulher I-MOD
+, I-MOD
 e I-MOD
 vinte I-MOD
-anos, I-MOD
+anos I-MOD
+, I-MOD
 se I-MOD
-homem. I-ADD
+homem I-MOD
+. I-ADD
+
+
+ I-ADD
 § I-ADD
 1º I-ADD
 lei I-ADD
@@ -451,9 +678,10 @@ i I-MOD
 do I-MOD
 caput I-MOD
 será I-MOD
-ajustada, I-MOD
+ajustada I-MOD
+, I-MOD
 quando I-MOD
-o I-MOD
+o I-SUP
 aumento I-SUP
 na I-SUP
 expectativa I-SUP
@@ -469,29 +697,34 @@ e I-MOD
 cinco I-MOD
 anos I-MOD
 de I-MOD
-idade. I-MOD
+idade I-MOD
+. I-MOD
+
+
+ I-MOD
 § I-MOD
-2º I-SUP
+2º I-MOD
 a I-MOD
 partir I-MOD
 de I-SUP
 1º I-MOD
 de I-MOD
 janeiro I-MOD
-de I-ADD
-2020, I-ADD
+de I-MOD
+2020 I-ADD
+, I-ADD
 o I-ADD
 limite I-ADD
 mínimo I-ADD
 de I-ADD
 atividade I-ADD
 em I-ADD
-carreiras I-ADD
+carreiras I-SUP
 de I-SUP
 oficiais I-SUP
 e I-SUP
 agentes I-SUP
-de I-SUP
+de I-MOD
 inteligência I-SUP
 a I-MOD
 que I-ADD
@@ -506,7 +739,7 @@ passará I-ADD
 a I-SUP
 ser I-SUP
 acrescido I-SUP
-em I-SUP
+em I-ADD
 um I-MOD
 ano I-MOD
 a I-MOD
@@ -515,14 +748,15 @@ dois I-MOD
 anos I-MOD
 de I-MOD
 efetivo I-MOD
-exercício, I-SUP
+exercício I-MOD
+, I-SUP
 até I-SUP
 atingir I-SUP
-vinte I-SUP
+vinte I-MOD
 anos I-SUP
 para I-SUP
 a I-SUP
-mulher I-MOD
+mulher I-SUP
 e I-SUP
 vinte I-SUP
 e I-SUP
@@ -530,13 +764,29 @@ cinco I-SUP
 anos I-SUP
 para I-SUP
 o I-SUP
-homem. I-SUP
+homem I-SUP
+. I-SUP
+
+
+ I-SUP
 2 I-SUP
 de I-SUP
 11 O
+
+
+
+
+
+
+ I-SUP
 câmara O
 dos O
 deputados O
+
+
+
+
+ O
 comissão O
 especial O
 pec O
@@ -544,11 +794,19 @@ pec O
 – O
 reforma O
 da O
+
+
+ O
 previdência O
-§ O
-3º O
-os O
-proventos I-MOD
+
+
+
+
+ I-MOD
+§ I-MOD
+3º I-MOD
+os I-MOD
+proventos I-ADD
 das I-ADD
 aposentadorias I-ADD
 concedidas I-ADD
@@ -556,9 +814,14 @@ nos I-ADD
 termos I-ADD
 do I-ADD
 disposto I-ADD
-neste I-ADD
-artigo I-ADD
-corresponderão: I-SUP
+n I-SUP
+este I-ADD
+artigo I-SUP
+corresponderão I-MOD
+: I-ADD
+
+
+ I-ADD
 i I-ADD
 - I-ADD
 à I-ADD
@@ -572,20 +835,23 @@ no I-SUP
 cargo I-SUP
 efetivo I-SUP
 em I-SUP
-que I-MOD
-se I-MOD
-der I-MOD
-a I-SUP
-aposentadoria, I-SUP
-observado I-SUP
+que I-ADD
+se I-ADD
+der I-ADD
+a I-ADD
+aposentadoria I-ADD
+, I-ADD
+observado I-ADD
 o I-ADD
-disposto I-MOD
+disposto I-ADD
 no I-MOD
 § I-MOD
 10 I-MOD
 do I-MOD
-art. I-MOD
-3º, I-MOD
+art I-MOD
+. I-MOD
+3º I-MOD
+, I-SUP
 para I-SUP
 oficiais I-SUP
 e I-SUP
@@ -596,24 +862,29 @@ da I-SUP
 agência I-SUP
 brasileira I-MOD
 de I-MOD
-inteligência I-MOD
+inteligência I-SUP
 que I-SUP
 tenham I-SUP
 ingressado I-SUP
 no I-SUP
 serviço I-SUP
 público I-SUP
-nessas I-SUP
+n I-SUP
+essas I-SUP
 carreiras I-MOD
 antes I-MOD
 da I-MOD
 implementação I-MOD
-de I-MOD
-regime I-MOD
-de I-MOD
-previdência I-MOD
-complementar; I-MOD
+de I-ADD
+regime I-ADD
+de I-ADD
+previdência I-ADD
+complementar I-ADD
+; I-ADD
 e I-MOD
+
+
+ I-MOD
 ii I-MOD
 - I-MOD
 a I-MOD
@@ -636,9 +907,9 @@ a I-ADD
 cem I-ADD
 por I-ADD
 cento I-SUP
-de I-MOD
-todo I-MOD
-o I-MOD
+de I-ADD
+todo I-ADD
+o I-ADD
 período I-MOD
 contributivo I-SUP
 desde I-SUP
@@ -649,16 +920,19 @@ de I-SUP
 1994 I-SUP
 ou I-SUP
 desde I-SUP
-a O
-competência I-SUP
-do I-MOD
-início I-MOD
-da I-MOD
-contribuição, I-MOD
+a I-SUP
+competência I-ADD
+do I-ADD
+início I-ADD
+da I-ADD
+contribuição I-ADD
+, I-ADD
 se I-ADD
 posterior I-ADD
-àquela I-ADD
-competência, I-ADD
+à I-ADD
+quela I-ADD
+competência I-ADD
+, I-ADD
 acrescidos I-ADD
 de I-ADD
 dois I-ADD
@@ -668,21 +942,23 @@ para I-MOD
 cada I-ADD
 ano I-ADD
 de I-ADD
-contribuição I-MOD
+contribuição I-ADD
 que I-ADD
 exceder I-ADD
 a I-ADD
 vinte I-ADD
-anos I-SUP
-de I-MOD
-contribuição, I-MOD
-até I-MOD
-o I-SUP
-limite I-MOD
-de I-MOD
-cem I-SUP
+anos I-ADD
+de I-ADD
+contribuição I-ADD
+, I-ADD
+até I-ADD
+o I-ADD
+limite I-ADD
+de I-ADD
+cem I-MOD
 por I-SUP
-cento, I-SUP
+cento I-SUP
+, I-SUP
 para I-SUP
 o I-SUP
 oficial I-SUP
@@ -695,23 +971,28 @@ contemplado I-SUP
 no I-SUP
 inciso I-SUP
 i. I-SUP
+
+
+ I-SUP
 § I-SUP
 4º I-SUP
-os I-SUP
+os I-MOD
 proventos I-MOD
 das I-MOD
 aposentadorias I-MOD
 concedidas I-ADD
 nos I-ADD
 termos I-ADD
-do I-SUP
-disposto I-SUP
-neste I-SUP
+do I-ADD
+disposto I-ADD
+n I-SUP
+este I-SUP
 artigo I-SUP
 não I-SUP
-serão I-MOD
-inferiores I-SUP
-ao I-ADD
+serão I-SUP
+inferiores I-MOD
+a I-SUP
+o I-MOD
 valor I-MOD
 a I-MOD
 que I-MOD
@@ -721,13 +1002,15 @@ o I-SUP
 § I-SUP
 2º I-SUP
 do I-SUP
-art. I-SUP
+art I-ADD
+. I-SUP
 201 I-SUP
 da I-SUP
 constituição I-SUP
-e I-MOD
-serão I-MOD
-reajustados: I-MOD
+e I-SUP
+serão I-ADD
+reajustados I-ADD
+: I-ADD
 i I-ADD
 - I-ADD
 de I-MOD
@@ -735,16 +1018,19 @@ acordo I-MOD
 com I-MOD
 o I-MOD
 disposto I-MOD
-no I-SUP
-art. I-SUP
-7º I-SUP
+no I-MOD
+art I-SUP
+. I-SUP
+7º I-MOD
 da I-MOD
 emenda I-MOD
 constitucional I-MOD
 nº I-MOD
-41, I-MOD
+41 O
+, I-MOD
 de I-MOD
-2003, I-MOD
+2003 I-ADD
+, I-MOD
 se I-ADD
 concedidas I-ADD
 nos I-ADD
@@ -755,9 +1041,13 @@ no I-SUP
 inciso I-SUP
 i I-SUP
 do I-SUP
-§ O
-3º; I-ADD
-ou I-ADD
+§ I-SUP
+3º I-MOD
+; I-MOD
+ou I-MOD
+
+
+ I-MOD
 ii I-ADD
 - I-ADD
 nos I-ADD
@@ -769,8 +1059,9 @@ regime I-ADD
 geral I-ADD
 de I-ADD
 previdência I-ADD
-social, I-ADD
-se I-ADD
+social I-ADD
+, I-MOD
+se I-MOD
 concedidas I-MOD
 na I-MOD
 forma I-MOD
@@ -781,9 +1072,12 @@ ii I-ADD
 do I-ADD
 § I-ADD
 3º. I-ADD
+
+
+ I-ADD
 § I-ADD
 5º I-ADD
-o I-ADD
+o I-SUP
 disposto I-ADD
 nos I-ADD
 § I-SUP
@@ -794,9 +1088,10 @@ e I-MOD
 não I-MOD
 se I-MOD
 aplica I-MOD
-aos I-MOD
+a I-MOD
+os I-MOD
 oficiais I-MOD
-e I-SUP
+e I-MOD
 agentes I-MOD
 de I-MOD
 inteligência I-SUP
@@ -806,15 +1101,15 @@ brasileira I-MOD
 de I-MOD
 inteligência I-MOD
 que I-MOD
-tenham I-MOD
-ingressado I-MOD
-após I-SUP
+tenham I-ADD
+ingressado I-SUP
+após I-ADD
 a I-ADD
 instituição I-MOD
 do I-ADD
 regime I-ADD
 de O
-previdência I-SUP
+previdência I-ADD
 complementar I-SUP
 ou I-SUP
 que I-SUP
@@ -822,31 +1117,42 @@ tenham I-SUP
 exercido I-SUP
 a I-SUP
 opção I-SUP
-correspondente, I-SUP
-nos I-SUP
+correspondente I-SUP
+, I-SUP
+nos I-ADD
 termos I-ADD
 do I-ADD
 disposto I-ADD
-nos I-ADD
+nos I-SUP
 § I-ADD
-14, I-ADD
-§ I-ADD
-15 I-ADD
+14 I-SUP
+, I-ADD
+§ I-SUP
+15 I-SUP
 e I-SUP
 § I-SUP
 16 I-SUP
-do I-SUP
-art. I-MOD
-40 I-MOD
-da I-SUP
-constituição, I-MOD
-hipótese I-MOD
-em I-MOD
-que I-MOD
-os I-MOD
-proventos I-MOD
-de I-MOD
-aposentadoria: I-MOD
+
+
+ I-SUP
+do I-ADD
+art I-ADD
+. I-ADD
+40 I-ADD
+da I-ADD
+constituição I-ADD
+, I-ADD
+hipótese I-ADD
+em I-ADD
+que I-ADD
+os I-ADD
+proventos I-ADD
+de I-ADD
+aposentadoria I-ADD
+: I-ADD
+
+
+ I-ADD
 i I-MOD
 - I-MOD
 corresponderão I-MOD
@@ -870,9 +1176,9 @@ a I-ADD
 cem I-ADD
 por I-ADD
 cento I-SUP
-de I-MOD
-todo I-MOD
-o I-MOD
+de I-ADD
+todo I-ADD
+o I-ADD
 período I-MOD
 contributivo I-SUP
 desde I-SUP
@@ -883,16 +1189,19 @@ de I-SUP
 1994 I-SUP
 ou I-SUP
 desde I-SUP
-a O
-competência I-SUP
-do I-MOD
-início I-MOD
-da I-MOD
-contribuição, I-MOD
+a I-SUP
+competência I-ADD
+do I-ADD
+início I-ADD
+da I-ADD
+contribuição I-ADD
+, I-ADD
 se I-ADD
 posterior I-ADD
-àquela I-ADD
-competência, I-ADD
+à I-ADD
+quela I-ADD
+competência I-ADD
+, I-ADD
 acrescidos I-ADD
 de I-ADD
 dois I-ADD
@@ -901,13 +1210,25 @@ cento I-ADD
 para I-MOD
 cada I-MOD
 ano I-MOD
-de I-SUP
+de I-MOD
 3 I-SUP
 de O
 11 O
+
+
+
+
+
+
+ O
 câmara O
 dos O
 deputados O
+
+
+
+
+ O
 comissão O
 especial O
 pec O
@@ -915,43 +1236,59 @@ pec O
 – O
 reforma O
 da O
+
+
+ O
 previdência O
-contribuição O
-que O
+
+
+
+
+ O
+contribuição I-ADD
+que I-ADD
 exceder I-ADD
 a I-ADD
 vinte I-ADD
-anos I-SUP
-de I-MOD
-contribuição, I-MOD
-até I-MOD
-o I-SUP
-limite I-MOD
-de I-MOD
-cem I-MOD
-por I-SUP
-cento, I-SUP
-observado, I-SUP
+anos I-ADD
+de I-ADD
+contribuição I-ADD
+, I-ADD
+até I-ADD
+o I-ADD
+limite I-ADD
+de I-ADD
+cem I-ADD
+por I-ADD
+cento I-ADD
+, I-SUP
+observado I-SUP
+, I-ADD
 para I-SUP
-o I-MOD
-resultado I-MOD
-da I-MOD
-média I-SUP
-aritmética, I-SUP
+o I-SUP
+resultado I-SUP
+da I-SUP
+média I-MOD
+aritmética I-SUP
+, I-SUP
 o I-SUP
 limite I-SUP
 máximo I-SUP
 estabelecido I-SUP
 para I-SUP
 os I-SUP
-benefícios I-ADD
+benefícios I-SUP
 do I-ADD
 regime I-ADD
 geral I-ADD
 de I-ADD
 previdência I-ADD
-social; I-ADD
-e I-ADD
+social I-ADD
+; I-MOD
+e I-MOD
+
+
+ I-MOD
 ii I-MOD
 - I-ADD
 serão I-ADD
@@ -965,8 +1302,12 @@ regime I-ADD
 geral I-ADD
 de I-ADD
 previdência I-ADD
-social. I-ADD
-§ I-ADD
+social I-ADD
+. I-ADD
+
+
+ I-MOD
+§ I-MOD
 6º I-MOD
 exclusivamente I-MOD
 para I-MOD
@@ -978,29 +1319,32 @@ no I-MOD
 inciso I-MOD
 iii I-SUP
 do I-SUP
-caput, I-MOD
+caput I-SUP
+, I-MOD
 serão I-MOD
 considerados I-MOD
-o I-MOD
+o I-SUP
 tempo I-MOD
 de I-MOD
 atividade I-MOD
 militar I-MOD
 nas I-MOD
 forças I-MOD
-armadas, I-MOD
+armadas I-MOD
+, I-MOD
 nas I-MOD
 polícias I-MOD
 militares I-MOD
 e I-MOD
-nos I-MOD
-corpos I-MOD
-de I-MOD
+nos I-SUP
+corpos I-SUP
+de I-SUP
 bombeiros I-MOD
-militares, I-MOD
-o I-ADD
-tempo I-ADD
-de I-MOD
+militares I-MOD
+, I-MOD
+o I-SUP
+tempo I-SUP
+de I-SUP
 atividade I-MOD
 como I-SUP
 agente I-SUP
@@ -1014,7 +1358,7 @@ de I-MOD
 atividade I-MOD
 como I-MOD
 policial I-SUP
-dos I-SUP
+dos I-MOD
 órgãos O
 a I-MOD
 que I-MOD
@@ -1026,15 +1370,21 @@ iv I-MOD
 do I-MOD
 caput I-MOD
 do I-MOD
-art. I-MOD
-51, I-MOD
+art I-MOD
+. I-MOD
+
+
+ I-MOD
+51 I-MOD
+, I-MOD
 o I-MOD
 inciso I-MOD
 xiii I-MOD
 do I-MOD
 caput I-MOD
 do I-MOD
-art. I-MOD
+art I-MOD
+. I-MOD
 52 I-MOD
 e I-MOD
 os I-MOD
@@ -1042,42 +1392,81 @@ incisos I-MOD
 i I-MOD
 a I-MOD
 iv I-MOD
-do I-MOD
+do O
 caput I-MOD
 do I-MOD
-art. I-MOD
+art I-MOD
+. I-MOD
 144 I-MOD
 da I-MOD
-constituição. I-MOD
-(...) O
-art. O
-5º O
-acrescente-se B-ADD
-ao I-ADD
-art. I-ADD
-12, I-ADD
-§4º, I-ADD
-da O
-proposta I-ADD
-de I-ADD
+constituição I-MOD
+. I-MOD
+
+
+ I-MOD
+( I-ADD
+... I-ADD
+) I-MOD
+
+
+
+
+ I-MOD
+art I-MOD
+. I-MOD
+5º I-MOD
+acrescente I-MOD
+- I-MOD
+se I-MOD
+a I-MOD
+o I-MOD
+art I-MOD
+. I-SUP
+12 I-SUP
+, I-MOD
+§ I-SUP
+4º I-SUP
+, I-SUP
+da I-SUP
+proposta I-SUP
+de I-SUP
 emenda I-ADD
 à I-ADD
 constituição I-ADD
 nº I-ADD
-6, I-ADD
-de I-ADD
-2019, I-ADD
+6 I-ADD
+, I-ADD
+de I-SUP
+2019 I-ADD
+, I-SUP
 o I-ADD
 inciso I-ADD
-vi, I-ADD
+vi I-ADD
+, I-ADD
 com I-ADD
 a I-ADD
 seguinte I-ADD
-redação: I-ADD
-art.12............................................................................................ I-MOD
+redação I-MOD
+: I-MOD
+art.12 I-MOD
+............................................................................................ I-MOD
+
+
+ I-MOD
 ...................................................................................................... I-MOD
-§4º................................................................................................ I-MOD
+
+
+ I-MOD
+§ I-MOD
+4º I-MOD
+................................................................................................ I-MOD
+
+
+ I-MOD
 ...................................................................................................... I-MOD
+
+
+ I-MOD
 vi I-MOD
 - I-MOD
 os I-MOD
@@ -1090,14 +1479,17 @@ da I-SUP
 agência I-MOD
 brasileira I-MOD
 de I-MOD
-inteligência, I-MOD
-aos I-MOD
+inteligência I-MOD
+, I-MOD
+a I-MOD
+os I-MOD
 cinquenta I-MOD
 e I-MOD
 cinco I-MOD
-anos I-SUP
+anos I-MOD
 de I-SUP
-idade, I-SUP
+idade I-SUP
+, I-ADD
 trinta I-ADD
 anos I-ADD
 de I-ADD
@@ -1108,13 +1500,21 @@ e I-ADD
 cinco I-ADD
 anos I-MOD
 de I-MOD
-efetivo I-ADD
-exercício I-ADD
-em I-ADD
-cargo I-ADD
-dessa I-ADD
-natureza, I-MOD
+efetivo I-MOD
+exercício I-MOD
+em I-SUP
+cargo I-SUP
+d I-SUP
+essa I-SUP
+natureza I-SUP
+, I-SUP
 para I-SUP
 ambos I-SUP
 os I-SUP
-sexos;” I-SUP
+sexos I-SUP
+; I-SUP
+” I-SUP
+
+
+
+ I-SUP

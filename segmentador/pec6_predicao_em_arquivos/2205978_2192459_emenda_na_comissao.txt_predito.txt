@@ -1,5 +1,5 @@
-à O
 nº O
+. O
 comissão O
 destinada O
 proferir O
@@ -11,110 +11,184 @@ emenda O
 à O
 constituição O
 nº O
-6, O
+6 O
+, O
 de O
 2019 O
+
+
+ O
 proposta O
 de O
 emenda O
 à O
 constituição O
 nº O
-6, O
+6 O
+, O
 de O
 2019 O
+
+
+ O
 modifica B-MOD
 o O
-sistema O
-de O
+sistema I-MOD
+de I-MOD
 previdência I-MOD
-social, I-MOD
+
+
+ I-MOD
+social I-MOD
+, I-MOD
 estabelece I-MOD
 regras I-MOD
 de I-MOD
 transição I-MOD
 e I-MOD
 disposições I-MOD
-transitórias, I-MOD
+
+
+ I-MOD
+transitórias I-MOD
+, I-MOD
+
+
+ I-MOD
 e I-MOD
+
+
+ I-MOD
 dá I-MOD
-outras O
-providências. O
-emenda O
-nº O
-suprima-se B-SUP
-a I-SUP
-redação I-SUP
-dada I-SUP
-pelo I-SUP
-art. I-MOD
-1º I-MOD
-da I-SUP
-proposta I-ADD
-de O
-emenda O
-à O
-constituição O
-(pec) O
-nº O
-6, I-ADD
-de I-ADD
-2019, I-ADD
-ao I-ADD
-inciso I-ADD
-xxi I-ADD
-do I-ADD
-art. I-ADD
-22 I-ADD
-da I-SUP
-constituição I-MOD
-federal I-SUP
-(cf), I-SUP
-altere-se I-MOD
+
+
+ I-MOD
+outras I-MOD
+
+
+ I-MOD
+providências I-MOD
+. I-MOD
+
+
+ I-MOD
+emenda I-MOD
+nº I-MOD
+
+
+ O
+suprima O
+- I-MOD
+se I-MOD
 a I-MOD
 redação I-MOD
 dada I-MOD
 pelo I-MOD
-art. I-MOD
-1º I-MOD
-da I-MOD
-pec I-MOD
-nº I-MOD
-6, I-MOD
-de I-MOD
-2019, I-MOD
-ao O
-art. I-MOD
+art I-MOD
+. I-MOD
+1º I-ADD
+da I-SUP
+proposta I-ADD
+de I-ADD
+emenda I-ADD
+à O
+constituição O
+( I-SUP
+pec I-SUP
+) I-ADD
+nº I-SUP
+6 I-SUP
+, I-SUP
+de I-SUP
+2019 I-ADD
+, I-ADD
+a I-ADD
+o I-ADD
+inciso I-ADD
+xxi I-ADD
+do I-SUP
+art I-ADD
+. I-ADD
+22 I-ADD
+da I-SUP
+constituição I-SUP
+federal I-SUP
+( I-SUP
+cf I-MOD
+) I-MOD
+, I-MOD
+altere I-MOD
+- I-MOD
+se I-MOD
+a I-MOD
+redação I-MOD
+dada I-MOD
+pelo I-MOD
+art I-MOD
+. I-MOD
+1º I-SUP
+da I-SUP
+pec I-SUP
+nº I-SUP
+6 I-SUP
+, I-SUP
+de I-SUP
+2019 I-ADD
+, O
+a I-MOD
+o O
+art O
+. O
 42 I-MOD
 da I-MOD
-cf, I-MOD
+cf I-MOD
+, I-MOD
 e I-MOD
-altere-se I-MOD
+altere I-MOD
+- I-MOD
+se I-MOD
 o I-MOD
-art. I-MOD
+art I-MOD
+. I-MOD
 17 I-MOD
-da I-MOD
-pec I-MOD
-nº I-MOD
-6, I-MOD
-de I-MOD
-2019: I-MOD
-“art. I-ADD
-42. I-MOD
+da I-SUP
+pec I-SUP
+nº I-SUP
+6 I-SUP
+, I-SUP
+de I-ADD
+2019 I-ADD
+: I-ADD
+
+
+ I-MOD
+“ I-MOD
+art I-MOD
+. I-MOD
+42 I-MOD
+. I-MOD
 .................................................................................... I-MOD
+
+
+ I-MOD
 § I-MOD
 1º I-MOD
-aplicam-se I-MOD
-aos I-MOD
+aplicam I-MOD
+- I-MOD
+se I-MOD
+a I-MOD
+os I-MOD
 militares I-MOD
 dos I-MOD
-estados, I-MOD
+estados I-MOD
+, I-MOD
 do I-MOD
 distrito I-MOD
 federal I-MOD
 e I-MOD
 dos I-MOD
-territórios, I-MOD
+territórios I-MOD
+, I-MOD
 além I-MOD
 do I-SUP
 que I-SUP
@@ -123,27 +197,41 @@ a I-SUP
 ser I-SUP
 fixado I-SUP
 em I-SUP
-lei, I-SUP
-as I-SUP
+lei I-SUP
+, I-SUP
+as I-MOD
 disposições I-MOD
 do I-MOD
-art. I-MOD
-14, I-MOD
-§ I-MOD
-8º; I-MOD
-do I-ADD
-art. I-ADD
-40, I-ADD
-§ I-MOD
-9º; I-MOD
-e I-MOD
+art I-MOD
+. I-SUP
+14 I-SUP
+, I-SUP
+§ I-SUP
+8º I-SUP
+; I-SUP
 do I-MOD
-art. I-MOD
-142, I-MOD
-§§ I-MOD
-2º I-MOD
+art I-MOD
+. I-MOD
+40 I-MOD
+, I-ADD
+§ I-ADD
+9º I-MOD
+; I-ADD
 e I-MOD
-3º, I-ADD
+do I-SUP
+art I-MOD
+. I-ADD
+142 I-ADD
+, I-ADD
+§ I-ADD
+§ I-ADD
+2º I-ADD
+
+
+ I-ADD
+e I-ADD
+3º I-ADD
+, I-ADD
 cabendo I-MOD
 à I-MOD
 lei I-MOD
@@ -156,12 +244,16 @@ sobre I-SUP
 as I-SUP
 matérias I-SUP
 do I-SUP
-art. I-MOD
-142, I-MOD
+art I-SUP
+. I-MOD
+142 I-MOD
+, I-MOD
 § I-MOD
-3º, I-MOD
-inciso I-MOD
-x, I-MOD
+3º I-ADD
+, I-ADD
+inciso I-ADD
+x I-MOD
+, I-MOD
 sendo I-MOD
 as I-MOD
 patentes I-MOD
@@ -170,7 +262,11 @@ oficiais I-MOD
 conferidas I-MOD
 pelos I-MOD
 respectivos I-MOD
-governadores. I-MOD
+governadores I-MOD
+. I-MOD
+
+
+ I-MOD
 § I-MOD
 2º I-MOD
 lei I-MOD
@@ -201,9 +297,14 @@ federativo I-MOD
 por I-MOD
 meio I-MOD
 de I-MOD
-adicional, I-MOD
+adicional I-MOD
+, I-MOD
 o I-MOD
-qual: I-MOD
+qual I-MOD
+: I-MOD
+
+
+ I-MOD
 i I-MOD
 - I-MOD
 não I-MOD
@@ -216,9 +317,13 @@ revisão I-SUP
 do I-SUP
 benefício I-SUP
 na I-SUP
-inatividade; I-SUP
-ii I-SUP
-- I-SUP
+inatividade I-SUP
+; I-SUP
+
+
+ I-SUP
+ii I-MOD
+- I-MOD
 não I-MOD
 servirá I-MOD
 de I-MOD
@@ -229,8 +334,12 @@ para I-SUP
 outros I-SUP
 benefícios I-SUP
 ou I-SUP
-vantagens; I-SUP
+vantagens I-SUP
+; I-MOD
 e I-MOD
+
+
+ I-MOD
 iii I-MOD
 - I-MOD
 não I-MOD
@@ -240,9 +349,13 @@ base I-ADD
 de I-ADD
 contribuição I-ADD
 do I-ADD
-militar. I-ADD
-§ I-ADD
-3º I-ADD
+militar I-ADD
+. I-ADD
+
+
+ I-ADD
+§ I-MOD
+3º I-MOD
 é I-MOD
 vedada I-MOD
 a I-MOD
@@ -259,118 +372,169 @@ t I-MOD
 com I-MOD
 outros I-MOD
 cargos I-MOD
-públicos, I-MOD
-exceto, I-MOD
+públicos I-MOD
+, I-MOD
+exceto I-MOD
+, I-MOD
 quando I-MOD
+
+
+
+
+
+
+ I-MOD
 houver I-MOD
 compatibilidade I-MOD
 de I-MOD
-horários, I-MOD
+horários I-MOD
+, I-MOD
 com I-MOD
 prevalência I-MOD
 da I-MOD
 atividade I-MOD
-militar, I-SUP
+militar I-MOD
+, I-MOD
 e I-SUP
-observado, I-SUP
+observado I-SUP
+, I-SUP
 em I-SUP
 qualquer I-SUP
-caso, I-SUP
+caso I-SUP
+, I-SUP
 o I-SUP
 disposto I-SUP
 no I-SUP
-inciso I-MOD
-xi I-MOD
+inciso I-SUP
+xi I-SUP
 do I-MOD
-art. I-MOD
-37, I-MOD
-a I-MOD
+art I-MOD
+. I-MOD
+37 I-MOD
+, O
+a O
 de O
-um O
+um I-MOD
 cargo O
 de I-MOD
 militar I-MOD
 de I-MOD
-estado, I-MOD
+estado I-MOD
+, I-MOD
 do I-MOD
 distrito I-MOD
 federal I-MOD
 ou I-MOD
 de I-MOD
 território I-MOD
-com: O
-i O
+com I-MOD
+: I-MOD
+
+
+ I-MOD
+i I-MOD
 – I-MOD
 um I-MOD
-cargo O
-de O
-professor; O
-ii O
-– O
-um O
-cargo O
+cargo I-MOD
+de I-MOD
+professor I-MOD
+; I-MOD
+
+
+ I-MOD
+ii I-MOD
+– I-SUP
+um I-SUP
+cargo I-SUP
 técnico I-SUP
 ou I-SUP
-científico; O
-iii O
+científico I-SUP
+; I-SUP
+
+
+ I-SUP
+iii I-MOD
 – O
 um O
 cargo O
 ou O
 emprego O
 privativo O
-de I-ADD
+de O
 profissionais I-ADD
 de I-ADD
-saúde, I-ADD
+saúde I-MOD
+, I-MOD
 com I-MOD
-profissões I-MOD
-regulamentadas. I-MOD
+profissões I-ADD
+regulamentadas I-MOD
+. I-MOD
+
+
+ I-MOD
 § I-MOD
 4º I-MOD
 é I-MOD
 assegurada I-MOD
-aos I-MOD
+a I-MOD
+os I-MOD
 militares I-MOD
 dos I-MOD
-estados, I-MOD
+estados I-MOD
+, I-MOD
 do I-MOD
 distrito I-MOD
 federal I-MOD
 e I-MOD
 dos I-MOD
-territórios, I-MOD
+territórios I-MOD
+, I-MOD
 conforme I-MOD
 lei I-MOD
 do I-MOD
 respectivo I-MOD
 ente I-MOD
-federativo, I-MOD
+federativo I-MOD
+, I-MOD
 a I-MOD
 simetria I-ADD
 com I-ADD
 o I-MOD
-sistema I-ADD
+sistema I-MOD
 de I-MOD
 proteção I-MOD
 social I-MOD
 do I-MOD
-art. I-MOD
-142 I-MOD
-no I-MOD
+art I-MOD
+. I-MOD
+
+
+ I-MOD
+142 I-SUP
+no I-SUP
 que I-SUP
 se I-SUP
 refere I-SUP
-a I-MOD
+a I-SUP
 inatividades I-MOD
-e I-MOD
-pensões.” I-MOD
-(nr) I-MOD
-“art. I-MOD
-17. I-MOD
+e I-SUP
+pensões I-MOD
+. I-MOD
+” I-MOD
+( I-MOD
+nr I-MOD
+) I-MOD
+
+
+ I-MOD
+“ I-MOD
+art I-MOD
+. I-MOD
+17 I-MOD
+. I-MOD
 enquanto I-MOD
 não I-MOD
-editada I-MOD
+editada I-SUP
 a I-ADD
 lei I-MOD
 a I-SUP
@@ -381,16 +545,22 @@ o I-SUP
 § I-SUP
 4º I-SUP
 do I-SUP
-art. I-MOD
+art I-MOD
+. I-SUP
 42 I-MOD
 da I-MOD
-constituição, I-MOD
-aplicam-se I-MOD
-aos I-MOD
+constituição I-ADD
+, I-MOD
+aplicam I-MOD
+- I-MOD
+se I-MOD
+a I-MOD
+os I-MOD
 policiais I-MOD
 militares I-MOD
 e I-SUP
-aos I-MOD
+a I-MOD
+os I-MOD
 bombeiros I-MOD
 militares I-MOD
 as I-MOD
@@ -409,6 +579,11 @@ na I-SUP
 data I-SUP
 de I-SUP
 promulgação I-SUP
-desta O
-emenda O
-constitucional.” O
+d I-SUP
+esta I-MOD
+emenda I-MOD
+constitucional I-MOD
+. I-MOD
+” I-MOD
+
+ O

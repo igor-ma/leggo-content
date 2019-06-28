@@ -1,0 +1,491 @@
+referendo I-MOD
+” E-MOD
+proposta O
+emenda O
+constituição O
+nº O
+06 O
+, O
+de O
+2019 O
+
+
+
+
+ O
+modifica B-MOD
+o I-MOD
+sistema I-MOD
+de I-MOD
+previdência I-MOD
+social I-MOD
+, I-MOD
+estabelece I-MOD
+regras I-MOD
+para I-MOD
+aposentadoria I-ADD
+rural I-ADD
+e I-ADD
+benefício I-ADD
+de I-ADD
+prestação I-ADD
+continuada O
+. O
+
+
+
+
+ O
+emenda O
+nº O
+_ O
+_ O
+_ O
+_ I-MOD
+_ I-MOD
+_ I-MOD
+_ I-MOD
+_ I-MOD
+_ O
+
+
+ O
+( O
+do O
+sr. O
+pompeo O
+de O
+mattos O
+) O
+
+
+
+
+
+
+ O
+emenda O
+modificativa O
+
+
+
+
+ O
+art B-MOD
+. I-MOD
+1º O
+a I-SUP
+proposta I-ADD
+de I-ADD
+emenda O
+à O
+constituição O
+nº O
+06 O
+, I-ADD
+de I-ADD
+2019 I-MOD
+, I-MOD
+passa I-MOD
+a I-MOD
+vigorar I-MOD
+com I-MOD
+as I-MOD
+seguintes I-MOD
+alterações I-MOD
+: I-MOD
+
+
+
+
+ I-MOD
+“ I-MOD
+art I-MOD
+. I-MOD
+1º I-MOD
+.................................................................................................................. I-MOD
+
+
+ I-MOD
+.............................................................................................................................. I-MOD
+
+
+ I-ADD
+“ I-ADD
+art I-ADD
+. I-ADD
+195 I-ADD
+.................................................................................................................. I-ADD
+
+
+ I-ADD
+.............................................................................................................................. I-ADD
+
+
+ I-ADD
+ii I-MOD
+............................................................................................................................ I-ADD
+
+
+ I-ADD
+....................................................................................... I-MOD
+
+
+
+
+ I-MOD
+§ I-MOD
+8º. I-MOD
+o I-MOD
+agricultor I-MOD
+familiar I-MOD
+, I-MOD
+assim I-MOD
+definido I-MOD
+em I-MOD
+lei I-ADD
+, I-ADD
+bem I-ADD
+como I-ADD
+os I-SUP
+seus I-SUP
+respectivos I-SUP
+cônjuges I-SUP
+ou I-SUP
+companheiros I-SUP
+, I-SUP
+contribuirão I-MOD
+para I-MOD
+a I-MOD
+seguridade I-MOD
+social I-MOD
+mediante I-ADD
+a I-ADD
+aplicação I-ADD
+de I-MOD
+uma I-SUP
+alíquota I-SUP
+sobre I-SUP
+o I-SUP
+resultado I-SUP
+da I-SUP
+comercialização I-SUP
+da I-MOD
+produção I-MOD
+rural I-MOD
+, I-MOD
+independente I-MOD
+do I-MOD
+nível I-MOD
+da I-MOD
+produção I-MOD
+comercializado I-ADD
+. I-ADD
+
+
+ I-ADD
+§ I-MOD
+8º-a. I-MOD
+os I-MOD
+trabalhadores I-MOD
+rurais I-MOD
+não I-SUP
+contemplados I-SUP
+no I-MOD
+disposto I-MOD
+no I-MOD
+§ I-MOD
+8 I-SUP
+° I-MOD
+que I-MOD
+exerçam I-MOD
+suas I-MOD
+atividades I-MOD
+de I-MOD
+forma I-MOD
+individual I-MOD
+, I-MOD
+com I-MOD
+ou O
+sem I-ADD
+relação O
+de I-ADD
+emprego I-ADD
+, I-ADD
+contribuirão I-ADD
+nos I-SUP
+termos I-SUP
+do I-SUP
+disposto I-SUP
+no I-SUP
+inciso I-SUP
+ii I-SUP
+do I-MOD
+caput O
+, I-ADD
+sem I-ADD
+prejuízo I-ADD
+da I-ADD
+contribuição I-ADD
+do I-ADD
+empregador I-ADD
+de I-ADD
+que I-ADD
+trata I-MOD
+a I-MOD
+alínea I-MOD
+“ I-MOD
+a I-MOD
+” I-MOD
+do I-MOD
+inciso I-MOD
+i I-MOD
+do I-MOD
+caput I-MOD
+. I-MOD
+
+
+ I-MOD
+................................................................................................................................ I-MOD
+
+
+ I-MOD
+........... I-MOD
+
+
+ I-MOD
+.............................................. I-MOD
+” I-MOD
+
+
+
+
+ I-MOD
+“ I-MOD
+art I-MOD
+. I-MOD
+201 I-MOD
+................................................................................................................. I-SUP
+
+
+ I-MOD
+........................................... I-MOD
+
+
+ I-MOD
+§ I-MOD
+7º I-MOD
+........................................................................................................................ I-MOD
+
+
+ I-MOD
+........................................... I-MOD
+
+
+ I-MOD
+iv I-MOD
+- I-MOD
+trabalhadores I-MOD
+rurais I-MOD
+a I-MOD
+que I-MOD
+se I-MOD
+referem I-MOD
+o I-MOD
+§ I-ADD
+8º I-ADD
+e I-ADD
+o I-SUP
+§ I-SUP
+8º-a I-ADD
+do I-ADD
+art I-ADD
+. I-ADD
+195 I-ADD
+. I-ADD
+
+
+ I-ADD
+§ I-ADD
+7º-a I-ADD
+os I-MOD
+trabalhadores I-MOD
+rurais I-MOD
+de I-MOD
+que I-MOD
+trata I-MOD
+o I-SUP
+§ I-MOD
+8º I-ADD
+do I-ADD
+art I-ADD
+. I-ADD
+195 I-ADD
+farão I-ADD
+jus I-ADD
+a I-ADD
+os I-ADD
+benefícios I-MOD
+da I-MOD
+previdência I-MOD
+social I-MOD
+, I-MOD
+no I-MOD
+valor I-MOD
+a I-MOD
+partir I-ADD
+de I-ADD
+um I-ADD
+salário I-ADD
+mínimo I-ADD
+. I-ADD
+
+
+ I-ADD
+........................................................................................................................................... I-ADD
+
+
+ I-ADD
+§ I-MOD
+13 I-MOD
+....................................................................................................................... I-MOD
+” I-MOD
+( I-MOD
+nr I-MOD
+) I-MOD
+
+
+
+
+ I-MOD
+“ I-MOD
+art I-MOD
+. I-MOD
+239 I-MOD
+............................................................................................................... I-MOD
+
+
+ I-MOD
+............................................................................................................. I-MOD
+” I-MOD
+” I-MOD
+
+
+
+
+ I-MOD
+“ I-MOD
+art I-MOD
+. I-MOD
+22 I-MOD
+................................................................................................................ I-ADD
+
+
+ I-SUP
+...................................................................................... I-SUP
+
+
+ I-SUP
+§ I-MOD
+3º I-MOD
+no I-SUP
+caso I-SUP
+dos I-SUP
+segurados I-SUP
+especiais I-SUP
+e I-MOD
+trabalhadores I-MOD
+rurais I-SUP
+, I-SUP
+a I-ADD
+idade I-ADD
+para I-ADD
+a I-ADD
+aposentadoria I-ADD
+será I-ADD
+de I-ADD
+cinquenta I-ADD
+e I-ADD
+cinco I-MOD
+anos I-MOD
+, I-MOD
+se I-MOD
+mulher I-MOD
+, I-MOD
+e I-MOD
+de I-MOD
+sessenta I-MOD
+anos I-MOD
+, I-MOD
+se I-MOD
+homem I-MOD
+, I-ADD
+desde I-ADD
+que I-ADD
+contem I-SUP
+com I-SUP
+quinze I-SUP
+anos I-SUP
+de I-SUP
+atividade I-SUP
+rural I-SUP
+. I-SUP
+
+
+ I-MOD
+............................................................................................................................ I-MOD
+
+
+ I-MOD
+......................................................................................... I-MOD
+” I-MOD
+
+
+
+
+ I-MOD
+art I-MOD
+. I-MOD
+2º I-MOD
+suprima I-MOD
+- I-MOD
+se I-MOD
+o I-MOD
+art I-MOD
+. I-MOD
+203 I-MOD
+do I-MOD
+art I-MOD
+. I-MOD
+1º I-MOD
+, I-MOD
+o I-MOD
+art I-MOD
+. I-MOD
+40 I-MOD
+, I-MOD
+o I-MOD
+art I-MOD
+. I-MOD
+42 I-MOD
+e I-MOD
+o I-MOD
+art I-MOD
+. I-MOD
+43 I-SUP
+da I-ADD
+proposta I-ADD
+de I-ADD
+emenda O
+à O
+constituição O
+nº O
+06 O
+, I-ADD
+de O
+2019 O
+. I-SUP
+
+
+
+ I-SUP

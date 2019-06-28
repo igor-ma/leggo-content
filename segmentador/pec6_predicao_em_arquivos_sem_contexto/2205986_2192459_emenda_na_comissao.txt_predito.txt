@@ -1,0 +1,216 @@
+este I-SUP
+. E-SUP
+comissão O
+encarregada O
+analisar O
+a O
+proposta O
+de O
+
+
+ O
+emenda O
+à O
+constituição O
+nº O
+6 O
+, O
+de O
+2019 O
+, O
+que O
+modifica O
+o O
+sistema O
+de O
+
+
+ O
+previdência I-MOD
+
+
+ O
+social O
+, O
+
+
+ O
+estabelece O
+
+
+ O
+regras O
+
+
+ O
+de O
+
+
+ O
+transição O
+
+
+ O
+e O
+
+
+ O
+disposições O
+transitórias O
+, O
+e O
+dá O
+outras O
+providências O
+( O
+reforma O
+da O
+previdência O
+) O
+. O
+
+
+
+
+
+
+ O
+proposta O
+de O
+emenda O
+à O
+constituição O
+n O
+° O
+06 O
+, O
+de O
+2019 O
+
+
+ O
+( O
+do O
+poder O
+executivo O
+) O
+
+
+
+
+
+
+ O
+modifica B-MOD
+o I-MOD
+sistema I-MOD
+de I-MOD
+previdência I-MOD
+social I-MOD
+, I-MOD
+estabelece I-MOD
+
+
+ I-MOD
+regras I-MOD
+
+
+ I-MOD
+de I-MOD
+
+
+ I-MOD
+transição I-MOD
+
+
+ I-MOD
+e I-MOD
+
+
+ I-MOD
+disposições I-MOD
+
+
+ I-MOD
+transitórias I-MOD
+, I-MOD
+
+
+ I-MOD
+e I-MOD
+
+
+ I-MOD
+dá I-MOD
+
+
+ I-MOD
+outras I-MOD
+
+
+ I-MOD
+providências I-MOD
+. E-MOD
+
+
+
+
+
+
+ O
+emenda O
+supressiva O
+
+
+
+
+ O
+art O
+. O
+1 O
+– I-MOD
+suprima I-MOD
+- I-MOD
+se I-MOD
+a I-MOD
+alteração I-MOD
+da I-MOD
+alínea I-MOD
+a I-MOD
+, I-MOD
+do I-MOD
+inciso I-MOD
+i I-MOD
+, I-ADD
+do I-ADD
+art I-ADD
+. I-ADD
+195 I-ADD
+, I-ADD
+da I-ADD
+constituição I-ADD
+federal I-ADD
+, I-ADD
+promovidas I-ADD
+pelo I-ADD
+art I-MOD
+. I-MOD
+1º I-ADD
+da I-ADD
+proposta I-ADD
+de I-ADD
+emenda I-ADD
+à O
+constituição O
+nº O
+06 O
+, I-ADD
+de I-MOD
+2019 O
+. O
+
+
+
+
+
+ O

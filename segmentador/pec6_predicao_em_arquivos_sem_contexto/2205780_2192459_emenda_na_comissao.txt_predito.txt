@@ -1,0 +1,182 @@
+de O
+. O
+câmara O
+deputados O
+gabinete O
+deputado O
+sidney I-MOD
+leite I-MOD
+– I-MOD
+psd I-MOD
+/ O
+am O
+
+
+
+
+
+
+ O
+comissão O
+especial O
+
+
+
+
+ O
+proposta O
+de O
+emenda O
+constitucional O
+nº O
+06 O
+de O
+2019 O
+
+
+
+
+ O
+emenda O
+modificativa O
+nº O
+_ O
+_ O
+_ O
+_ I-MOD
+_ I-MOD
+_ I-MOD
+_ I-MOD
+, I-MOD
+de I-MOD
+2019 O
+
+
+ O
+( O
+do O
+sr. O
+sidney O
+leite O
+e I-MOD
+outros I-MOD
+) I-MOD
+
+
+
+
+ I-MOD
+retira I-MOD
+as I-MOD
+alterações I-MOD
+referentes I-MOD
+a I-MOD
+o I-MOD
+benefício I-MOD
+de I-MOD
+prestação I-MOD
+continuada I-MOD
+– I-MOD
+
+
+ I-MOD
+bpc I-ADD
+da I-ADD
+proposta I-ADD
+de O
+emenda O
+à I-ADD
+constituição I-ADD
+nº I-ADD
+6/2019 I-ADD
+. I-ADD
+
+
+
+
+
+
+ I-MOD
+art I-MOD
+. I-MOD
+1º I-MOD
+suprimam I-MOD
+- I-MOD
+se I-MOD
+os I-MOD
+incisos I-MOD
+v I-MOD
+e I-MOD
+vi I-SUP
+e I-SUP
+os I-ADD
+§ I-ADD
+§ I-ADD
+1º I-ADD
+, I-ADD
+com I-ADD
+seus I-ADD
+incisos I-ADD
+, I-ADD
+e I-ADD
+o I-SUP
+§ I-MOD
+2º I-MOD
+, I-MOD
+do I-MOD
+art I-ADD
+. I-MOD
+203 I-MOD
+da I-MOD
+constituição I-ADD
+federal I-ADD
+, I-ADD
+alterados I-ADD
+pelo I-ADD
+art I-MOD
+. I-MOD
+1º I-ADD
+da I-ADD
+proposta I-ADD
+de I-ADD
+emenda I-ADD
+à O
+constituição O
+nº O
+06 O
+de I-ADD
+2019 I-ADD
+. I-MOD
+
+
+ I-MOD
+art I-MOD
+. I-MOD
+2º I-MOD
+suprimam I-MOD
+- I-MOD
+se I-MOD
+os I-MOD
+arts I-MOD
+. I-MOD
+41 I-MOD
+e I-MOD
+42 I-SUP
+da I-SUP
+proposta I-SUP
+de O
+emenda O
+à O
+constituição O
+nº O
+
+
+ O
+06 I-ADD
+de I-MOD
+2019 O
+. O
+
+
+
+ O

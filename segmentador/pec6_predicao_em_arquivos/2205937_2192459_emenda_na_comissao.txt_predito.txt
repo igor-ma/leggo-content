@@ -1,76 +1,152 @@
-nº O
 de O
+. O
 proposta O
 emenda O
 constituição O
 n.º O
-06, O
+06 O
+, O
 2019 O
-modifica B-MOD
-o O
-sistema O
-de O
-previdência I-MOD
-social, I-MOD
-estabelece I-MOD
-regras I-MOD
+
+
+
+
+ O
+modifica O
+
+
+ I-MOD
+o I-MOD
+
+
+ I-MOD
+sistema I-MOD
+
+
+ I-MOD
 de I-MOD
+
+
+ I-MOD
+previdência I-MOD
+social I-MOD
+, I-MOD
+estabelece I-MOD
+
+
+ I-MOD
+regras I-MOD
+
+
+ I-MOD
+de I-MOD
+
+
+ I-MOD
 transição I-MOD
+
+
+ I-MOD
 e I-MOD
+
+
+ I-MOD
 disposições I-MOD
-transitórias, I-MOD
+transitórias I-MOD
+, I-MOD
 e I-MOD
-dá O
-outras O
-providências. O
+dá I-MOD
+
+
+ I-MOD
+outras I-MOD
+providências O
+. O
+
+
+
+
+
+
+ O
 emenda O
 aditiva O
 nº O
-(do O
-deputado O
-joseildo O
-ramos) I-ADD
-art. O
-1º O
-acrescente-se B-ADD
+
+
+ O
+( O
+do I-MOD
+deputado I-MOD
+joseildo I-MOD
+ramos I-MOD
+) I-MOD
+
+
+
+
+ I-MOD
+art I-MOD
+. I-MOD
+1º I-MOD
+acrescente I-ADD
+- I-ADD
+se I-ADD
 à I-ADD
 proposta I-ADD
 de I-ADD
-emenda I-ADD
-à I-ADD
-constituição I-ADD
-nº I-ADD
-06, I-ADD
+emenda O
+à O
+constituição O
+nº O
+06 O
+, I-ADD
 de I-ADD
 2019 I-ADD
 o I-ADD
-seguinte I-MOD
-artigo: I-MOD
-“art. I-MOD
+seguinte I-ADD
+artigo I-ADD
+: I-ADD
+
+
+
+
+ I-ADD
+“ I-ADD
+art I-MOD
+. I-MOD
 11-a. I-MOD
 a I-MOD
 vedação I-MOD
 prevista I-MOD
 no I-MOD
-art. I-MOD
-37, I-ADD
+art I-MOD
+. I-ADD
+37 I-ADD
+, I-MOD
 § I-ADD
-10, I-ADD
+10 I-ADD
+, I-ADD
 da I-ADD
 constituição I-ADD
-federal, I-ADD
+federal I-MOD
+, I-ADD
 não I-ADD
 se I-ADD
 aplica I-ADD
-àqueles I-MOD
-que, I-MOD
+à I-ADD
+queles I-ADD
+que I-SUP
+, I-SUP
 até I-SUP
 a I-SUP
 publicação I-SUP
-desta I-SUP
+d I-SUP
+esta I-SUP
 emenda I-SUP
 à I-SUP
-constituição, I-SUP
+constituição I-SUP
+, I-SUP
 percebam I-ADD
 simultaneamente I-ADD
 proventos I-ADD
@@ -81,31 +157,45 @@ regime I-ADD
 geral I-ADD
 de I-ADD
 previdência I-ADD
-social, I-ADD
-de I-ADD
+social I-ADD
+, I-MOD
+de I-MOD
 que I-MOD
-trata O
+trata I-MOD
 o I-MOD
-art. I-SUP
+art I-ADD
+. I-MOD
 201 I-MOD
-da I-MOD
-constituição I-ADD
-federal, I-ADD
+da I-SUP
+constituição I-SUP
+federal I-ADD
+, I-ADD
 decorrentes I-ADD
 do I-ADD
 exercício I-ADD
-de O
-cargo, I-MOD
-emprego I-ADD
+de I-ADD
+cargo I-ADD
+, O
+emprego O
 ou I-ADD
 função I-ADD
-pública, I-ADD
+pública I-ADD
+, I-ADD
 com I-ADD
 a I-ADD
 remuneração I-ADD
 de I-ADD
-cargo, I-MOD
+cargo I-ADD
+, O
 emprego O
-ou O
+ou I-MOD
 função O
-pública.” O
+pública O
+. O
+” I-MOD
+
+
+
+
+
+ I-MOD

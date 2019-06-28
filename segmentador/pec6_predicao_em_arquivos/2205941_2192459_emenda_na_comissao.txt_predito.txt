@@ -1,11 +1,14 @@
-art. O
 da O
+. O
 comissão O
 destinada O
 analisar O
 a O
 proposta O
 de O
+
+
+ O
 emenda O
 à O
 constituição O
@@ -13,6 +16,11 @@ nº O
 6 O
 de O
 2019 O
+
+
+
+
+ O
 proposta O
 de O
 emenda O
@@ -22,39 +30,73 @@ nº O
 6 O
 de O
 2019 O
+
+
+
+
+
+
+ O
 emenda O
 nº O
-(do O
-senhor O
-dep. I-MOD
+
+
+ O
+( O
+do I-MOD
+senhor I-ADD
+dep I-MOD
+. I-MOD
 fernando I-MOD
-rodolfo) I-MOD
-art. I-MOD
+rodolfo I-MOD
+) I-MOD
+
+
+
+
+ I-MOD
+art I-MOD
+. I-MOD
 1º I-MOD
-altere-se I-MOD
+altere I-MOD
+- I-MOD
+se I-MOD
 a I-MOD
 redação I-MOD
 o I-MOD
 inciso I-MOD
 i I-MOD
 do I-MOD
-art. I-MOD
+art I-MOD
+. I-MOD
 42 I-SUP
 da I-SUP
 pec I-SUP
 nº I-SUP
 6 I-SUP
 de I-SUP
-2019, I-SUP
+2019 I-SUP
+, I-SUP
 para I-SUP
 que I-SUP
 passe I-SUP
 a I-SUP
 constar I-SUP
-o I-MOD
-seguinte: I-MOD
-art. I-MOD
-42........................................................................................... I-MOD
+o I-ADD
+seguinte I-ADD
+: I-MOD
+
+
+
+
+ I-MOD
+art I-MOD
+. I-MOD
+42 I-MOD
+........................................................................................... I-MOD
+
+
+ I-MOD
 i I-MOD
 - I-MOD
 para I-MOD
@@ -62,7 +104,8 @@ verificação I-MOD
 da I-MOD
 condição I-MOD
 de I-MOD
-miserabilidade, I-MOD
+miserabilidade I-MOD
+, I-MOD
 o I-ADD
 patrimônio I-SUP
 familiar I-SUP
@@ -72,11 +115,26 @@ inferior I-SUP
 a I-SUP
 r$ I-SUP
 130.000,00 I-SUP
-(cento I-MOD
+( I-MOD
+cento I-SUP
 e I-MOD
 trinta I-MOD
-mil I-MOD
-reais); I-MOD
+mil I-SUP
+reais I-MOD
+) I-MOD
+; I-MOD
 e I-MOD
+
+
+ I-MOD
 .......................................................................................................... I-MOD
+
+
+ I-MOD
 .......................................................................................................... I-MOD
+
+
+
+
+
+ O

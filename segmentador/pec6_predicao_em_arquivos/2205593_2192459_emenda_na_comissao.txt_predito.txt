@@ -1,86 +1,150 @@
-de I-ADD
-mínima. I-ADD
+
+
+ I-ADD
+” O
 proposta I-ADD
 emenda I-ADD
 constituição I-ADD
 nº I-ADD
-6 O
-/2019 O
-(do O
+6 I-ADD
+/2019 I-ADD
+
+
+ O
+( O
+do O
 sr. O
 deputado O
 felipe O
-rigoni, O
+rigoni O
+, O
 da O
 sra. B-MOD
 deputada I-MOD
 tábata I-MOD
+
+
+ I-MOD
 amaral I-MOD
 e I-MOD
-outros) I-MOD
+outros I-MOD
+) I-MOD
+
+
+
+
+ I-MOD
 altera I-MOD
 o I-MOD
-art. I-MOD
-37 I-MOD
-da I-ADD
+art I-ADD
+. I-ADD
+37 I-ADD
+da I-MOD
 constituição I-MOD
 tornando I-MOD
 ato I-MOD
+
+
+ I-MOD
 de I-MOD
 improbidade I-MOD
 administrativa I-MOD
 a I-MOD
 concessão I-MOD
+
+
+ I-MOD
 ou I-MOD
 a I-MOD
 requisição I-MOD
 de I-MOD
 parcelas I-MOD
 materialmente I-MOD
-remuneratórias, I-MOD
+
+
+ I-MOD
+remuneratórias I-MOD
+, I-MOD
+
+
+ I-MOD
 mas I-MOD
+
+
+ I-MOD
 formalmente I-MOD
+
+
+ I-MOD
 indenizatórias I-MOD
 e I-MOD
-dá O
-outras O
-providências. O
+dá I-MOD
+outras I-MOD
+providências O
+. O
+
+
+ O
 emenda O
 modificativa O
 n. O
-art. O
+
+
+ O
+art O
+. O
 2º O
-dê-se O
-aos I-MOD
-art. I-MOD
-37 I-MOD
+dê O
+- O
+se O
+a O
+os O
+art I-ADD
+. I-MOD
+37 I-ADD
 da I-MOD
-constituição O
-a I-ADD
+constituição I-MOD
+a I-MOD
 seguinte I-MOD
-redação, I-MOD
+redação I-MOD
+, I-MOD
 na I-MOD
 forma I-MOD
 do I-MOD
-art. I-MOD
+art I-MOD
+. I-MOD
 1º I-MOD
-da O
+da I-SUP
 proposta I-ADD
 de I-ADD
-emenda I-ADD
-à I-ADD
-constituição I-ADD
-no I-ADD
-6, I-ADD
-de I-ADD
-2019: I-ADD
-“art.37. I-MOD
+emenda I-SUP
+à I-SUP
+constituição I-SUP
+no I-SUP
+6 I-SUP
+, I-SUP
+de I-SUP
+2019 I-SUP
+: I-MOD
+
+
+ I-MOD
+“ I-MOD
+art.37 I-MOD
+. I-MOD
 ............................................................................................ I-MOD
+
+
+ I-MOD
 .............................................................................................................. I-MOD
+
+
+ I-MOD
 § I-MOD
-13. I-MOD
+13 I-MOD
+. I-MOD
 é I-MOD
-ato I-MOD
+ato I-SUP
 de I-MOD
 improbidade I-MOD
 administrativa I-MOD
@@ -97,35 +161,44 @@ requisição I-MOD
 de I-MOD
 parcelas I-MOD
 materialmente I-MOD
-remuneratórias, I-MOD
-mas I-ADD
+remuneratórias I-MOD
+, I-MOD
+mas I-MOD
 formalmente I-ADD
-indenizatórias, I-SUP
+indenizatórias I-ADD
+, I-SUP
 bem I-SUP
 como I-SUP
 qualquer I-SUP
 outro I-SUP
-ato I-MOD
-destinado I-MOD
-ao I-MOD
+ato I-SUP
+destinado I-SUP
+a I-MOD
+o I-MOD
 descumprimento I-MOD
 do I-MOD
 teto I-MOD
 remuneratório I-MOD
-de I-MOD
+de I-SUP
 que I-MOD
 dispõe I-MOD
 o I-MOD
 inciso I-SUP
-xi I-MOD
+xi I-SUP
 do I-MOD
-caput I-MOD
-deste I-SUP
-artigo. I-SUP
-§ I-MOD
-14. I-MOD
-qualquer I-MOD
-cidadão I-MOD
+caput I-SUP
+d I-SUP
+este I-SUP
+artigo I-SUP
+. I-SUP
+
+
+ I-SUP
+§ I-SUP
+14 I-SUP
+. I-MOD
+qualquer I-SUP
+cidadão I-SUP
 é I-SUP
 parte I-SUP
 legítima I-SUP
@@ -141,110 +214,160 @@ o I-MOD
 inciso I-MOD
 lxxiii I-MOD
 do I-MOD
-art. I-MOD
-5º I-SUP
-para I-MOD
+art I-SUP
+. I-MOD
+5º I-MOD
+para I-SUP
 visar I-MOD
 a I-MOD
 anular I-MOD
 pagamentos I-MOD
 em I-MOD
 contrariedade I-MOD
-ao I-MOD
+a I-MOD
+o I-MOD
 teto I-MOD
 remuneratório I-MOD
-de I-MOD
+de I-SUP
 que I-MOD
 dispõe I-MOD
 o I-MOD
 inciso I-SUP
-xi I-MOD
+xi I-SUP
 do I-MOD
-caput I-MOD
-deste I-MOD
-artigo, I-SUP
+caput I-SUP
+d I-SUP
+este I-SUP
+artigo I-SUP
+, I-SUP
 observado I-SUP
 o I-SUP
 disposto I-SUP
-no I-ADD
+no I-SUP
+§ I-SUP
+13 I-SUP
+. I-SUP
+
+
+ I-ADD
 § I-ADD
-13. I-ADD
-§ I-ADD
-15. I-ADD
+15 I-ADD
+. I-ADD
 somente I-ADD
 serão I-ADD
-consideradas I-ADD
+consideradas I-MOD
 de I-MOD
 caráter I-MOD
 indenizatório I-MOD
 as I-MOD
 parcelas I-MOD
-que: I-MOD
+que I-MOD
+: I-MOD
+
+
+ I-MOD
 i I-MOD
 – I-MOD
 não I-MOD
-gerem I-ADD
-acréscimo I-ADD
-patrimonial. I-ADD
+gerem I-MOD
+acréscimo I-MOD
+patrimonial I-MOD
+. I-MOD
+
+
+
+
+
+
+ I-MOD
 ii I-MOD
 – I-MOD
 visem I-MOD
-o I-MOD
+o I-SUP
 reembolso I-SUP
 de I-SUP
 despesas I-SUP
 efetiva I-SUP
 e I-SUP
 comprovadamente I-SUP
-efetuadas I-ADD
-e I-ADD
+efetuadas I-SUP
+e I-MOD
 imprescindíveis I-ADD
-ao I-ADD
-exercício I-ADD
-da I-ADD
-atividade. I-ADD
-§ I-ADD
-16. I-ADD
+a I-MOD
+o I-MOD
+exercício I-MOD
+da I-MOD
+atividade I-SUP
+. I-SUP
+
+
+ I-SUP
+§ I-SUP
+16 I-SUP
+. I-SUP
 a I-SUP
-não I-ADD
+não I-SUP
 observância I-SUP
-do I-SUP
-disposto I-SUP
-nos I-SUP
-§§ I-MOD
+do I-ADD
+disposto I-ADD
+nos I-ADD
+§ I-ADD
+§ I-SUP
 13 I-SUP
-e I-SUP
+e I-ADD
 15 I-SUP
-deste I-SUP
-artigo I-ADD
-dará I-ADD
+d I-SUP
+este I-SUP
+artigo I-SUP
+dará I-SUP
 ensejo I-ADD
 à I-ADD
 perda I-ADD
-do O
-cargo, O
-emprego O
+do I-ADD
+cargo O
+, O
+emprego I-MOD
 ou I-MOD
-função.” O
-(nr) O
-art. O
-3º O
-acrescente-se B-ADD
-o I-ADD
-seguinte I-ADD
-art. I-ADD
+função I-MOD
+. I-MOD
+” I-MOD
+( I-MOD
+nr I-MOD
+) I-MOD
+
+
+
+
+ I-MOD
+art I-MOD
+. I-MOD
+3º I-MOD
+acrescente I-MOD
+- I-MOD
+se I-MOD
+o I-MOD
+seguinte I-MOD
+art I-ADD
+. I-ADD
 8º-a I-ADD
 à O
 proposta I-ADD
 de I-ADD
-emenda I-ADD
+emenda I-SUP
 à I-ADD
-constituição I-ADD
-no I-ADD
-6, I-ADD
-de I-ADD
-2019: I-MOD
-“art. I-MOD
+constituição I-SUP
+no I-SUP
+6 I-SUP
+, I-SUP
+de I-SUP
+2019 I-SUP
+: I-ADD
+
+
+ I-MOD
+“ I-MOD
+art I-MOD
+. I-MOD
 8º-a I-MOD
 são I-MOD
 suspensas I-MOD
@@ -256,65 +379,98 @@ de I-SUP
 servidores I-SUP
 ou I-SUP
 militares I-SUP
-federais, I-SUP
+federais I-SUP
+, I-SUP
 estaduais I-SUP
 ou I-SUP
-municipais, I-SUP
-maiores I-MOD
+municipais I-MOD
+, I-SUP
+maiores I-SUP
+de I-SUP
+21 I-SUP
+anos I-SUP
+, I-SUP
+em I-SUP
+caso I-SUP
 de I-MOD
-21 I-MOD
-anos, I-MOD
-em I-MOD
-caso I-MOD
-de: I-MOD
+: I-MOD
+
+
+ I-MOD
 i I-MOD
-– O
-casamento O
-ou O
-união O
-estável; O
-ii O
+– I-MOD
+casamento I-MOD
+ou I-MOD
+união I-MOD
+estável I-MOD
+; I-MOD
+
+
+ I-MOD
+ii I-MOD
 - I-MOD
 recebimento I-MOD
 de I-MOD
 benefícios I-MOD
-previdenciários I-ADD
+previdenciários I-MOD
 ou I-ADD
 de I-ADD
-salários, I-ADD
-inclusive I-MOD
+salários I-MOD
+, I-MOD
+inclusive I-ADD
 os I-MOD
 decorrentes O
 de O
-cargo O
-ou O
-emprego O
-público.” O
-art. O
-4º O
-acrescente-se B-ADD
-o I-ADD
-seguinte I-ADD
-art. I-ADD
-45-a I-ADD
+cargo I-SUP
+ou I-SUP
+emprego I-SUP
+público I-SUP
+. I-SUP
+” I-SUP
+
+
+
+
+ I-SUP
+art I-MOD
+. I-MOD
+4º I-MOD
+acrescente I-MOD
+- I-MOD
+se I-MOD
+o I-MOD
+seguinte I-MOD
+art I-ADD
+. I-ADD
+45-a O
 à O
-proposta I-ADD
-de O
-emenda I-ADD
+proposta O
+de I-ADD
+emenda I-SUP
 à I-ADD
-constituição I-ADD
-no I-ADD
-6, I-ADD
-de O
-2019: I-MOD
-“art. I-MOD
+constituição I-SUP
+no I-SUP
+6 I-SUP
+, I-SUP
+de I-SUP
+2019 I-SUP
+: I-ADD
+
+
+
+
+ I-MOD
+“ I-MOD
+art I-MOD
+. I-MOD
 45-a. I-MOD
 a I-MOD
 partir I-MOD
 da I-MOD
-data I-SUP
+data I-MOD
 publicação I-SUP
-desta I-SUP
+d I-SUP
+esta I-SUP
 emenda I-SUP
 nenhum I-SUP
 aposentado I-SUP
@@ -330,23 +486,30 @@ de I-MOD
 que I-MOD
 trata I-MOD
 o I-MOD
-art. I-MOD
-37 I-MOD
-da I-MOD
-constituição, I-MOD
-ainda I-MOD
-que I-MOD
-a I-MOD
-concessão I-MOD
+art I-ADD
+. I-ADD
+37 I-ADD
+da I-ADD
+constituição I-ADD
+, I-ADD
+ainda I-ADD
+que I-ADD
+a I-SUP
+concessão I-SUP
 do I-SUP
 benefício I-MOD
 seja I-MOD
 decorrente I-MOD
 de I-MOD
 decisão I-MOD
-judicial. I-MOD
+judicial I-MOD
+. I-MOD
+
+
+ I-MOD
 parágrafo I-MOD
-único. I-MOD
+único I-MOD
+. I-MOD
 caso I-MOD
 o I-MOD
 recebimento I-MOD
@@ -361,7 +524,8 @@ de I-MOD
 mais I-MOD
 de I-MOD
 uma I-MOD
-fonte, I-MOD
+fonte I-MOD
+, I-MOD
 todas I-MOD
 as I-MOD
 fontes I-MOD
@@ -369,7 +533,8 @@ pagadoras I-MOD
 deverão I-MOD
 cessar I-MOD
 os I-MOD
-pagamentos, I-MOD
+pagamentos I-MOD
+, I-MOD
 até I-MOD
 que I-MOD
 o I-ADD
@@ -378,4 +543,10 @@ escolha I-SUP
 qual I-SUP
 deverá I-SUP
 ser I-SUP
-abatida.” I-SUP
+abatida I-SUP
+. I-SUP
+” I-SUP
+
+
+
+ O

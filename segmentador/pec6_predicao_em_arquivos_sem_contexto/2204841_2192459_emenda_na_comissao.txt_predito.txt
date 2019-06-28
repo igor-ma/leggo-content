@@ -1,0 +1,247 @@
+( O
+) O
+câmara O
+deputados O
+proposta O
+de O
+emenda O
+à O
+constituição O
+nº O
+6 O
+, O
+de O
+2019 I-ADD
+
+
+
+
+ I-ADD
+modifica B-MOD
+o I-MOD
+sistema I-MOD
+de I-MOD
+previdência I-MOD
+
+
+ I-MOD
+social I-MOD
+, I-MOD
+
+
+ I-MOD
+estabelece I-MOD
+
+
+ I-MOD
+regras I-MOD
+
+
+ I-MOD
+de I-MOD
+
+
+ I-MOD
+transição I-MOD
+e I-MOD
+disposições I-MOD
+transitórias I-MOD
+, I-MOD
+e I-MOD
+dá I-MOD
+outras I-MOD
+providências I-MOD
+. E-MOD
+
+
+
+
+
+
+ O
+emenda O
+aditiva O
+
+
+
+
+ O
+art B-MOD
+. I-MOD
+1º. I-MOD
+acrescente I-MOD
+- I-MOD
+se I-MOD
+novo I-MOD
+art I-MOD
+. I-MOD
+24 I-MOD
+à I-MOD
+pec I-MOD
+06/2019 I-MOD
+, I-MOD
+conforme O
+a I-MOD
+redação I-MOD
+a I-SUP
+seguir I-SUP
+, I-SUP
+renumerando I-SUP
+o I-SUP
+atual I-SUP
+art I-SUP
+. I-SUP
+24 I-MOD
+para I-MOD
+art I-MOD
+. I-MOD
+25 I-MOD
+: I-MOD
+
+
+ I-MOD
+“ I-MOD
+art I-MOD
+. I-MOD
+24 I-MOD
+. I-MOD
+é I-MOD
+facultado I-MOD
+a I-MOD
+os I-MOD
+servidores I-MOD
+da I-MOD
+união I-MOD
+, I-MOD
+dos I-MOD
+estados I-MOD
+, I-MOD
+do I-MOD
+distrito I-MOD
+federal I-MOD
+e I-MOD
+dos I-MOD
+municípios I-MOD
+, I-MOD
+incluídas I-SUP
+suas I-SUP
+autarquias I-SUP
+e I-SUP
+fundações I-SUP
+, I-MOD
+no I-MOD
+prazo I-SUP
+de I-SUP
+06 I-MOD
+( I-MOD
+seis I-MOD
+) I-MOD
+meses I-MOD
+a I-MOD
+contar I-MOD
+da I-MOD
+data I-MOD
+da I-SUP
+promulgação I-SUP
+d I-SUP
+esta I-SUP
+emenda I-SUP
+, I-SUP
+ou I-SUP
+de I-SUP
+instituição I-SUP
+do I-MOD
+respectivo I-MOD
+regime I-ADD
+de I-ADD
+previdência I-ADD
+complementar I-ADD
+, I-ADD
+para I-ADD
+os I-ADD
+entes I-ADD
+que I-MOD
+venham I-SUP
+a I-MOD
+instituir I-MOD
+após I-SUP
+a I-SUP
+promulgação I-SUP
+d I-SUP
+esta I-SUP
+emenda I-SUP
+, I-SUP
+o I-SUP
+direito I-ADD
+de I-ADD
+opção I-ADD
+pelo I-ADD
+regime I-ADD
+de I-ADD
+previdência I-ADD
+complementar I-ADD
+previsto I-ADD
+no I-SUP
+§ I-SUP
+14 I-SUP
+e I-SUP
+§ I-SUP
+16 I-SUP
+do I-SUP
+art I-SUP
+. I-SUP
+40 I-SUP
+da I-MOD
+constituição I-ADD
+, I-ADD
+garantindo I-ADD
+- I-MOD
+se I-MOD
+a I-MOD
+esses I-MOD
+servidores I-MOD
+benefício I-MOD
+especial I-MOD
+, I-MOD
+correspondente I-MOD
+, I-ADD
+nos I-ADD
+termos I-ADD
+da I-MOD
+lei I-MOD
+, I-SUP
+a I-SUP
+um I-MOD
+valor I-MOD
+que I-MOD
+reflita I-MOD
+o I-MOD
+período I-MOD
+contributivo I-ADD
+vertido I-ADD
+a I-ADD
+o I-ADD
+regime I-MOD
+próprio I-MOD
+de I-MOD
+previdência I-MOD
+social I-MOD
+até I-MOD
+a I-MOD
+data I-MOD
+da I-MOD
+efetivação I-MOD
+d I-MOD
+essa I-MOD
+opção I-MOD
+. I-MOD
+” I-MOD
+( I-MOD
+nr I-MOD
+) E-MOD
+
+
+
+
+
+ O

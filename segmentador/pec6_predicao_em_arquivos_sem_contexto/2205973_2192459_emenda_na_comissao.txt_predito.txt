@@ -1,0 +1,209 @@
+de O
+. O
+câmara O
+deputados O
+liderança O
+do O
+partido O
+socialista O
+brasileiro O
+
+
+
+
+
+
+ O
+comissão O
+especial O
+destinada O
+a O
+proferir O
+parecer O
+a O
+proposta O
+de O
+emenda O
+à O
+constituição O
+n. O
+6/ O
+2019 O
+
+
+
+
+ I-MOD
+modifica I-MOD
+o I-MOD
+sistema I-MOD
+de I-MOD
+previdência I-MOD
+social I-MOD
+, I-MOD
+
+
+ I-MOD
+estabelece I-MOD
+regras I-MOD
+de I-MOD
+transição I-MOD
+e I-MOD
+disposições I-MOD
+
+
+ I-MOD
+transitórias I-MOD
+, I-MOD
+e I-MOD
+dá I-MOD
+outras I-MOD
+providências I-MOD
+. E-MOD
+
+
+
+
+ O
+emenda O
+supressiva O
+
+
+ O
+( O
+do O
+sr. O
+tadeu O
+alencar O
+e O
+outros O
+) O
+
+
+
+
+ O
+suprime I-MOD
+alterações I-MOD
+promovidas I-SUP
+pela I-SUP
+pec I-SUP
+n. I-SUP
+6 I-SUP
+, I-SUP
+
+
+ I-SUP
+de I-SUP
+2019 I-SUP
+, I-MOD
+para I-MOD
+manter I-MOD
+as I-MOD
+regras I-MOD
+constitucionais I-MOD
+
+
+ I-MOD
+atinentes I-MOD
+
+
+ I-MOD
+a I-MOD
+o I-MOD
+
+
+ I-MOD
+benefício I-MOD
+
+
+ I-MOD
+de I-MOD
+
+
+ I-MOD
+prestação I-ADD
+
+
+ I-ADD
+continuada I-ADD
+devidos I-ADD
+à I-ADD
+pessoa I-ADD
+idosa I-ADD
+e I-ADD
+com I-ADD
+
+
+ I-MOD
+deficiência I-MOD
+na I-MOD
+forma I-MOD
+atualmente I-MOD
+vigente I-MOD
+. I-MOD
+
+
+
+
+
+
+ I-MOD
+suprimam I-MOD
+- I-MOD
+se I-ADD
+da O
+proposta I-ADD
+de I-ADD
+emenda I-SUP
+à I-SUP
+constituição I-SUP
+n. I-SUP
+6 I-SUP
+, I-SUP
+de I-SUP
+2019 I-SUP
+, I-SUP
+os I-MOD
+dispositivos I-MOD
+que I-MOD
+seguem I-MOD
+: I-MOD
+
+
+ I-MOD
+a I-MOD
+) I-MOD
+art I-MOD
+. I-MOD
+203 I-MOD
+da I-ADD
+constituição I-MOD
+federal I-MOD
+, I-MOD
+com I-ADD
+redação I-ADD
+dada I-MOD
+pelo I-MOD
+art I-MOD
+. I-MOD
+1º I-MOD
+da I-MOD
+pec I-MOD
+; I-MOD
+b I-MOD
+) I-MOD
+art I-MOD
+. I-MOD
+41 I-MOD
+e I-MOD
+art I-MOD
+. I-MOD
+42 I-MOD
+da I-MOD
+pec I-MOD
+. O
+
+
+
+ O

@@ -1,13 +1,23 @@
-de O
-de O
+2003 O
+” I-MOD
 câmara O
 deputados O
+gabinete O
 do I-MOD
 deputado I-MOD
 marcelo I-MOD
 aro I-MOD
-- O
-pp/mg O
+- I-MOD
+pp O
+/ O
+mg O
+
+
+
+
+
+
+ O
 comissão O
 especial O
 destinada O
@@ -15,54 +25,102 @@ a O
 proferir O
 parecer O
 à O
+
+
+ O
 proposta O
 de O
 emenda O
 à O
 constituição O
 nº O
-6-a, O
+6-a O
+, O
 de O
 2019 O
+
+
+ O
 proposta O
 de O
 emenda O
 à O
 constituição O
 nº O
-6, O
+6 O
+, O
 de O
 2019 O
+
+
+
+
+ O
 modifica B-MOD
 o O
-sistema O
-de O
+sistema I-MOD
+de I-MOD
 previdência I-MOD
-social, I-MOD
+
+
+ I-MOD
+social I-MOD
+, I-MOD
 estabelece I-MOD
 regras I-MOD
 de I-MOD
 transição I-MOD
 e I-MOD
 disposições I-MOD
-transitórias, I-MOD
+
+
+ I-MOD
+transitórias I-MOD
+, I-MOD
+
+
+ I-MOD
 e I-MOD
-dá O
-outras O
-providências. O
+
+
+ I-MOD
+dá I-MOD
+
+
+ I-MOD
+outras I-MOD
+
+
+ I-MOD
+providências O
+. O
+
+
+ O
 emenda O
 supressiva O
 nº O
-(do O
+
+
+ O
+( O
+do O
 sr. O
-marcelo O
-aro O
+marcelo I-MOD
+aro I-MOD
 e I-MOD
-outros) I-MOD
-suprima-se I-MOD
+outros I-MOD
+) I-MOD
+
+
+ I-MOD
+suprima I-MOD
+- I-MOD
+se I-MOD
 do I-MOD
-art. I-SUP
-1º I-SUP
+art I-MOD
+. I-MOD
+1º I-MOD
 da I-SUP
 proposta I-ADD
 de I-ADD
@@ -70,16 +128,25 @@ emenda I-ADD
 à I-ADD
 constituição I-ADD
 nº I-ADD
-6, I-ADD
+
+
+ I-ADD
+6 I-ADD
+, I-SUP
 de I-ADD
-2019, I-ADD
-a I-ADD
+2019 I-SUP
+, I-SUP
+a I-MOD
 alteração I-MOD
 do I-MOD
 § I-MOD
 5º I-ADD
 do I-ADD
-art. I-ADD
+art I-ADD
+. I-ADD
 195 I-ADD
-da I-MOD
-constituição. O
+da I-ADD
+constituição I-ADD
+. O
+
+ O

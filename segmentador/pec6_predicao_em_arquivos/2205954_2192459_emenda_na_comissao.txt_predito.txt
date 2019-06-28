@@ -1,28 +1,42 @@
-da I-MOD
 nº I-MOD
+. I-MOD
 propõe I-ADD
 dos I-ADD
 para I-ADD
-aposentadoria I-MOD
-voluntária, I-MOD
-em I-ADD
-todos I-SUP
+aposentadoria I-ADD
+voluntária I-SUP
+, I-SUP
+em I-SUP
+todos I-MOD
 os I-MOD
-regimes, I-MOD
+regimes I-MOD
+, I-MOD
 restabelecendo I-MOD
-a I-MOD
+a I-ADD
 fórmula I-MOD
 instituída I-MOD
 pela I-MOD
 emenda I-MOD
 constitucional I-MOD
-nº O
-47, O
+nº I-MOD
+47 O
+, I-MOD
 de O
-2005. O
+2005 O
+. O
+
+
+
+
+
+
+ O
 câmara O
 dos O
 deputados O
+
+
+ O
 comissão O
 especial O
 destinada O
@@ -30,135 +44,219 @@ a O
 proferir O
 parecer O
 à O
+
+
+ O
 pec O
-6, O
+6 O
+, O
 de O
 2019 O
+
+
+
+
+
+
+ O
 emenda O
-nº_____ O
-(dos O
-senhores O
+nº O
+_ O
+_ O
+_ I-MOD
+_ I-MOD
+_ I-MOD
+
+
+ I-MOD
+( I-MOD
+dos I-MOD
+senhores I-MOD
 paulo I-MOD
-pimenta, I-MOD
+pimenta I-MOD
+, I-MOD
 afonso I-MOD
-florence, I-MOD
+florence I-MOD
+, I-MOD
 airton I-MOD
-faleiro, I-MOD
+faleiro I-MOD
+, I-MOD
 alencar I-MOD
-santana, I-MOD
+santana I-MOD
+, I-MOD
 alexandre I-MOD
-padilha, I-MOD
+padilha I-MOD
+, I-MOD
 arlindo I-MOD
-chinaglia, I-MOD
+chinaglia I-MOD
+, I-MOD
 assis I-MOD
-carvalho, I-MOD
+carvalho I-MOD
+, I-MOD
 benedita I-MOD
 da I-MOD
-silva, I-MOD
+silva I-MOD
+, I-MOD
 beto I-MOD
-faro, I-MOD
+faro I-MOD
+, I-MOD
 bohn I-MOD
-gass, I-MOD
+gass I-MOD
+, I-MOD
 carlos I-MOD
-veras, I-MOD
+veras I-MOD
+, I-MOD
 carlos I-MOD
-zarattini, I-MOD
+zarattini I-MOD
+, I-MOD
 célio I-MOD
-moura, I-MOD
+moura I-MOD
+, I-MOD
 enio I-MOD
-verri, I-MOD
+verri I-MOD
+, I-MOD
 erika I-MOD
-kokay, I-MOD
+kokay I-MOD
+, I-MOD
 frei I-MOD
 anastacio I-MOD
-ribeiro, I-MOD
+ribeiro I-MOD
+, I-MOD
 gleisi I-MOD
-hoffmann, I-MOD
+hoffmann I-MOD
+, I-MOD
 helder I-MOD
-salomão, I-MOD
+salomão I-MOD
+, I-MOD
 henrique I-MOD
-fontana, I-MOD
+fontana I-MOD
+, I-MOD
 joão I-MOD
-daniel, I-MOD
+daniel I-MOD
+, I-MOD
 jorge I-MOD
-solla, I-MOD
+solla I-MOD
+, I-MOD
 josé I-MOD
 airton I-MOD
-cirilo, I-MOD
+cirilo I-MOD
+, I-MOD
 josé I-MOD
-guimarães, I-MOD
+guimarães I-MOD
+, I-MOD
 josé I-MOD
-ricardo, I-MOD
+ricardo I-MOD
+, I-MOD
 joseildo I-MOD
-ramos, I-MOD
+ramos I-MOD
+, I-MOD
 leonardo I-MOD
-monteiro, I-MOD
+monteiro I-MOD
+, I-MOD
 luizianne I-MOD
-lins, I-MOD
-marcon, I-MOD
+lins I-MOD
+, I-MOD
+marcon I-MOD
+, I-MOD
 margarida I-MOD
-salomão, I-MOD
+salomão I-MOD
+, I-MOD
 maria I-MOD
 do I-MOD
-rosário, I-MOD
+rosário I-MOD
+, I-MOD
 marília I-MOD
-arraes, I-MOD
+arraes I-MOD
+, I-MOD
 merlong I-MOD
-solano, I-MOD
+solano I-MOD
+, I-MOD
 natália I-MOD
-bonavides, I-MOD
+bonavides I-MOD
+, I-MOD
 nelson I-MOD
-pellegrino, I-MOD
+pellegrino I-MOD
+, I-MOD
 nilto I-MOD
-tatto, I-MOD
+tatto I-MOD
+, I-MOD
 odair I-MOD
-cunha, I-MOD
+cunha I-MOD
+, I-MOD
 padre I-MOD
-joão, I-MOD
+joão I-MOD
+, I-MOD
 patrus I-MOD
-ananias, I-MOD
-paulão, I-MOD
+ananias I-MOD
+, I-MOD
+paulão I-MOD
+, I-MOD
 paulo I-MOD
-guedes, I-MOD
+guedes I-MOD
+, I-MOD
 paulo I-MOD
-teixeira, I-MOD
+teixeira I-MOD
+, I-MOD
 pedro I-MOD
-uczai, I-MOD
+uczai I-MOD
+, I-MOD
 professora I-MOD
 rosa I-MOD
-neide, I-MOD
+neide I-MOD
+, I-MOD
 reginaldo I-MOD
-lopes, I-MOD
+lopes I-MOD
+, I-MOD
 rejane I-MOD
-dias, I-MOD
+dias I-MOD
+, I-MOD
 rogério I-MOD
-correia, I-MOD
+correia I-MOD
+, I-MOD
 rubens I-MOD
-otoni, I-MOD
+otoni I-MOD
+, I-MOD
 rui I-MOD
-falcão, I-MOD
+falcão I-MOD
+, I-MOD
 valmir I-MOD
-assunção, I-MOD
+assunção I-MOD
+, I-MOD
 vander I-MOD
-loubet, I-MOD
-vicentinho, I-MOD
+loubet I-MOD
+, I-MOD
+vicentinho I-MOD
+, I-MOD
 waldenor I-MOD
-pereira, I-MOD
+pereira I-MOD
+, I-MOD
 zé I-MOD
-carlos, I-MOD
+carlos I-MOD
+, I-MOD
 zé I-MOD
-neto, I-MOD
+neto I-MOD
+, I-MOD
 zeca I-MOD
 dirceu I-MOD
 e I-MOD
-outros) I-MOD
-art. I-MOD
+outros I-MOD
+) I-MOD
+
+
+
+
+
+
+ I-MOD
+art I-MOD
+. I-MOD
 1º. I-MOD
 o I-MOD
-art. I-MOD
+art I-ADD
+. I-MOD
 40 I-MOD
-da I-MOD
-constituição I-MOD
+da I-ADD
+constituição I-ADD
 federal I-ADD
 para I-ADD
 a I-ADD
@@ -166,67 +264,106 @@ vigorar I-ADD
 acrescido I-ADD
 dos I-ADD
 seguintes I-ADD
-dispositivos: I-MOD
-“art. I-MOD
-40. I-MOD
+dispositivos I-ADD
+: I-ADD
+
+
+ I-MOD
+“ I-MOD
+art I-MOD
+. I-MOD
+40 I-MOD
+. I-MOD
 .............................................................................................. I-MOD
-§1º I-MOD
+
+
+ I-MOD
+§ I-MOD
+1º I-MOD
 .................................................................................................. I-MOD
+
+
+ I-MOD
 ....................................................................................................... I-MOD
+
+
+ I-MOD
 iii I-MOD
 - I-MOD
 ......................................................................................... I-MOD
-.............................................................................................; I-MOD
-e: I-MOD
-c) I-MOD
+
+
+ I-MOD
+............................................................................................. I-MOD
+; I-MOD
+e I-MOD
+: I-MOD
+c I-MOD
+) I-MOD
 a I-MOD
 soma I-MOD
 de I-MOD
-sua I-MOD
+sua I-ADD
 idade I-ADD
 e I-ADD
 de I-ADD
 seu I-ADD
 tempo I-ADD
 de I-ADD
-contribuição, I-MOD
-incluídas I-MOD
-as I-MOD
-frações, I-MOD
+contribuição I-ADD
+, I-ADD
+
+
+ I-ADD
+incluídas I-ADD
+as I-ADD
+frações I-MOD
+, I-MOD
 for I-MOD
 igual I-MOD
 ou I-MOD
 superior I-MOD
 a I-MOD
-pontuação, I-MOD
+pontuação I-MOD
+, I-MOD
 nos I-ADD
 termos I-ADD
 definidos I-ADD
 em I-ADD
-lei, I-ADD
+lei I-ADD
+, I-ADD
 com I-ADD
-o I-MOD
-valor I-ADD
+o I-ADD
+valor I-MOD
 integral I-MOD
 do I-MOD
-benefício, I-MOD
+benefício I-MOD
+, I-MOD
 até I-MOD
+
+
+ I-MOD
 o I-MOD
 limite I-MOD
 de I-MOD
 cem I-MOD
-pontos, I-ADD
+pontos I-MOD
+, I-ADD
 observando I-ADD
 o I-ADD
 tempo I-ADD
 mínimo I-ADD
 de I-ADD
+
+
+ I-ADD
 contribuição I-ADD
 de I-ADD
 trinta I-ADD
 e I-ADD
 cinco I-ADD
-anos, I-MOD
+anos I-MOD
+, I-MOD
 se I-MOD
 homem I-MOD
 e I-MOD
@@ -241,26 +378,40 @@ de I-ADD
 trinta I-ADD
 anos I-ADD
 de I-ADD
-contribuição, I-MOD
-se I-MOD
-mulher; I-MOD
+contribuição I-ADD
+, I-ADD
+se I-ADD
+mulher I-ADD
+; I-ADD
+
+
+ I-ADD
 ........................................................................................ I-MOD
-§5º-a. I-MOD
-para I-MOD
-efeito I-MOD
+
+
+ I-MOD
+§ I-MOD
+5º-a. I-MOD
+para I-ADD
+efeito I-SUP
 de I-SUP
 aplicação I-SUP
 do I-SUP
 disposto I-SUP
 na I-SUP
 alínea I-SUP
-c) I-SUP
+c I-SUP
+) I-SUP
 do I-SUP
 inciso I-SUP
-iii I-SUP
-do I-MOD
-§ I-ADD
-1º, I-ADD
+iii I-MOD
+do I-SUP
+
+
+ I-SUP
+§ I-MOD
+1º I-ADD
+, I-ADD
 o I-ADD
 tempo I-ADD
 mínimo I-ADD
@@ -271,7 +422,7 @@ professor I-ADD
 e I-ADD
 da I-ADD
 professora I-MOD
-que I-MOD
+que I-SUP
 comprovarem I-SUP
 exclusivamente I-ADD
 tempo I-ADD
@@ -290,20 +441,27 @@ fundamental I-MOD
 e I-MOD
 médio I-MOD
 será I-MOD
-de, I-MOD
-respectivamente, I-MOD
-30 I-MOD
-(trinta) I-MOD
-e I-MOD
-25 I-MOD
-(vinte I-SUP
-e I-MOD
-cinco) I-MOD
-anos I-MOD
 de I-MOD
-tempo I-MOD
+, I-MOD
+respectivamente I-MOD
+, I-MOD
+30 I-MOD
+( I-SUP
+trinta I-SUP
+) I-SUP
+e I-SUP
+25 I-SUP
+( I-MOD
+vinte I-SUP
+e I-SUP
+cinco I-MOD
+) I-SUP
+anos I-ADD
 de I-ADD
-contribuição, I-ADD
+tempo I-ADD
+de I-ADD
+contribuição I-ADD
+, I-ADD
 e I-ADD
 serão I-ADD
 acrescidos I-ADD
@@ -311,19 +469,31 @@ cinco I-ADD
 pontos I-ADD
 à I-ADD
 soma I-ADD
-da I-MOD
-idade, I-MOD
+da I-ADD
+idade I-ADD
+, I-ADD
 se I-MOD
-homem, I-MOD
+homem I-MOD
+, I-MOD
 e I-MOD
 dez I-MOD
-anos, I-MOD
+anos I-MOD
+, I-MOD
 se I-MOD
-mulher.” I-MOD
-art. I-MOD
+mulher I-MOD
+. I-MOD
+” I-MOD
+
+
+
+
+ I-MOD
+art I-MOD
+. I-MOD
 2º I-MOD
-o I-MOD
-art. I-MOD
+o O
+art I-MOD
+. I-MOD
 201 I-MOD
 da I-MOD
 constituição I-MOD
@@ -334,74 +504,116 @@ vigorar I-ADD
 acrescido I-ADD
 dos I-ADD
 seguintes I-ADD
-dispositivos: I-ADD
-“art. I-MOD
-201. I-MOD
+dispositivos I-ADD
+: I-ADD
+
+
+ I-MOD
+“ I-MOD
+art I-MOD
+. I-MOD
+201 I-MOD
+. I-MOD
 ......................................................................................... I-MOD
+
+
+ I-MOD
 ......................................................................................................... I-MOD
+
+
+ I-MOD
 i- I-MOD
-voluntariamente, I-MOD
-ao I-MOD
-segurado I-MOD
-que I-MOD
-tiver I-ADD
+voluntariamente I-MOD
+, I-MOD
+a I-MOD
+o I-MOD
+segurado I-SUP
+que I-ADD
+tiver I-SUP
 cumprido I-ADD
 uma I-ADD
 das I-ADD
 seguintes I-ADD
-condições: I-MOD
+condições I-ADD
+: I-ADD
+
+
+ I-MOD
 propõe I-MOD
 alteração I-ADD
 dos I-ADD
 requisitos I-ADD
 para I-ADD
-aposentadoria I-MOD
-voluntária, I-MOD
-em I-ADD
-todos I-SUP
+aposentadoria I-ADD
+voluntária I-SUP
+, I-SUP
+em I-SUP
+todos I-MOD
 os I-MOD
-regimes, I-MOD
+regimes I-MOD
+, I-MOD
 restabelecendo I-MOD
-a I-MOD
+a I-ADD
 fórmula I-MOD
 instituída I-MOD
 pela I-MOD
 emenda I-MOD
 constitucional I-MOD
 nº I-MOD
-47, I-MOD
+47 O
+, I-MOD
 de I-MOD
-2005. I-MOD
-a) I-MOD
+2005 O
+. I-MOD
+
+
+
+
+ I-MOD
+a I-MOD
+) I-MOD
 trinta I-MOD
-e I-MOD
-cinco I-MOD
-anos I-MOD
-de I-MOD
-contribuição, I-MOD
-se I-MOD
-homem, I-MOD
-e I-MOD
-trinta I-MOD
-anos I-MOD
-de I-MOD
-contribuição, I-MOD
-se I-MOD
-mulher, I-MOD
+e I-ADD
+cinco I-ADD
+anos I-ADD
+de I-ADD
+contribuição I-ADD
+, I-ADD
+se I-ADD
+homem I-ADD
+, I-ADD
+e I-ADD
+trinta I-ADD
+anos I-ADD
+de I-ADD
+contribuição I-ADD
+, I-ADD
+se I-ADD
+mulher I-ADD
+, I-ADD
 reduzidos I-MOD
-em I-SUP
+em I-MOD
 cinco I-SUP
 anos I-SUP
 para I-SUP
+
+
+ I-SUP
 os I-SUP
 trabalhadores I-SUP
 rurais I-SUP
-de I-SUP
-ambos O
-os O
-sexos; I-MOD
-b) I-MOD
-ao I-MOD
+de I-MOD
+ambos I-MOD
+os I-MOD
+sexos I-MOD
+; I-MOD
+
+
+ I-MOD
+b I-MOD
+) I-MOD
+a I-MOD
+o I-MOD
 segurado I-MOD
 que I-MOD
 tiver I-MOD
@@ -411,25 +623,33 @@ e I-MOD
 cinco I-MOD
 anos I-MOD
 de I-MOD
-idade, I-MOD
+idade I-MOD
+, I-MOD
 se I-MOD
-homem, I-MOD
+homem I-MOD
+, I-MOD
 e I-MOD
 sessenta I-MOD
 anos I-MOD
 de I-MOD
-idade, I-MOD
-se I-MOD
-mulher, I-MOD
-ambos I-MOD
-com I-MOD
-quinze I-MOD
-anos I-MOD
-de I-SUP
-contribuição, I-SUP
-reduzidos I-SUP
-em I-SUP
+idade I-MOD
+, I-MOD
+se I-ADD
+mulher I-ADD
+, I-ADD
+ambos I-ADD
+com I-ADD
+quinze I-ADD
+anos I-ADD
+de I-ADD
+contribuição I-ADD
+, I-ADD
+reduzidos I-ADD
+em I-ADD
 cinco I-SUP
+
+
+ I-SUP
 anos I-SUP
 para I-SUP
 os I-SUP
@@ -442,73 +662,102 @@ sexos I-SUP
 e I-SUP
 para I-SUP
 os I-SUP
+
+
+ I-SUP
 que I-SUP
 exerçam I-SUP
 suas I-SUP
 atividades I-SUP
-em I-MOD
+em I-SUP
 regime I-MOD
 de I-MOD
 economia I-MOD
 familiar I-MOD
+
+
+ I-MOD
 de I-MOD
 que I-MOD
 trata I-MOD
 o I-MOD
-§8º I-MOD
-do I-MOD
-art. I-MOD
-195; I-MOD
+§ I-SUP
+8º I-MOD
+do I-ADD
+art I-SUP
+. I-SUP
+195 I-MOD
+; O
 ou I-MOD
-c) I-MOD
+
+
+ I-MOD
+c I-MOD
+) I-MOD
 a I-MOD
 soma I-MOD
 de I-MOD
-sua I-MOD
+sua I-ADD
 idade I-ADD
 e I-ADD
 de I-ADD
 seu I-ADD
 tempo I-ADD
 de I-ADD
-contribuição, I-MOD
-incluídas I-MOD
-as I-MOD
-frações, I-MOD
+contribuição I-ADD
+, I-ADD
+
+
+ I-ADD
+incluídas I-ADD
+as I-ADD
+frações I-MOD
+, I-MOD
 for I-MOD
 igual I-MOD
 ou I-MOD
 superior I-MOD
 a I-MOD
-pontuação, I-MOD
+pontuação I-MOD
+, I-MOD
 nos I-ADD
 termos I-ADD
 definidos I-ADD
 em I-ADD
-lei, I-ADD
+lei I-ADD
+, I-ADD
 com I-ADD
-o I-MOD
-valor I-ADD
+o I-ADD
+valor I-MOD
 integral I-MOD
 do I-MOD
-benefício, I-MOD
+benefício I-MOD
+, I-MOD
 até I-MOD
+
+
+ I-MOD
 o I-MOD
 limite I-MOD
 de I-MOD
 cem I-MOD
-pontos, I-ADD
+pontos I-MOD
+, I-ADD
 observando I-ADD
 o I-ADD
 tempo I-ADD
 mínimo I-ADD
 de I-ADD
+
+
+ I-ADD
 contribuição I-ADD
 de I-ADD
 trinta I-ADD
 e I-ADD
 cinco I-ADD
-anos, I-MOD
+anos I-MOD
+, I-MOD
 se I-MOD
 homem I-MOD
 e I-MOD
@@ -523,26 +772,39 @@ de I-ADD
 trinta I-ADD
 anos I-ADD
 de I-ADD
-contribuição, I-MOD
-se I-MOD
-mulher I-MOD
-........................................................................................... I-MOD
-§8º-a. I-MOD
-para I-MOD
-efeito I-MOD
+contribuição I-ADD
+, I-ADD
+se I-ADD
+mulher I-ADD
+
+
+ I-ADD
+........................................................................................... I-ADD
+
+
+ I-MOD
+§ I-ADD
+8º-a. I-MOD
+para I-ADD
+efeito I-SUP
 de I-SUP
 aplicação I-SUP
 do I-SUP
 disposto I-SUP
 na I-SUP
 alínea I-SUP
-c) I-SUP
+c I-SUP
+) I-SUP
 do I-SUP
-inciso I-SUP
+inciso I-MOD
 i I-MOD
 do I-MOD
-§ I-ADD
-7º, I-ADD
+§ I-MOD
+
+
+ I-MOD
+7º I-ADD
+, I-ADD
 o I-ADD
 tempo I-ADD
 mínimo I-ADD
@@ -553,7 +815,7 @@ professor I-ADD
 e I-ADD
 da I-ADD
 professora I-MOD
-que I-MOD
+que I-SUP
 comprovarem I-SUP
 exclusivamente I-ADD
 tempo I-ADD
@@ -572,20 +834,27 @@ fundamental I-MOD
 e I-MOD
 médio I-MOD
 será I-MOD
-de, I-MOD
-respectivamente, I-MOD
-30 I-MOD
-(trinta) I-MOD
-e I-MOD
-25 I-MOD
-(vinte I-SUP
-e I-MOD
-cinco) I-MOD
-anos I-MOD
 de I-MOD
-tempo I-MOD
+, I-MOD
+respectivamente I-MOD
+, I-MOD
+30 I-MOD
+( I-SUP
+trinta I-SUP
+) I-SUP
+e I-SUP
+25 I-SUP
+( I-MOD
+vinte I-SUP
+e I-SUP
+cinco I-MOD
+) I-SUP
+anos I-ADD
 de I-ADD
-contribuição, I-ADD
+tempo I-ADD
+de I-ADD
+contribuição I-ADD
+, I-ADD
 e I-ADD
 serão I-ADD
 acrescidos I-ADD
@@ -593,12 +862,23 @@ cinco I-ADD
 pontos I-ADD
 à I-ADD
 soma I-ADD
-da I-MOD
-idade, I-MOD
+da I-ADD
+idade I-ADD
+, I-ADD
 se I-MOD
-homem, I-MOD
+homem I-MOD
+, I-MOD
 e I-MOD
 dez I-MOD
-anos, I-MOD
+anos I-MOD
+, I-MOD
 se I-MOD
-mulher.” I-MOD
+mulher I-MOD
+. I-MOD
+” I-ADD
+
+
+
+
+
+ O

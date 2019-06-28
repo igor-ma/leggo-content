@@ -1,5 +1,5 @@
-da O
-desta O
+esta O
+. O
 comissão O
 destinada O
 proferir O
@@ -11,77 +11,126 @@ emenda O
 à O
 constituição O
 nº O
-06, O
+06 O
+, O
 de O
-2019 I-MOD
-altera I-MOD
-o I-MOD
-§1º I-MOD
+2019 O
+
+
+
+
+
+
+ O
+altera B-ADD
+o I-ADD
+§ I-ADD
+1º I-MOD
 do I-MOD
-art. I-MOD
+art I-MOD
+. I-MOD
 4º I-MOD
-da I-MOD
+da I-SUP
 proposta I-SUP
 de I-SUP
-emenda I-SUP
-à I-ADD
-constituição I-ADD
+
+
+ I-SUP
+emenda O
+à O
+constituição O
 nº O
-06, O
+06 O
+, I-ADD
 de O
-2019. O
+2019 O
+. O
+
+
+
+
+
+
+ O
 emenda O
 substitutiva O
 nº O
-dê-se B-MOD
-ao I-MOD
-§1º I-MOD
+
+
+
+
+ O
+dê O
+- O
+se O
+a O
+o I-MOD
+§ I-MOD
+1º I-MOD
 do I-MOD
-art. I-MOD
-4º I-MOD
-da I-MOD
+art I-MOD
+. I-MOD
+4º I-SUP
+da I-SUP
 proposta I-SUP
 de I-SUP
 emenda I-SUP
-à I-ADD
-constituição I-ADD
-nº I-ADD
-06, I-ADD
+à O
+constituição O
+nº O
+06 O
+, I-ADD
 de I-ADD
-2019, I-ADD
+2019 I-ADD
+, I-ADD
 com I-ADD
-a I-MOD
-seguinte I-MOD
-redação: I-MOD
-art. I-MOD
+a I-ADD
+seguinte I-ADD
+redação I-ADD
+: I-MOD
+
+
+ I-MOD
+art I-MOD
+. I-MOD
 4º I-MOD
 ........................................................................................... I-MOD
-§1º I-MOD
+
+
+ I-MOD
+§ I-MOD
+1º I-MOD
 os I-MOD
 policiais I-MOD
-da I-MOD
-ativa I-MOD
+da I-SUP
+ativa I-SUP
 dos I-SUP
 órgãos I-SUP
 previstos I-SUP
 nos I-SUP
 incisos I-SUP
-i, I-SUP
-ii, I-SUP
+i I-SUP
+, I-SUP
+ii I-SUP
+, I-SUP
 iii I-SUP
-e I-MOD
+e I-SUP
 iv I-MOD
 do I-MOD
-art. I-SUP
-144 I-MOD
+art I-MOD
+. I-MOD
+144 I-SUP
 da I-SUP
-constituição, I-MOD
-na I-MOD
+constituição I-SUP
+, I-MOD
+na I-SUP
 data I-SUP
 da I-SUP
 publicação I-SUP
-desta I-ADD
-lei, I-ADD
+d I-MOD
+esta I-MOD
+lei I-ADD
+, I-ADD
 deverão I-ADD
 cumprir I-ADD
 acrescidos I-ADD
@@ -97,15 +146,25 @@ que I-ADD
 restar I-ADD
 para I-ADD
 sua I-ADD
-aposentadoria, I-SUP
+aposentadoria I-ADD
+, I-SUP
 observado I-SUP
-o I-SUP
+o I-ADD
 previsto I-ADD
 na I-ADD
 lei I-ADD
 complementar I-ADD
 nº I-ADD
-51, I-ADD
-de O
-1985. O
+51 I-ADD
+, I-ADD
+de I-ADD
+1985 I-ADD
+. I-MOD
+
+
+ O
 ........................................................................................................................... O
+
+
+
+ I-MOD

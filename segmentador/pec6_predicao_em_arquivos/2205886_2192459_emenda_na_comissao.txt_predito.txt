@@ -1,37 +1,68 @@
-nº I-MOD
 de I-MOD
+; I-MOD
 comissão I-MOD
-da I-MOD
-nº I-MOD
-6, I-MOD
-de O
-2019 O
-proposta I-ADD
+da I-ADD
+nº I-ADD
+6 I-SUP
+, I-SUP
+de I-SUP
+2019 I-ADD
+
+
+
+
+ O
+proposta O
 de O
 emenda I-ADD
 à I-ADD
 constituição I-ADD
-nº O
-6, O
-de O
+nº I-ADD
+6 I-ADD
+, I-ADD
+de I-SUP
 2019 O
+
+
+
+
+ O
 emenda O
 modificativa O
-(do O
+
+
+ O
+( O
+do O
 sr. O
 daniel O
 almeida O
 e O
-outros) O
-suprime O
-da I-MOD
-pec I-MOD
-6, I-MOD
+outros O
+) O
+suprime I-SUP
+da I-SUP
+pec I-SUP
+6 I-SUP
+, I-SUP
 de I-SUP
-2019, I-SUP
+2019 I-SUP
+, I-SUP
+
+
+ I-MOD
 dispositivos I-MOD
+
+
+ I-MOD
 relacionados I-MOD
-à I-MOD
+
+
+ I-MOD
+à I-ADD
+
+
+ I-MOD
 desconstitucionalização I-MOD
 das I-MOD
 regras I-MOD
@@ -39,13 +70,17 @@ previdenciárias I-MOD
 e I-MOD
 os I-MOD
 relacionados I-MOD
-ao I-MOD
+a I-MOD
+o I-MOD
 novo I-MOD
-regime I-ADD
+regime I-MOD
 de I-ADD
-capitalização I-ADD
+capitalização I-MOD
 e I-ADD
-determina I-ADD
+
+
+ I-ADD
+determina I-MOD
 a I-SUP
 realização I-SUP
 de I-MOD
@@ -54,111 +89,192 @@ sobre I-SUP
 as I-SUP
 modificações I-SUP
 na I-SUP
-contida. I-SUP
-art. I-MOD
-1º I-SUP
-suprimam-se I-SUP
-do I-MOD
-art. I-MOD
+contida I-MOD
+. I-MOD
+
+
+
+
+ I-MOD
+art I-MOD
+. I-MOD
 1º I-MOD
-da I-SUP
-pec I-SUP
-nº I-MOD
-6: I-MOD
-i. I-MOD
-as I-MOD
-modificações I-MOD
-apostas I-MOD
-ao I-MOD
-art. I-MOD
-40; I-MOD
-ii. I-MOD
-as I-MOD
-modificações I-MOD
-apostas I-MOD
-ao I-MOD
-art. I-MOD
-201 I-MOD
-e I-MOD
-ao I-MOD
-inciso I-MOD
-ii, I-MOD
+suprimam I-MOD
+- I-MOD
+se I-MOD
 do I-MOD
-caput I-MOD
-do I-MOD
-art. I-MOD
-195; I-MOD
-e I-MOD
-iii. I-MOD
-as I-MOD
-modificações I-MOD
-apostas I-MOD
-ao I-MOD
-art. I-MOD
-194. I-MOD
-art. I-MOD
-2º I-MOD
-suprimam-se I-SUP
+art I-MOD
+. I-MOD
+1º I-MOD
 da I-SUP
 pec I-SUP
 nº I-SUP
 6 I-SUP
+: I-SUP
+i. I-SUP
+
+
+ I-SUP
+as I-MOD
+modificações I-MOD
+apostas I-MOD
+a I-MOD
+o I-MOD
+art I-MOD
+. I-MOD
+40 I-MOD
+; I-MOD
+
+
+ I-MOD
+ii I-MOD
+. I-MOD
+
+
+ I-MOD
+as I-MOD
+modificações I-MOD
+apostas I-MOD
+a I-MOD
+o I-MOD
+art I-MOD
+. I-MOD
+201 I-SUP
+e I-MOD
+a I-SUP
 o I-SUP
-art. I-SUP
-201-a, I-ADD
+inciso I-MOD
+ii I-MOD
+, I-SUP
+do I-MOD
+caput I-MOD
+do I-MOD
+art I-MOD
+. I-ADD
+
+
+ I-MOD
+195 I-ADD
+; I-ADD
+e I-ADD
+
+
+ I-ADD
+iii I-MOD
+. I-MOD
+
+
+ I-MOD
+as I-MOD
+modificações I-MOD
+apostas I-MOD
+a I-MOD
+o I-MOD
+art I-MOD
+. I-MOD
+194 I-MOD
+. I-MOD
+
+
+ I-MOD
+art I-MOD
+. I-MOD
+2º I-MOD
+suprimam I-MOD
+- I-MOD
+se I-MOD
+da I-ADD
+pec I-MOD
+nº O
+6 O
+o I-SUP
+art I-ADD
+. I-ADD
+201-a I-ADD
+, I-ADD
 criado I-ADD
-no I-SUP
-art. I-SUP
-1º I-SUP
-da I-SUP
-pec, I-MOD
+no I-ADD
+art I-SUP
+. I-SUP
+1º I-MOD
+da I-MOD
+pec I-MOD
+, I-MOD
 e I-MOD
 o I-MOD
 novo I-MOD
-art. I-MOD
+art I-MOD
+. I-MOD
 115 I-MOD
 do I-MOD
-adct, I-MOD
+adct I-MOD
+, I-MOD
 constante I-MOD
 do I-MOD
-art. I-MOD
+art I-MOD
+. I-MOD
 2º I-MOD
 da I-MOD
-pec. I-MOD
-art. I-MOD
+pec I-MOD
+. I-MOD
+
+
+ I-MOD
+art I-MOD
+. I-MOD
 3º I-MOD
-inclua-se, I-MOD
-onde I-MOD
-couber, I-ADD
-o I-SUP
-seguinte I-SUP
+inclua I-MOD
+- I-ADD
+se I-ADD
+, I-ADD
+onde I-ADD
+couber I-ADD
+, I-ADD
+o I-ADD
+seguinte I-ADD
 artigo I-ADD
-na I-ADD
+na I-SUP
 pec I-SUP
 nº I-SUP
-6: I-SUP
-“art. I-MOD
+6 I-SUP
+: I-SUP
+
+
+ I-SUP
+“ I-ADD
+art I-MOD
 . I-MOD
-a I-ADD
+. I-MOD
+a I-MOD
 entrada I-MOD
 em I-MOD
 vigor I-MOD
-das I-SUP
+das I-MOD
 modificações I-SUP
 contidas I-SUP
-nesta I-SUP
+n I-ADD
+esta I-SUP
 emenda I-SUP
 à I-SUP
 constituição I-SUP
-fica I-SUP
+fica I-ADD
 condicionada I-ADD
 a I-ADD
 referendo I-ADD
 nos I-ADD
 termos I-ADD
-do I-ADD
-art. I-MOD
-14, I-MOD
-ii, O
-da O
-constituição.” O
+do I-SUP
+art I-MOD
+. I-SUP
+14 I-SUP
+, I-MOD
+ii I-SUP
+, I-SUP
+da I-SUP
+constituição I-MOD
+. O
+” I-MOD
+
+
+
+ O

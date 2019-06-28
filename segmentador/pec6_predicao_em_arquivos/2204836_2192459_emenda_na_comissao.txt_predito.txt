@@ -1,86 +1,183 @@
-menos I-SUP
-anos I-SUP
+contínuos I-SUP
+” I-SUP
 câmara O
 deputados O
+proposta O
 de O
 emenda O
 à O
 constituição O
 nº O
-6, O
+6 O
+, O
 de O
 2019 O
+
+
+
+
+ O
 modifica B-MOD
 o O
-sistema O
-de O
-previdência I-MOD
-social, I-MOD
-estabelece I-MOD
-regras I-MOD
+sistema I-MOD
 de I-MOD
+previdência I-MOD
+
+
+ I-MOD
+social I-MOD
+, I-MOD
+
+
+ I-MOD
+estabelece I-MOD
+
+
+ I-MOD
+regras I-MOD
+
+
+ I-MOD
+de I-MOD
+
+
+ I-MOD
 transição I-MOD
 e I-MOD
 disposições I-MOD
-transitórias, I-MOD
+transitórias I-MOD
+, I-MOD
 e I-MOD
-dá O
-outras O
-providências. O
+
+
+ I-MOD
+dá I-MOD
+outras I-MOD
+providências O
+. O
+
+
+
+
+
+
+ O
 emenda O
 modificativa O
-art. O
+
+
+
+
+ O
+art O
+. O
 1º. O
-dê-se B-MOD
-ao I-MOD
-art. I-MOD
+dê O
+- O
+se O
+a O
+o I-MOD
+art I-MOD
+. I-MOD
 3º I-MOD
 da I-MOD
 pec I-MOD
 6/2019 I-MOD
 a I-MOD
 seguinte I-MOD
-redação: I-MOD
-“art. I-MOD
+redação I-MOD
+: I-MOD
+
+
+
+
+ I-MOD
+“ I-MOD
+art I-MOD
+. I-MOD
 3º. I-MOD
 o I-MOD
-inciso I-MOD
-i I-MOD
-do I-MOD
-§1° I-MOD
+inciso I-SUP
+i I-SUP
+do I-SUP
+§ I-SUP
+1 I-SUP
+° I-SUP
 do I-ADD
-art. I-MOD
-40 I-MOD
-da I-MOD
+art I-ADD
+. I-MOD
+40 I-ADD
+da I-ADD
 constituição I-ADD
 federal I-MOD
 passa I-MOD
 a I-ADD
-vigorar I-ADD
+vigorar I-MOD
 com I-MOD
 a I-MOD
 seguinte I-MOD
-redação: I-MOD
-art. I-MOD
-40... I-MOD
-§1° I-ADD
-..... I-MOD
+redação I-MOD
+: I-MOD
+
+
+
+
+ I-MOD
+art I-MOD
+. I-MOD
+40 I-ADD
+... I-ADD
+
+
+ I-ADD
+§ I-MOD
+1 I-MOD
+° I-SUP
+..... I-ADD
+
+
+ I-SUP
 i I-MOD
-– I-MOD
-por I-MOD
-invalidez I-MOD
-permanente; O
-..............................................................(nr)” O
-art. O
+– I-ADD
+por I-ADD
+invalidez I-ADD
+permanente I-ADD
+; I-MOD
+
+
+ I-MOD
+.............................................................. I-MOD
+( I-MOD
+nr I-MOD
+) I-MOD
+” I-MOD
+
+
+
+
+ I-MOD
+art I-MOD
+. I-MOD
 2º. I-MOD
-acrescente-se I-MOD
-os I-MOD
-§22°, I-MOD
-§23° I-MOD
-e I-ADD
-§24° I-MOD
-ao I-ADD
-art. I-MOD
+acrescente I-MOD
+- I-ADD
+se I-ADD
+os I-ADD
+§ I-ADD
+22 I-ADD
+° I-ADD
+, I-ADD
+§ I-SUP
+23 I-SUP
+° I-MOD
+e I-MOD
+§ I-MOD
+24 I-MOD
+° I-MOD
+a I-MOD
+o I-MOD
+art I-MOD
+. I-MOD
 40 I-ADD
 da I-ADD
 constituição I-ADD
@@ -88,53 +185,79 @@ federal I-ADD
 com I-ADD
 a I-ADD
 seguinte I-ADD
-redação: I-ADD
-“§22° I-MOD
-o I-MOD
-servidor I-MOD
+redação I-ADD
+: I-ADD
+
+
+
+
+ I-ADD
+“ I-SUP
+§ I-SUP
+22 I-ADD
+° I-SUP
+o I-SUP
+servidor I-SUP
 da I-MOD
-união, I-MOD
+união I-MOD
+, I-MOD
 dos I-MOD
-estados, I-MOD
+estados I-MOD
+, I-MOD
 do I-MOD
 distrito I-MOD
 federal I-MOD
 e I-MOD
 dos I-MOD
-municípios, I-MOD
+municípios I-MOD
+, I-MOD
 incluídas I-MOD
-suas I-SUP
-autarquias I-MOD
+suas I-MOD
+autarquias I-SUP
 e I-SUP
-fundações, I-SUP
+fundações I-MOD
+, I-MOD
 que I-MOD
 se I-MOD
 aposentou I-MOD
+
+
+
+
+
+
+ I-MOD
 ou I-MOD
-venha I-ADD
+venha O
 a I-MOD
-se I-MOD
+se I-ADD
 aposentar I-ADD
 por I-ADD
 invalidez I-ADD
-permanente, I-ADD
+permanente I-ADD
+, I-ADD
 com I-ADD
 fundamento I-ADD
-no I-MOD
-inciso I-MOD
-i I-MOD
-do I-MOD
-§1° I-MOD
+no I-ADD
+inciso I-SUP
+i I-SUP
+do I-SUP
+§ I-SUP
+1 I-SUP
+° I-SUP
 do I-ADD
-art. I-MOD
-40 I-MOD
+art I-ADD
+. I-MOD
+40 I-ADD
 da I-MOD
 constituição I-MOD
-federal I-MOD
-tem I-MOD
-direito I-MOD
-a: I-ADD
-a) I-ADD
+federal I-ADD
+tem I-ADD
+direito I-SUP
+a I-SUP
+: I-MOD
+a I-ADD
+) I-ADD
 proventos I-ADD
 de I-ADD
 aposentadoria I-ADD
@@ -147,15 +270,17 @@ do I-SUP
 cargo I-SUP
 efetivo I-SUP
 em I-MOD
-que I-MOD
-se I-SUP
-der I-MOD
-a I-MOD
-aposentadoria, I-MOD
-na I-MOD
-forma I-MOD
-da I-MOD
-lei, I-MOD
+que I-ADD
+se I-ADD
+der I-ADD
+a I-ADD
+aposentadoria I-ADD
+, I-ADD
+na I-ADD
+forma I-ADD
+da I-ADD
+lei I-SUP
+, I-MOD
 não I-MOD
 sendo I-MOD
 aplicáveis I-MOD
@@ -163,27 +288,42 @@ as I-MOD
 disposições I-MOD
 constantes I-MOD
 dos I-MOD
-§§ I-MOD
-3°, I-MOD
-8° I-MOD
+§ I-ADD
+§ I-MOD
+3 I-MOD
+° I-MOD
+, I-MOD
+8 I-MOD
+° I-MOD
 e I-MOD
 17 I-MOD
 do I-MOD
-art. I-MOD
+art I-MOD
+. I-MOD
+
+
+ I-MOD
 40 I-MOD
-da I-MOD
+da I-ADD
 constituição I-MOD
-federal; I-MOD
-b) I-MOD
-revisão I-ADD
-dos I-ADD
-proventos I-MOD
+federal I-MOD
+; I-MOD
+
+
+
+
+ I-MOD
+b I-MOD
+) I-MOD
+revisão I-MOD
+dos I-MOD
+proventos I-ADD
 de I-MOD
 aposentadoria I-MOD
 dos I-ADD
 servidores I-ADD
 públicos I-ADD
-titulares I-ADD
+titulares I-SUP
 de I-SUP
 cargo I-SUP
 efetivo I-SUP
@@ -192,16 +332,17 @@ das I-MOD
 pensões I-SUP
 dos I-SUP
 seus I-SUP
-dependentes I-MOD
+dependentes I-SUP
 na I-SUP
 mesma I-SUP
 proporção I-SUP
 e I-SUP
 na I-SUP
 mesma I-SUP
-data, I-SUP
-sempre I-SUP
-que I-ADD
+data I-SUP
+, I-SUP
+sempre I-MOD
+que I-MOD
 se I-MOD
 modificar I-MOD
 a I-MOD
@@ -209,11 +350,13 @@ remuneração I-MOD
 dos I-MOD
 servidores I-MOD
 em I-MOD
-atividade, I-MOD
+atividade I-MOD
+, I-MOD
 sendo I-MOD
-também I-MOD
+também I-SUP
 estendidos I-MOD
-aos I-MOD
+a I-MOD
+os I-MOD
 aposentados I-MOD
 e I-MOD
 pensionistas I-MOD
@@ -223,12 +366,14 @@ ou I-MOD
 vantagens I-MOD
 posteriormente I-MOD
 concedidos I-MOD
-aos I-MOD
+a I-MOD
+os I-MOD
 servidores I-MOD
 em I-MOD
-atividade, I-MOD
-inclusive I-MOD
-quando I-MOD
+atividade I-SUP
+, I-MOD
+inclusive I-SUP
+quando I-SUP
 decorrentes I-SUP
 da I-MOD
 transformação I-MOD
@@ -253,8 +398,16 @@ para I-SUP
 a I-SUP
 concessão I-SUP
 da I-SUP
-pensão. I-SUP
-§23° I-SUP
+pensão I-SUP
+. I-MOD
+
+
+
+
+ I-MOD
+§ I-SUP
+23 I-SUP
+° I-MOD
 esta I-MOD
 emenda I-SUP
 constitucional I-SUP
@@ -265,4 +418,10 @@ na I-SUP
 data I-SUP
 de I-SUP
 sua I-SUP
-publicação.” I-SUP
+publicação I-MOD
+. I-MOD
+” I-MOD
+
+
+
+ I-SUP

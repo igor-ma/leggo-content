@@ -1,11 +1,16 @@
-sistema O
-de O
+
+
+ O
+. O
 comissão O
 destinada O
 analisar O
 a O
 proposta O
 de O
+
+
+ O
 emenda O
 à O
 constituição O
@@ -13,6 +18,11 @@ nº O
 6 O
 de O
 2019 O
+
+
+
+
+ O
 proposta O
 de O
 emenda O
@@ -22,114 +32,175 @@ nº O
 6 O
 de O
 2019 O
+
+
+
+
+
+
+ O
 emenda O
 nº O
-(do O
-senhor O
-dep. I-MOD
+
+
+ O
+( O
+do I-MOD
+senhor I-ADD
+dep I-MOD
+. I-MOD
 josimar I-MOD
-maranhãozinho) I-MOD
-art. I-MOD
+maranhãozinho I-MOD
+) I-MOD
+
+
+
+
+
+
+ I-MOD
+art I-MOD
+. I-MOD
 1º. I-MOD
-suprimam-se: I-MOD
-i I-MOD
+suprimam I-MOD
 - I-MOD
+se I-MOD
+: I-MOD
+
+
+ I-MOD
+i I-ADD
+- I-ADD
 os I-MOD
-§§8º, I-MOD
+§ I-MOD
+§ I-MOD
+8º I-MOD
+, I-MOD
 8º-a I-MOD
 e I-MOD
 8º-b I-MOD
 do I-ADD
-art. I-ADD
+art I-ADD
+. I-ADD
 195 I-ADD
 da I-ADD
 constituição I-ADD
 da I-ADD
-república, I-ADD
-alterado I-ADD
+república I-ADD
+, I-SUP
+alterado I-SUP
 pelo I-MOD
-art. I-MOD
+art I-MOD
+. I-MOD
 1º I-SUP
-da I-SUP
-pec I-SUP
-nº I-SUP
-6 I-SUP
-de I-SUP
-2019; I-ADD
-ii I-ADD
-– I-ADD
-o I-MOD
-inciso I-MOD
-iv I-MOD
-do I-SUP
-§7º I-SUP
-do I-SUP
-art. I-SUP
-201 I-SUP
-da I-SUP
-constituição I-SUP
-da I-SUP
-república, I-SUP
-alterado I-ADD
-pelo I-MOD
-art. I-MOD
-1º I-SUP
-da I-SUP
-pec I-SUP
-nº I-SUP
-6 I-SUP
-de I-SUP
-2019; I-SUP
-iii I-SUP
-– I-SUP
-o I-SUP
-§3º I-SUP
-do I-SUP
-art. I-SUP
-22 I-SUP
-da I-SUP
-pec I-SUP
-nº I-SUP
-6 I-SUP
-de I-SUP
-2019; I-SUP
-iv I-ADD
-– I-MOD
-o I-MOD
-parágrafo I-MOD
-único I-MOD
-do I-MOD
-art. I-MOD
-31 I-SUP
-da I-SUP
-pec I-SUP
-nº I-SUP
-6 I-SUP
-de I-SUP
-2019; I-MOD
-v I-ADD
-– I-MOD
-o I-MOD
-art. I-MOD
-35 O
 da I-SUP
 pec I-SUP
 nº I-SUP
 6 I-SUP
 de I-SUP
 2019 I-SUP
-art. I-ADD
-2º. I-MOD
-modifique-se I-MOD
+; I-ADD
+
+
+ I-ADD
+ii I-MOD
+– I-MOD
 o I-MOD
-art. I-MOD
+inciso I-MOD
+iv I-MOD
+do I-MOD
+§ I-SUP
+7º I-SUP
+do I-SUP
+art I-SUP
+. I-SUP
+201 I-SUP
+da I-SUP
+constituição I-SUP
+da I-SUP
+república I-SUP
+, I-SUP
+alterado I-SUP
+pelo I-MOD
+art I-MOD
+. I-MOD
+1º I-SUP
+da I-SUP
+pec I-SUP
+nº I-SUP
+6 I-SUP
+de I-SUP
+2019 I-SUP
+; I-ADD
+
+
+ I-ADD
+iii I-SUP
+– I-MOD
+o I-MOD
+§ I-ADD
+3º I-ADD
+do I-SUP
+art I-SUP
+. I-SUP
+22 I-SUP
+da I-SUP
+pec I-SUP
+nº I-SUP
+6 I-SUP
+de I-SUP
+2019 I-SUP
+; E-SUP
+iv B-SUP
+– I-MOD
+o I-MOD
+parágrafo I-MOD
+único I-MOD
+do I-MOD
+art I-MOD
+. I-MOD
+31 I-SUP
+da I-SUP
+pec I-SUP
+nº I-SUP
+6 I-SUP
+de I-SUP
+2019 I-SUP
+; I-ADD
+v I-ADD
+– I-MOD
+o I-MOD
+art O
+. I-MOD
+35 I-SUP
+da I-SUP
+pec I-SUP
+nº I-SUP
+6 I-SUP
+de I-SUP
+2019 I-SUP
+
+
+
+
+ I-ADD
+art I-MOD
+. I-MOD
+2º. I-MOD
+modifique I-MOD
+- I-MOD
+se I-MOD
+o I-MOD
+art I-MOD
+. I-MOD
 24 I-SUP
 da I-SUP
 pec I-SUP
 nº I-SUP
 6 I-SUP
 de I-SUP
-2019, I-SUP
+2019 I-SUP
+, I-SUP
 para I-SUP
 que I-SUP
 passe I-SUP
@@ -137,10 +208,21 @@ a I-SUP
 constar I-SUP
 a I-MOD
 seguinte I-MOD
-redação: I-MOD
-“art. I-MOD
+redação I-MOD
+: I-MOD
+
+
+ I-MOD
+“ I-MOD
+art I-MOD
+. I-MOD
 24 I-MOD
 .............................................................................................. I-MOD
+
+
+
+
+ I-MOD
 i I-MOD
 - I-MOD
 sessenta I-MOD
@@ -148,75 +230,96 @@ e I-MOD
 dois I-MOD
 anos I-MOD
 de I-MOD
-idade, I-MOD
+idade I-MOD
+, I-MOD
 se I-MOD
-mulher, I-MOD
+mulher I-MOD
+, I-MOD
 e I-MOD
 sessenta I-MOD
 e I-MOD
 cinco I-MOD
 anos I-MOD
 de I-MOD
-idade, I-MOD
+idade I-MOD
+, I-MOD
 se I-MOD
-homem; I-MOD
+homem I-MOD
+; I-MOD
 ressalvados I-MOD
 os I-MOD
 trabalhadores I-MOD
-rurais, I-ADD
+rurais I-MOD
+, I-ADD
 que I-ADD
 deverão I-ADD
 contar I-ADD
 com I-SUP
 cinquenta I-SUP
-e I-ADD
-cinco I-ADD
+e I-MOD
+cinco I-MOD
 anos I-MOD
 de I-MOD
-idade, I-MOD
+idade I-MOD
+, I-MOD
 se I-MOD
-mulher, I-MOD
+mulher I-MOD
+, I-MOD
 e I-MOD
 sessenta I-MOD
 anos I-MOD
 de I-MOD
-idade, I-MOD
+idade I-MOD
+, I-MOD
 se I-MOD
-homem, I-MOD
+homem I-MOD
+, I-MOD
 inclusive I-ADD
 aqueles I-MOD
 a I-MOD
-que I-MOD
+que I-ADD
 se I-SUP
 refere I-SUP
 o I-SUP
 § I-SUP
 8º I-SUP
-do I-SUP
-art. I-ADD
-195 I-SUP
-da I-MOD
-constituição; I-MOD
+do I-ADD
+art I-ADD
+. I-ADD
+195 I-ADD
+da I-ADD
+constituição I-ADD
+; I-ADD
 e I-ADD
-ii I-ADD
+ii I-SUP
 - I-MOD
 vinte I-MOD
-anos I-MOD
-de I-MOD
-tempo I-MOD
-de I-MOD
-contribuição; I-MOD
-ressalvados I-MOD
-os I-MOD
-trabalhadores I-MOD
-rurais, I-ADD
+anos I-ADD
+de I-ADD
+tempo I-ADD
+de I-ADD
+contribuição I-ADD
+; I-ADD
+ressalvados I-ADD
+os I-ADD
+trabalhadores I-ADD
+rurais I-MOD
+, I-ADD
 que I-ADD
-deverão I-ADD
+deverão I-SUP
 contar I-SUP
-com I-ADD
+com I-SUP
 quinze I-ADD
 anos I-ADD
-de I-SUP
-tempo I-MOD
-de I-SUP
-contribuição.” O
+de I-ADD
+tempo I-ADD
+de I-ADD
+contribuição I-ADD
+. I-ADD
+” E-ADD
+
+
+
+
+
+ O

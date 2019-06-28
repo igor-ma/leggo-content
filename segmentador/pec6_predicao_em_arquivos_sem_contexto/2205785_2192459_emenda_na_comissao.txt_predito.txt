@@ -1,0 +1,485 @@
+aritmética I-MOD
+. E-MOD
+câmara O
+deputados O
+gabinete O
+deputado O
+sidney I-MOD
+leite I-MOD
+– I-MOD
+psd I-MOD
+/ O
+am O
+
+
+
+
+
+
+ O
+comissão O
+especial O
+
+
+
+
+ O
+proposta O
+de O
+emenda O
+constitucional O
+nº O
+06 O
+de O
+2019 O
+
+
+
+
+ O
+emenda O
+modificativa O
+nº O
+_ O
+_ O
+_ O
+_ I-MOD
+_ I-MOD
+_ I-MOD
+_ I-MOD
+, I-MOD
+de I-MOD
+2019 O
+
+
+ O
+( O
+do O
+sr. O
+sidney O
+leite O
+e I-MOD
+outros I-MOD
+) I-MOD
+
+
+
+
+ I-MOD
+retira I-MOD
+as I-MOD
+alterações I-MOD
+que I-MOD
+afetam I-MOD
+o I-MOD
+trabalhador I-MOD
+rural O
+. O
+
+
+
+
+ O
+art.1º O
+dê I-MOD
+- O
+se I-MOD
+nova I-MOD
+redação I-MOD
+a I-MOD
+o I-MOD
+art I-MOD
+. I-MOD
+1º I-SUP
+da I-SUP
+proposta I-ADD
+de I-ADD
+emenda I-ADD
+à I-ADD
+constituição I-ADD
+nº I-ADD
+
+
+ I-ADD
+06/2019 I-ADD
+: I-ADD
+
+
+
+
+ I-MOD
+“ I-MOD
+art I-MOD
+. I-MOD
+1º I-MOD
+.................................................... I-MOD
+
+
+ I-MOD
+............................................................ I-MOD
+
+
+ I-MOD
+“ I-MOD
+art I-MOD
+. I-MOD
+201 I-MOD
+........................................ I-SUP
+
+
+ I-MOD
+............................................................ I-MOD
+
+
+ I-MOD
+§ I-ADD
+7º I-ADD
+é I-ADD
+assegurada I-ADD
+aposentadoria I-ADD
+no I-ADD
+regime I-ADD
+geral I-ADD
+de I-ADD
+previdência I-ADD
+social I-ADD
+, I-ADD
+nos I-MOD
+termos I-MOD
+da I-MOD
+lei I-MOD
+, I-MOD
+a I-MOD
+os I-MOD
+sessenta I-MOD
+anos I-MOD
+de I-MOD
+idade I-MOD
+, I-MOD
+se I-MOD
+homem I-MOD
+, I-MOD
+e I-MOD
+cinquenta I-MOD
+e I-MOD
+cinco I-MOD
+anos I-MOD
+de I-MOD
+idade I-MOD
+, I-MOD
+se I-MOD
+mulher I-MOD
+, I-MOD
+com I-ADD
+quinze I-ADD
+anos I-ADD
+de I-ADD
+contribuição I-ADD
+para I-ADD
+ambos I-ADD
+os I-ADD
+sexos I-ADD
+, I-MOD
+a I-MOD
+o I-MOD
+trabalhador I-MOD
+rural I-MOD
+que I-MOD
+exerça I-SUP
+suas I-MOD
+atividades I-MOD
+de I-MOD
+economia I-MOD
+familiar I-MOD
+, I-MOD
+n I-MOD
+estes I-MOD
+incluídos I-MOD
+o I-MOD
+garimpeiro I-MOD
+e I-MOD
+o I-MOD
+pescador I-MOD
+artesanal I-MOD
+. I-MOD
+
+
+ I-MOD
+........................................................................... I-MOD
+” I-MOD
+
+
+ I-MOD
+art I-MOD
+. I-MOD
+2º I-MOD
+inclua I-MOD
+- I-MOD
+se I-MOD
+o I-MOD
+§ I-MOD
+6º I-ADD
+no I-ADD
+art I-SUP
+. I-SUP
+22 I-SUP
+da I-SUP
+proposta I-SUP
+de I-SUP
+emenda I-ADD
+à I-ADD
+constituição I-ADD
+nº I-ADD
+6/2019 I-ADD
+: I-ADD
+
+
+ I-ADD
+“ I-MOD
+art I-SUP
+. I-SUP
+22 I-MOD
+.......................................................................................... I-ADD
+
+
+ I-ADD
+.................................................................................................... I-SUP
+
+
+ I-MOD
+§ I-MOD
+6º I-MOD
+o I-MOD
+disposto I-MOD
+a I-MOD
+o I-MOD
+trabalhador I-MOD
+do I-ADD
+art I-ADD
+. I-ADD
+195 I-ADD
+§ I-ADD
+8º I-ADD
+aposentará I-ADD
+com I-ADD
+as I-MOD
+regras I-MOD
+do I-MOD
+art.201 I-MOD
+§ I-MOD
+7º I-MOD
+” I-MOD
+. I-MOD
+
+
+ I-MOD
+art I-MOD
+. I-MOD
+3º E-MOD
+dê B-MOD
+- I-MOD
+se I-MOD
+nova I-MOD
+redação I-MOD
+a I-MOD
+o I-MOD
+inciso I-MOD
+i I-MOD
+do I-MOD
+art I-MOD
+. I-MOD
+24 I-SUP
+da I-SUP
+proposta I-SUP
+de O
+emenda O
+à I-ADD
+constituição I-ADD
+nº I-ADD
+6/2019 I-ADD
+: I-ADD
+
+
+ I-MOD
+“ I-MOD
+art I-MOD
+. I-MOD
+24 E-MOD
+................................................ O
+
+
+
+
+ O
+câmara O
+dos O
+deputados O
+
+
+ O
+gabinete O
+deputado O
+sidney I-MOD
+leite I-MOD
+– I-MOD
+psd I-MOD
+/ I-MOD
+am I-MOD
+
+
+
+
+
+
+ I-MOD
+i I-MOD
+– I-MOD
+sessenta I-MOD
+e I-MOD
+dois I-MOD
+anos I-MOD
+de I-MOD
+idade I-MOD
+, I-MOD
+se I-MOD
+mulher I-MOD
+, I-MOD
+e I-MOD
+sessenta I-MOD
+e I-MOD
+cinco I-MOD
+anos I-MOD
+de I-MOD
+idade I-MOD
+, I-MOD
+se I-MOD
+homem I-MOD
+, I-MOD
+sendo I-MOD
+para I-MOD
+os I-MOD
+trabalhadores I-MOD
+rural I-MOD
+as I-MOD
+regras I-MOD
+do I-MOD
+art I-MOD
+. I-MOD
+201 I-MOD
+§ I-SUP
+7º I-MOD
+
+
+ I-MOD
+da I-MOD
+constituição I-MOD
+federal I-MOD
+. I-MOD
+
+
+ I-MOD
+................................................................................... I-MOD
+” I-MOD
+
+
+ I-MOD
+art I-MOD
+. I-MOD
+4º I-MOD
+suprimam I-MOD
+- I-MOD
+se I-MOD
+os I-MOD
+seguintes I-MOD
+dispositivos I-MOD
+da I-ADD
+proposta I-ADD
+de I-ADD
+emenda I-ADD
+à I-ADD
+constituição I-ADD
+nº O
+6/2019 I-ADD
+: I-ADD
+
+
+ I-ADD
+i I-MOD
+– I-MOD
+art I-MOD
+. I-MOD
+1º I-MOD
+, I-MOD
+quanto I-MOD
+à I-MOD
+s I-MOD
+alterações I-MOD
+no I-MOD
+§ I-SUP
+8º I-SUP
+§ I-SUP
+8º-a I-SUP
+e I-ADD
+§ I-SUP
+8º-b I-ADD
+do I-ADD
+art I-ADD
+. I-ADD
+195 I-ADD
+da I-ADD
+constituição I-ADD
+federal I-ADD
+; I-ADD
+
+
+ I-ADD
+ii I-ADD
+– I-MOD
+art I-MOD
+. I-MOD
+1º I-MOD
+, I-MOD
+quanto I-MOD
+à I-MOD
+s I-MOD
+alterações I-MOD
+no I-MOD
+inciso I-MOD
+iv I-MOD
+do I-SUP
+§ I-SUP
+7º I-SUP
+e I-SUP
+no I-MOD
+§ I-MOD
+7º-a I-SUP
+do I-SUP
+art I-SUP
+. I-SUP
+201 I-SUP
+da I-SUP
+constituição I-SUP
+federal I-SUP
+; I-SUP
+
+
+ I-ADD
+iii I-ADD
+– I-ADD
+art I-SUP
+. I-SUP
+22 I-SUP
+§ I-SUP
+3º I-SUP
+; I-SUP
+
+
+ I-SUP
+iii I-MOD
+- I-MOD
+art I-MOD
+. I-MOD
+35 I-MOD
+. O
+
+ O

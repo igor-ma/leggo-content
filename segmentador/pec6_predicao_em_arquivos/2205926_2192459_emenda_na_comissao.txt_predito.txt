@@ -1,104 +1,196 @@
-46 O
-dos O
+câmara O
+deputados O
 proposta O
 emenda O
 constituição O
 nº O
-006, O
+006 O
+, O
 de O
-2019 I-MOD
+2019 O
+
+
+
+
+
+
+ O
 altera I-MOD
 os I-MOD
-arts. I-MOD
-37, I-MOD
-38, I-MOD
-39, I-MOD
-40, I-MOD
-42, I-MOD
-149, I-MOD
-195, I-MOD
-201, I-MOD
-203 I-MOD
+arts I-MOD
+. I-MOD
+37 I-MOD
+, I-MOD
+38 I-MOD
+, I-MOD
+39 I-MOD
+, I-MOD
+40 I-MOD
+, I-MOD
+42 I-MOD
+, I-MOD
+149 I-ADD
+, I-SUP
+
+
+ I-SUP
+195 I-SUP
+, I-SUP
+201 I-ADD
+, I-ADD
+203 I-ADD
 da I-SUP
-constituição, I-SUP
+constituição I-SUP
+, I-SUP
 para I-SUP
+
+
+ I-SUP
 dispor I-SUP
 sobre I-SUP
 a I-SUP
-seguridade I-SUP
-social, I-SUP
+seguridade I-MOD
+social I-MOD
+, I-MOD
+
+
+ I-MOD
 estabelece I-MOD
 regras I-MOD
 de I-MOD
 transição I-MOD
 e I-MOD
-dá O
-outras O
-providências. O
+dá I-MOD
+
+
+ I-MOD
+outras I-MOD
+providências O
+. O
+
+
+
+
+
+
+ O
 emenda O
 modificativa O
-altere-se O
-o O
-art. O
-1º O
+
+
+
+
+
+
+ O
+altere O
+- O
+se O
+o I-MOD
+art I-MOD
+. I-MOD
+1º I-MOD
 da I-MOD
 pec I-MOD
-006, I-MOD
-de I-MOD
-2019, I-MOD
+006 I-MOD
+, I-MOD
+de O
+2019 I-MOD
+, I-MOD
 passando I-MOD
 a I-MOD
 ter I-MOD
 a I-MOD
 seguinte I-MOD
-redação: I-MOD
-cf, I-MOD
-art. I-MOD
+redação I-MOD
+: I-MOD
+
+
+
+
+ I-MOD
+cf I-MOD
+, I-MOD
+art I-MOD
+. I-MOD
 40 I-MOD
-[...]. I-MOD
-§1º I-MOD
-são I-MOD
-isentos I-MOD
-de I-MOD
-contribuição I-MOD
+
+
+ I-MOD
+[ I-MOD
+... I-MOD
+] I-MOD
+. I-ADD
+
+
+ I-MOD
+§ I-MOD
+1º I-ADD
+são I-ADD
+isentos I-ADD
+de I-ADD
+contribuição I-ADD
 previdenciária I-ADD
 de I-ADD
 forma I-ADD
-gradual, I-ADD
-à I-MOD
+gradual I-ADD
+, I-ADD
+à I-ADD
 razão I-ADD
 de I-ADD
-10% I-ADD
-(dez I-ADD
-por I-MOD
-cento) I-MOD
-ao I-MOD
-ano, O
+10 I-ADD
+% I-ADD
+( I-ADD
+dez I-ADD
+por I-ADD
+cento I-ADD
+) I-ADD
+a I-MOD
+o I-ADD
+ano I-MOD
+, I-MOD
 a O
-partir O
+partir I-MOD
 de I-MOD
 65 I-MOD
-(sessenta I-SUP
+
+
+ I-MOD
+( I-MOD
+sessenta I-MOD
 e I-MOD
-cinco) I-MOD
-anos I-SUP
+cinco I-MOD
+) I-MOD
+anos I-MOD
 de I-MOD
-idade, I-MOD
+idade I-MOD
+, I-MOD
 o I-MOD
 aposentado I-MOD
 e I-MOD
 o I-MOD
-pensionista, I-MOD
+pensionista I-MOD
+, I-MOD
 cessando I-MOD
-aos I-MOD
+a I-MOD
+os I-MOD
 75 I-MOD
-(setenta I-MOD
-e I-MOD
-cinco) I-MOD
+( I-MOD
+setenta I-SUP
+e I-SUP
+cinco I-SUP
+) I-SUP
 anos I-MOD
-de I-ADD
-idade. I-ADD
-§1º-a I-ADD
+de I-MOD
+idade I-MOD
+. I-ADD
+
+
+
+
+ I-ADD
+§ I-ADD
+1º-a I-ADD
 lei I-ADD
 complementar I-ADD
 de I-ADD
@@ -113,7 +205,8 @@ as I-MOD
 normas I-MOD
 gerais I-MOD
 de I-MOD
-organização, I-MOD
+organização I-MOD
+, I-MOD
 de I-MOD
 funcionamento I-MOD
 e I-MOD
@@ -132,28 +225,32 @@ de I-MOD
 que I-MOD
 trata I-MOD
 este I-MOD
-artigo, I-MOD
+artigo I-ADD
+, I-ADD
 contemplará I-MOD
 modelo I-MOD
 de I-MOD
 apuração I-MOD
-dos I-MOD
-compromissos I-MOD
-e I-MOD
-seu I-MOD
+dos I-ADD
+compromissos I-ADD
+e I-ADD
+seu I-ADD
 financiamento I-ADD
 , I-ADD
 de I-ADD
-arrecadação, I-ADD
+arrecadação I-ADD
+, I-MOD
 de I-MOD
 aplicação I-MOD
 e I-MOD
 de I-MOD
 utilização I-MOD
 de I-MOD
-recursos, I-MOD
+recursos I-MOD
+, I-MOD
 dos I-MOD
-benefícios, I-MOD
+benefícios I-MOD
+, I-MOD
 da I-MOD
 fiscalização I-MOD
 pela I-MOD
@@ -163,34 +260,51 @@ do I-MOD
 controle I-MOD
 externo I-MOD
 e I-MOD
-social, I-MOD
+social I-MOD
+, I-MOD
 e I-MOD
-estabelecerá, I-MOD
+estabelecerá I-MOD
+, I-MOD
 dentre I-MOD
 outros I-MOD
 critérios I-MOD
 e I-MOD
-parâmetros: I-MOD
-(nr) I-MOD
-cf, I-MOD
-art. I-MOD
+parâmetros I-MOD
+: I-MOD
+( I-MOD
+nr I-MOD
+) I-MOD
+cf I-MOD
+, I-MOD
+art I-MOD
+. I-MOD
 149 I-MOD
-§1º I-MOD
+
+
+
+
+ I-MOD
+§ I-MOD
+1º I-MOD
 a I-MOD
-união, I-MOD
+união I-MOD
+, I-MOD
 os I-MOD
-estados, I-MOD
+estados I-MOD
+, I-MOD
 o I-MOD
 distrito I-MOD
 federal I-MOD
 e I-MOD
 os I-MOD
 municípios I-MOD
-instituirão, I-MOD
-por I-MOD
-meio I-MOD
-de I-MOD
-lei, I-ADD
+instituirão I-MOD
+, I-MOD
+por I-ADD
+meio I-ADD
+de I-ADD
+lei I-ADD
+, I-ADD
 observados I-ADD
 os I-ADD
 parâmetros I-ADD
@@ -200,33 +314,41 @@ lei I-ADD
 complementar I-ADD
 a I-ADD
 que I-ADD
-se I-MOD
-refere I-MOD
-os I-MOD
-§§ I-MOD
-1º I-MOD
-e I-MOD
-1º-a I-MOD
+se I-ADD
+refere I-ADD
+os I-ADD
+§ I-ADD
+§ I-ADD
+1º I-ADD
+e I-ADD
+1º-a I-ADD
 do I-MOD
-art. I-MOD
-40, I-MOD
-contribuições I-MOD
-ordinárias I-MOD
-e I-MOD
-extraordinárias, I-MOD
+art I-MOD
+. I-ADD
+40 I-ADD
+, I-ADD
+contribuições I-ADD
+ordinárias I-ADD
+e I-ADD
+extraordinárias I-MOD
+, I-MOD
 cobradas I-MOD
 dos I-MOD
 servidores I-MOD
-públicos, I-MOD
+públicos I-MOD
+, I-MOD
 dos I-MOD
 aposentados I-MOD
 e I-MOD
 dos I-MOD
-pensionistas, I-MOD
+pensionistas I-MOD
+, I-MOD
 em I-MOD
 benefícios I-MOD
-destes, I-MOD
-para I-ADD
+d I-SUP
+estes I-SUP
+, I-SUP
+para I-SUP
 o I-SUP
 custeio I-SUP
 do I-MOD
@@ -239,5 +361,13 @@ de I-MOD
 que I-MOD
 trata I-MOD
 o I-MOD
-art. O
-40. O
+art I-MOD
+. I-MOD
+40 I-MOD
+. O
+
+
+
+
+
+ O

@@ -1,0 +1,689 @@
+
+
+
+
+ I-MOD
+” E-MOD
+câmara O
+deputados O
+deputado O
+federal O
+joão O
+campos O
+
+
+
+
+ O
+comissão O
+especial O
+destinada O
+a O
+proferir O
+parecer O
+à O
+proposta O
+de O
+emenda O
+à O
+constituição O
+nº O
+6-a O
+, O
+de O
+2019 O
+, O
+do O
+poder O
+executivo O
+, O
+que I-MOD
+" I-ADD
+modifica O
+o I-MOD
+sistema I-MOD
+de I-MOD
+previdência I-MOD
+social I-MOD
+, I-MOD
+estabelece I-MOD
+regras I-MOD
+de I-MOD
+transição I-MOD
+e I-MOD
+disposições I-MOD
+transitórias I-MOD
+, I-MOD
+e I-MOD
+dá I-MOD
+outras I-MOD
+providências I-MOD
+" I-MOD
+- I-MOD
+pec006/2019 I-MOD
+. O
+
+
+
+
+ O
+proposta O
+de O
+emenda O
+à O
+constituição O
+nº O
+06 O
+, O
+de O
+2019 O
+. O
+
+
+
+
+ O
+altera B-ADD
+o I-MOD
+§ I-MOD
+1º I-MOD
+e I-MOD
+os I-MOD
+incisos I-MOD
+i I-MOD
+e I-MOD
+ii I-MOD
+, I-MOD
+do I-MOD
+§ I-ADD
+3º I-ADD
+, I-MOD
+o I-MOD
+§ I-MOD
+5º I-MOD
+; I-SUP
+
+
+ I-SUP
+do I-SUP
+artigo I-SUP
+4 I-SUP
+º O
+da O
+pec I-SUP
+06 O
+, I-MOD
+de O
+2019 O
+, O
+que O
+dispõe O
+
+
+ I-MOD
+sobre I-MOD
+a O
+seguridade O
+social I-MOD
+, I-MOD
+estabelece I-MOD
+regras I-MOD
+
+
+ I-MOD
+de I-MOD
+transição I-MOD
+e I-MOD
+dá I-MOD
+outras I-MOD
+providências I-MOD
+. E-MOD
+
+
+
+
+ O
+emenda O
+modificativa O
+
+
+ O
+altera B-ADD
+o I-ADD
+§ I-ADD
+1º I-MOD
+e I-MOD
+os I-MOD
+incisos I-MOD
+i I-MOD
+e I-MOD
+ii I-MOD
+, I-MOD
+do I-MOD
+§ I-ADD
+3º I-ADD
+, I-MOD
+o I-MOD
+§ I-ADD
+5º I-SUP
+; I-SUP
+do I-SUP
+artigo I-SUP
+4 I-SUP
+º I-SUP
+da O
+pec I-SUP
+06 O
+, I-MOD
+de I-MOD
+2019 I-MOD
+, I-MOD
+todos I-MOD
+com I-MOD
+a I-MOD
+seguinte I-MOD
+redação I-MOD
+: I-MOD
+
+
+ I-MOD
+art I-MOD
+. I-MOD
+4º I-MOD
+ressalvado I-MOD
+o I-MOD
+direito I-ADD
+de I-ADD
+opção I-ADD
+à I-ADD
+aposentadoria I-ADD
+pelas I-ADD
+normas I-ADD
+estabelecidas I-ADD
+na I-ADD
+lei I-ADD
+complementar I-SUP
+a I-SUP
+que I-ADD
+se I-ADD
+refere I-ADD
+o I-MOD
+§ I-MOD
+1º I-MOD
+do I-MOD
+art I-ADD
+. I-ADD
+40 I-MOD
+da I-MOD
+constituição I-MOD
+, I-MOD
+o I-MOD
+policial I-MOD
+dos I-MOD
+órgãos I-MOD
+a I-MOD
+que I-MOD
+se I-MOD
+referem I-MOD
+o I-MOD
+inciso I-MOD
+iv I-MOD
+do I-MOD
+caput I-MOD
+do I-MOD
+art I-MOD
+. I-ADD
+51 I-MOD
+, I-MOD
+o I-MOD
+inciso I-MOD
+xiii I-MOD
+do I-MOD
+caput I-MOD
+do I-MOD
+art I-MOD
+. I-MOD
+52 I-MOD
+e I-MOD
+os I-MOD
+incisos I-MOD
+i I-MOD
+a I-MOD
+iv I-MOD
+do I-MOD
+caput I-MOD
+do I-MOD
+art I-MOD
+. I-MOD
+144 I-MOD
+da I-MOD
+constituição I-MOD
+poderá I-MOD
+aposentar I-MOD
+- I-MOD
+se I-MOD
+voluntariamente I-MOD
+quando I-MOD
+preencher I-MOD
+, I-MOD
+cumulativamente I-MOD
+, I-MOD
+os I-ADD
+seguintes I-ADD
+requisitos I-MOD
+: I-MOD
+
+
+ I-MOD
+i I-MOD
+- I-MOD
+cinquenta I-MOD
+e I-MOD
+três I-MOD
+anos I-MOD
+de I-MOD
+idade I-MOD
+, I-MOD
+se I-MOD
+homem I-MOD
+, I-MOD
+e I-MOD
+cinquenta I-MOD
+anos I-MOD
+de I-MOD
+idade I-MOD
+, I-MOD
+se I-MOD
+mulher I-MOD
+; I-MOD
+
+
+ I-MOD
+............................................................................................... I-ADD
+
+
+ I-MOD
+............................................................................................... I-MOD
+
+
+ I-MOD
+§ I-MOD
+1º I-MOD
+os I-SUP
+policiais I-SUP
+dos I-SUP
+órgãos I-SUP
+previstos I-SUP
+nos I-SUP
+incisos I-SUP
+i I-SUP
+, I-SUP
+ii I-SUP
+, I-SUP
+iii I-MOD
+e I-MOD
+iv I-MOD
+do I-MOD
+art I-MOD
+. I-MOD
+144 I-MOD
+da I-MOD
+constituição I-MOD
+que I-MOD
+estejam I-ADD
+em I-SUP
+serviço I-SUP
+ativo I-MOD
+por I-MOD
+mais I-ADD
+de I-SUP
+10 I-ADD
+anos I-ADD
+de I-MOD
+efetivo I-ADD
+exercício I-MOD
+cumprirão I-SUP
+após I-MOD
+o I-MOD
+primeiro I-ADD
+dia I-MOD
+do I-ADD
+primeiro I-ADD
+exercício I-ADD
+subsequente I-MOD
+à I-MOD
+data I-MOD
+de I-SUP
+publicação I-SUP
+d I-SUP
+esta I-SUP
+emenda I-SUP
+17 I-SUP
+% I-ADD
+de I-ADD
+tempo I-ADD
+de I-ADD
+contribuição I-ADD
+a I-ADD
+praça I-ADD
+dos I-ADD
+três I-ADD
+poderes I-SUP
+– I-ADD
+câmara I-SUP
+dos I-SUP
+deputados I-ADD
+– I-MOD
+anexo I-MOD
+iv I-MOD
+gabinete I-MOD
+315 I-MOD
+- I-MOD
+cep I-MOD
+70160 I-MOD
+- I-MOD
+900 I-MOD
+brasília I-MOD
+- I-MOD
+df I-MOD
+
+
+ I-MOD
+tel I-MOD
+. I-MOD
+( I-MOD
+0xx61)3215 I-MOD
+- I-MOD
+5315 I-MOD
+fax O
+( I-MOD
+0xx61 O
+) O
+3215 I-MOD
+- I-MOD
+2315 I-MOD
+– I-MOD
+e I-MOD
+- O
+mail O
+dep.joaocampos@camara.gov.br O
+
+
+
+
+
+
+ O
+câmara O
+dos O
+deputados O
+
+
+
+
+ O
+deputado O
+federal I-MOD
+joão I-MOD
+campos E-MOD
+
+
+
+
+ I-MOD
+cada I-MOD
+ano I-MOD
+que I-ADD
+restar I-ADD
+para I-ADD
+sua I-ADD
+aposentadoria I-ADD
+, I-ADD
+observados I-ADD
+como I-ADD
+limites I-ADD
+máximos I-ADD
+de I-ADD
+idade I-ADD
+e I-ADD
+tempo I-ADD
+de I-ADD
+contribuição I-ADD
+aqueles I-SUP
+previstos I-SUP
+no I-SUP
+artigo I-SUP
+4º I-SUP
+, I-SUP
+i I-SUP
+. I-MOD
+
+
+ I-MOD
+............................................................................................... I-MOD
+
+
+ I-MOD
+§ I-MOD
+3º I-MOD
+os I-MOD
+proventos I-ADD
+das I-ADD
+aposentadorias I-ADD
+concedidas I-ADD
+nos I-ADD
+termos I-MOD
+do I-ADD
+disposto I-ADD
+n I-ADD
+este I-ADD
+artigo I-MOD
+corresponderão I-MOD
+: I-ADD
+
+
+ I-ADD
+i I-ADD
+-- I-ADD
+à I-ADD
+totalidade I-ADD
+da I-SUP
+remuneração I-SUP
+do I-ADD
+servidor I-SUP
+público I-SUP
+no I-SUP
+cargo I-SUP
+efetivo I-SUP
+em I-SUP
+que I-ADD
+se I-ADD
+der I-ADD
+a I-ADD
+aposentadoria I-ADD
+, I-ADD
+observado I-ADD
+o I-ADD
+disposto I-ADD
+no I-MOD
+§ I-MOD
+10 I-MOD
+do I-MOD
+art I-MOD
+. I-MOD
+3º I-MOD
+, I-SUP
+para I-SUP
+o I-MOD
+policial I-SUP
+dos I-MOD
+órgãos I-SUP
+a I-MOD
+que I-MOD
+se I-MOD
+refere I-MOD
+o I-MOD
+caput I-MOD
+; I-MOD
+
+
+ I-MOD
+ii I-MOD
+- I-ADD
+à I-ADD
+totalidade I-ADD
+da I-ADD
+remuneração I-SUP
+do I-ADD
+servidor I-SUP
+público I-SUP
+no I-SUP
+cargo I-SUP
+efetivo I-SUP
+em I-SUP
+que I-ADD
+se I-ADD
+der I-ADD
+a I-ADD
+aposentadoria I-ADD
+, I-ADD
+observado I-ADD
+o I-ADD
+disposto I-ADD
+no I-MOD
+§ I-MOD
+10 I-MOD
+do I-MOD
+art I-MOD
+. I-MOD
+3º I-MOD
+, I-SUP
+para I-SUP
+o I-MOD
+policial I-SUP
+dos I-MOD
+órgãos I-SUP
+a I-MOD
+que I-MOD
+se I-MOD
+refere I-MOD
+o I-MOD
+caput I-MOD
+, I-MOD
+nos I-ADD
+casos I-ADD
+de I-ADD
+incapacidade I-ADD
+permanente I-ADD
+para I-ADD
+o I-ADD
+trabalho I-ADD
+decorrente I-ADD
+de I-SUP
+acidente I-MOD
+de O
+serviço O
+ou O
+doença O
+ocupacional I-SUP
+, I-MOD
+hipóteses I-MOD
+em I-MOD
+que I-MOD
+será I-MOD
+obrigatória I-MOD
+a I-MOD
+realização I-SUP
+de I-MOD
+avaliações I-SUP
+periódicas I-SUP
+para I-SUP
+verificação I-MOD
+da I-SUP
+continuidade I-SUP
+das I-MOD
+condições I-MOD
+que I-MOD
+ensejaram I-ADD
+a I-ADD
+concessão I-ADD
+da I-ADD
+aposentadoria I-ADD
+. I-ADD
+
+
+ I-ADD
+............................................................................................... I-ADD
+
+
+ I-ADD
+§ I-MOD
+5º I-MOD
+- I-MOD
+o I-MOD
+valor I-MOD
+mensal I-MOD
+da I-MOD
+pensão I-MOD
+decorrente I-MOD
+de I-MOD
+morte I-MOD
+do I-MOD
+segurado I-MOD
+que I-MOD
+seja I-MOD
+cônjuge I-MOD
+sobrevivente I-MOD
+ou I-SUP
+filho I-SUP
+dos I-SUP
+policiais I-SUP
+previstos I-SUP
+no I-SUP
+artigo I-SUP
+144 I-SUP
+, I-SUP
+i I-MOD
+, I-MOD
+ii I-MOD
+, I-MOD
+iii I-ADD
+e I-ADD
+iv I-ADD
+corresponderá I-ADD
+à I-ADD
+totalidade O
+da I-ADD
+remuneração I-ADD
+ou I-ADD
+da I-ADD
+aposentadoria I-ADD
+que I-ADD
+recebia I-ADD
+no I-ADD
+momento I-ADD
+do I-SUP
+sinistro I-SUP
+para I-SUP
+o I-SUP
+policial I-SUP
+que I-SUP
+venha I-SUP
+a I-SUP
+óbito I-SUP
+em I-SUP
+serviço I-SUP
+ou I-MOD
+em I-MOD
+razão I-MOD
+do I-MOD
+cargo I-MOD
+. I-MOD
+
+
+ I-MOD
+............................................................................................... O
+
+
+
+ O

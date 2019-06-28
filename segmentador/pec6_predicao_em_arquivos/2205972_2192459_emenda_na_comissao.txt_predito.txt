@@ -1,7 +1,8 @@
-permanente O
-texto O
+texto I-MOD
+. I-MOD
 câmara O
 deputados O
+comissão O
 especial O
 destinada O
 a O
@@ -16,32 +17,61 @@ constituição O
 n. O
 6/ O
 2019 O
-modifica B-MOD
-o O
-sistema O
-de O
+
+
+
+
+
+
+ O
+modifica I-MOD
+o I-MOD
+sistema I-MOD
+de I-MOD
 previdência I-MOD
-social, I-MOD
+social I-MOD
+, I-MOD
 estabelece I-MOD
 regras I-MOD
 de I-MOD
 transição I-MOD
 e I-MOD
 disposições I-MOD
-transitórias, I-MOD
+transitórias I-MOD
+, I-MOD
 e I-MOD
-dá O
-outras O
-providências. O
+dá I-MOD
+outras I-MOD
+providências O
+. O
+
+
+
+
+
+
+ O
 emenda O
 supressiva O
-(do O
+
+
+ O
+( O
+do O
 sr. O
 tadeu O
 alencar O
 e O
-outros) O
-suprime B-SUP
+outros O
+) I-MOD
+
+
+
+
+
+
+ I-SUP
+suprime I-SUP
 dispositivo I-SUP
 para I-SUP
 assegurar I-SUP
@@ -49,39 +79,59 @@ o I-SUP
 benefício I-SUP
 da I-SUP
 pensão I-MOD
-por I-MOD
+por I-SUP
 morte I-SUP
 em I-MOD
 valor I-SUP
-não I-MOD
+não O
 inferior I-MOD
 a I-ADD
-um I-MOD
-salário I-MOD
-mínimo I-ADD
-art. I-ADD
+um O
+salário O
+mínimo I-MOD
+
+
+
+
+
+
+ I-ADD
+art I-ADD
+. I-ADD
 1º. I-ADD
-suprima-se I-ADD
-o I-ADD
-inciso I-SUP
-v I-SUP
-do I-SUP
-art. I-SUP
-201 I-SUP
+suprima I-MOD
+- I-MOD
+se I-MOD
+o I-MOD
+inciso I-MOD
+v I-MOD
+do I-MOD
+art I-SUP
+. I-MOD
+201 I-MOD
 da I-SUP
 constituição I-SUP
-federal, I-SUP
-contido I-SUP
-no I-SUP
-art. I-SUP
+federal I-SUP
+, I-SUP
+contido I-MOD
+no I-MOD
+art I-MOD
+. I-MOD
 1º I-SUP
 da I-SUP
 proposta I-ADD
 de I-SUP
-emenda I-ADD
-à I-ADD
-constituição I-ADD
-n. O
-6, O
-de O
-2019 O
+emenda I-SUP
+à I-SUP
+constituição I-SUP
+n. I-SUP
+6 I-SUP
+, I-SUP
+de I-SUP
+2019 I-SUP
+
+
+
+
+
+ I-SUP

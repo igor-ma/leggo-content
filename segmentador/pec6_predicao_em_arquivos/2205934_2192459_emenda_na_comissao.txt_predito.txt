@@ -1,59 +1,90 @@
-art. O
 da O
+. O
 comissão O
 destinada O
 proferir O
 parecer O
 à O
+
+
+ O
 proposta O
 de O
 emenda O
 à O
 constituição O
 nº O
-6, O
+6 O
+, O
 de O
 2019 O
+
+
+ O
 proposta O
 de O
 emenda O
 à O
 constituição O
 nº O
-6, O
+6 O
+, O
 de O
 2019 O
-altera B-ADD
+
+
+ I-MOD
+altera I-MOD
 a I-MOD
-redação I-ADD
-da O
+redação I-MOD
+da I-MOD
 proposta I-ADD
 de O
+
+
+ O
 emenda I-ADD
-à I-ADD
+à O
 constituição I-ADD
 nº I-ADD
 6/2019 I-ADD
 para I-ADD
+
+
+ I-SUP
 regressar I-MOD
-ao I-MOD
+a I-MOD
+o I-MOD
 texto I-MOD
 constitucional I-MOD
 a I-MOD
 menção I-MOD
+
+
+ I-SUP
 expressa I-SUP
 à I-SUP
-proteção O
-à O
-maternidade. O
+proteção I-SUP
+à I-SUP
+maternidade O
+. O
+
+
+ O
 emenda O
 nº O
-suprima-se B-SUP
-a I-SUP
-alteração I-SUP
-que I-SUP
-o I-SUP
-art. I-MOD
+
+
+ O
+suprima O
+- I-MOD
+se I-MOD
+a I-MOD
+alteração I-MOD
+que I-MOD
+o I-MOD
+art I-MOD
+. I-MOD
 1º I-SUP
 da I-SUP
 proposta I-ADD
@@ -62,16 +93,23 @@ emenda I-ADD
 à I-ADD
 constituição I-ADD
 nº I-ADD
-6, I-ADD
+6 I-ADD
+, I-ADD
 de I-ADD
-2019, I-ADD
+2019 I-ADD
+, I-ADD
 faz I-ADD
-ao I-ADD
+a I-ADD
+o I-ADD
 inciso I-ADD
-ii I-ADD
-do I-ADD
-art. I-MOD
+ii I-SUP
+do I-SUP
+art I-SUP
+. I-SUP
 201 I-SUP
 da I-SUP
 constituição I-SUP
-federal. O
+federal I-SUP
+. I-SUP
+
+ I-SUP

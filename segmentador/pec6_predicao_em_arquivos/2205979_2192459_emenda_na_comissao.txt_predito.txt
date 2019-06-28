@@ -1,5 +1,5 @@
-§1º I-MOD
-art. O
+. O
+. O
 comissão O
 destinada O
 proferir O
@@ -7,60 +7,93 @@ parecer O
 à O
 proposta O
 de O
+
+
+ O
 emenda O
 à O
 constituição O
 nº O
-6-a, O
+6-a O
+, O
 de O
-2019, O
+2019 O
+, O
 do O
 poder O
-executivo, O
+executivo O
+, O
 que O
-“modifica O
+
+
+ O
+“ O
+modifica O
 o O
 sistema O
 de O
 previdência O
-social, O
+social O
+, O
 estabelece O
 regras O
 de O
+
+
+ O
 transição O
 e O
 disposições O
-transitórias, O
-e O
+transitórias O
+, O
+e I-MOD
 dá O
-outras O
-providências”. O
+outras I-MOD
+providências I-MOD
+” I-MOD
+. O
+
+
+ O
 proposta O
 de O
 emenda O
 à O
 constituição O
 nº O
-06, O
+06 O
+, O
 de O
 2019 O
-suprime B-SUP
-dispositivos O
+
+
+ O
+suprime O
+dispositivos I-SUP
 da I-SUP
-pec I-MOD
-nº I-MOD
-6, I-MOD
-de I-ADD
-2019, I-ADD
+pec I-SUP
+nº I-SUP
+6 I-SUP
+, I-SUP
+de I-SUP
+2019 I-ADD
+, I-ADD
+
+
+ I-ADD
 relacionados I-ADD
 à I-ADD
 aposentadoria I-ADD
 dos I-ADD
 servidores I-ADD
 públicos I-ADD
+
+
+ I-ADD
 policiais I-MOD
 e I-MOD
-às I-MOD
+à I-MOD
+s I-MOD
 inatividades I-MOD
 e I-MOD
 pensões I-MOD
@@ -69,76 +102,111 @@ polícias I-MOD
 militares I-MOD
 e I-MOD
 dos I-MOD
-corpos I-MOD
-de O
-bombeiros O
-militares. O
+corpos I-SUP
+de I-MOD
+bombeiros I-MOD
+militares O
+. O
+
+
+
+
+
+
+ O
 emenda O
 supressiva O
-n° O
-art. O
-1º O
-suprimam-se I-SUP
-os I-SUP
+n O
+° O
+
+
+ O
+art B-MOD
+. I-MOD
+1º I-MOD
+suprimam I-MOD
+- I-MOD
+se I-MOD
+os I-MOD
 seguintes I-MOD
-dispositivos I-SUP
-da I-MOD
-pec I-MOD
-nº I-MOD
-6, I-MOD
-de I-MOD
-2019: I-MOD
-i I-ADD
+dispositivos I-MOD
+da I-SUP
+pec I-SUP
+nº I-SUP
+6 I-SUP
+, I-SUP
+de I-SUP
+2019 I-ADD
+: I-ADD
+i I-MOD
 – I-MOD
 a I-MOD
 parte I-MOD
 constante I-MOD
 do I-MOD
-art. I-MOD
+art I-MOD
+. I-MOD
 1º I-MOD
-que I-MOD
+que I-ADD
 altera I-ADD
 o I-ADD
 inciso I-ADD
 xxi I-ADD
 do I-ADD
-art. I-ADD
+art I-ADD
+. I-ADD
 22 I-ADD
-da I-ADD
-constituição I-ADD
-federal; I-ADD
-ii I-ADD
+da I-SUP
+constituição I-SUP
+federal I-ADD
+; I-ADD
+
+
+ I-ADD
+ii I-MOD
 – I-MOD
 a I-MOD
 parte I-MOD
 constante I-MOD
 do I-MOD
-art. I-MOD
+art I-MOD
+. I-MOD
 1º I-MOD
 que I-MOD
-altera I-MOD
-os I-MOD
-§§ I-MOD
-1º I-MOD
-e I-MOD
-2º I-MOD
+altera I-ADD
+os I-ADD
+§ I-ADD
+§ I-ADD
+1º I-ADD
+e I-ADD
+2º I-ADD
 do I-MOD
-art. I-MOD
+art I-MOD
+. I-MOD
 42 I-MOD
-da I-MOD
+da I-SUP
 constituição I-SUP
 federal I-SUP
 e I-ADD
 que I-ADD
 lhe I-ADD
 acrescenta I-ADD
-§ I-ADD
-3º; I-ADD
-iii I-ADD
-– I-ADD
-o I-ADD
-art. I-MOD
-4º; I-MOD
+§ I-SUP
+3º I-ADD
+; I-ADD
+
+
+ I-ADD
+iii I-MOD
+– I-MOD
+o I-MOD
+art I-MOD
+. I-MOD
+4º I-MOD
+; I-MOD
+
+
+ I-MOD
 iv I-MOD
 – I-MOD
 os I-MOD
@@ -148,13 +216,22 @@ e I-SUP
 iii I-SUP
 do I-SUP
 § I-SUP
-4º I-MOD
-do I-MOD
-art. I-MOD
-12; I-MOD
+4º I-SUP
+do I-SUP
+art I-SUP
+. I-SUP
+12 I-MOD
+; I-MOD
 e I-MOD
+
+
+ I-MOD
 v I-MOD
 – I-MOD
-o O
-art. O
-17. O
+o I-MOD
+art I-MOD
+. I-MOD
+17 I-MOD
+. O
+
+ I-MOD

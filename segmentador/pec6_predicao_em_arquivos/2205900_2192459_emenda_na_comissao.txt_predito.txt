@@ -1,65 +1,148 @@
-.. O
-.” O
+( O
+) O
 proposta O
 emenda O
 constituição O
 nº O
-06, O
+06 O
+, O
 de O
-2019. I-MOD
-altera B-ADD
+2019 O
+. I-MOD
+
+
+
+
+ I-MOD
+altera I-MOD
+
+
+ I-MOD
 dispositivos I-MOD
+
+
+ I-MOD
 relativos I-MOD
-ao I-MOD
+
+
+ I-MOD
+a I-MOD
+o I-MOD
+
+
+ I-MOD
 sistema I-MOD
+
+
+ I-ADD
 previdenciário I-MOD
-de O
-capitalização. O
+
+
+ I-ADD
+de I-MOD
+
+
+ I-MOD
+capitalização I-MOD
+. O
+
+
+
+
+ O
 proposta O
 de O
 emenda O
 à O
 constituição O
 n.º O
-6, O
-de O
-2019. O
-(do O
+6 O
+, O
+de I-SUP
+2019 I-SUP
+. I-SUP
+
+
+ O
+( O
+do O
 poder I-MOD
-executivo) I-MOD
-altera B-ADD
+executivo O
+) I-MOD
+
+
+
+
+
+
+ I-MOD
+altera I-MOD
 dispositivos I-ADD
-relativos I-ADD
-ao I-ADD
-sistema I-ADD
-previdenciário O
-de O
-capitalização. O
+relativos I-MOD
+a I-MOD
+o I-MOD
+sistema I-MOD
+
+
+ I-MOD
+previdenciário I-ADD
+de I-ADD
+capitalização O
+. O
+
+
+
+
+
+
+ O
 emenda O
 modificativa O
 n.º O
-art. O
-1º O
-modifica-se I-MOD
+
+
+
+
+
+
+ O
+art O
+. O
+1º I-MOD
+modifica I-MOD
+- I-MOD
+se I-MOD
 o I-MOD
-art. I-MOD
-201-aº I-MOD
+art I-MOD
+. I-ADD
+201-aº I-ADD
 da I-MOD
-constituição, I-MOD
+constituição I-MOD
+, I-MOD
 conforme I-MOD
 disposto I-MOD
 a I-MOD
-seguir: I-MOD
-“art. I-MOD
-201-a. I-MOD
+seguir I-MOD
+: I-MOD
+
+
+
+
+ I-MOD
+“ I-MOD
+art I-ADD
+. I-ADD
+201-a. I-ADD
 lei I-ADD
 complementar I-ADD
 disporá I-ADD
 sobre I-ADD
 nova I-ADD
 previdência I-ADD
-social, I-MOD
-unificada, I-MOD
+social I-MOD
+, I-MOD
+unificada I-MOD
+, I-MOD
 cobrindo I-MOD
 todos I-MOD
 os I-MOD
@@ -67,69 +150,87 @@ cidadãos I-MOD
 nascidos I-MOD
 a I-MOD
 partir I-MOD
-de I-MOD
-2005 I-MOD
-inclusive, I-MOD
+de O
+2005 O
+
+
+ O
+inclusive I-ADD
+, I-MOD
 e I-MOD
 quem I-MOD
-mais I-MOD
-a I-SUP
-ele I-MOD
-aderir I-MOD
-voluntariamente, I-MOD
+mais I-SUP
+a I-MOD
+ele I-SUP
+aderir I-SUP
+voluntariamente I-MOD
+, I-MOD
 na I-MOD
 forma I-MOD
 da I-MOD
-lei, I-MOD
-contemplando I-MOD
-os I-MOD
-seguintes I-MOD
-benefícios, I-MOD
+lei I-MOD
+, I-ADD
+contemplando I-ADD
+os I-ADD
+seguintes I-ADD
+benefícios I-MOD
+, I-MOD
 além I-MOD
-daqueles I-MOD
-passíveis I-MOD
+d I-MOD
+aqueles I-MOD
+passíveis I-SUP
 de I-SUP
-serem I-SUP
+serem I-MOD
 contratados I-MOD
 voluntariamente I-MOD
 na I-MOD
 forma I-MOD
 prevista I-MOD
 no I-MOD
-art. I-MOD
-202: I-MOD
+art I-MOD
+. I-MOD
+202 I-ADD
+: I-MOD
 i I-MOD
 – I-MOD
-renda I-MOD
+renda I-SUP
 mínima I-MOD
-para I-MOD
-o I-MOD
-idoso: I-MOD
+para I-SUP
+o I-SUP
+idoso I-SUP
+: I-SUP
 de I-SUP
-caráter I-SUP
+caráter I-MOD
 não I-MOD
-contributivo, I-MOD
-garantido I-ADD
+contributivo I-MOD
+, I-MOD
+garantido I-MOD
 o I-MOD
 piso I-MOD
-básico, I-ADD
-com I-SUP
-valor I-MOD
+básico I-MOD
+, I-SUP
+com I-MOD
+valor I-ADD
 determinado I-ADD
 na I-ADD
-lei; I-MOD
-ii I-MOD
-– I-MOD
-renda I-MOD
-básica: I-MOD
+lei I-ADD
+; I-ADD
+ii I-ADD
+– I-ADD
+renda I-ADD
+básica I-ADD
+: I-ADD
 de I-MOD
 caráter I-MOD
-contributivo, I-ADD
-obrigatório, I-MOD
+contributivo I-MOD
+, I-ADD
+obrigatório I-ADD
+, I-ADD
 em I-ADD
 regime I-ADD
 de I-ADD
-repartição, I-ADD
+repartição I-ADD
+, I-ADD
 com I-ADD
 alíquotas I-ADD
 de I-ADD
@@ -138,30 +239,39 @@ e I-ADD
 valor I-ADD
 dos I-ADD
 benefícios I-ADD
-fixados I-MOD
-na I-SUP
-lei; I-ADD
-e I-ADD
+fixados I-ADD
+na I-ADD
+lei I-SUP
+; I-SUP
+e I-SUP
+
+
+ I-ADD
 iii I-MOD
 – I-MOD
 renda I-MOD
 individual I-MOD
-capitalizada: I-MOD
+capitalizada I-MOD
+: I-MOD
 de I-MOD
 caráter I-MOD
-contributivo, I-MOD
-opcional, I-ADD
+contributivo I-MOD
+, I-ADD
+opcional I-ADD
+, I-ADD
 em I-ADD
 regime I-ADD
-de I-SUP
-capitalização, I-ADD
+de I-ADD
+capitalização I-SUP
+, I-ADD
 na I-ADD
 modalidade I-ADD
 de I-ADD
 contribuição I-ADD
-definida, I-ADD
+definida I-ADD
+, I-ADD
 com I-ADD
-uso I-ADD
+uso I-MOD
 de I-MOD
 recursos I-MOD
 do I-MOD
@@ -172,44 +282,90 @@ conta I-MOD
 vinculada I-MOD
 para I-MOD
 cada I-MOD
-segurado, I-MOD
+segurado I-MOD
+, I-MOD
 para I-MOD
 adquirir I-MOD
-plano I-MOD
-de I-MOD
-benefícios O
+plano I-ADD
+de I-ADD
+benefícios I-MOD
 de O
+
+
+
+
+ O
 proposta O
 de O
 emenda O
 à O
 constituição O
 nº O
-06, O
+06 O
+, O
 de O
-2019. I-MOD
-altera B-ADD
+2019 O
+. I-MOD
+
+
+
+
+ I-MOD
+altera I-MOD
+
+
+ I-MOD
 dispositivos I-MOD
+
+
+ I-MOD
 relativos I-MOD
-ao I-MOD
-sistema I-ADD
+
+
+ I-MOD
+a I-MOD
+o I-MOD
+
+
+ I-MOD
+sistema I-MOD
+
+
+ I-ADD
 previdenciário I-MOD
+
+
+ I-ADD
 de I-MOD
-capitalização. I-ADD
-entidade I-ADD
+
+
+ I-MOD
+capitalização I-MOD
+. I-MOD
+
+
+
+
+ I-MOD
+entidade I-MOD
 de I-MOD
 previdência I-MOD
 complementar I-MOD
-privada, I-MOD
+privada I-MOD
+, I-MOD
 de I-MOD
 livre I-MOD
-escolha I-ADD
+escolha I-MOD
 do I-MOD
-segurado. I-MOD
-§ I-MOD
+segurado I-MOD
+. I-MOD
+
+
+ I-ADD
+§ I-ADD
 1º I-MOD
 a I-MOD
-nova I-MOD
+nova I-ADD
 previdência I-MOD
 social I-MOD
 de I-MOD
@@ -232,7 +388,11 @@ regimes I-MOD
 próprios I-MOD
 de I-MOD
 previdência I-MOD
-social. I-MOD
+social I-MOD
+. I-MOD
+
+
+ I-MOD
 § I-MOD
 2º I-ADD
 as I-ADD
@@ -247,38 +407,49 @@ complementar I-ADD
 de I-ADD
 que I-ADD
 trata I-ADD
-o I-ADD
-“caput” I-ADD
-deste I-ADD
-artigo I-ADD
+o I-MOD
+“ I-MOD
+caput I-MOD
+” I-MOD
+d I-SUP
+este I-SUP
+artigo I-SUP
 e I-ADD
 serão I-ADD
 destinadas I-ADD
 à I-ADD
 renda I-ADD
-básica, I-ADD
+básica I-ADD
+, I-ADD
 bem I-ADD
-como, I-ADD
-em I-MOD
+como I-ADD
+, I-ADD
+em I-ADD
 conjunto I-ADD
 com I-ADD
-outros I-MOD
-instrumentos, I-ADD
-inclusive I-ADD
+outros I-ADD
+instrumentos I-ADD
+, I-ADD
+inclusive I-MOD
 os I-SUP
-previstos I-SUP
-nos I-MOD
-art. I-SUP
-249 I-MOD
-e I-SUP
-250, I-MOD
-ao I-MOD
-financiamento, I-MOD
+previstos I-MOD
+nos I-SUP
+art I-SUP
+. I-SUP
+249 I-SUP
+e I-MOD
+250 I-MOD
+, I-MOD
+a I-SUP
+o I-MOD
+financiamento I-MOD
+, I-MOD
 na I-MOD
-forma I-MOD
+forma I-ADD
 da I-MOD
 referida I-MOD
-lei, I-MOD
+lei I-MOD
+, I-MOD
 dos I-MOD
 regimes I-MOD
 de I-MOD
@@ -292,49 +463,123 @@ implantação I-MOD
 da I-MOD
 nova I-MOD
 previdência I-MOD
-social. I-MOD
-art. O
+social I-MOD
+. I-MOD
+
+
+
+
+ I-MOD
+art I-MOD
+. I-MOD
 2º I-MOD
-suprima-se O
-o I-SUP
-art. I-SUP
+suprima I-MOD
+- I-MOD
+se I-MOD
+o I-MOD
+art I-MOD
+. I-MOD
 115 I-MOD
 das I-MOD
 disposições I-MOD
 constitucionais I-MOD
-transitórias, I-MOD
+transitórias I-MOD
+, I-MOD
 constante I-MOD
 do I-MOD
-art. I-MOD
+art I-MOD
+. I-MOD
 2º I-MOD
 da I-MOD
-pec I-SUP
-nº I-SUP
-06/2019. I-SUP
-sala I-SUP
-da I-SUP
-comissão, I-ADD
+pec I-MOD
+nº I-MOD
+06/2019 I-MOD
+. I-MOD
+
+
+
+
+
+
+ I-MOD
+sala I-MOD
+da I-MOD
+comissão I-MOD
+, I-MOD
 de I-MOD
 de I-MOD
 2019 I-MOD
-deputado O
-kim O
+
+
+
+
+
+
+ I-MOD
+deputado I-MOD
+kim I-MOD
 kataguiri O
-dem/sp O
+
+
+ I-MOD
+dem O
+/ O
+sp O
+
+
+
+
+
+
+ O
 proposta O
 de O
 emenda O
 à O
 constituição O
 nº O
-06, O
+06 O
+, O
 de O
-2019. I-MOD
-altera B-ADD
+2019 O
+. I-MOD
+
+
+
+
+ I-MOD
+altera I-MOD
+
+
+ I-MOD
 dispositivos I-MOD
+
+
+ I-MOD
 relativos I-MOD
-ao I-MOD
+
+
+ I-MOD
+a I-MOD
+o I-MOD
+
+
+ I-MOD
 sistema I-MOD
+
+
+ I-ADD
 previdenciário I-MOD
+
+
+ I-ADD
 de I-MOD
-capitalização. O
+
+
+ I-MOD
+capitalização I-MOD
+. I-MOD
+
+
+
+ O

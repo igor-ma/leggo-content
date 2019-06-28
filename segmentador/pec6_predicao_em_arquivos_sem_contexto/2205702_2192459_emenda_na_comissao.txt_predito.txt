@@ -1,0 +1,261 @@
+nr I-MOD
+" O
+comissão O
+– O
+6/19 O
+– O
+previdência O
+social O
+
+
+
+
+ O
+proposta O
+de O
+emenda O
+constitucional O
+nº O
+6 O
+, O
+de O
+2019 O
+
+
+
+
+ O
+emenda O
+supressiva O
+nº O
+
+
+ O
+( O
+a O
+pec O
+n.º O
+06 O
+, O
+de O
+2019 O
+) O
+
+
+
+
+ I-MOD
+suprime I-MOD
+- I-MOD
+se I-MOD
+a I-MOD
+alteração I-ADD
+a I-ADD
+o I-ADD
+§ I-ADD
+11 I-ADD
+do I-ADD
+art I-ADD
+. I-ADD
+195 I-ADD
+da I-ADD
+cf I-ADD
+, I-ADD
+
+
+ I-ADD
+implementada O
+pela O
+pec O
+nº O
+06 O
+, O
+de O
+2019 I-MOD
+que I-ADD
+“ I-ADD
+modifica I-MOD
+o I-MOD
+sistema I-MOD
+de I-MOD
+previdência I-MOD
+social I-MOD
+, I-MOD
+estabelece I-MOD
+regras I-MOD
+de I-MOD
+transição I-MOD
+e I-MOD
+disposições I-MOD
+transitórias I-MOD
+, I-MOD
+e I-MOD
+dá I-MOD
+outras I-MOD
+providências I-MOD
+” E-MOD
+
+
+
+
+ O
+emenda O
+supressiva O
+nº O
+
+
+
+
+ O
+suprime B-SUP
+- O
+se I-MOD
+a I-MOD
+alteração I-ADD
+a I-ADD
+o I-ADD
+§ I-ADD
+11 I-ADD
+do I-ADD
+art I-ADD
+. I-ADD
+195 I-ADD
+da I-ADD
+cf I-ADD
+, I-ADD
+implementado I-ADD
+pela O
+pec O
+em I-MOD
+epígrafe I-MOD
+( I-MOD
+... I-MOD
+) I-MOD
+
+
+
+
+ I-ADD
+“ I-ADD
+art I-ADD
+. I-ADD
+195 I-ADD
+. I-ADD
+........................................................................ I-ADD
+
+
+ I-ADD
+§ I-ADD
+11 I-ADD
+. I-ADD
+são I-ADD
+vedados I-ADD
+a I-ADD
+moratória I-MOD
+e I-MOD
+o I-MOD
+parcelamento I-MOD
+
+
+ I-MOD
+em I-MOD
+prazo I-MOD
+superior I-MOD
+a I-MOD
+sessenta I-MOD
+meses I-MOD
+e I-MOD
+, I-MOD
+na I-MOD
+forma I-MOD
+de I-ADD
+lei I-ADD
+complementar I-ADD
+, I-ADD
+a I-MOD
+remissão I-MOD
+e I-ADD
+a I-MOD
+anistia I-MOD
+das I-MOD
+contribuições I-MOD
+sociais I-MOD
+de I-MOD
+que I-ADD
+tratam I-ADD
+a I-MOD
+alínea I-MOD
+“ I-MOD
+a I-MOD
+” I-MOD
+do I-MOD
+inciso I-MOD
+i I-MOD
+e I-MOD
+o I-MOD
+inciso I-MOD
+ii I-MOD
+do I-ADD
+caput I-ADD
+ou I-ADD
+das I-ADD
+contribuições I-MOD
+que I-ADD
+a I-ADD
+substituam I-ADD
+, I-ADD
+e I-MOD
+a I-ADD
+utilização I-ADD
+de I-MOD
+prejuízo I-MOD
+fiscal I-MOD
+ou I-MOD
+base I-MOD
+de I-MOD
+cálculo I-SUP
+negativa I-SUP
+para I-SUP
+quitação I-SUP
+d I-SUP
+essas I-SUP
+contribuições I-SUP
+ou I-ADD
+a I-ADD
+compensação I-ADD
+das I-ADD
+referidas I-ADD
+contribuições I-ADD
+com I-ADD
+tributos I-ADD
+de I-ADD
+natureza I-ADD
+diversa I-MOD
+, I-MOD
+admitida I-MOD
+a I-MOD
+compensação I-MOD
+se I-MOD
+houver I-MOD
+o I-MOD
+repasse I-MOD
+dos I-MOD
+valores I-ADD
+compensados I-ADD
+a I-ADD
+o I-ADD
+regime I-ADD
+geral I-ADD
+de I-ADD
+previdência I-ADD
+social I-MOD
+
+
+ I-MOD
+.................................................................................................. I-MOD
+” I-MOD
+nr I-MOD
+
+
+
+ I-MOD

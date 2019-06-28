@@ -1,0 +1,334 @@
+educação O
+. O
+proposta O
+emenda O
+constituição O
+nº O
+6 O
+, O
+de O
+2019 I-ADD
+
+
+
+
+ I-ADD
+modifica B-MOD
+o I-MOD
+sistema I-MOD
+de I-MOD
+previdência I-MOD
+
+
+ I-MOD
+social I-MOD
+, I-MOD
+estabelece I-MOD
+regras I-MOD
+de I-MOD
+transição I-MOD
+e I-MOD
+
+
+ I-MOD
+disposições I-MOD
+
+
+ I-MOD
+transitórias I-MOD
+, I-MOD
+
+
+ I-MOD
+e I-MOD
+
+
+ I-MOD
+dá I-MOD
+
+
+ I-MOD
+outras I-MOD
+
+
+ I-MOD
+providências I-MOD
+. E-MOD
+
+
+ I-ADD
+emenda I-MOD
+nº I-MOD
+
+
+
+
+
+
+ I-ADD
+com O
+o I-ADD
+objetivo I-MOD
+de I-MOD
+unificar I-MOD
+as I-MOD
+regras I-ADD
+de I-ADD
+transição I-ADD
+da I-ADD
+aposentadoria I-ADD
+do I-ADD
+rpps I-ADD
+e I-ADD
+do I-ADD
+rgps O
+, I-MOD
+distribuídos I-MOD
+em I-MOD
+146 I-MOD
+dispositivos I-MOD
+d I-MOD
+essa I-MOD
+pec I-MOD
+, I-MOD
+incluam I-MOD
+- I-ADD
+se I-ADD
+, I-ADD
+onde I-ADD
+couber I-ADD
+, I-ADD
+os I-ADD
+seguintes I-ADD
+artigos I-ADD
+: I-MOD
+
+
+
+
+ I-MOD
+“ I-MOD
+art I-MOD
+. I-MOD
+_ I-MOD
+_ I-MOD
+_ I-MOD
+ressalvado I-MOD
+o I-ADD
+direito I-ADD
+de I-ADD
+opção I-ADD
+à I-ADD
+aposentadoria I-ADD
+pelas I-ADD
+normas I-ADD
+estabelecidas I-ADD
+por I-ADD
+esta I-SUP
+emenda I-SUP
+à I-SUP
+constituição I-ADD
+, I-SUP
+a I-SUP
+o I-ADD
+servidor I-SUP
+público I-MOD
+filiado I-MOD
+a I-MOD
+os I-MOD
+regimes I-MOD
+próprios I-MOD
+de I-MOD
+previdência I-MOD
+social I-MOD
+até I-MOD
+a I-MOD
+data I-MOD
+de I-MOD
+promulgação I-SUP
+d I-SUP
+esta I-SUP
+emenda I-SUP
+, I-SUP
+fica I-SUP
+assegurado I-ADD
+o I-ADD
+direito I-ADD
+à I-ADD
+aposentadoria I-ADD
+, I-ADD
+obedecidos I-ADD
+os I-ADD
+requisitos I-ADD
+de I-MOD
+concessão I-MOD
+, I-MOD
+vantagens I-MOD
+, I-MOD
+regras I-MOD
+de I-MOD
+cálculo I-MOD
+e I-MOD
+de I-SUP
+reajuste I-SUP
+estabelecidos I-SUP
+na I-SUP
+legislação I-SUP
+até I-ADD
+então I-SUP
+vigente I-SUP
+, I-SUP
+desde I-ADD
+que I-ADD
+cumprido I-ADD
+período I-ADD
+adicional I-ADD
+correspondente I-ADD
+a I-ADD
+trinta I-ADD
+por I-ADD
+cento I-ADD
+do I-ADD
+tempo I-ADD
+que I-ADD
+, I-MOD
+na I-SUP
+data I-SUP
+de I-SUP
+promulgação I-SUP
+d I-SUP
+esta I-SUP
+emenda I-SUP
+à I-SUP
+constituição I-SUP
+, I-SUP
+faltaria I-ADD
+para I-ADD
+atingir I-ADD
+os I-ADD
+requisitos I-ADD
+exigidos I-ADD
+para I-ADD
+aposentadoria I-ADD
+” I-ADD
+
+
+
+
+ I-ADD
+“ I-ADD
+art I-ADD
+. I-MOD
+_ I-MOD
+_ I-MOD
+_ I-MOD
+ressalvado I-MOD
+o I-ADD
+direito I-ADD
+de I-ADD
+opção I-ADD
+à I-ADD
+aposentadoria I-ADD
+pelas I-ADD
+normas I-ADD
+estabelecidas I-ADD
+por I-ADD
+esta I-SUP
+emenda I-SUP
+à I-SUP
+constituição I-SUP
+, I-SUP
+a I-ADD
+o I-ADD
+segurado I-ADD
+filiado I-ADD
+a I-ADD
+o I-ADD
+regime I-ADD
+geral I-ADD
+de I-ADD
+previdência I-ADD
+social I-ADD
+até I-MOD
+a I-MOD
+data I-MOD
+de I-MOD
+promulgação I-SUP
+d I-SUP
+esta I-SUP
+emenda I-SUP
+, I-SUP
+fica I-SUP
+assegurado I-ADD
+o I-ADD
+direito I-ADD
+à I-ADD
+aposentadoria I-ADD
+, I-ADD
+obedecidos I-ADD
+os I-ADD
+requisitos I-ADD
+de I-MOD
+concessão I-MOD
+, I-MOD
+vantagens I-MOD
+, I-MOD
+regras I-MOD
+de I-MOD
+cálculo I-MOD
+e I-MOD
+de I-SUP
+reajuste I-SUP
+estabelecidos I-SUP
+na I-SUP
+legislação I-SUP
+até I-ADD
+então I-SUP
+vigente I-SUP
+, I-SUP
+desde I-ADD
+que I-ADD
+cumprido I-ADD
+período I-ADD
+adicional I-ADD
+correspondente I-ADD
+a I-ADD
+trinta I-ADD
+por I-ADD
+cento I-ADD
+do I-ADD
+tempo I-ADD
+que I-ADD
+, I-MOD
+na I-SUP
+data I-SUP
+de I-SUP
+promulgação I-SUP
+d I-SUP
+esta I-SUP
+emenda I-SUP
+à I-SUP
+constituição I-SUP
+, I-SUP
+faltaria I-ADD
+para I-ADD
+atingir I-ADD
+os I-ADD
+requisitos I-ADD
+exigidos I-ADD
+para I-ADD
+aposentadoria I-ADD
+. I-ADD
+” E-ADD
+
+
+
+
+
+
+ O
+2 O
+
+
+
+ O

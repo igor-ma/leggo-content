@@ -1,160 +1,267 @@
-data I-ADD
-sua I-ADD
+publicação I-ADD
+” O
 proposta I-ADD
 emenda I-ADD
 constituição I-ADD
-nº O
-6, O
-de O
+nº I-ADD
+6 I-ADD
+, I-ADD
+de I-SUP
 2019 O
+
+
+
+
+
+
+ O
 emenda O
 modificativa O
-(do O
+
+
+ O
+( O
+do O
 sr. O
 daniel O
 almeida O
 e O
-outros) O
-suprime B-SUP
+outros O
+) I-MOD
+suprime I-MOD
+
+
+ I-MOD
 da I-MOD
+
+
+ I-MOD
 pec I-SUP
-6/2019 O
-dispositivos I-SUP
-relacionados O
+
+
+ I-MOD
+6/2019 I-MOD
+
+
+ I-MOD
+dispositivos I-MOD
+
+
+ I-MOD
+relacionados I-MOD
+
+
+ I-MOD
 à O
+
+
+ O
 previdência O
 do O
 trabalhador O
-rural, O
-aos O
+rural I-MOD
+, I-MOD
+
+
+ I-ADD
+a I-ADD
+os I-MOD
 benefícios I-MOD
 assistenciais I-MOD
 e I-MOD
-ao I-MOD
+a I-MOD
+o I-MOD
+
+
+ I-MOD
 benefício I-MOD
 do I-MOD
 abono I-MOD
-salarial. I-MOD
-art. I-MOD
+salarial I-MOD
+. I-MOD
+
+
+
+
+ I-MOD
+art I-MOD
+. I-MOD
 1º I-MOD
-suprimam-se I-MOD
-da I-MOD
+suprimam I-MOD
+- I-MOD
+se I-MOD
+da I-ADD
 pec I-MOD
-nº I-MOD
-6, I-MOD
-de I-MOD
-2019: I-MOD
-i) I-MOD
+nº O
+6 I-SUP
+, I-SUP
+de I-SUP
+2019 I-ADD
+: I-MOD
+i I-MOD
+) I-MOD
 as I-MOD
 modificações I-MOD
 do I-MOD
 § I-MOD
 8º I-MOD
 e I-MOD
-os I-MOD
-novos I-MOD
-§§ I-MOD
-8º-a I-MOD
-e I-MOD
-8º-b I-MOD
-do I-MOD
-art. I-MOD
-195, I-MOD
-contidos I-MOD
-no I-MOD
-art. I-MOD
-1º, I-MOD
-os I-MOD
-§§ I-MOD
-1º I-MOD
-e I-MOD
-2º I-SUP
+os I-ADD
+novos I-ADD
+§ I-MOD
+§ I-ADD
+8º-a I-ADD
+e I-ADD
+8º-b I-ADD
+do I-ADD
+art I-ADD
+. I-ADD
+195 I-ADD
+, I-ADD
+contidos I-ADD
+no I-ADD
+art I-ADD
+. I-MOD
+1º I-ADD
+, I-ADD
+os I-ADD
+§ I-MOD
+§ I-ADD
+1º I-ADD
+e I-ADD
+2º I-ADD
 do I-SUP
-art. I-SUP
+art I-SUP
+. I-SUP
 22 I-SUP
 e I-SUP
 o I-SUP
-art. I-SUP
-35, I-SUP
-todos I-MOD
-da I-MOD
-pec I-MOD
-nº I-MOD
-6; I-MOD
-ii) I-MOD
+art I-SUP
+. I-SUP
+35 I-MOD
+, I-MOD
+todos I-SUP
+da I-SUP
+pec I-SUP
+nº I-SUP
+6 I-SUP
+; I-SUP
+ii I-MOD
+) I-ADD
 as I-MOD
 modificações I-MOD
-ao I-MOD
-art. I-MOD
-203, I-MOD
+a I-MOD
+o I-MOD
+art I-MOD
+. I-MOD
+203 I-MOD
+, I-MOD
 contidas I-MOD
 no I-MOD
-art. I-MOD
-1º I-MOD
-da I-MOD
-pec I-MOD
-nº I-MOD
-6, I-MOD
-e I-MOD
-os I-MOD
-arts. I-MOD
+art I-MOD
+. I-MOD
+1º I-SUP
+da I-SUP
+pec I-SUP
+nº I-SUP
+6 I-ADD
+, I-ADD
+e I-ADD
+os I-ADD
+arts I-MOD
+. I-MOD
 41 I-MOD
+
+
+ O
 e I-MOD
 42 I-MOD
 da I-MOD
-pec; I-MOD
+pec I-MOD
+; I-MOD
 e I-MOD
-iii) I-MOD
+
+
+ I-MOD
+iii I-MOD
+) I-MOD
 as I-MOD
 modificações I-MOD
-ao I-MOD
-art. I-MOD
-239, I-MOD
+a I-MOD
+o I-MOD
+art I-MOD
+. I-MOD
+239 I-MOD
+, I-MOD
 contidas I-MOD
 no I-MOD
-art. I-MOD
-1º I-MOD
-da I-MOD
-pec I-MOD
-6, I-MOD
-e I-MOD
-o I-MOD
-art. I-MOD
+art I-MOD
+. I-SUP
+1º I-SUP
+da I-SUP
+pec I-SUP
+6 I-SUP
+, I-SUP
+e I-ADD
+o I-ADD
+art I-ADD
+. I-MOD
 40 I-MOD
 da I-MOD
-pec. I-MOD
-art. I-MOD
-2º I-MOD
-dê-se I-MOD
-ao I-MOD
-art. I-MOD
-24, I-MOD
+pec I-MOD
+. I-MOD
+
+
+ O
+art O
+. O
+2º O
+dê O
+- O
+se O
+a O
+o I-MOD
+art I-MOD
+. I-MOD
+24 I-MOD
+, I-MOD
 inciso I-MOD
-i, I-MOD
+i I-MOD
+, I-MOD
 a I-MOD
 seguinte I-MOD
-redação: I-MOD
-“i I-MOD
+redação I-MOD
+: I-MOD
+
+
+ I-MOD
+“ I-MOD
+i I-MOD
 - I-MOD
 sessenta I-MOD
 anos I-MOD
 de I-MOD
-idade, I-MOD
+idade I-MOD
+, I-MOD
 se I-MOD
-mulher, I-MOD
+mulher I-MOD
+, I-MOD
 e I-MOD
 sessenta I-MOD
 e I-MOD
 cinco I-MOD
 anos I-MOD
 de I-MOD
-idade, I-MOD
+idade I-MOD
+, I-MOD
 se I-MOD
-homem, I-MOD
+homem I-MOD
+, I-MOD
 reduzidos I-MOD
 em I-MOD
-cinco I-MOD
-anos, I-SUP
+cinco I-SUP
+anos I-SUP
+, I-SUP
 para I-SUP
 os I-SUP
 trabalhadores I-SUP
@@ -162,19 +269,25 @@ rurais I-SUP
 de I-SUP
 ambos O
 os O
-sexos, O
+sexos I-MOD
+, I-MOD
 inclusive I-MOD
 aqueles I-MOD
 a I-MOD
-que I-MOD
+que I-ADD
 se I-SUP
 refere I-SUP
 o I-SUP
 § I-SUP
 8º I-SUP
-do I-SUP
-art. I-ADD
-195 I-SUP
-da I-MOD
-constituição; O
-e” O
+do I-ADD
+art I-ADD
+. I-ADD
+195 I-ADD
+da I-ADD
+constituição I-ADD
+; I-ADD
+e I-SUP
+” I-SUP
+
+ O

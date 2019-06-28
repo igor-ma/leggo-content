@@ -1,12 +1,16 @@
-n. I-MOD
 de I-MOD
+. I-MOD
 câmara I-MOD
 deputados I-MOD
+gabinete I-MOD
 do I-MOD
 deputado I-MOD
 federal I-MOD
 sebastião I-MOD
-oliveira O
+oliveira I-MOD
+
+
+ O
 comissão O
 especial O
 destinada O
@@ -16,100 +20,219 @@ e O
 proferir O
 parecer O
 à O
+
+
+ O
 proposta O
 de O
 emenda O
 à O
 constituição O
 nº O
-6, O
+6 O
+, O
 de O
 2019 O
 – O
 reforma O
 da O
 previdência O
+
+
+ O
 proposta O
 de O
 emenda O
 à O
 constituição O
 nº O
-6, O
+6 O
+, O
 de O
 2019 O
+
+
+ O
 modifica B-MOD
 o O
-sistema O
-de O
-previdência I-MOD
-social, I-MOD
-estabelece I-MOD
-regras I-MOD
+sistema I-MOD
 de I-MOD
+previdência I-MOD
+
+
+ I-MOD
+social I-MOD
+, I-MOD
+
+
+ I-MOD
+estabelece I-MOD
+
+
+ I-MOD
+regras I-MOD
+
+
+ I-MOD
+de I-MOD
+
+
+ I-MOD
 transição I-MOD
 e I-MOD
 disposições I-MOD
-transitórias, I-MOD
+transitórias I-MOD
+, I-MOD
+
+
+ I-MOD
 e I-MOD
-dá O
-outras O
-providências. O
+dá I-MOD
+outras I-MOD
+providências O
+. O
+
+
+ O
 emenda O
 modificativa O
-nº_____________ O
-(do O
-sr. O
-sebastião O
-oliveira O
+nº O
+_ O
+_ O
+_ O
+_ I-MOD
+_ I-MOD
+_ I-MOD
+_ I-MOD
+_ I-MOD
+_ I-MOD
+_ I-MOD
+_ I-MOD
+_ I-MOD
+_ I-MOD
+
+
+ I-MOD
+( I-MOD
+do I-MOD
+sr. I-MOD
+sebastião I-MOD
+oliveira I-MOD
 e O
-outros) O
-dê-se I-MOD
-ao I-MOD
-art. I-MOD
-201 I-MOD
-alterado I-MOD
-pelo I-MOD
-art. I-SUP
-1ª I-SUP
+outros O
+) I-MOD
+
+
+ E-MOD
+dê O
+- O
+se O
+a O
+o O
+art I-MOD
+. I-MOD
+201 I-SUP
+alterado I-SUP
+pelo I-SUP
+art I-SUP
+. I-SUP
+1ª I-ADD
 da I-SUP
 proposta I-ADD
 de I-ADD
-emenda I-ADD
-à I-ADD
-constituição I-ADD
+emenda O
+à O
+constituição O
 nº O
-06, I-ADD
-de I-ADD
-2019 I-ADD
-a I-ADD
+06 O
+, I-ADD
+de O
+2019 O
+a O
 seguinte I-MOD
-redação: I-MOD
+redação I-MOD
+: I-MOD
 art.1º I-MOD
 .......................................................................................... I-MOD
+
+
+ I-MOD
 ............................................................................................................................ I-MOD
+
+
+
+
+
+
+ I-MOD
 câmara I-MOD
 dos I-MOD
 deputados I-MOD
+
+
+ I-MOD
 gabinete I-MOD
 do I-MOD
 deputado I-MOD
 federal I-MOD
 sebastião I-MOD
 oliveira I-MOD
-“art.201º............................................................................... I-MOD
+
+
+
+
+
+
+ I-MOD
+“ I-MOD
+art.201º I-MOD
+............................................................................... I-MOD
+
+
+ I-MOD
 ........................................................................................... I-MOD
-§º7 I-MOD
+
+
+
+
+ I-MOD
+§ I-MOD
+º7 I-MOD
+
+
+ I-MOD
 ............................................................................................. I-MOD
-...........................................................................:............... I-MOD
+
+
+ I-MOD
+........................................................................... I-MOD
+: I-MOD
+............... I-MOD
+
+
+ I-MOD
 iv I-MOD
 – I-MOD
 trabalhadores I-MOD
 rurais I-MOD
-....................................................................................(nr) O
-art.22º................................................................................... O
-............................................................................................; O
-§ O
+
+
+ I-MOD
+.................................................................................... I-MOD
+( I-MOD
+nr I-MOD
+) I-MOD
+art.22º I-MOD
+................................................................................... I-MOD
+
+
+ I-MOD
+............................................................................................ I-MOD
+; I-MOD
+
+
+ I-MOD
+§ I-MOD
 2º I-MOD
 a I-MOD
 partir I-MOD
@@ -118,7 +241,8 @@ de I-SUP
 de I-MOD
 janeiro I-MOD
 de I-MOD
-2020, I-ADD
+2020 I-MOD
+, I-ADD
 o I-ADD
 tempo I-ADD
 de I-ADD
@@ -133,34 +257,44 @@ será I-ADD
 acrescido I-ADD
 em I-MOD
 seis I-MOD
-meses I-ADD
+meses I-MOD
 a I-MOD
 cada I-MOD
-ano, I-MOD
+ano I-MOD
+, I-MOD
 até I-MOD
 atingir I-MOD
-vinte I-MOD
-anos, I-MOD
+vinte I-SUP
+anos I-SUP
+, I-SUP
 exceto I-SUP
-para I-MOD
+para I-SUP
 os I-SUP
-trabalhadores I-MOD
+trabalhadores I-SUP
 rurais I-SUP
 a I-SUP
 que I-MOD
 se I-SUP
 refere I-SUP
 o I-SUP
-inciso I-MOD
-iv I-SUP
+inciso I-SUP
+iv I-MOD
 do I-SUP
-§ I-SUP
+
+
+ I-MOD
+§ I-MOD
 7º I-SUP
 do I-SUP
-art. I-SUP
+art I-SUP
+. I-SUP
 201 I-SUP
 da I-SUP
-constituição; I-SUP
+constituição I-SUP
+; I-SUP
+
+
+ I-SUP
 § I-MOD
 3º I-SUP
 o I-MOD
@@ -178,13 +312,15 @@ será I-MOD
 reduzido I-MOD
 em I-MOD
 cinco I-SUP
-anos, I-SUP
+anos I-SUP
+, I-SUP
 para I-SUP
 ambos I-SUP
 os I-SUP
-sexos, I-SUP
-para I-SUP
-os I-SUP
+sexos I-SUP
+, I-SUP
+para I-MOD
+os I-MOD
 trabalhadores I-MOD
 rurais I-MOD
 a I-SUP
@@ -198,13 +334,27 @@ do I-SUP
 § I-SUP
 7º I-SUP
 do I-SUP
-art. I-SUP
+art I-SUP
+. I-SUP
 201 I-SUP
-da I-MOD
-constituição. I-MOD
-...................................................................................”(nr) I-MOD
-art. I-MOD
-24.................................................................................. I-MOD
+da I-SUP
+constituição I-SUP
+. I-SUP
+
+
+ I-MOD
+................................................................................... I-MOD
+” I-MOD
+( I-MOD
+nr I-MOD
+) I-MOD
+art I-MOD
+. I-MOD
+24 I-MOD
+.................................................................................. I-MOD
+
+
+ I-MOD
 i I-MOD
 - I-MOD
 sessenta I-MOD
@@ -212,105 +362,166 @@ e I-MOD
 dois I-MOD
 anos I-MOD
 de I-MOD
-idade, I-MOD
+idade I-MOD
+, I-MOD
 se I-MOD
-mulher, I-MOD
+mulher I-MOD
+, I-MOD
 e I-MOD
 sessenta I-MOD
 e I-MOD
 cinco I-MOD
 anos I-MOD
 de I-MOD
-idade, I-MOD
+idade I-MOD
+, I-MOD
 se I-MOD
-homem, I-MOD
+homem I-MOD
+, I-MOD
 reduzidos I-MOD
 em I-MOD
 sete I-MOD
-anos, I-MOD
+anos I-MOD
+, I-MOD
 se I-MOD
-mulher, I-MOD
+mulher I-MOD
+, I-MOD
 e I-MOD
 em I-MOD
 cinco I-MOD
-anos, I-MOD
-se I-MOD
-homem, I-MOD
+anos I-MOD
+, I-MOD
+se I-SUP
+homem I-MOD
+, I-MOD
 para I-MOD
-os I-MOD
+os O
 trabalhadores I-SUP
 rurais I-SUP
 de I-SUP
 ambos O
 os O
-sexos, O
+sexos I-MOD
+, I-MOD
 inclusive I-MOD
 aqueles I-MOD
 a I-MOD
-que I-MOD
+que I-ADD
 se I-SUP
 refere I-SUP
 o I-SUP
 § I-SUP
 8º I-SUP
-do I-SUP
-art. I-ADD
-195 I-SUP
-da I-MOD
-constituição. I-ADD
-ii I-ADD
+do I-ADD
+art I-ADD
+. I-ADD
+195 I-ADD
+da I-ADD
+constituição I-ADD
+. I-ADD
+
+
+ I-ADD
+ii I-SUP
 – I-ADD
 vinte I-MOD
-anos I-MOD
-de I-MOD
-tempo I-MOD
-de I-MOD
-contribuição, I-MOD
-reduzido I-MOD
-em I-SUP
-cinco I-SUP
+anos I-ADD
+de I-ADD
+tempo I-ADD
+de I-ADD
+contribuição I-ADD
+, I-ADD
+reduzido I-ADD
+em I-ADD
+cinco I-ADD
 anos I-SUP
 para I-SUP
 os I-SUP
 trabalhadores I-SUP
 rurais I-SUP
 de I-SUP
-ambos O
-os O
-sexos. I-SUP
-................................................................................................................(nr) I-MOD
+ambos I-MOD
+os I-MOD
+sexos I-MOD
+. I-MOD
+
+
+ I-MOD
+................................................................................................................ I-MOD
+( I-MOD
+nr I-MOD
+) I-MOD
+
+
+
+
+
+
+ I-MOD
 câmara I-MOD
 dos I-MOD
 deputados I-MOD
+
+
+ I-MOD
 gabinete I-MOD
 do I-MOD
 deputado I-MOD
 federal I-MOD
 sebastião I-MOD
 oliveira I-MOD
-suprima-se I-MOD
+
+
+
+
+
+
+ I-MOD
+suprima I-MOD
+- I-MOD
+se I-ADD
 os I-MOD
-§§ I-MOD
-8º, I-MOD
+§ I-MOD
+§ I-MOD
+8º I-MOD
+, I-MOD
 8º-a I-MOD
 e I-MOD
 8º-b I-MOD
-do I-MOD
-art. I-MOD
-195, I-MOD
-alterados I-MOD
-pelo I-MOD
-art. I-MOD
-1º; I-MOD
+do I-ADD
+art I-ADD
+. I-ADD
+195 I-ADD
+, I-ADD
+alterados I-ADD
+pelo I-ADD
+art I-ADD
+. I-MOD
+
+
+ I-MOD
+1º I-MOD
+; I-MOD
 e I-MOD
 o I-MOD
-art. I-MOD
+art I-MOD
+. I-MOD
 35 O
 da O
-proposta O
+proposta I-ADD
 de O
 emenda I-ADD
-à O
-constituição O
-nº O
-6/2019. O
+à I-ADD
+constituição I-ADD
+nº I-ADD
+
+
+ O
+6/2019 O
+. O
+
+
+
+
+
+ O

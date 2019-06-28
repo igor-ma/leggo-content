@@ -1,0 +1,225 @@
+à O
+. O
+1 O
+câmara O
+deputados O
+
+
+
+
+ O
+comissão O
+especial I-MOD
+- I-MOD
+pec I-MOD
+006/19 I-MOD
+- I-MOD
+previdência I-MOD
+social O
+
+
+
+
+
+
+ O
+proposta O
+de O
+emenda O
+à O
+constituição O
+nº O
+6 O
+, O
+de O
+2019 I-ADD
+
+
+
+
+ I-ADD
+modifica B-MOD
+o I-MOD
+sistema I-MOD
+de I-MOD
+previdência I-MOD
+social I-MOD
+
+
+ I-MOD
+para I-MOD
+vedar I-MOD
+a I-MOD
+dispensa O
+arbitrária O
+ou O
+sem I-MOD
+
+
+ O
+justa I-MOD
+causa I-MOD
+do I-MOD
+trabalhador I-MOD
+nos I-MOD
+dois I-SUP
+
+
+ I-SUP
+últimos I-MOD
+anos I-SUP
+para I-MOD
+completar I-SUP
+a I-SUP
+idade I-SUP
+
+
+ I-ADD
+mínima I-ADD
+para I-ADD
+a I-ADD
+aposentadoria I-ADD
+. E-ADD
+
+
+ O
+emenda O
+nº O
+
+
+ O
+acrescente O
+- O
+se I-MOD
+a I-MOD
+o I-MOD
+artigo I-MOD
+10 I-MOD
+do I-MOD
+ato I-MOD
+das I-MOD
+disposições I-MOD
+
+
+ I-MOD
+constitucionais I-MOD
+transitórias I-MOD
+, I-MOD
+alterado I-MOD
+pelo I-MOD
+art I-MOD
+. I-MOD
+2º I-MOD
+da I-ADD
+proposta I-MOD
+, I-MOD
+a I-MOD
+seguinte I-MOD
+alínea I-MOD
+
+
+ I-MOD
+“ I-MOD
+c I-MOD
+” I-SUP
+no I-MOD
+inciso I-MOD
+ii I-MOD
+: I-MOD
+
+
+ I-MOD
+“ I-MOD
+art.2º I-MOD
+.......................................................................................... I-MOD
+
+
+ I-MOD
+...................................................................................................... I-MOD
+
+
+ I-MOD
+art I-MOD
+. I-MOD
+10 I-MOD
+.......................................................................................... I-MOD
+
+
+ I-MOD
+..................................................................................................... I-MOD
+
+
+ I-MOD
+ii I-MOD
+- I-MOD
+.............................................................................................. I-MOD
+
+
+ I-MOD
+................................................................................................... I-MOD
+
+
+ I-MOD
+c I-MOD
+) I-SUP
+do I-SUP
+empregado I-SUP
+nos I-SUP
+2 I-SUP
+( I-SUP
+dois I-SUP
+) I-SUP
+últimos I-SUP
+anos I-SUP
+que I-SUP
+faltarem I-SUP
+para I-SUP
+completar I-SUP
+a I-SUP
+idade I-ADD
+mínima I-ADD
+para I-ADD
+a I-ADD
+aposentadoria I-ADD
+. I-ADD
+
+
+ I-ADD
+............................................................................................ I-ADD
+” I-ADD
+( I-SUP
+nr I-MOD
+) I-MOD
+
+
+
+
+
+
+ I-MOD
+2 E-MOD
+
+
+ O
+câmara O
+dos O
+deputados O
+
+
+
+
+ O
+comissão O
+especial I-MOD
+- I-MOD
+pec I-MOD
+006/19 I-MOD
+- I-MOD
+previdência O
+social O
+
+
+
+
+
+ O

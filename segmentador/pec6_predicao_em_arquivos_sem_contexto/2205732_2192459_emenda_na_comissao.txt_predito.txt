@@ -1,0 +1,150 @@
+- I-ADD
+. E-ADD
+emenda O
+proposta O
+emenda O
+à O
+constituição O
+nº O
+6 O
+de O
+
+
+ O
+2019 O
+
+
+ O
+altera B-ADD
+a I-ADD
+proposta I-ADD
+de I-ADD
+emenda I-ADD
+à O
+constituição O
+
+
+ O
+nº O
+06 I-ADD
+de I-ADD
+2019 O
+– O
+reforma O
+da O
+previdência I-MOD
+, I-MOD
+de O
+
+
+ I-MOD
+modo I-MOD
+a I-ADD
+revogar I-ADD
+o I-ADD
+novo I-ADD
+regime I-ADD
+fiscal I-ADD
+no I-ADD
+
+
+ I-ADD
+âmbito I-ADD
+dos I-ADD
+orçamentos I-MOD
+fiscal I-ADD
+e I-MOD
+da I-MOD
+
+
+ I-MOD
+seguridade I-MOD
+social I-MOD
+da I-MOD
+união I-MOD
+, I-MOD
+estabelecido I-MOD
+
+
+ I-MOD
+pela I-MOD
+emenda I-MOD
+constitucional I-MOD
+nº I-MOD
+95 I-MOD
+de I-MOD
+2016 I-MOD
+
+
+ I-MOD
+( I-MOD
+teto I-MOD
+dos I-MOD
+gastos I-MOD
+) I-MOD
+
+
+ I-MOD
+acrescente I-MOD
+- I-ADD
+se I-ADD
+, I-ADD
+onde I-ADD
+couber I-ADD
+, I-ADD
+na I-ADD
+proposta I-ADD
+de I-ADD
+emenda I-SUP
+à I-SUP
+constituição I-ADD
+nº I-SUP
+6 I-SUP
+de I-ADD
+2019 I-ADD
+, I-ADD
+o I-ADD
+seguinte I-ADD
+artigo I-ADD
+: I-ADD
+
+
+ I-ADD
+“ I-MOD
+art I-MOD
+. I-MOD
+x. I-MOD
+suprima I-MOD
+- I-MOD
+se I-MOD
+os I-MOD
+artigos I-MOD
+106 I-MOD
+, O
+107 I-MOD
+, O
+108 I-MOD
+, I-MOD
+109 I-MOD
+, I-MOD
+110 I-MOD
+, I-MOD
+111 O
+, O
+112 O
+, O
+113 O
+e O
+114 O
+do I-MOD
+ato I-MOD
+das I-MOD
+disposições I-MOD
+constitucionais I-MOD
+transitórias I-MOD
+” I-MOD
+. E-MOD
+
+
+
+ O

@@ -1,45 +1,81 @@
-pec O
 de O
+. O
 proposta O
 emenda O
 constituição O
 nº O
-06, O
+06 O
+, O
 de O
-2019. I-ADD
+2019 O
+. O
+
+
+
+
+ O
 modifica B-MOD
-o O
-sistema O
-de O
+o I-MOD
+sistema I-MOD
+de I-MOD
 previdência I-MOD
-social, I-MOD
+social I-MOD
+, I-MOD
 estabelece I-MOD
 regras I-MOD
 de I-MOD
 transição I-MOD
 e I-MOD
+
+
+ I-MOD
 disposições I-MOD
-transitórias, I-MOD
+transitórias I-MOD
+, I-MOD
 e I-MOD
-dá O
-outras O
-providências. O
+dá I-MOD
+outras I-MOD
+providências O
+. O
+
+
+
+
+ O
 emenda O
 aditiva O
 nº O
-_______, O
-de O
+_ O
+_ O
+_ I-MOD
+_ I-MOD
+_ I-MOD
+_ I-MOD
+_ I-MOD
+, I-MOD
+de I-MOD
 2019 O
-(do O
+
+
+ O
+( O
+do O
 sr. O
-isnaldo O
+isnaldo I-MOD
 bulhões O
-jr.) I-MOD
+jr. O
+) I-MOD
+
+
+
+
+ I-MOD
 altera I-MOD
 as I-MOD
 regras I-MOD
 relativas I-MOD
-às I-MOD
+à I-MOD
+s I-MOD
 operações I-MOD
 de I-MOD
 empréstimos I-MOD
@@ -47,40 +83,76 @@ dos I-MOD
 regimes I-MOD
 próprios I-MOD
 de I-MOD
+
+
+ I-MOD
 previdência I-MOD
 social I-MOD
 com I-MOD
 seus I-MOD
-segurados, I-MOD
+segurados I-ADD
+, I-ADD
+
+
+ I-MOD
 por I-MOD
 meio I-MOD
-da I-ADD
+da I-MOD
 incorporação I-MOD
 do I-MOD
 § I-MOD
 13 I-MOD
-ao O
-art. O
-12 O
-da O
-emenda O
-constitucional. O
-art. O
-1º. O
-acrescente-se B-ADD
-o I-ADD
-§ I-ADD
-13 I-ADD
-ao I-ADD
-art. O
+a I-MOD
+o I-SUP
+art I-SUP
+. O
+
+
+ I-SUP
 12 I-MOD
 da I-MOD
 emenda I-MOD
 constitucional I-MOD
+. I-MOD
+
+
+
+
+ I-MOD
+art I-MOD
+. I-MOD
+1º. I-MOD
+acrescente I-MOD
+- I-MOD
+se I-MOD
+o I-MOD
+§ I-MOD
+13 O
+a I-MOD
+o O
+art I-SUP
+. O
+12 I-MOD
+da I-MOD
+emenda I-MOD
+constitucional I-MOD
+
+
+ I-MOD
 “ I-MOD
-art. I-MOD
-12............................................................................................................... I-MOD
+art I-MOD
+. I-MOD
+12 I-MOD
+............................................................................................................... I-MOD
+
+
+
+
+ I-MOD
 ............................................................................................................................. I-MOD
+
+
+ I-MOD
 § I-MOD
 13 I-MOD
 os I-MOD
@@ -94,7 +166,7 @@ aplicar I-MOD
 parte I-MOD
 de I-SUP
 seus I-SUP
-recursos I-MOD
+recursos I-SUP
 por I-MOD
 meio I-MOD
 de I-MOD
@@ -103,26 +175,65 @@ de I-MOD
 empréstimos I-MOD
 a I-SUP
 seus I-SUP
-segurados, I-SUP
+segurados I-SUP
+, I-SUP
 na I-SUP
 modalidade I-SUP
+
+
+ I-SUP
 de I-SUP
-consignados, I-SUP
-observada I-ADD
-regulamentação I-ADD
-específica I-ADD
-estabelecida I-ADD
+
+
+ I-MOD
+consignados I-MOD
+, I-MOD
+
+
+ I-MOD
+observada I-MOD
+
+
+ I-MOD
+regulamentação I-MOD
+
+
+ I-MOD
+específica I-MOD
+
+
+ I-MOD
+estabelecida I-MOD
 pelo I-MOD
 conselho I-MOD
-monetário O
-nacional.” O
-(nr) O
+monetário I-MOD
+nacional I-MOD
+. I-MOD
+” I-MOD
+( I-MOD
+nr I-MOD
+) I-MOD
+
+
+
+
+
+
+ I-MOD
 câmara O
 dos O
 deputados O
+
+
+ O
 gabinete O
 deputado O
 federal O
 isnaldo O
 bulhões O
-jr. O
+jr O
+. O
+
+
+
+ O

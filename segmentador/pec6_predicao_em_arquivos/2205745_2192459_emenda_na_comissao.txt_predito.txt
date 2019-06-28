@@ -1,41 +1,61 @@
-2019. O
-dos O
 câmara O
 deputados O
+câmara O
+deputados O
+proposta O
 de O
 emenda O
 à O
 constituição O
 nº O
-06, O
+06 O
+, O
 de O
 2019 O
-(do I-MOD
+
+
+ O
+( I-MOD
+do I-MOD
 senhor I-MOD
 deputado I-MOD
 euclydes I-MOD
-pettersen O
-e O
-outros) O
+pettersen I-MOD
+e I-MOD
+outros O
+) O
+
+
+
+
+ O
 emenda O
 modificativa O
-art. O
-1º O
-o B-ADD
+
+
+
+
+ O
+art O
+. I-MOD
+1º I-MOD
+o I-MOD
 § I-SUP
 3º I-SUP
 do I-SUP
 artigo I-SUP
-28 I-ADD
+28 I-SUP
 da I-ADD
-proposta I-ADD
+proposta I-SUP
 de I-ADD
-emenda I-ADD
-constituição I-ADD
-nº I-ADD
-06, I-ADD
+emenda O
+constituição O
+nº O
+06 O
+, O
 de I-ADD
-2019, I-ADD
+2019 I-ADD
+, I-MOD
 que I-MOD
 passa I-MOD
 a I-MOD
@@ -43,11 +63,26 @@ vigorar I-MOD
 com I-MOD
 a I-MOD
 seguinte I-MOD
-redação: I-MOD
-“art. I-MOD
-28. I-MOD
+redação I-MOD
+: I-MOD
+
+
+
+
+ I-MOD
+“ I-MOD
+art I-MOD
+. I-MOD
+28 I-MOD
+. I-MOD
 ......................................................................................... I-MOD
+
+
+ I-MOD
 ....................................................................................................... I-MOD
+
+
+ I-MOD
 § I-MOD
 3º I-MOD
 as I-MOD
@@ -64,19 +99,34 @@ data I-SUP
 do I-SUP
 óbito I-SUP
 do I-MOD
-segurado, I-MOD
+segurado I-MOD
+, I-MOD
 inclusive I-MOD
 em I-MOD
-relação I-MOD
-ao I-ADD
-filho I-ADD
-inválido I-ADD
+relação I-ADD
+a I-MOD
+o I-ADD
+filho I-MOD
+inválido I-MOD
 ou I-MOD
 com I-MOD
-deficiência. I-MOD
-.............................................................................................” I-MOD
-(nr) I-MOD
-art. I-SUP
+deficiência I-MOD
+. I-MOD
+
+
+ I-MOD
+............................................................................................. I-MOD
+” I-MOD
+( I-MOD
+nr I-MOD
+) I-MOD
+
+
+
+
+ I-MOD
+art I-MOD
+. I-SUP
 2º I-SUP
 esta I-SUP
 emenda I-SUP
@@ -87,4 +137,9 @@ na I-SUP
 data I-SUP
 de I-SUP
 sua I-SUP
-publicação. I-SUP
+publicação I-MOD
+. I-MOD
+
+
+
+ I-MOD

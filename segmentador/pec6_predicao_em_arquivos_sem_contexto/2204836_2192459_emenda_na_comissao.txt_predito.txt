@@ -1,0 +1,427 @@
+contínuos I-MOD
+” I-MOD
+câmara O
+deputados O
+proposta O
+de O
+emenda O
+à O
+constituição O
+nº O
+6 O
+, O
+de O
+2019 I-ADD
+
+
+
+
+ I-ADD
+modifica B-MOD
+o I-MOD
+sistema I-MOD
+de I-MOD
+previdência I-MOD
+
+
+ I-MOD
+social I-MOD
+, I-MOD
+
+
+ I-MOD
+estabelece I-MOD
+
+
+ I-MOD
+regras I-MOD
+
+
+ I-MOD
+de I-MOD
+
+
+ I-MOD
+transição I-MOD
+e I-MOD
+disposições I-MOD
+transitórias I-MOD
+, I-MOD
+e I-MOD
+
+
+ I-MOD
+dá I-MOD
+outras I-MOD
+providências I-MOD
+. E-MOD
+
+
+
+
+
+
+ O
+emenda O
+modificativa O
+
+
+
+
+ O
+art O
+. O
+1º. O
+dê I-MOD
+- O
+se I-MOD
+a I-MOD
+o I-MOD
+art I-MOD
+. I-MOD
+3º I-MOD
+da I-MOD
+pec I-MOD
+6/2019 I-MOD
+a I-MOD
+seguinte I-MOD
+redação I-MOD
+: I-MOD
+
+
+
+
+ I-MOD
+“ I-MOD
+art I-MOD
+. I-MOD
+3º. I-MOD
+o I-MOD
+inciso I-SUP
+i I-SUP
+do I-SUP
+§ I-SUP
+1 I-SUP
+° I-MOD
+do I-MOD
+art I-ADD
+. I-MOD
+40 I-MOD
+da I-MOD
+constituição I-MOD
+federal I-MOD
+passa I-MOD
+a I-MOD
+vigorar I-MOD
+com I-MOD
+a I-MOD
+seguinte I-MOD
+redação I-MOD
+: I-MOD
+
+
+
+
+ I-MOD
+art I-MOD
+. I-MOD
+40 I-ADD
+... I-MOD
+
+
+ I-MOD
+§ I-MOD
+1 I-MOD
+° O
+..... O
+
+
+ O
+i I-ADD
+– I-ADD
+por I-ADD
+invalidez I-ADD
+permanente I-ADD
+; I-ADD
+
+
+ I-ADD
+.............................................................. I-MOD
+( I-MOD
+nr I-MOD
+) I-MOD
+” I-MOD
+
+
+
+
+ I-MOD
+art I-MOD
+. I-MOD
+2º. I-MOD
+acrescente I-MOD
+- I-ADD
+se I-ADD
+os I-ADD
+§ I-ADD
+22 I-ADD
+° I-ADD
+, I-SUP
+§ I-ADD
+23 I-SUP
+° I-MOD
+e I-MOD
+§ I-MOD
+24 I-MOD
+° I-MOD
+a I-MOD
+o I-MOD
+art I-MOD
+. I-MOD
+40 I-ADD
+da I-ADD
+constituição I-ADD
+federal I-ADD
+com I-ADD
+a I-ADD
+seguinte I-ADD
+redação I-ADD
+: I-ADD
+
+
+
+
+ I-ADD
+“ I-ADD
+§ I-SUP
+22 I-ADD
+° I-ADD
+o I-ADD
+servidor I-ADD
+da I-MOD
+união I-MOD
+, I-MOD
+dos I-MOD
+estados I-MOD
+, I-MOD
+do I-MOD
+distrito I-MOD
+federal I-MOD
+e I-MOD
+dos I-MOD
+municípios I-MOD
+, I-MOD
+incluídas I-SUP
+suas I-SUP
+autarquias I-SUP
+e I-SUP
+fundações I-SUP
+, I-MOD
+que I-MOD
+se I-MOD
+aposentou I-MOD
+
+
+
+
+
+
+ I-MOD
+ou I-MOD
+venha O
+a O
+se I-ADD
+aposentar I-ADD
+por I-ADD
+invalidez I-ADD
+permanente I-ADD
+, I-ADD
+com I-ADD
+fundamento I-ADD
+no I-ADD
+inciso I-SUP
+i I-SUP
+do I-SUP
+§ I-SUP
+1 I-SUP
+° I-MOD
+do I-MOD
+art I-ADD
+. I-MOD
+40 I-MOD
+da I-MOD
+constituição I-MOD
+federal I-ADD
+tem I-ADD
+direito I-MOD
+a I-MOD
+: I-MOD
+a I-ADD
+) I-ADD
+proventos I-ADD
+de I-ADD
+aposentadoria I-ADD
+calculados I-ADD
+com I-ADD
+base I-ADD
+na I-ADD
+remuneração I-ADD
+do I-ADD
+cargo I-ADD
+efetivo I-ADD
+em I-ADD
+que I-ADD
+se I-ADD
+der I-ADD
+a I-ADD
+aposentadoria I-ADD
+, I-ADD
+na I-ADD
+forma I-ADD
+da I-ADD
+lei I-MOD
+, I-MOD
+não I-MOD
+sendo I-MOD
+aplicáveis I-MOD
+as I-MOD
+disposições I-ADD
+constantes I-ADD
+dos I-ADD
+§ I-ADD
+§ I-MOD
+3 I-MOD
+° I-MOD
+, I-MOD
+8 I-MOD
+° I-MOD
+e I-MOD
+17 I-MOD
+do I-MOD
+art I-MOD
+. I-MOD
+
+
+ I-MOD
+40 I-MOD
+da I-MOD
+constituição I-MOD
+federal I-MOD
+; I-MOD
+
+
+
+
+ I-MOD
+b I-MOD
+) I-MOD
+revisão I-ADD
+dos I-ADD
+proventos I-ADD
+de I-ADD
+aposentadoria I-ADD
+dos I-ADD
+servidores I-ADD
+públicos I-ADD
+titulares I-ADD
+de I-SUP
+cargo I-SUP
+efetivo I-SUP
+e I-ADD
+das I-ADD
+pensões I-ADD
+dos I-SUP
+seus I-SUP
+dependentes I-SUP
+na I-SUP
+mesma I-SUP
+proporção I-SUP
+e I-SUP
+na I-SUP
+mesma I-MOD
+data I-MOD
+, I-MOD
+sempre I-MOD
+que I-MOD
+se I-MOD
+modificar I-MOD
+a I-MOD
+remuneração I-SUP
+dos I-MOD
+servidores I-SUP
+em I-SUP
+atividade I-SUP
+, I-MOD
+sendo I-MOD
+também I-MOD
+estendidos I-MOD
+a I-MOD
+os I-MOD
+aposentados I-MOD
+e I-MOD
+pensionistas I-MOD
+quaisquer I-MOD
+benefícios I-MOD
+ou I-MOD
+vantagens I-MOD
+posteriormente I-MOD
+concedidos I-MOD
+a I-MOD
+os I-MOD
+servidores I-SUP
+em I-SUP
+atividade I-SUP
+, I-SUP
+inclusive I-SUP
+quando I-SUP
+decorrentes I-SUP
+da I-MOD
+transformação I-MOD
+ou I-MOD
+reclassificação I-MOD
+do I-MOD
+cargo I-MOD
+ou I-MOD
+função I-MOD
+em I-MOD
+que I-ADD
+se I-ADD
+deu I-ADD
+a I-ADD
+aposentadoria I-ADD
+ou I-ADD
+que I-ADD
+serviu I-ADD
+de I-ADD
+referência I-SUP
+para I-SUP
+a I-MOD
+concessão I-MOD
+da I-ADD
+pensão I-SUP
+. I-MOD
+
+
+
+
+ I-MOD
+§ I-SUP
+23 I-MOD
+° I-SUP
+esta I-SUP
+emenda I-SUP
+constitucional I-SUP
+entra I-SUP
+em I-SUP
+vigor I-SUP
+na I-MOD
+data I-SUP
+de I-SUP
+sua I-SUP
+publicação I-MOD
+. I-MOD
+” I-SUP
+
+
+
+ I-SUP

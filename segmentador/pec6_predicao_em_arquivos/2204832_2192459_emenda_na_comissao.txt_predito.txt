@@ -1,48 +1,102 @@
-cumprido I-SUP
-essa O
+data I-SUP
+” I-SUP
 câmara O
 deputados O
+proposta O
 de O
 emenda O
 à O
 constituição O
 nº O
-6, O
+6 O
+, O
 de O
 2019 O
+
+
+
+
+ O
 modifica B-MOD
 o O
-sistema O
-de O
-previdência I-MOD
-social, I-MOD
-estabelece I-MOD
-regras I-MOD
+sistema I-MOD
 de I-MOD
+previdência I-MOD
+
+
+ I-MOD
+social I-MOD
+, I-MOD
+
+
+ I-MOD
+estabelece I-MOD
+
+
+ I-MOD
+regras I-MOD
+
+
+ I-MOD
+de I-MOD
+
+
+ I-MOD
 transição I-MOD
 e I-MOD
 disposições I-MOD
-transitórias, I-MOD
+transitórias I-MOD
+, I-MOD
 e I-MOD
-dá O
-outras O
-providências. O
+dá I-MOD
+outras I-MOD
+providências O
+. O
+
+
+
+
+
+
+ O
 emenda O
 supressiva O
-art. B-SUP
-1º. I-SUP
-suprima-se I-SUP
-o I-SUP
-§3º I-SUP
-do I-SUP
-art. I-SUP
-42 I-SUP
-da I-SUP
-constituição, I-MOD
-alterado I-MOD
-pelo I-MOD
-art. I-MOD
+
+
+
+
+ O
+art B-MOD
+. I-MOD
+1º. I-MOD
+suprima I-MOD
+- I-MOD
+se I-MOD
+o I-MOD
+§ I-MOD
+3º I-MOD
+do I-MOD
+art I-ADD
+. I-ADD
+42 I-MOD
+da I-ADD
+constituição I-ADD
+, I-ADD
+alterado I-ADD
+pelo I-ADD
+art I-MOD
+. I-MOD
 1º I-MOD
 da I-MOD
 pec I-MOD
-06/2019. O
+
+
+ I-MOD
+06/2019 I-MOD
+. O
+
+
+
+
+
+ O

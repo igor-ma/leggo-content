@@ -1,0 +1,140 @@
+da O
+. O
+comissão O
+destinada O
+analisar O
+a O
+proposta O
+de O
+
+
+ O
+emenda O
+à O
+constituição O
+nº O
+6 O
+de O
+2019 O
+
+
+
+
+ O
+proposta O
+de O
+emenda O
+à O
+constituição O
+nº O
+6 O
+de O
+2019 O
+
+
+
+
+
+
+ O
+emenda I-SUP
+nº O
+
+
+ O
+( O
+do O
+senhor I-MOD
+dep I-MOD
+. I-MOD
+fernando I-MOD
+rodolfo I-MOD
+) I-MOD
+
+
+
+
+ I-MOD
+art I-MOD
+. I-MOD
+1º I-MOD
+altere I-MOD
+- I-MOD
+se I-MOD
+a I-MOD
+redação I-MOD
+o I-MOD
+inciso I-MOD
+i I-MOD
+do I-MOD
+art I-MOD
+. I-MOD
+42 I-SUP
+da I-SUP
+pec I-SUP
+nº I-SUP
+6 I-SUP
+de I-SUP
+2019 I-SUP
+, I-SUP
+para I-SUP
+que I-SUP
+passe I-ADD
+a I-ADD
+constar I-ADD
+o I-ADD
+seguinte I-ADD
+: I-MOD
+
+
+
+
+ I-MOD
+art I-MOD
+. I-MOD
+42 I-MOD
+........................................................................................... I-MOD
+
+
+ I-MOD
+i I-MOD
+- I-MOD
+para I-MOD
+verificação I-MOD
+da I-MOD
+condição I-MOD
+de I-MOD
+miserabilidade I-MOD
+, I-ADD
+o I-SUP
+patrimônio I-SUP
+familiar I-SUP
+deverá I-SUP
+ser I-SUP
+inferior I-SUP
+a I-SUP
+r$ I-SUP
+130.000,00 I-SUP
+( I-MOD
+cento I-MOD
+e I-MOD
+trinta I-MOD
+mil I-MOD
+reais I-MOD
+) I-MOD
+; I-MOD
+e I-MOD
+
+
+ I-MOD
+.......................................................................................................... I-MOD
+
+
+ I-MOD
+.......................................................................................................... O
+
+
+
+
+
+ O

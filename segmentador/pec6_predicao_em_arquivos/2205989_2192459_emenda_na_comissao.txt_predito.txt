@@ -1,9 +1,12 @@
-nº O
 de O
+. O
 comissão O
 destinada O
 emitir O
 parecer O
+
+
+ O
 sobre O
 a O
 proposta O
@@ -12,69 +15,98 @@ emenda O
 à O
 constituição O
 nº O
-6, O
-de O
-2019. O
+6 O
+, O
+de I-SUP
+
+
+ O
+2019 O
+. O
+
+
+ O
 proposta O
 de O
 emenda O
 à O
 constituição O
 nº O
-6, O
-de O
-2019 O
-art. I-MOD
+6 O
+, O
+de I-SUP
+2019 I-ADD
+
+
+ I-MOD
+art I-MOD
+. I-MOD
 1º I-MOD
 - I-MOD
 o I-MOD
-art. I-MOD
-20 I-MOD
+art I-MOD
+. I-MOD
+20 O
 da O
-proposta O
-de O
-emenda I-ADD
-à I-ADD
-constituição I-ADD
-nº I-ADD
-06, I-ADD
+proposta I-ADD
 de I-ADD
-2019 I-MOD
-passa I-MOD
-a I-MOD
-vigorar I-MOD
-com O
-a O
-seguinte O
-redação”. O
 emenda O
-modificativa O
+à O
+constituição O
 nº O
-art. O
-1º O
-- O
-o I-MOD
-art. I-MOD
-20 I-MOD
-da O
-proposta O
-de O
-emenda I-ADD
-à I-ADD
-constituição I-ADD
-nº I-ADD
-06, I-ADD
+06 I-ADD
+, I-ADD
 de I-ADD
-2019 I-MOD
+2019 O
 passa I-MOD
 a I-MOD
 vigorar I-MOD
 com I-MOD
 a I-MOD
 seguinte I-MOD
-redação: I-MOD
-art. I-MOD
-20. I-MOD
+redação I-MOD
+” O
+. O
+
+
+ O
+emenda O
+modificativa O
+nº O
+
+
+ O
+art O
+. O
+1º I-MOD
+- I-MOD
+o I-MOD
+art I-MOD
+. I-MOD
+20 O
+da O
+proposta I-ADD
+de I-ADD
+emenda O
+à O
+constituição O
+nº O
+06 I-ADD
+, I-ADD
+de I-ADD
+2019 O
+passa I-MOD
+a I-MOD
+vigorar I-MOD
+com I-MOD
+a I-MOD
+seguinte I-MOD
+redação I-MOD
+: I-MOD
+art I-MOD
+. I-MOD
+20 I-MOD
+. I-MOD
 ressalvado I-MOD
 o I-MOD
 direito I-ADD
@@ -86,12 +118,16 @@ pelas I-ADD
 normas I-ADD
 estabelecidas I-ADD
 nos I-ADD
-art. I-MOD
-18, I-MOD
-art. I-MOD
+art I-MOD
+. I-MOD
+18 I-ADD
+, I-MOD
+art I-MOD
+. I-MOD
 19 I-MOD
 e I-MOD
-art. I-MOD
+art O
+. I-MOD
 24 I-MOD
 ou I-MOD
 pela I-MOD
@@ -102,15 +138,17 @@ que I-ADD
 se I-ADD
 refere I-ADD
 o I-SUP
-§ I-SUP
+§ I-MOD
 1º I-SUP
 do I-SUP
-art. I-SUP
+art I-ADD
+. I-SUP
 201 I-SUP
 da I-SUP
-constituição, I-SUP
+constituição I-SUP
+, I-SUP
 fica I-SUP
-assegurado I-SUP
+assegurado I-ADD
 o I-ADD
 direito I-ADD
 à I-ADD
@@ -119,10 +157,12 @@ por I-ADD
 tempo I-ADD
 de I-ADD
 contribuição I-ADD
-ao I-ADD
+a I-ADD
+o I-ADD
 segurado I-ADD
 filiado I-ADD
-ao I-ADD
+a I-ADD
+o I-ADD
 regime I-ADD
 geral I-ADD
 de I-ADD
@@ -139,36 +179,67 @@ por I-ADD
 cento I-ADD
 do I-SUP
 tempo I-SUP
-que, I-ADD
+que I-SUP
+, I-SUP
 na I-SUP
 data I-SUP
 de I-SUP
 promulgação I-SUP
-desta I-SUP
+d I-SUP
+esta I-SUP
 emenda I-SUP
 à I-SUP
-constituição, I-SUP
+constituição I-SUP
+, I-SUP
 faltaria I-SUP
 para I-SUP
 atingir I-SUP
-trinta I-SUP
-anos I-SUP
-de I-SUP
-contribuição, I-MOD
-se I-MOD
-mulher, I-MOD
+trinta I-ADD
+anos I-ADD
+de I-ADD
+contribuição I-ADD
+, I-ADD
+se I-ADD
+mulher I-ADD
+, I-ADD
 e I-MOD
 trinta I-MOD
-e I-MOD
-cinco I-MOD
-anos I-MOD
-de I-MOD
-contribuição, I-MOD
-se I-MOD
-homem. I-MOD
+e I-ADD
+cinco I-ADD
+anos I-ADD
+de I-ADD
+contribuição I-ADD
+, I-ADD
+se I-ADD
+homem I-ADD
+. I-ADD
+
+
+
+
+ I-MOD
 parágrafo I-MOD
-único. I-MOD
+único I-MOD
+. I-MOD
 ................................................................................... I-MOD
+
+
+ I-MOD
 .................................................................................................. I-MOD
-(nr) O
+( I-MOD
+nr I-MOD
+) I-MOD
+
+
+
+
+
+
+ I-MOD
 1 O
+
+
+
+
+
+ O

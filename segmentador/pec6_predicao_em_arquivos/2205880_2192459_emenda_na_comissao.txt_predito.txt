@@ -1,5 +1,5 @@
-4º I-MOD
-§1º I-MOD
+§ O
+............................................................................................ O
 comissão O
 destinada O
 apreciar O
@@ -7,6 +7,9 @@ e O
 proferir O
 parecer O
 à O
+
+
+ O
 proposta O
 de O
 emenda O
@@ -16,71 +19,114 @@ nº O
 6 O
 de O
 2019 O
+
+
+
+
+
+
+ O
 proposta O
 de O
 emenda O
 à O
 constituição O
-n° O
+n O
+° O
 6 O
 de O
 2019 O
+
+
+
+
+ O
 modifica B-MOD
-o O
-sistema O
-de O
+o I-MOD
+sistema I-MOD
+de I-MOD
 previdência I-MOD
-social, I-MOD
+social I-MOD
+, I-MOD
+
+
+ I-MOD
 estabelece I-MOD
 regras I-MOD
 de I-MOD
 transição I-MOD
 e I-MOD
+
+
+ I-MOD
 disposições I-MOD
-transitórias, I-MOD
+transitórias I-MOD
+, I-MOD
 e I-MOD
 dá I-MOD
 outras I-MOD
-providências. O
+
+
+ I-MOD
+providências I-MOD
+. I-MOD
+
+
+
+
+ I-MOD
 emenda O
 nº O
-(do O
+
+
+ O
+( O
+do O
 sr. O
-júlio O
-delgado O
+júlio I-MOD
+delgado I-MOD
 e O
-outros) O
+outros O
+) I-MOD
+
+
+ I-MOD
 modifica I-MOD
 a I-MOD
 redação I-MOD
 do I-MOD
-art. I-MOD
+art I-MOD
+. I-MOD
 14 I-MOD
 que I-MOD
-altera B-ADD
+altera I-MOD
 a I-ADD
 alíquota I-ADD
 de I-ADD
 contribuição I-ADD
 dos I-ADD
 servidores I-ADD
-públicos I-ADD
-da I-ADD
-união, I-MOD
+públicos I-MOD
+da I-MOD
+união I-MOD
+, I-MOD
 alterando I-MOD
 o I-MOD
 caput I-MOD
 e I-MOD
 os I-MOD
 incisos I-MOD
-i I-MOD
-ao I-MOD
-vii I-MOD
-do O
-§1° I-MOD
-da I-MOD
+i I-SUP
+a I-MOD
+o I-SUP
+vii I-SUP
+do I-SUP
+§ I-SUP
+1 I-SUP
+° I-SUP
+da I-SUP
 referida I-SUP
-pec I-SUP
+pec I-MOD
 e I-SUP
 os I-SUP
 incisos I-SUP
@@ -88,10 +134,11 @@ iii I-SUP
 e I-SUP
 iv I-SUP
 do I-SUP
-art. I-MOD
+art I-MOD
+. I-MOD
 34 I-MOD
 que I-MOD
-altera B-ADD
+altera I-ADD
 as I-ADD
 alíquotas I-ADD
 de I-ADD
@@ -104,21 +151,27 @@ regime I-ADD
 geral I-ADD
 de I-ADD
 previdência I-ADD
-social. I-ADD
-“ I-ADD
-art. I-MOD
-14. I-MOD
+social I-ADD
+. I-MOD
+
+
+ I-MOD
+“ I-MOD
+art I-MOD
+. I-MOD
+14 I-MOD
+. I-MOD
 até I-MOD
 que I-MOD
 entre I-MOD
 em I-MOD
 vigor I-MOD
-a I-MOD
+a I-SUP
 lei I-MOD
 que I-SUP
 altere I-MOD
 o I-MOD
-plano I-MOD
+plano I-ADD
 de I-MOD
 custeio I-MOD
 do I-MOD
@@ -127,8 +180,9 @@ próprio I-MOD
 de I-MOD
 previdência I-MOD
 social I-MOD
-da I-ADD
-união, I-ADD
+da I-MOD
+união I-ADD
+, I-ADD
 a I-ADD
 contribuição I-ADD
 previdenciária I-ADD
@@ -141,7 +195,8 @@ de I-SUP
 quaisquer I-SUP
 de I-SUP
 seus I-SUP
-poderes, I-SUP
+poderes I-SUP
+, I-SUP
 incluídas I-SUP
 suas I-SUP
 entidades I-SUP
@@ -149,112 +204,167 @@ autárquicas I-SUP
 e I-SUP
 suas I-SUP
 fundações I-SUP
-públicas, I-SUP
+públicas I-SUP
+, I-SUP
 para I-SUP
 a I-SUP
 manutenção I-SUP
 do I-MOD
-regime I-SUP
+regime I-MOD
 próprio I-MOD
 de I-MOD
 previdência I-MOD
-social, I-MOD
+social I-MOD
+, I-MOD
 será I-MOD
 de I-MOD
 onze I-MOD
 por I-MOD
-cento, I-SUP
+cento I-SUP
+, I-SUP
 incidentes I-SUP
 sobre I-ADD
 a I-ADD
 base I-ADD
 de I-ADD
-contribuição I-SUP
-estabelecida I-MOD
+contribuição I-ADD
+estabelecida I-ADD
 no I-MOD
-art. I-MOD
-4º I-ADD
+art I-MOD
+. I-MOD
+4º I-MOD
+
+
+ I-MOD
 da I-MOD
 lei I-MOD
 nº I-MOD
-10.887, I-MOD
+10.887 I-MOD
+, I-ADD
 de I-ADD
 18 I-ADD
+de I-SUP
+junho I-MOD
 de I-ADD
-junho I-ADD
-de I-ADD
-2004. I-ADD
-§ I-ADD
+2004 I-ADD
+. I-ADD
+
+
+ I-MOD
+§ I-MOD
+
+
+ I-MOD
 1º I-MOD
+
+
+ I-MOD
 ...................................................................................................... I-MOD
+
+
+ I-MOD
 ..................................................................................................... I-MOD
+
+
+ I-MOD
 i I-MOD
 - I-MOD
 até I-MOD
 um I-MOD
-salário-mínimo, I-MOD
-redução I-MOD
-de I-MOD
-três I-MOD
+salário I-MOD
+- I-MOD
+mínimo I-MOD
+, I-ADD
+redução I-ADD
+de I-ADD
+três I-ADD
 inteiros I-MOD
 e I-MOD
 cinco I-MOD
 décimos I-MOD
 pontos I-MOD
-percentuais; I-MOD
+percentuais I-MOD
+; I-MOD
+
+
+ I-MOD
 ii I-MOD
 - I-MOD
-acima I-MOD
+acima O
 de O
-um I-MOD
-salário-mínimo I-MOD
+um O
+salário I-MOD
+- I-MOD
+mínimo I-MOD
 até I-MOD
 r$ I-MOD
-2.000,00 I-MOD
-(dois I-MOD
+2.000,00 I-ADD
+( I-MOD
+dois I-MOD
 mil I-MOD
-reais), I-MOD
+reais I-MOD
+) I-MOD
+, I-MOD
 redução I-MOD
 de I-MOD
 dois I-MOD
 pontos I-MOD
-percentuais; I-MOD
+percentuais I-MOD
+; I-MOD
+
+
+ I-MOD
 iii I-MOD
 - I-MOD
 de I-MOD
 r$ I-MOD
 2.000,01 I-MOD
-(dois I-MOD
+( I-MOD
+dois I-MOD
 mil I-MOD
 reais I-MOD
 e I-MOD
 um I-MOD
-centavo) I-MOD
+centavo I-MOD
+) I-MOD
 até I-MOD
-r$ I-MOD
-3.000,00 I-MOD
-(três I-MOD
-mil I-MOD
-reais), I-MOD
+r$ I-SUP
+
+
+ I-SUP
+3.000,00 I-SUP
+( I-SUP
+três I-SUP
+mil I-SUP
+reais I-SUP
+) I-SUP
+, I-MOD
 sem I-MOD
 redução I-MOD
 ou I-MOD
-acréscimo; O
+acréscimo I-MOD
+; I-MOD
 iv I-MOD
 - I-MOD
 de I-MOD
 r$ I-MOD
 3.000,01 I-MOD
-(três I-MOD
-mil I-MOD
-reais I-MOD
-e I-MOD
+( I-MOD
+três I-SUP
+mil I-SUP
+reais I-SUP
+e I-SUP
 um I-MOD
-centavo) I-MOD
+centavo I-MOD
+) I-MOD
 até I-MOD
 r$ I-MOD
+
+
+ I-MOD
 5.839,45 I-MOD
-(cinco I-MOD
+( I-MOD
+cinco I-MOD
 mil I-MOD
 oitocentos I-MOD
 e I-MOD
@@ -266,148 +376,224 @@ e I-MOD
 quarenta I-MOD
 e I-MOD
 cinco I-MOD
-centavos), I-MOD
+centavos I-MOD
+) I-MOD
+, I-MOD
 acréscimo I-MOD
 de I-MOD
 três I-MOD
 pontos I-MOD
-percentuais; I-MOD
+percentuais I-MOD
+; I-MOD
 v I-MOD
 - I-MOD
 de I-MOD
 r$ I-MOD
 5.839,46 I-MOD
-(cinco I-MOD
+( I-MOD
+cinco I-MOD
 mil I-MOD
 oitocentos I-MOD
 e I-MOD
 trinta I-MOD
 e I-MOD
 nove I-MOD
-reais I-MOD
-e I-MOD
-quarenta I-MOD
-e I-MOD
-seis I-MOD
-centavos) I-MOD
-até I-MOD
+reais I-SUP
+e I-SUP
+quarenta I-SUP
+e I-SUP
+seis I-SUP
+centavos I-MOD
+) I-MOD
+até I-SUP
 r$ I-MOD
 10.000,00 I-MOD
-(dez I-MOD
+( I-MOD
+dez I-MOD
 mil I-MOD
-reais), I-MOD
-acréscimo I-MOD
+reais I-MOD
+) I-SUP
+, I-MOD
+acréscimo I-SUP
 de I-SUP
-quatro I-MOD
-pontos O
-percentuais; O
-vi O
+quatro I-SUP
+pontos I-SUP
+percentuais I-SUP
+; I-SUP
+
+
+ I-MOD
+vi I-MOD
 - I-MOD
 de I-MOD
 r$ I-MOD
 10.000,01 I-MOD
-(dez I-MOD
+( I-MOD
+dez I-MOD
 mil I-MOD
 reais I-MOD
-e I-MOD
+e I-SUP
 um I-MOD
-centavo) I-MOD
+centavo I-MOD
+) I-MOD
 até I-MOD
 r$ I-MOD
+
+
+ I-MOD
 20.000,00 I-MOD
-(vinte I-MOD
+( I-MOD
+vinte I-MOD
 mil I-MOD
-reais), I-MOD
+reais I-MOD
+) I-MOD
+, I-MOD
 acréscimo I-MOD
 de I-MOD
 cinco I-MOD
 pontos I-MOD
-percentuais; I-MOD
+percentuais I-MOD
+; I-MOD
+
+
+ I-MOD
 vii I-MOD
 - I-MOD
 de I-MOD
 r$ I-MOD
 20.000,01 I-MOD
-(vinte I-MOD
-mil I-MOD
-reais I-MOD
-e I-MOD
+( I-MOD
+vinte I-SUP
+mil I-SUP
+reais I-SUP
+e I-SUP
 um I-MOD
-centavo) I-MOD
+centavo I-MOD
+) I-MOD
 até I-MOD
 r$ I-MOD
+
+
+ I-MOD
 39.000,00 I-MOD
-(trinta I-MOD
-e I-MOD
+( I-MOD
+trinta I-MOD
+e I-SUP
 nove I-MOD
 mil I-MOD
-reais), I-MOD
+reais I-MOD
+) I-MOD
+, I-MOD
 acréscimo I-MOD
 de I-MOD
-seis I-MOD
+seis I-SUP
 pontos I-MOD
-percentuais; I-MOD
+percentuais I-SUP
+; I-MOD
 e I-MOD
+
+
+ I-MOD
 viii I-MOD
 - I-MOD
 acima I-MOD
 de I-MOD
 r$ I-MOD
 39.000,01 I-MOD
-(trinta I-MOD
+( I-MOD
+trinta I-MOD
 e I-MOD
-nove I-MOD
-mil I-MOD
+nove I-SUP
+mil I-SUP
 reais I-MOD
 e I-MOD
 um I-MOD
-centavo), I-MOD
+centavo I-MOD
+) I-MOD
+, I-MOD
 acréscimo I-MOD
 de I-MOD
 sete I-MOD
 pontos I-MOD
-percentuais. I-MOD
-.....................................................................................................” I-MOD
-“art. I-MOD
-34.................................................................................................. I-MOD
+percentuais I-MOD
+. I-MOD
+
+
+ I-MOD
+..................................................................................................... I-MOD
+” I-MOD
+
+
+
+
+ I-MOD
+“ I-MOD
+art I-MOD
+. I-MOD
+
+
+ I-MOD
+34 I-MOD
+.................................................................................................. I-MOD
+
+
+ I-MOD
 ...................................................................................................... I-MOD
+
+
+ I-MOD
 iii I-MOD
 - I-MOD
 de I-MOD
 r$ I-MOD
 2.000,01 I-MOD
-(dois I-MOD
+( I-MOD
+dois I-MOD
 mil I-MOD
 reais I-MOD
 e I-MOD
 um I-MOD
-centavo) I-MOD
+centavo I-MOD
+) I-MOD
 até I-MOD
-r$ I-MOD
-3.000,00 I-MOD
-(três I-MOD
-mil I-MOD
-reais), I-MOD
+r$ I-SUP
+
+
+ I-SUP
+3.000,00 I-SUP
+( I-SUP
+três I-SUP
+mil I-SUP
+reais I-SUP
+) I-SUP
+, I-MOD
 alíquota I-MOD
 de I-MOD
 dez I-MOD
 por I-MOD
-cento; I-MOD
+cento I-MOD
+; I-MOD
 iv I-MOD
 - I-MOD
 de I-MOD
 r$ I-MOD
 3.000,01 I-MOD
-(três I-MOD
-mil I-MOD
-reais I-MOD
-e I-MOD
+( I-MOD
+três I-SUP
+mil I-SUP
+reais I-SUP
+e I-SUP
 um I-MOD
-centavo) I-MOD
+centavo I-MOD
+) I-MOD
 até I-MOD
 r$ I-MOD
+
+
+ I-MOD
 5.839,45 I-MOD
-(cinco I-MOD
+( I-MOD
+cinco I-MOD
 mil I-MOD
 oitocentos I-MOD
 e I-MOD
@@ -419,10 +605,23 @@ e I-MOD
 quarenta I-MOD
 e I-MOD
 cinco I-MOD
-centavos), I-MOD
+centavos I-MOD
+) I-MOD
+, I-MOD
 alíquota I-MOD
-de I-MOD
-onze I-MOD
-por O
-cento. O
-.....................................................................................................” O
+de I-ADD
+onze I-ADD
+por I-ADD
+cento I-ADD
+. I-MOD
+
+
+ I-SUP
+..................................................................................................... O
+” I-MOD
+
+
+
+
+
+ I-MOD

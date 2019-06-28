@@ -1,7 +1,12 @@
-emprego O
-função O
+pública O
+” O
 comissão O
-proposta O
+
+
+
+
+ O
+de O
 emenda O
 à O
 constituição O
@@ -9,19 +14,41 @@ nº O
 06 O
 de O
 2019 O
+
+
+
+
+ O
 emenda O
 modificativa O
 nº O
-_______, O
-de O
+_ O
+_ O
+_ O
+_ I-MOD
+_ I-MOD
+_ I-MOD
+_ I-MOD
+, I-MOD
+de I-MOD
 2019 O
-(do O
+
+
+ O
+( O
+do O
 sr. O
-darci O
+darci I-MOD
 de O
-matos O
+matos I-MOD
 e I-MOD
-outros) I-MOD
+outros I-MOD
+) I-MOD
+
+
+
+
+ I-MOD
 regulamenta I-MOD
 a I-MOD
 competência I-MOD
@@ -29,30 +56,44 @@ da I-SUP
 justiça I-SUP
 federal I-MOD
 para I-MOD
-julgar I-MOD
-as I-MOD
-causas I-MOD
-relacionadas I-MOD
-às I-MOD
-entidades I-MOD
+julgar I-SUP
+as I-SUP
+causas I-SUP
+relacionadas I-SUP
+à I-MOD
+s I-MOD
+entidades I-ADD
 de O
 previdência I-ADD
 complementar I-MOD
 a I-ADD
-que I-MOD
-se I-MOD
-refere I-MOD
-o I-MOD
-§15 I-MOD
-do I-MOD
-art. I-MOD
-40 I-MOD
-da I-MOD
-constituição I-MOD
-federal. I-MOD
-art. I-MOD
+que I-ADD
+se I-ADD
+refere I-ADD
+o I-SUP
+§ I-SUP
+15 I-ADD
+do I-ADD
+art I-ADD
+. I-ADD
+40 I-ADD
+da I-ADD
+constituição I-ADD
+federal I-ADD
+. I-MOD
+
+
+
+
+
+
+ I-ADD
+art I-MOD
+. I-MOD
 1º. I-MOD
-altere-se I-MOD
+altere I-MOD
+- I-MOD
+se I-MOD
 a I-MOD
 pec I-MOD
 para I-MOD
@@ -61,22 +102,37 @@ o I-SUP
 inciso I-SUP
 xii I-SUP
 no I-SUP
-art. I-SUP
-109 I-SUP
+art I-SUP
+. I-MOD
+109 I-MOD
 da I-MOD
-constituição I-MOD
-federal, I-MOD
+constituição I-ADD
+federal I-ADD
+, I-ADD
 regulamentada I-ADD
-pelo I-MOD
-art. I-MOD
+pelo I-ADD
+art I-MOD
+. I-MOD
 1º I-MOD
 da I-MOD
 pec I-MOD
 nº I-MOD
-6/2019. I-MOD
-“art. I-MOD
-109. I-MOD
+6/2019 I-MOD
+. I-MOD
+
+
+
+
+ I-MOD
+“ I-MOD
+art I-MOD
+. I-MOD
+109 I-MOD
+. I-MOD
 ......................................................................................... I-MOD
+
+
+ I-MOD
 xii I-MOD
 - I-MOD
 as I-MOD
@@ -99,17 +155,24 @@ que I-ADD
 se I-ADD
 refere I-ADD
 o I-SUP
-§ I-ADD
-15 I-MOD
-do I-ADD
-art. I-ADD
-40 I-SUP
-desta I-SUP
+§ I-SUP
+15 I-ADD
+do I-MOD
+art I-MOD
+. I-ADD
+40 I-MOD
+d I-SUP
+esta I-SUP
 constituição I-SUP
 que I-SUP
 sejam I-SUP
 instituídas I-SUP
 ou I-SUP
-patrocinadas I-MOD
-pela O
-união” O
+patrocinadas I-SUP
+pela I-MOD
+união O
+” O
+
+
+
+ O

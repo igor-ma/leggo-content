@@ -1,7 +1,8 @@
-n. O
-de O
+, O
+2019 O
 câmara O
 deputados O
+comissão O
 especial O
 destinada O
 a O
@@ -16,70 +17,121 @@ constituição O
 n. O
 6/ O
 2019 O
-modifica B-MOD
-o O
-sistema O
-de O
+
+
+
+
+ O
+modifica I-MOD
+o I-MOD
+sistema I-MOD
+de I-MOD
 previdência I-MOD
-social, I-MOD
+social I-MOD
+, I-MOD
 estabelece I-MOD
 regras I-MOD
 de I-MOD
 transição I-MOD
 e I-MOD
 disposições I-MOD
-transitórias, I-MOD
+transitórias I-MOD
+, I-MOD
 e I-MOD
-dá O
-outras O
-providências. O
+dá I-MOD
+outras I-MOD
+providências O
+. O
+
+
+
+
+
+
+ O
 emenda O
 supressiva O
-(do O
+
+
+ O
+( O
+do O
 sr. O
-danilo O
-cabral O
+danilo I-MOD
+cabral I-MOD
 e O
-outros) O
+outros O
+) I-MOD
+
+
+
+
+ I-MOD
 suprime O
 alterações I-MOD
 promovidas I-MOD
-pela I-MOD
-pec I-MOD
-n. I-MOD
-6, I-MOD
-de I-MOD
-2019, I-MOD
-para I-MOD
-assegurar I-MOD
+pela I-SUP
+pec I-SUP
+n. I-SUP
+
+
+ I-SUP
+6 I-SUP
+, I-SUP
+de I-SUP
+2019 I-SUP
+, I-SUP
+para I-SUP
+assegurar I-SUP
 o I-SUP
 acesso I-SUP
-ao I-SUP
-poder I-SUP
-judiciário. I-SUP
-suprima-se I-SUP
+a I-SUP
 o I-SUP
-§ I-SUP
-5º I-MOD
+poder I-SUP
+judiciário I-MOD
+. I-MOD
+
+
+
+
+
+
+ I-MOD
+suprima I-MOD
+- I-MOD
+se I-MOD
+o I-MOD
+§ I-MOD
+5º I-ADD
 do I-ADD
-art. I-ADD
-195, I-ADD
-da I-MOD
-constituição I-MOD
-federal, I-ADD
+art I-ADD
+. I-ADD
+195 I-ADD
+, I-ADD
+da I-ADD
+constituição I-ADD
+federal I-ADD
+, I-ADD
 com I-ADD
 redação I-ADD
-dada I-ADD
+dada I-MOD
 pelo I-MOD
-art. I-MOD
-1º I-MOD
+art I-MOD
+. I-MOD
+1º I-ADD
 da I-SUP
 proposta I-ADD
 de I-SUP
-emenda I-ADD
-à I-ADD
-constituição I-ADD
-n. O
-6, O
-de O
-2019. O
+emenda I-SUP
+à I-SUP
+constituição I-SUP
+n. I-SUP
+6 I-SUP
+, I-SUP
+de I-SUP
+2019 I-MOD
+. O
+
+
+
+ O

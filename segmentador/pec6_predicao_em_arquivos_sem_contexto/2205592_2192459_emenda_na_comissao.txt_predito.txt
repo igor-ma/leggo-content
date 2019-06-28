@@ -1,0 +1,208 @@
+da I-ADD
+. O
+proposta I-ADD
+emenda I-ADD
+constituição I-ADD
+nº I-ADD
+6 I-ADD
+/2019 O
+
+
+ O
+( O
+do O
+sr. O
+deputado O
+felipe O
+rigoni O
+, O
+da O
+sra. O
+deputada O
+tábata I-MOD
+amaral I-MOD
+e O
+outros O
+) I-MOD
+
+
+
+
+ I-MOD
+altera I-MOD
+o I-MOD
+art I-MOD
+. I-MOD
+24 I-MOD
+da I-SUP
+proposta I-SUP
+de I-SUP
+emenda I-SUP
+à I-SUP
+constituição I-SUP
+no I-SUP
+6 I-SUP
+, I-SUP
+de I-SUP
+2019 I-SUP
+, I-ADD
+modificando I-ADD
+o I-ADD
+tempo I-ADD
+mínimo I-ADD
+de I-ADD
+contribuição I-ADD
+e I-ADD
+dá I-ADD
+outras I-ADD
+
+
+ I-ADD
+providências I-MOD
+. E-MOD
+
+
+
+
+ O
+emenda O
+modificativa O
+n. O
+
+
+ O
+art O
+. O
+1º I-MOD
+dê I-MOD
+- I-MOD
+se I-MOD
+a I-MOD
+o I-MOD
+art I-MOD
+. I-MOD
+24 I-SUP
+da I-SUP
+proposta I-SUP
+de I-SUP
+emenda I-SUP
+à I-SUP
+constituição I-SUP
+no I-SUP
+6 I-SUP
+, I-SUP
+de I-SUP
+2019 I-SUP
+, I-SUP
+a I-MOD
+seguinte I-MOD
+redação I-MOD
+: I-MOD
+
+
+ I-MOD
+“ I-MOD
+art I-MOD
+. I-MOD
+24 I-MOD
+............................................................................................... I-MOD
+
+
+ I-MOD
+.............................................................................................................. I-MOD
+
+
+ I-MOD
+ii I-SUP
+– I-ADD
+quinze I-ADD
+anos I-ADD
+de I-ADD
+contribuição I-ADD
+. I-ADD
+
+
+ I-ADD
+.............................................................................................................. I-ADD
+
+
+ I-ADD
+§ I-MOD
+4º I-ADD
+o I-ADD
+tempo I-ADD
+de I-ADD
+contribuição I-ADD
+de I-ADD
+que I-ADD
+trata I-ADD
+este I-ADD
+artigo I-SUP
+poderá I-SUP
+ser I-SUP
+ajustado I-SUP
+por I-SUP
+lei I-SUP
+ordinária I-SUP
+desde I-ADD
+que I-ADD
+sejam I-ADD
+verificados I-ADD
+incrementos I-ADD
+no I-ADD
+tempo I-ADD
+médio I-ADD
+de I-ADD
+contribuição I-ADD
+dos I-ADD
+cinquenta I-ADD
+por I-ADD
+cento I-ADD
+de I-ADD
+segurados I-ADD
+com I-ADD
+menores I-MOD
+salário I-ADD
+- I-ADD
+de I-ADD
+- I-ADD
+contribuição I-ADD
+, I-ADD
+e I-ADD
+n I-ADD
+esta I-ADD
+proporção I-MOD
+. I-MOD
+” I-MOD
+
+
+
+
+ I-MOD
+art I-MOD
+. I-MOD
+2º I-MOD
+suprima I-MOD
+- I-MOD
+se I-MOD
+o I-MOD
+§ I-MOD
+2º I-ADD
+do I-ADD
+art I-SUP
+. I-SUP
+22 I-SUP
+da I-SUP
+proposta I-SUP
+de I-SUP
+emenda I-SUP
+à I-SUP
+constituição I-SUP
+no I-SUP
+6 I-SUP
+, I-SUP
+de I-SUP
+2019 I-SUP
+. E-SUP
+
+ O

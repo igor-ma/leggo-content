@@ -1,0 +1,709 @@
+da O
+. O
+comissão O
+destinada O
+analisar O
+a O
+proposta O
+de O
+
+
+ O
+emenda O
+á O
+constituição O
+nº O
+6 O
+de O
+2019 O
+
+
+
+
+ O
+proposta O
+de O
+emenda O
+à O
+constituição O
+nº O
+6 O
+de O
+2019 O
+
+
+
+
+
+
+ O
+emenda I-SUP
+nº O
+
+
+ O
+( O
+do O
+senhor I-MOD
+dep I-MOD
+. I-MOD
+josimar I-MOD
+maranhãozinho I-MOD
+) I-MOD
+
+
+
+
+
+
+ I-MOD
+art I-MOD
+. I-MOD
+1º. I-MOD
+suprima I-MOD
+- I-MOD
+se I-MOD
+, I-MOD
+da I-MOD
+pec O
+nº I-ADD
+6 I-SUP
+de I-ADD
+2019 I-SUP
+, I-SUP
+o I-SUP
+§ I-MOD
+5º I-MOD
+do I-MOD
+art I-MOD
+. I-MOD
+3º I-MOD
+, I-MOD
+o I-MOD
+inciso I-MOD
+i I-MOD
+do I-MOD
+§ I-MOD
+4º I-SUP
+do I-SUP
+art I-SUP
+. I-SUP
+12 I-SUP
+, I-SUP
+o I-SUP
+§ I-SUP
+3º I-SUP
+do I-SUP
+art I-SUP
+. I-SUP
+18 I-SUP
+, I-SUP
+o I-SUP
+§ I-SUP
+2º I-SUP
+do I-ADD
+art I-ADD
+. I-ADD
+19 I-ADD
+e I-ADD
+o I-ADD
+§ I-ADD
+1º I-MOD
+do I-MOD
+art I-MOD
+. I-MOD
+24 I-MOD
+
+
+ I-MOD
+art I-MOD
+. I-MOD
+2º. I-MOD
+modifique I-MOD
+- I-MOD
+se I-MOD
+o I-MOD
+inciso I-MOD
+i I-MOD
+do I-MOD
+§ I-MOD
+7º I-MOD
+do I-MOD
+art I-MOD
+. I-MOD
+3º I-MOD
+, I-MOD
+o I-MOD
+§ I-MOD
+3º I-SUP
+do I-SUP
+art I-SUP
+. I-SUP
+12 I-SUP
+, I-SUP
+o I-SUP
+caput I-SUP
+do I-MOD
+art I-MOD
+. I-MOD
+
+
+ I-ADD
+24 I-ADD
+, I-ADD
+a I-MOD
+letra I-MOD
+“ I-MOD
+a I-ADD
+” I-ADD
+do I-ADD
+inciso I-MOD
+ii I-MOD
+do I-MOD
+art I-MOD
+. I-ADD
+46 I-MOD
+e I-MOD
+a I-MOD
+letra I-MOD
+“ I-MOD
+a I-ADD
+” I-ADD
+do I-ADD
+inciso I-MOD
+iii I-MOD
+do I-MOD
+art I-MOD
+. I-MOD
+46 I-MOD
+, I-MOD
+na I-MOD
+forma I-MOD
+que I-MOD
+segue I-MOD
+: I-MOD
+
+
+ I-MOD
+art I-MOD
+. I-MOD
+3º I-MOD
+.............................................................................................. I-MOD
+
+
+
+
+ I-MOD
+.............................................................................................................. I-MOD
+
+
+ I-MOD
+.............................................................................................................. I-MOD
+
+
+ I-MOD
+§ I-MOD
+7º I-MOD
+.............................................................................................. I-MOD
+
+
+ I-MOD
+i I-MOD
+- I-MOD
+à I-ADD
+totalidade I-ADD
+da I-ADD
+remuneração I-SUP
+do I-ADD
+servidor I-SUP
+público I-SUP
+no I-SUP
+cargo I-SUP
+efetivo I-SUP
+em I-SUP
+que I-ADD
+se I-ADD
+der I-ADD
+a I-ADD
+aposentadoria I-ADD
+, I-ADD
+observado I-ADD
+o I-ADD
+disposto I-ADD
+no I-MOD
+§ I-MOD
+10 I-MOD
+, I-SUP
+para I-SUP
+o I-ADD
+servidor I-MOD
+público I-SUP
+que I-SUP
+tenha I-SUP
+ingressado I-SUP
+no I-SUP
+serviço I-SUP
+público I-SUP
+em I-SUP
+cargo I-SUP
+efetivo I-SUP
+até I-MOD
+31 I-MOD
+de I-MOD
+dezembro I-MOD
+de I-MOD
+2003 I-MOD
+e I-MOD
+que I-MOD
+se I-MOD
+aposente I-MOD
+a I-MOD
+os I-MOD
+sessenta I-MOD
+e I-MOD
+dois I-MOD
+anos I-MOD
+de I-MOD
+idade I-MOD
+, I-MOD
+se I-MOD
+mulher I-MOD
+, I-MOD
+e I-MOD
+a I-MOD
+os I-MOD
+sessenta I-MOD
+e I-MOD
+cinco I-MOD
+anos I-MOD
+de I-MOD
+idade I-MOD
+, I-MOD
+se I-MOD
+homem I-MOD
+, I-MOD
+ou I-MOD
+a I-MOD
+os I-MOD
+cinquenta I-MOD
+anos I-MOD
+de I-MOD
+idade I-MOD
+, I-MOD
+se I-MOD
+mulher I-MOD
+, I-MOD
+e I-MOD
+a I-MOD
+os I-MOD
+cinquenta I-MOD
+e I-MOD
+cinco I-MOD
+anos I-MOD
+de I-MOD
+idade I-MOD
+, I-MOD
+se I-MOD
+homem I-MOD
+, I-ADD
+se I-ADD
+titular I-ADD
+do I-MOD
+cargo I-ADD
+de I-ADD
+professor I-MOD
+que I-MOD
+comprovar I-MOD
+exclusivamente I-ADD
+tempo I-ADD
+de I-ADD
+efetivo I-ADD
+exercício I-ADD
+das I-ADD
+funções I-ADD
+de I-ADD
+magistério I-ADD
+na I-ADD
+educação I-ADD
+infantil I-SUP
+e I-SUP
+no I-SUP
+ensino I-MOD
+fundamental I-MOD
+e I-MOD
+médio I-MOD
+; I-MOD
+
+
+ I-MOD
+........................................................................................................... I-MOD
+
+
+ I-MOD
+........................................................................................................... I-MOD
+
+
+
+
+ I-MOD
+art I-MOD
+. I-MOD
+7º I-MOD
+............................................................................................ I-MOD
+
+
+
+
+ I-MOD
+.............................................................................................................. I-MOD
+
+
+ I-MOD
+.. I-MOD
+
+
+ I-MOD
+.............................................................................................................. I-MOD
+
+
+ I-MOD
+.. I-ADD
+
+
+
+
+ I-ADD
+§ I-ADD
+3º I-ADD
+com I-MOD
+exceção I-ADD
+do I-ADD
+titular I-MOD
+do I-ADD
+cargo I-MOD
+de I-MOD
+professor I-MOD
+que I-MOD
+comprovar I-MOD
+exclusivamente I-ADD
+tempo I-ADD
+de I-ADD
+efetivo I-ADD
+exercício I-ADD
+das I-ADD
+funções I-ADD
+de I-ADD
+magistério I-ADD
+na I-ADD
+educação I-ADD
+infantil I-SUP
+e I-SUP
+no I-SUP
+ensino I-MOD
+fundamental I-MOD
+e I-SUP
+médio I-SUP
+, I-SUP
+os I-SUP
+servidores I-SUP
+públicos I-SUP
+abrangidos I-SUP
+por I-SUP
+regime I-MOD
+próprio I-MOD
+de I-MOD
+previdência I-MOD
+social I-MOD
+serão I-MOD
+aposentados I-MOD
+: I-MOD
+
+
+ I-MOD
+.............................................................................................................. I-MOD
+
+
+ I-MOD
+.. I-MOD
+
+
+ I-MOD
+.............................................................................................................. I-MOD
+
+
+ I-MOD
+.. I-MOD
+
+
+
+
+ I-MOD
+art I-MOD
+. I-MOD
+24 I-MOD
+. I-MOD
+até I-MOD
+que I-MOD
+entre I-MOD
+em I-ADD
+vigor I-ADD
+a I-ADD
+nova I-ADD
+lei I-ADD
+complementar I-ADD
+a I-ADD
+que I-ADD
+se I-ADD
+refere I-ADD
+o I-MOD
+§ I-MOD
+1º I-SUP
+do I-SUP
+art I-SUP
+. I-SUP
+201 I-SUP
+da I-SUP
+constituição I-SUP
+, I-SUP
+o I-SUP
+segurado I-ADD
+filiado I-ADD
+a I-ADD
+o I-ADD
+regime I-ADD
+geral I-ADD
+de I-ADD
+previdência I-ADD
+social I-ADD
+após I-MOD
+a I-MOD
+data I-MOD
+de I-MOD
+promulgação I-SUP
+d I-SUP
+esta I-SUP
+emenda I-SUP
+à I-SUP
+constituição I-SUP
+, I-ADD
+com I-ADD
+exceção I-ADD
+do I-ADD
+titular I-ADD
+do I-ADD
+cargo I-MOD
+de I-MOD
+professor I-MOD
+que I-MOD
+comprovar I-MOD
+exclusivamente I-ADD
+tempo I-ADD
+de I-ADD
+efetivo I-ADD
+exercício I-ADD
+das I-ADD
+funções I-ADD
+de I-ADD
+magistério I-ADD
+na I-ADD
+educação I-ADD
+infantil I-SUP
+e I-SUP
+no I-SUP
+ensino I-MOD
+fundamental I-MOD
+e I-MOD
+médio I-MOD
+, I-MOD
+será I-MOD
+aposentado I-MOD
+quando I-MOD
+preencher I-MOD
+, I-MOD
+cumulativamente I-MOD
+, I-MOD
+os I-ADD
+seguintes I-ADD
+requisitos I-MOD
+: I-MOD
+
+
+ I-MOD
+.............................................................................................................. I-MOD
+
+
+ I-MOD
+.. I-MOD
+
+
+ I-MOD
+.............................................................................................................. I-MOD
+
+
+ I-MOD
+.. I-MOD
+
+
+
+
+ I-MOD
+art I-MOD
+. I-MOD
+46 I-MOD
+.............................................................................................. I-MOD
+
+
+ I-MOD
+ii I-MOD
+- I-MOD
+.............................................................................................. I-MOD
+
+
+ I-MOD
+a I-MOD
+) I-MOD
+o I-MOD
+art I-MOD
+. I-MOD
+9º I-MOD
+, I-MOD
+com I-MOD
+exceção I-MOD
+das I-MOD
+disposições I-MOD
+aplicáveis I-MOD
+a I-MOD
+o I-MOD
+titular I-MOD
+
+
+ I-MOD
+do I-MOD
+
+
+ I-MOD
+cargo I-MOD
+
+
+ I-MOD
+de I-MOD
+
+
+ I-MOD
+professor I-MOD
+
+
+ I-MOD
+que I-MOD
+
+
+ I-MOD
+comprovar I-MOD
+
+
+ I-MOD
+exclusivamente I-ADD
+tempo I-ADD
+de I-ADD
+efetivo I-ADD
+exercício I-ADD
+das I-ADD
+funções I-ADD
+de I-ADD
+magistério I-ADD
+na I-ADD
+educação I-ADD
+infantil I-SUP
+e I-SUP
+no I-SUP
+ensino I-MOD
+fundamental I-MOD
+e I-MOD
+médio I-MOD
+; I-MOD
+
+
+ I-MOD
+................................................................................................................... I-MOD
+
+
+ I-MOD
+................................................................................................................... I-MOD
+
+
+
+
+ I-MOD
+iii I-MOD
+- I-MOD
+........................................................................ I-MOD
+
+
+ I-MOD
+a I-MOD
+) I-MOD
+o I-MOD
+art I-MOD
+. I-MOD
+2º I-MOD
+, I-MOD
+com I-MOD
+exceção I-MOD
+das I-MOD
+disposições I-MOD
+aplicáveis I-MOD
+a I-MOD
+o I-MOD
+titular I-MOD
+
+
+ I-MOD
+do I-MOD
+
+
+ I-MOD
+cargo I-MOD
+
+
+ I-MOD
+de I-MOD
+
+
+ I-MOD
+professor I-MOD
+
+
+ I-MOD
+que I-MOD
+
+
+ I-MOD
+comprovar I-MOD
+
+
+ I-MOD
+exclusivamente I-ADD
+tempo I-ADD
+de I-ADD
+efetivo I-ADD
+exercício I-ADD
+das I-ADD
+funções I-ADD
+de I-ADD
+magistério I-ADD
+na I-ADD
+educação I-ADD
+infantil I-SUP
+e I-SUP
+no I-SUP
+ensino I-MOD
+fundamental I-MOD
+e I-MOD
+médio I-MOD
+; E-MOD
+
+
+
+
+
+ O

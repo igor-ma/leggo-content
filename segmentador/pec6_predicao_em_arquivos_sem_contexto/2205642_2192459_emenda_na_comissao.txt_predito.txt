@@ -1,0 +1,170 @@
+esta O
+. O
+comissão O
+destinada O
+proferir O
+parecer O
+à O
+proposta O
+de O
+emenda O
+à O
+constituição O
+nº O
+06 O
+, O
+de O
+2019 O
+
+
+
+
+
+
+ O
+altera B-ADD
+o I-ADD
+§ I-MOD
+1º I-MOD
+do I-MOD
+art I-MOD
+. I-MOD
+4º I-MOD
+da I-SUP
+proposta I-SUP
+de I-SUP
+
+
+ O
+emenda O
+à O
+constituição O
+nº O
+06 O
+, I-ADD
+de O
+2019 O
+. O
+
+
+
+
+
+
+ O
+emenda O
+substitutiva O
+nº O
+
+
+
+
+ O
+dê O
+- O
+se I-MOD
+a I-MOD
+o I-MOD
+§ I-MOD
+1º I-MOD
+do I-MOD
+art I-MOD
+. I-MOD
+4º I-SUP
+da I-SUP
+proposta I-SUP
+de I-SUP
+emenda O
+à O
+constituição O
+nº O
+06 O
+, I-ADD
+de I-ADD
+2019 I-ADD
+, I-MOD
+com I-MOD
+a I-MOD
+seguinte I-MOD
+redação I-MOD
+: I-MOD
+
+
+ I-MOD
+art I-MOD
+. I-MOD
+4º I-MOD
+........................................................................................... I-MOD
+
+
+ I-MOD
+§ I-MOD
+1º I-MOD
+os I-MOD
+policiais I-MOD
+da I-SUP
+ativa I-SUP
+dos I-SUP
+órgãos I-SUP
+previstos I-SUP
+nos I-SUP
+incisos I-SUP
+i I-SUP
+, I-SUP
+ii I-SUP
+, I-SUP
+iii I-MOD
+e I-MOD
+iv I-MOD
+do I-MOD
+art I-MOD
+. I-MOD
+144 I-MOD
+da I-MOD
+constituição I-MOD
+, I-MOD
+na I-MOD
+data I-SUP
+da I-SUP
+publicação I-MOD
+d I-SUP
+esta I-MOD
+lei I-ADD
+, I-ADD
+deverão I-ADD
+cumprir I-ADD
+acrescidos I-ADD
+de I-ADD
+dezessete I-ADD
+por I-ADD
+cento I-ADD
+do I-ADD
+tempo I-ADD
+de I-ADD
+contribuição I-ADD
+que I-ADD
+restar I-ADD
+para I-ADD
+sua I-ADD
+aposentadoria I-ADD
+, I-ADD
+observado I-ADD
+o I-ADD
+previsto I-ADD
+na I-ADD
+lei I-ADD
+complementar I-ADD
+nº I-ADD
+51 I-ADD
+, I-ADD
+de I-ADD
+1985 I-ADD
+. E-ADD
+
+
+ O
+........................................................................................................................... O
+
+
+
+ O

@@ -1,0 +1,700 @@
+) O
+3 O
+câmara O
+deputados O
+comissão O
+especial O
+destinada O
+a O
+proferir O
+parecer O
+à O
+
+
+ O
+proposta O
+de O
+emenda O
+à O
+constituição O
+nº O
+6 O
+, O
+de O
+2019 O
+
+
+ O
+proposta O
+de O
+emenda O
+à O
+constituição O
+nº O
+6 O
+, O
+de O
+2019 I-ADD
+
+
+ I-ADD
+modifica B-MOD
+o I-MOD
+sistema I-MOD
+de I-MOD
+previdência I-MOD
+
+
+ I-MOD
+social I-MOD
+, I-MOD
+estabelece I-MOD
+regras I-MOD
+de I-MOD
+transição I-MOD
+e I-MOD
+
+
+ I-MOD
+disposições I-MOD
+
+
+ I-MOD
+transitórias I-MOD
+, I-MOD
+
+
+ I-MOD
+e I-MOD
+
+
+ I-MOD
+dá I-MOD
+
+
+ I-MOD
+outras I-MOD
+
+
+ I-MOD
+providências I-MOD
+. E-MOD
+
+
+ O
+emenda O
+nº O
+
+
+ O
+( O
+do O
+sr. O
+eduardo O
+costa O
+) O
+
+
+ O
+alterem I-ADD
+- I-ADD
+se I-MOD
+o I-ADD
+§ I-ADD
+1º I-ADD
+e I-ADD
+seu I-ADD
+inciso I-ADD
+iii I-SUP
+do I-SUP
+art I-SUP
+. I-SUP
+8º I-SUP
+; I-SUP
+o I-SUP
+§ I-SUP
+3º I-SUP
+do I-SUP
+art I-SUP
+. I-SUP
+8º I-SUP
+; I-SUP
+o I-SUP
+
+
+ I-SUP
+§ I-ADD
+9º I-ADD
+e I-ADD
+seu I-ADD
+inciso I-ADD
+iii I-SUP
+do I-SUP
+art I-SUP
+. I-SUP
+12 I-SUP
+; I-SUP
+e I-SUP
+o I-SUP
+§ I-SUP
+1º I-MOD
+e I-MOD
+caput I-MOD
+do I-MOD
+art I-MOD
+. I-MOD
+28 I-MOD
+, I-MOD
+todos I-SUP
+da I-SUP
+proposta I-SUP
+de I-ADD
+emenda I-SUP
+à I-ADD
+constituição I-ADD
+nº I-SUP
+6 I-ADD
+, I-ADD
+de I-ADD
+2019 I-SUP
+, I-SUP
+conforme I-MOD
+segue I-MOD
+: I-MOD
+
+
+
+
+ I-MOD
+“ I-MOD
+art I-MOD
+. I-MOD
+8º I-MOD
+......................................................................................... I-MOD
+
+
+ I-MOD
+§ I-MOD
+1º I-MOD
+o I-ADD
+valor I-ADD
+da I-ADD
+pensão I-MOD
+por O
+morte I-ADD
+de O
+que I-MOD
+trata I-MOD
+o I-MOD
+caput I-MOD
+será I-MOD
+equivalente I-MOD
+a I-MOD
+uma I-MOD
+cota I-MOD
+familiar I-MOD
+de I-MOD
+setenta I-MOD
+por I-MOD
+cento I-MOD
+e I-MOD
+a I-MOD
+cotas I-MOD
+de I-MOD
+dez I-MOD
+pontos I-MOD
+percentuais I-MOD
+por I-MOD
+dependente I-MOD
+, I-MOD
+até I-MOD
+o I-ADD
+limite I-ADD
+de I-ADD
+cem I-ADD
+por I-ADD
+cento I-ADD
+, I-ADD
+observados I-ADD
+os I-ADD
+seguintes I-ADD
+critérios I-ADD
+: I-ADD
+
+
+ I-MOD
+...................................................................................................... I-MOD
+
+
+ I-MOD
+iii I-MOD
+- I-MOD
+as I-MOD
+cotas I-ADD
+por I-ADD
+dependente I-ADD
+cessarão I-ADD
+com I-SUP
+a I-SUP
+perda I-MOD
+d I-MOD
+essa I-SUP
+qualidade I-SUP
+e I-MOD
+não I-MOD
+serão I-MOD
+reversíveis I-MOD
+a I-MOD
+os I-MOD
+demais I-MOD
+dependentes I-MOD
+, I-MOD
+preservado I-MOD
+o I-ADD
+valor I-ADD
+de I-ADD
+cem I-ADD
+por I-ADD
+cento I-ADD
+da I-ADD
+pensão I-ADD
+por I-ADD
+morte I-ADD
+, I-MOD
+quando I-MOD
+o I-MOD
+número I-MOD
+de I-MOD
+dependentes I-MOD
+remanescentes I-MOD
+for I-MOD
+igual I-MOD
+ou I-MOD
+superior I-MOD
+a I-MOD
+três I-MOD
+; I-MOD
+e I-MOD
+
+
+ I-MOD
+...................................................................................................... I-MOD
+
+
+ I-MOD
+§ I-MOD
+3º I-MOD
+o I-MOD
+disposto I-MOD
+n I-MOD
+este I-MOD
+artigo I-MOD
+não I-MOD
+se I-ADD
+aplica I-ADD
+a I-ADD
+o I-MOD
+servidor I-ADD
+que I-ADD
+tenha I-SUP
+ingressado I-SUP
+após I-ADD
+a I-ADD
+instituição I-ADD
+do I-ADD
+regime I-ADD
+de I-ADD
+previdência I-ADD
+complementar I-SUP
+ou I-SUP
+que I-SUP
+tenha I-SUP
+exercido I-SUP
+a I-SUP
+opção I-SUP
+correspondente I-SUP
+, I-SUP
+nos I-ADD
+termos I-ADD
+do I-SUP
+disposto I-SUP
+nos I-SUP
+§ I-SUP
+14 I-SUP
+, I-SUP
+§ I-SUP
+15 I-SUP
+e I-SUP
+§ I-SUP
+16 I-SUP
+do I-SUP
+art I-SUP
+. I-SUP
+40 I-SUP
+da I-ADD
+constituição I-ADD
+, I-ADD
+hipótese I-ADD
+em I-ADD
+que I-MOD
+a I-MOD
+pensão I-SUP
+observará I-SUP
+o I-SUP
+disposto I-SUP
+no I-MOD
+§ I-SUP
+9º I-SUP
+do I-SUP
+art I-SUP
+. I-SUP
+12 I-MOD
+. I-MOD
+” I-MOD
+
+
+ I-SUP
+“ I-SUP
+art I-MOD
+. I-SUP
+12 I-SUP
+......................................................................................... I-SUP
+
+
+
+
+ I-SUP
+2 I-SUP
+
+
+ I-SUP
+câmara O
+dos O
+deputados O
+
+
+
+
+
+
+ O
+..................................................................................................... O
+
+
+ I-MOD
+§ I-SUP
+9º I-SUP
+na I-SUP
+concessão I-SUP
+do I-SUP
+benefício I-SUP
+de I-SUP
+pensão O
+por I-MOD
+morte I-ADD
+, I-SUP
+respeitado I-SUP
+o I-SUP
+limite I-SUP
+máximo I-SUP
+dos I-ADD
+benefícios I-ADD
+do I-ADD
+regime I-ADD
+geral I-ADD
+de I-ADD
+previdência I-ADD
+social I-ADD
+, I-MOD
+o I-MOD
+valor I-MOD
+equivalerá I-MOD
+a I-MOD
+uma I-MOD
+cota I-MOD
+familiar I-MOD
+de I-MOD
+setenta I-MOD
+por I-MOD
+cento I-MOD
+, I-ADD
+acrescida I-MOD
+de I-MOD
+cotas I-MOD
+de I-MOD
+dez I-MOD
+pontos I-MOD
+percentuais I-MOD
+por I-MOD
+dependente I-MOD
+, I-MOD
+até I-MOD
+o I-ADD
+limite I-ADD
+de I-ADD
+cem I-ADD
+por I-ADD
+cento I-ADD
+, I-ADD
+observados I-ADD
+os I-ADD
+seguintes I-ADD
+critérios I-ADD
+: I-ADD
+
+
+ I-MOD
+..................................................................................................... I-MOD
+
+
+ I-MOD
+iii I-MOD
+- I-MOD
+as I-MOD
+cotas I-ADD
+por I-ADD
+dependente I-ADD
+cessarão I-ADD
+com I-SUP
+a I-SUP
+perda I-MOD
+d I-MOD
+essa I-SUP
+qualidade I-SUP
+e I-MOD
+não I-MOD
+serão I-MOD
+reversíveis I-MOD
+a I-MOD
+os I-MOD
+demais I-MOD
+dependentes I-MOD
+, I-MOD
+preservado I-MOD
+o I-ADD
+valor I-ADD
+de I-ADD
+cem I-ADD
+por I-ADD
+cento I-ADD
+da I-ADD
+pensão I-ADD
+por I-ADD
+morte I-ADD
+, I-MOD
+quando I-MOD
+o I-MOD
+número I-MOD
+de I-MOD
+dependentes I-MOD
+remanescente I-MOD
+for I-MOD
+igual I-MOD
+ou I-MOD
+superior I-MOD
+a I-MOD
+três I-MOD
+; I-MOD
+
+
+ I-MOD
+.................................................................................................... I-MOD
+” I-MOD
+
+
+ I-MOD
+“ I-MOD
+art I-MOD
+. I-MOD
+28 I-MOD
+. I-MOD
+até I-MOD
+que I-MOD
+entre I-MOD
+em I-ADD
+vigor I-ADD
+a I-ADD
+nova I-ADD
+lei I-ADD
+complementar I-ADD
+a I-ADD
+que I-ADD
+se I-ADD
+refere I-ADD
+o I-MOD
+§ I-MOD
+1º I-SUP
+do I-SUP
+art I-SUP
+. I-SUP
+201 I-SUP
+da I-SUP
+constituição I-SUP
+, I-SUP
+o I-SUP
+valor I-ADD
+da I-MOD
+pensão I-MOD
+por I-MOD
+morte I-MOD
+será I-MOD
+equivalente I-MOD
+a I-MOD
+uma I-MOD
+cota I-MOD
+familiar I-MOD
+de I-MOD
+setenta I-MOD
+por I-MOD
+cento I-ADD
+do I-ADD
+valor I-ADD
+da I-ADD
+aposentadoria I-ADD
+que I-ADD
+o I-ADD
+segurado I-ADD
+recebia I-ADD
+ou I-MOD
+d I-MOD
+aquela I-MOD
+a I-MOD
+que I-MOD
+teria I-MOD
+direito I-MOD
+se I-ADD
+fosse I-ADD
+aposentado I-ADD
+por I-ADD
+incapacidade I-ADD
+permanente I-ADD
+na I-ADD
+data I-ADD
+do I-MOD
+óbito I-MOD
+, I-MOD
+acrescida I-MOD
+de I-MOD
+cotas I-MOD
+de I-MOD
+dez I-MOD
+pontos I-MOD
+percentuais I-MOD
+por I-MOD
+dependente I-SUP
+, I-SUP
+até I-SUP
+o I-SUP
+máximo I-SUP
+de I-SUP
+cem I-SUP
+por I-SUP
+cento I-SUP
+, I-ADD
+exceto I-ADD
+em I-ADD
+caso I-ADD
+de I-MOD
+morte I-MOD
+decorrente I-MOD
+de I-MOD
+acidente I-MOD
+do I-MOD
+trabalho I-MOD
+, I-MOD
+doença I-MOD
+profissional I-MOD
+ou O
+do I-MOD
+trabalho I-MOD
+, I-MOD
+hipótese I-MOD
+em I-MOD
+que I-MOD
+as I-MOD
+cotas I-MOD
+para I-SUP
+cálculo I-MOD
+do I-MOD
+valor I-SUP
+da I-SUP
+pensão I-SUP
+serão I-SUP
+aplicadas I-SUP
+sobre I-SUP
+cem I-SUP
+por I-SUP
+cento I-SUP
+da I-SUP
+média I-ADD
+aritmética I-ADD
+a I-MOD
+que I-MOD
+se I-MOD
+refere I-MOD
+o I-MOD
+art I-SUP
+. I-MOD
+29 I-SUP
+. I-MOD
+
+
+ I-MOD
+§ I-SUP
+1º I-SUP
+as I-ADD
+cotas I-ADD
+por I-ADD
+dependente I-ADD
+cessarão I-ADD
+com I-SUP
+a I-SUP
+perda I-MOD
+d I-MOD
+essa I-SUP
+qualidade I-SUP
+e I-MOD
+não I-MOD
+serão I-MOD
+reversíveis I-MOD
+a I-MOD
+os I-MOD
+demais I-MOD
+dependentes I-MOD
+, I-MOD
+preservado I-MOD
+o I-ADD
+valor I-ADD
+de I-ADD
+cem I-ADD
+por I-ADD
+cento I-ADD
+da I-ADD
+pensão I-ADD
+por I-ADD
+morte I-ADD
+, I-MOD
+quando I-MOD
+o I-MOD
+número I-MOD
+de I-MOD
+dependentes I-MOD
+remanescente I-MOD
+for I-MOD
+igual I-MOD
+ou I-MOD
+superior I-MOD
+a I-MOD
+três I-MOD
+. I-MOD
+
+
+ I-MOD
+.................................................................................................... I-MOD
+” E-MOD
+
+
+
+
+
+ O

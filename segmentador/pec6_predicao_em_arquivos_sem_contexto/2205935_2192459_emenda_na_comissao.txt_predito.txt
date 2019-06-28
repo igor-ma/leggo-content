@@ -1,0 +1,120 @@
+salarial I-ADD
+. E-ADD
+comissão O
+da O
+de O
+emenda O
+à O
+
+
+ O
+constituição O
+nº O
+6 O
+, O
+de O
+2019 O
+
+
+ O
+proposta O
+de O
+emenda O
+à O
+constituição O
+nº O
+6 O
+, O
+de O
+2019 I-MOD
+
+
+ I-MOD
+altera I-MOD
+a I-MOD
+redação I-MOD
+da I-MOD
+proposta I-ADD
+de I-SUP
+
+
+ O
+emenda I-ADD
+à O
+constituição O
+nº O
+6/2019 O
+para O
+
+
+ O
+suprimir O
+as I-MOD
+alterações I-MOD
+feitas I-MOD
+a O
+o I-MOD
+abono I-MOD
+
+
+ O
+salarial O
+. O
+
+
+ O
+emenda O
+nº O
+
+
+ O
+suprimam O
+- O
+se I-MOD
+as I-MOD
+alterações I-MOD
+feitas I-MOD
+pelo I-MOD
+art I-MOD
+. I-MOD
+1º I-ADD
+da I-ADD
+proposta I-ADD
+de I-SUP
+emenda I-SUP
+à I-SUP
+constituição I-SUP
+na I-SUP
+redação I-SUP
+do I-SUP
+§ I-SUP
+3º I-SUP
+do I-MOD
+art I-SUP
+. I-ADD
+239 I-MOD
+da I-ADD
+constituição I-ADD
+, I-ADD
+bem I-ADD
+como I-ADD
+a I-ADD
+inclusão I-ADD
+dos I-ADD
+§ I-ADD
+§ I-ADD
+3º-a I-MOD
+e I-MOD
+3º-b I-MOD
+no I-MOD
+mesmo I-MOD
+artigo I-MOD
+do I-SUP
+corpo I-MOD
+permanente I-MOD
+do I-SUP
+texto I-SUP
+constitucional I-SUP
+. E-MOD
+
+ O

@@ -1,0 +1,1365 @@
+os O
+. O
+câmara O
+deputados O
+gabinete O
+do I-MOD
+deputado I-MOD
+eduardo I-MOD
+da I-MOD
+fonte O
+
+
+
+
+
+
+ O
+comissão O
+especial O
+destinada O
+a O
+proferir O
+parecer O
+à O
+proposta O
+de O
+emenda O
+à O
+constituição O
+nº O
+6 O
+, O
+de O
+2019 O
+, O
+do O
+poder O
+executivo O
+, O
+que O
+“ O
+modifica O
+o O
+sistema O
+de O
+previdência O
+social O
+, O
+estabelece O
+
+
+ O
+regras O
+de O
+transição O
+e O
+disposições O
+transitórias O
+, O
+e O
+dá O
+
+
+ I-MOD
+outras I-MOD
+providências I-MOD
+. I-MOD
+” E-MOD
+
+
+
+
+ O
+emenda O
+modificativa O
+
+
+ O
+acrescente O
+- O
+se O
+parágrafo I-MOD
+único I-MOD
+a I-MOD
+o I-MOD
+art I-MOD
+. I-MOD
+45 I-SUP
+da I-SUP
+proposta I-SUP
+de I-SUP
+emenda I-SUP
+à I-ADD
+constituição I-ADD
+nº I-SUP
+6 I-SUP
+, I-ADD
+de I-SUP
+2019 I-SUP
+( I-SUP
+disposições I-SUP
+finais I-SUP
+) I-SUP
+, I-MOD
+para I-MOD
+elencar I-MOD
+as I-MOD
+categorias I-MOD
+de I-SUP
+trabalhadores I-MOD
+que I-MOD
+não I-MOD
+serão I-SUP
+atingidas O
+pela I-MOD
+reforma O
+da O
+previdência I-MOD
+, I-MOD
+tendo I-MOD
+em I-MOD
+vista I-MOD
+suas I-MOD
+condições I-MOD
+de I-ADD
+trabalho I-ADD
+e I-ADD
+a I-ADD
+aposentadoria I-ADD
+a I-ADD
+ser I-ADD
+recebida I-SUP
+que I-SUP
+em I-SUP
+maioria I-SUP
+não I-SUP
+ultrapassa I-SUP
+três I-SUP
+salários I-MOD
+mínimos I-MOD
+, I-MOD
+que I-MOD
+passa I-MOD
+a I-MOD
+ter I-MOD
+a I-MOD
+seguinte I-MOD
+redação I-MOD
+: I-MOD
+
+
+ I-MOD
+“ I-MOD
+disposições I-MOD
+finais I-MOD
+
+
+ I-MOD
+art I-MOD
+. I-MOD
+45 I-MOD
+...................................................................................... I-MOD
+
+
+ I-MOD
+................................................................................................. I-MOD
+
+
+ I-MOD
+parágrafo I-MOD
+único I-MOD
+. I-MOD
+o I-MOD
+disposto I-MOD
+n I-MOD
+este I-MOD
+artigo I-MOD
+não I-MOD
+se I-MOD
+
+
+ I-MOD
+aplica I-MOD
+a I-MOD
+os I-MOD
+trabalhadores I-MOD
+rurais I-MOD
+e I-MOD
+urbanos I-SUP
+que I-SUP
+
+
+ I-SUP
+desempenhem I-SUP
+atividade I-SUP
+pesada I-SUP
+, I-MOD
+contínua I-MOD
+, I-MOD
+insalubre I-MOD
+
+
+ I-MOD
+e I-MOD
+/ I-MOD
+ou I-MOD
+de I-MOD
+alta I-MOD
+periculosidade I-MOD
+, I-MOD
+que I-MOD
+continuam I-MOD
+se I-MOD
+
+
+ I-MOD
+aposentando I-MOD
+pela I-MOD
+regra I-ADD
+anterior I-ADD
+, I-ADD
+tais I-ADD
+como I-ADD
+: I-ADD
+os I-ADD
+
+
+ I-ADD
+trabalhadores I-ADD
+rurais I-MOD
+e I-MOD
+os I-MOD
+trabalhadores I-MOD
+do I-MOD
+corte I-MOD
+de I-MOD
+
+
+ I-MOD
+cana I-MOD
+- I-MOD
+de I-MOD
+- I-MOD
+açúcar I-MOD
+; I-MOD
+os I-MOD
+varredores I-MOD
+de I-MOD
+rua I-MOD
+( I-MOD
+garis I-MOD
+) I-MOD
+; I-MOD
+os I-MOD
+
+
+ I-MOD
+coletores I-MOD
+
+
+ I-MOD
+de I-MOD
+
+
+ I-MOD
+lixo I-MOD
+
+
+ I-MOD
+( I-MOD
+lixeiros I-MOD
+) I-MOD
+; I-MOD
+
+
+ I-MOD
+os I-MOD
+
+
+ I-MOD
+empregados I-MOD
+
+
+ I-MOD
+domésticos I-MOD
+; I-MOD
+os I-MOD
+trabalhadores I-MOD
+de I-MOD
+serviços I-MOD
+gerais I-MOD
+que I-MOD
+
+
+ I-MOD
+desempenhem I-MOD
+atividade I-MOD
+de I-MOD
+limpeza I-MOD
+e I-MOD
+os I-MOD
+faxineiros I-MOD
+; I-MOD
+
+
+ I-MOD
+os I-MOD
+enfermeiros I-MOD
+, I-MOD
+os I-MOD
+auxiliares I-MOD
+de I-MOD
+enfermagem I-SUP
+, I-SUP
+os I-SUP
+
+
+ I-SUP
+agentes I-SUP
+comunitários I-SUP
+de I-SUP
+saúde I-SUP
+e I-SUP
+os I-SUP
+agentes I-SUP
+de I-MOD
+
+
+ I-SUP
+combate I-SUP
+
+
+ I-SUP
+a I-MOD
+
+
+ I-MOD
+endemias I-MOD
+; I-MOD
+
+
+ I-MOD
+os I-MOD
+
+
+ I-MOD
+vigilantes I-MOD
+
+
+ I-MOD
+e I-MOD
+
+
+ I-MOD
+os I-MOD
+
+
+ I-MOD
+trabalhadores I-MOD
+de I-MOD
+segurança I-MOD
+privada I-MOD
+; I-MOD
+os I-MOD
+auxiliares I-MOD
+de I-MOD
+
+
+ I-MOD
+cozinha I-MOD
+e I-MOD
+os I-MOD
+garçons I-MOD
+; I-MOD
+os I-MOD
+pedreiros I-MOD
+e I-MOD
+os I-MOD
+serventes I-MOD
+
+
+ I-MOD
+de I-MOD
+obra I-MOD
+; I-MOD
+os I-MOD
+caminhoneiros I-MOD
+; I-MOD
+os I-MOD
+motoristas I-MOD
+de I-MOD
+táxi I-MOD
+; I-MOD
+a I-MOD
+
+
+ I-MOD
+mulher I-MOD
+policial I-MOD
+federal I-MOD
+que I-MOD
+até I-MOD
+a I-MOD
+data I-MOD
+da I-SUP
+
+
+ I-SUP
+promulgação I-SUP
+d I-SUP
+esta I-SUP
+emenda I-SUP
+comprove I-SUP
+o I-SUP
+exercício I-SUP
+
+
+ I-ADD
+de I-ADD
+, I-ADD
+no I-ADD
+mínimo I-ADD
+, I-ADD
+cinco I-ADD
+anos I-ADD
+, I-ADD
+de I-MOD
+tempo I-MOD
+de I-SUP
+efetivo I-MOD
+
+
+ I-MOD
+exercício I-MOD
+na I-ADD
+função I-MOD
+; I-ADD
+a I-ADD
+mulher I-MOD
+policial I-MOD
+rodoviária I-MOD
+
+
+ I-MOD
+federal I-MOD
+que I-MOD
+até I-MOD
+a I-MOD
+data I-SUP
+da I-SUP
+promulgação I-SUP
+d I-SUP
+esta I-SUP
+emenda I-SUP
+
+
+ I-SUP
+comprove I-SUP
+o I-SUP
+exercício I-ADD
+de I-ADD
+, I-ADD
+no I-ADD
+mínimo I-ADD
+, I-ADD
+cinco I-ADD
+anos I-ADD
+, I-ADD
+de I-MOD
+
+
+ I-MOD
+tempo I-SUP
+de I-MOD
+efetivo I-MOD
+exercício I-MOD
+na I-ADD
+função I-ADD
+; I-MOD
+a I-ADD
+mulher I-MOD
+
+
+ I-MOD
+policial I-MOD
+ferroviária I-MOD
+federal I-MOD
+e I-MOD
+a I-MOD
+mulher I-MOD
+profissional I-MOD
+da I-ADD
+
+
+ I-ADD
+segurança I-ADD
+pública I-ADD
+ferroviária I-ADD
+que I-ADD
+até I-ADD
+a I-ADD
+data I-MOD
+da I-SUP
+
+
+ I-SUP
+promulgação I-SUP
+d I-SUP
+esta I-SUP
+emenda I-SUP
+comprove I-SUP
+o O
+exercício O
+
+
+
+
+
+
+ O
+câmara O
+dos O
+deputados O
+
+
+ O
+gabinete O
+do I-MOD
+deputado I-MOD
+eduardo I-MOD
+da I-MOD
+fonte I-MOD
+
+
+
+
+
+
+ I-ADD
+de I-ADD
+, I-ADD
+no I-ADD
+mínimo I-ADD
+, I-ADD
+cinco I-ADD
+anos I-ADD
+, I-ADD
+de I-MOD
+tempo I-MOD
+de I-SUP
+efetivo I-MOD
+
+
+ I-MOD
+exercício I-MOD
+na I-ADD
+função I-MOD
+; I-MOD
+a I-MOD
+mulher I-MOD
+policial I-MOD
+civil I-MOD
+que I-MOD
+até I-MOD
+a I-MOD
+
+
+ I-MOD
+data I-SUP
+da I-SUP
+promulgação I-SUP
+d I-SUP
+esta I-SUP
+emenda I-SUP
+comprove I-SUP
+o I-SUP
+
+
+ I-SUP
+exercício I-ADD
+de I-ADD
+, I-ADD
+no I-ADD
+mínimo I-ADD
+, I-ADD
+cinco I-ADD
+anos I-ADD
+, I-ADD
+de I-MOD
+tempo I-MOD
+de I-SUP
+
+
+ I-MOD
+efetivo I-MOD
+exercício I-MOD
+na I-ADD
+função I-MOD
+; I-MOD
+a I-MOD
+mulher I-MOD
+policial I-MOD
+militar I-MOD
+
+
+ I-MOD
+que I-MOD
+até I-MOD
+a I-SUP
+data I-SUP
+da I-SUP
+promulgação I-SUP
+d I-SUP
+esta I-SUP
+emenda I-SUP
+
+
+ I-SUP
+comprove I-SUP
+o I-SUP
+exercício I-ADD
+de I-ADD
+, I-ADD
+no I-ADD
+mínimo I-ADD
+, I-ADD
+cinco I-ADD
+anos I-ADD
+, I-ADD
+de I-MOD
+
+
+ I-MOD
+tempo I-SUP
+de I-MOD
+efetivo I-MOD
+exercício I-MOD
+na I-ADD
+função I-ADD
+; I-ADD
+a I-ADD
+mulher I-MOD
+
+
+ I-MOD
+bombeira I-MOD
+militar I-MOD
+que I-MOD
+até I-MOD
+a I-MOD
+data I-SUP
+da I-SUP
+promulgação I-SUP
+
+
+ I-SUP
+d I-SUP
+esta I-SUP
+emenda I-SUP
+comprove I-SUP
+o I-SUP
+exercício I-ADD
+de I-ADD
+, I-ADD
+no I-ADD
+mínimo I-ADD
+, I-ADD
+
+
+ I-ADD
+cinco I-ADD
+anos I-ADD
+, I-MOD
+de I-MOD
+tempo I-SUP
+de I-SUP
+efetivo I-MOD
+exercício I-MOD
+na I-MOD
+função I-MOD
+; I-MOD
+
+
+ I-MOD
+a I-MOD
+mulher I-MOD
+integrante I-MOD
+da I-MOD
+guarda I-MOD
+municipal I-MOD
+que I-MOD
+até I-MOD
+a I-MOD
+
+
+ I-SUP
+data I-SUP
+da I-SUP
+promulgação I-SUP
+d I-SUP
+esta I-SUP
+emenda I-SUP
+comprove I-SUP
+o I-SUP
+
+
+ I-SUP
+exercício I-ADD
+de I-ADD
+, I-ADD
+no I-ADD
+mínimo I-ADD
+, I-ADD
+cinco I-ADD
+anos I-ADD
+, I-ADD
+de I-MOD
+tempo I-MOD
+de I-SUP
+
+
+ I-MOD
+efetivo I-MOD
+exercício I-MOD
+na I-ADD
+função I-ADD
+; I-ADD
+o I-ADD
+ocupante I-ADD
+do I-ADD
+cargo I-ADD
+de I-MOD
+
+
+ I-MOD
+agente I-MOD
+penitenciário I-MOD
+ou I-MOD
+socioeducativo I-MOD
+que I-MOD
+até I-MOD
+a I-MOD
+
+
+ I-SUP
+data I-SUP
+da I-SUP
+promulgação I-SUP
+d I-SUP
+esta I-SUP
+emenda I-SUP
+comprove I-SUP
+o I-SUP
+
+
+ I-SUP
+exercício I-ADD
+de I-ADD
+, I-ADD
+no I-ADD
+mínimo I-ADD
+, I-ADD
+cinco I-ADD
+anos I-ADD
+, I-ADD
+de I-MOD
+tempo I-MOD
+de I-SUP
+
+
+ I-MOD
+efetivo I-MOD
+exercício I-MOD
+na I-SUP
+função I-MOD
+; I-SUP
+o I-MOD
+policial I-MOD
+federal I-MOD
+que I-MOD
+até I-MOD
+
+
+ I-MOD
+a I-MOD
+data I-SUP
+da I-SUP
+promulgação I-SUP
+d I-SUP
+esta I-SUP
+emenda I-SUP
+comprove I-SUP
+o I-SUP
+
+
+ I-SUP
+exercício I-ADD
+de I-ADD
+, I-ADD
+no I-ADD
+mínimo I-ADD
+, I-ADD
+cinco I-ADD
+anos I-ADD
+, I-ADD
+de I-MOD
+tempo I-MOD
+de I-SUP
+
+
+ I-MOD
+efetivo I-MOD
+exercício I-MOD
+na I-SUP
+função I-SUP
+; I-SUP
+o I-MOD
+policial I-MOD
+rodoviário I-MOD
+
+
+ I-MOD
+federal I-MOD
+que I-MOD
+até I-MOD
+a I-MOD
+data I-SUP
+da I-SUP
+promulgação I-SUP
+d I-SUP
+esta I-SUP
+emenda I-SUP
+
+
+ I-SUP
+comprove I-SUP
+o I-SUP
+exercício I-ADD
+de I-ADD
+, I-ADD
+no I-ADD
+mínimo I-ADD
+, I-ADD
+cinco I-ADD
+anos I-ADD
+, I-ADD
+de I-MOD
+
+
+ I-MOD
+tempo I-SUP
+de I-MOD
+efetivo I-MOD
+exercício I-MOD
+na I-MOD
+função I-SUP
+; I-SUP
+o I-MOD
+policial I-MOD
+
+
+ I-MOD
+ferroviário I-MOD
+federal I-MOD
+e I-MOD
+o I-MOD
+profissional I-MOD
+da I-MOD
+segurança I-ADD
+
+
+ I-ADD
+pública I-ADD
+ferroviária I-ADD
+que I-ADD
+até I-ADD
+a I-ADD
+data I-MOD
+da I-SUP
+promulgação I-SUP
+
+
+ I-SUP
+d I-SUP
+esta I-SUP
+emenda I-SUP
+comprove I-SUP
+o I-SUP
+exercício I-ADD
+de I-ADD
+, I-ADD
+no I-ADD
+mínimo I-ADD
+, I-ADD
+
+
+ I-ADD
+cinco I-ADD
+anos I-ADD
+, I-MOD
+de I-MOD
+tempo I-SUP
+de I-SUP
+efetivo I-MOD
+exercício I-MOD
+na I-MOD
+função I-SUP
+; I-MOD
+
+
+ I-MOD
+o I-MOD
+policial I-MOD
+civil I-MOD
+que I-MOD
+até I-MOD
+a I-MOD
+data I-MOD
+da I-SUP
+promulgação I-SUP
+d I-SUP
+esta I-SUP
+
+
+ I-SUP
+emenda I-SUP
+comprove I-SUP
+o I-SUP
+exercício I-ADD
+de I-ADD
+, I-ADD
+no I-ADD
+mínimo I-ADD
+, I-ADD
+cinco I-ADD
+
+
+ I-ADD
+anos I-ADD
+, I-MOD
+de I-MOD
+tempo I-SUP
+de I-SUP
+efetivo I-MOD
+exercício I-MOD
+na I-MOD
+função I-SUP
+; I-SUP
+o I-SUP
+
+
+ I-SUP
+policial I-MOD
+militar I-MOD
+que I-MOD
+até I-MOD
+a I-SUP
+data I-SUP
+da I-SUP
+promulgação I-SUP
+d I-SUP
+esta I-SUP
+
+
+ I-SUP
+emenda I-SUP
+comprove I-SUP
+o I-SUP
+exercício I-ADD
+de I-ADD
+, I-ADD
+no I-ADD
+mínimo I-ADD
+, I-ADD
+cinco I-ADD
+
+
+ I-ADD
+anos I-ADD
+, I-MOD
+de I-MOD
+tempo I-SUP
+de I-SUP
+efetivo I-MOD
+exercício I-MOD
+na I-MOD
+função I-SUP
+; I-SUP
+o I-MOD
+
+
+ I-SUP
+bombeiro I-MOD
+militar I-MOD
+que I-MOD
+até I-MOD
+a I-MOD
+data I-SUP
+da I-SUP
+promulgação I-SUP
+
+
+ I-SUP
+d I-SUP
+esta I-SUP
+emenda I-SUP
+comprove I-SUP
+o I-SUP
+exercício I-ADD
+de I-ADD
+, I-ADD
+no I-ADD
+mínimo I-ADD
+, I-ADD
+
+
+ I-ADD
+cinco I-ADD
+anos I-ADD
+, I-MOD
+de I-MOD
+tempo I-SUP
+de I-SUP
+efetivo I-MOD
+exercício I-MOD
+na I-MOD
+função I-MOD
+; I-MOD
+
+
+ I-MOD
+o I-MOD
+integrante I-MOD
+da I-MOD
+guarda I-MOD
+municipal I-MOD
+que I-MOD
+até I-MOD
+a I-MOD
+data I-SUP
+da I-SUP
+
+
+ I-SUP
+promulgação I-SUP
+d I-SUP
+esta I-SUP
+emenda I-SUP
+comprove I-SUP
+o I-SUP
+exercício I-SUP
+
+
+ I-ADD
+de I-ADD
+, I-ADD
+no I-ADD
+mínimo I-ADD
+, I-ADD
+cinco I-ADD
+anos I-ADD
+, I-ADD
+de I-MOD
+tempo I-MOD
+de I-SUP
+efetivo I-MOD
+
+
+ I-MOD
+exercício I-MOD
+na I-ADD
+função I-ADD
+; I-ADD
+o I-ADD
+ocupante I-ADD
+do I-ADD
+cargo I-MOD
+de I-MOD
+agente I-MOD
+penitenciário I-MOD
+ou I-MOD
+socioeducativo I-MOD
+que I-MOD
+até I-MOD
+a I-MOD
+data I-SUP
+da I-SUP
+
+
+ I-SUP
+promulgação I-SUP
+d I-SUP
+esta I-SUP
+emenda I-SUP
+comprove I-SUP
+o I-SUP
+exercício I-SUP
+
+
+ I-ADD
+de I-ADD
+, I-ADD
+no I-ADD
+mínimo I-ADD
+, I-ADD
+cinco I-ADD
+anos I-ADD
+, I-ADD
+de I-MOD
+tempo I-SUP
+de I-SUP
+efetivo O
+
+
+
+
+
+
+ O
+câmara O
+dos O
+deputados O
+
+
+ O
+gabinete O
+do I-MOD
+deputado I-MOD
+eduardo I-MOD
+da I-MOD
+fonte I-MOD
+
+
+
+
+
+
+ I-MOD
+exercício I-ADD
+na I-ADD
+função I-ADD
+; I-ADD
+o I-ADD
+titular I-MOD
+de I-MOD
+cargo I-MOD
+ou I-MOD
+emprego I-MOD
+
+
+ I-MOD
+de I-MOD
+professor I-ADD
+que I-ADD
+comprovar I-SUP
+no I-SUP
+mínimo I-SUP
+cinco I-SUP
+anos I-ADD
+, I-ADD
+
+
+ I-ADD
+até I-MOD
+
+
+ I-MOD
+a I-MOD
+
+
+ I-MOD
+data I-MOD
+
+
+ I-MOD
+da I-MOD
+
+
+ I-MOD
+promulgação I-MOD
+
+
+ I-SUP
+d I-SUP
+esta I-MOD
+
+
+ I-MOD
+emenda I-MOD
+
+
+ I-MOD
+constitucional I-MOD
+, I-MOD
+de I-MOD
+tempo I-MOD
+de I-MOD
+efetivo I-ADD
+exercício I-ADD
+das I-ADD
+
+
+ I-ADD
+funções I-ADD
+de I-ADD
+magistério I-ADD
+na I-ADD
+educação I-ADD
+infantil I-SUP
+e I-SUP
+no I-SUP
+
+
+ I-MOD
+ensino I-MOD
+
+
+ I-MOD
+fundamental I-MOD
+, I-MOD
+
+
+ I-MOD
+médio I-MOD
+
+
+ I-MOD
+ou I-MOD
+
+
+ I-MOD
+superior I-MOD
+; I-MOD
+
+
+ I-MOD
+os I-MOD
+
+
+ I-MOD
+vendedores I-MOD
+ambulantes I-MOD
+e I-MOD
+todos I-MOD
+os I-MOD
+contribuintes I-MOD
+
+
+ I-SUP
+individuais I-SUP
+que I-MOD
+contribuem I-MOD
+no I-MOD
+plano I-MOD
+simplificado I-MOD
+de I-MOD
+
+
+ I-MOD
+previdência I-MOD
+
+
+ I-MOD
+social I-MOD
+
+
+ I-MOD
+para I-MOD
+
+
+ I-MOD
+o I-MOD
+
+
+ I-MOD
+recebimento I-ADD
+
+
+ I-ADD
+de I-ADD
+
+
+ I-ADD
+aposentadoria I-ADD
+de I-ADD
+até I-ADD
+2 I-ADD
+( I-ADD
+dois I-SUP
+) I-SUP
+salários I-SUP
+mínimos I-MOD
+, I-MOD
+
+
+ I-MOD
+todos I-MOD
+os I-MOD
+trabalhadores I-MOD
+que I-MOD
+contribuem I-MOD
+para I-MOD
+a I-MOD
+
+
+ I-MOD
+previdência I-MOD
+
+
+ I-MOD
+social I-MOD
+
+
+ I-MOD
+para I-MOD
+
+
+ I-MOD
+o I-MOD
+
+
+ I-MOD
+recebimento I-ADD
+
+
+ I-ADD
+de I-ADD
+
+
+ I-ADD
+aposentadoria I-ADD
+de I-ADD
+até I-ADD
+2 I-ADD
+( I-ADD
+dois I-SUP
+) I-SUP
+salários I-SUP
+mínimos I-MOD
+e I-MOD
+
+
+ I-MOD
+todos I-SUP
+os I-SUP
+que I-SUP
+contribuem I-SUP
+na I-SUP
+categoria I-MOD
+facultativo I-MOD
+de I-MOD
+
+
+ I-MOD
+baixa I-MOD
+renda I-MOD
+. I-MOD
+” I-MOD
+( I-MOD
+ac I-MOD
+) I-SUP
+
+
+
+ I-MOD

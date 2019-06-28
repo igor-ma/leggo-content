@@ -1,0 +1,145 @@
+( O
+) O
+comissão O
+ao O
+da O
+proposta O
+de O
+emenda O
+à O
+
+
+ O
+constituição O
+n O
+° O
+6 I-SUP
+, O
+de O
+2019 O
+
+
+
+
+ O
+proposta O
+de O
+emenda O
+à O
+constituição O
+nº O
+6 O
+, O
+de O
+2019 I-ADD
+
+
+ I-ADD
+modifica B-MOD
+o I-MOD
+sistema I-MOD
+de I-MOD
+previdência I-MOD
+social I-MOD
+, I-MOD
+
+
+ I-MOD
+estabelece I-MOD
+regras I-MOD
+de I-MOD
+transição I-MOD
+e I-MOD
+disposições I-MOD
+
+
+ I-MOD
+transitórias I-MOD
+, I-MOD
+e I-MOD
+dá I-MOD
+outras I-MOD
+previdências I-ADD
+. O
+
+
+
+
+ O
+emenda O
+supressiva O
+nº O
+de O
+2019 O
+
+
+ O
+( I-MOD
+da I-MOD
+sra. I-MOD
+marília I-MOD
+arraes I-MOD
+e I-MOD
+outros I-MOD
+) I-MOD
+
+
+ I-MOD
+suprima I-MOD
+- I-MOD
+se I-MOD
+à O
+redação I-MOD
+dada I-MOD
+pelo I-ADD
+art I-MOD
+. I-MOD
+1º I-ADD
+da I-ADD
+proposta I-ADD
+de I-ADD
+emenda I-ADD
+à I-ADD
+constituição I-ADD
+nº I-SUP
+
+
+ I-SUP
+6 I-ADD
+de I-ADD
+2019 I-ADD
+o I-SUP
+§ I-SUP
+6º I-ADD
+do I-ADD
+art I-ADD
+. I-ADD
+40 I-MOD
+, I-MOD
+o I-MOD
+art I-MOD
+. I-MOD
+201-a I-MOD
+e I-MOD
+o I-MOD
+art I-MOD
+. I-MOD
+115 I-MOD
+do I-MOD
+adct I-MOD
+. I-MOD
+dispositivos I-MOD
+relativos I-MOD
+a I-MOD
+o I-MOD
+regime I-MOD
+de I-MOD
+previdência I-MOD
+social I-MOD
+por I-MOD
+capitalização I-MOD
+. I-MOD
+
+
+
+ I-MOD

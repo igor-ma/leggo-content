@@ -1,0 +1,495 @@
+) O
+2 O
+comissão O
+destinada O
+proferir O
+parecer O
+à O
+
+
+ O
+proposta O
+de O
+emenda O
+à O
+constituição O
+nº O
+6 O
+, O
+de O
+2019 O
+
+
+ O
+proposta O
+de O
+emenda O
+à O
+constituição O
+nº O
+6 O
+, O
+de O
+2019 I-ADD
+
+
+ I-ADD
+modifica B-MOD
+o I-MOD
+sistema I-MOD
+de I-MOD
+previdência I-MOD
+
+
+ I-MOD
+social I-MOD
+, I-MOD
+estabelece I-MOD
+regras I-MOD
+de I-MOD
+transição I-MOD
+e I-MOD
+
+
+ I-MOD
+disposições I-MOD
+
+
+ I-MOD
+transitórias I-MOD
+, I-MOD
+
+
+ I-MOD
+e I-MOD
+
+
+ I-MOD
+dá I-MOD
+
+
+ I-MOD
+outras I-MOD
+
+
+ I-MOD
+providências I-MOD
+. E-MOD
+
+
+ O
+emenda O
+nº O
+
+
+ O
+dê O
+- O
+se O
+a I-MOD
+o I-MOD
+art I-MOD
+. I-MOD
+8º I-MOD
+, I-MOD
+a I-MOD
+o I-MOD
+§ I-MOD
+9º I-SUP
+do I-SUP
+art I-SUP
+. I-SUP
+12 I-MOD
+e I-MOD
+a I-SUP
+o I-SUP
+art I-MOD
+. I-MOD
+28 I-SUP
+da I-SUP
+proposta I-SUP
+de I-SUP
+emenda I-ADD
+à I-ADD
+constituição I-ADD
+n I-ADD
+° I-SUP
+6 I-ADD
+, I-SUP
+de I-ADD
+2019 I-SUP
+, I-SUP
+a I-MOD
+seguinte I-MOD
+redação I-MOD
+: I-MOD
+
+
+ I-MOD
+“ I-MOD
+art.8º I-MOD
+........................................................................................... I-MOD
+
+
+ I-MOD
+§ I-MOD
+1º I-ADD
+............................................................................................... I-ADD
+
+
+ I-ADD
+i I-ADD
+– I-MOD
+na I-MOD
+hipótese I-MOD
+de I-SUP
+óbito I-MOD
+do I-MOD
+aposentado I-MOD
+, I-MOD
+as I-SUP
+cotas I-SUP
+serão I-SUP
+calculadas I-SUP
+sobre I-SUP
+a I-SUP
+totalidade I-SUP
+dos I-SUP
+proventos I-SUP
+do I-SUP
+servidor I-SUP
+público I-SUP
+falecido I-SUP
+; I-SUP
+
+
+ I-SUP
+ii I-SUP
+– I-SUP
+na I-SUP
+hipótese I-ADD
+de I-SUP
+óbito I-SUP
+do I-SUP
+servidor I-SUP
+público I-SUP
+em I-SUP
+atividade I-SUP
+, I-SUP
+as I-SUP
+cotas I-SUP
+serão I-SUP
+calculadas I-SUP
+sobre I-SUP
+o I-SUP
+valor I-SUP
+dos I-SUP
+proventos I-SUP
+a I-SUP
+que I-SUP
+o I-SUP
+servidor I-SUP
+público I-SUP
+teria I-SUP
+direito I-SUP
+se I-SUP
+fosse I-ADD
+aposentado I-ADD
+por I-ADD
+incapacidade I-ADD
+permanente I-ADD
+na I-ADD
+data I-ADD
+do I-SUP
+óbito I-SUP
+, I-SUP
+exceto I-MOD
+na I-MOD
+hipótese I-MOD
+de I-MOD
+o I-MOD
+óbito I-MOD
+ter I-MOD
+decorrido I-MOD
+de I-MOD
+acidente I-MOD
+do I-MOD
+trabalho I-MOD
+, I-MOD
+doença I-MOD
+profissional I-MOD
+ou O
+do I-MOD
+trabalho I-MOD
+, I-MOD
+situação O
+em I-ADD
+que I-ADD
+corresponderão I-ADD
+à I-ADD
+totalidade I-ADD
+da I-SUP
+remuneração I-SUP
+do I-ADD
+servidor I-SUP
+público I-SUP
+no I-SUP
+cargo I-SUP
+efetivo I-SUP
+, I-SUP
+observado I-SUP
+o I-MOD
+disposto I-MOD
+no I-MOD
+§ I-MOD
+10 I-MOD
+do I-MOD
+art I-MOD
+. I-MOD
+3 I-MOD
+° I-MOD
+. I-MOD
+
+
+ I-MOD
+..................................................................................................... I-MOD
+
+
+ I-MOD
+§ I-MOD
+4º I-MOD
+a I-MOD
+cota I-MOD
+de I-MOD
+dez I-MOD
+pontos I-MOD
+percentuais I-MOD
+por I-MOD
+dependente I-MOD
+de I-MOD
+que I-MOD
+trata I-ADD
+o I-MOD
+caput I-MOD
+do I-MOD
+§ I-MOD
+1º I-MOD
+será I-MOD
+acrescida I-MOD
+, I-MOD
+para I-MOD
+o I-MOD
+cônjuge I-MOD
+, I-MOD
+o I-MOD
+companheiro I-MOD
+ou I-MOD
+a I-MOD
+companheira I-MOD
+, I-MOD
+de I-SUP
+um I-MOD
+ponto I-MOD
+percentual I-MOD
+para I-MOD
+cada I-MOD
+ano I-MOD
+que I-MOD
+supere I-MOD
+dois I-MOD
+anos I-MOD
+do I-MOD
+início I-MOD
+do I-MOD
+casamento I-MOD
+ou I-MOD
+da I-MOD
+
+
+ I-MOD
+união I-MOD
+estável I-MOD
+, I-MOD
+limitado I-MOD
+o I-MOD
+valor I-MOD
+total I-MOD
+da I-ADD
+pensão I-ADD
+a I-ADD
+cem I-ADD
+por I-ADD
+cento I-MOD
+. I-MOD
+” I-ADD
+
+
+ I-ADD
+“ I-MOD
+art I-MOD
+. I-MOD
+12 I-MOD
+.......................................................................................... I-MOD
+
+
+ I-MOD
+..................................................................................................... I-MOD
+
+
+ I-MOD
+§ I-SUP
+9º I-SUP
+.............................................................................................. I-SUP
+
+
+ I-SUP
+2 I-SUP
+
+
+
+
+ I-MOD
+..................................................................................................... I-MOD
+
+
+ I-MOD
+v I-MOD
+- I-MOD
+a I-MOD
+cota I-MOD
+de I-MOD
+dez I-MOD
+pontos I-MOD
+percentuais I-MOD
+por I-MOD
+dependente I-MOD
+de I-MOD
+que I-MOD
+trata I-MOD
+o I-MOD
+caput I-MOD
+será I-MOD
+acrescida I-MOD
+, I-MOD
+para I-MOD
+o I-MOD
+cônjuge I-MOD
+, I-MOD
+o I-MOD
+companheiro I-MOD
+ou I-MOD
+a I-MOD
+companheira I-MOD
+, I-MOD
+de I-SUP
+um I-MOD
+ponto I-MOD
+percentual I-MOD
+para I-MOD
+cada I-MOD
+ano I-MOD
+que I-MOD
+supere I-MOD
+dois I-MOD
+anos I-MOD
+do I-MOD
+início I-MOD
+do I-MOD
+casamento I-MOD
+ou I-MOD
+da I-MOD
+união I-MOD
+estável I-MOD
+, I-MOD
+limitado I-MOD
+o I-MOD
+valor I-MOD
+total I-MOD
+da I-ADD
+pensão I-ADD
+a I-ADD
+cem I-ADD
+por I-ADD
+cento I-MOD
+” I-MOD
+. I-MOD
+
+
+ I-MOD
+................................................................................................... I-MOD
+” I-MOD
+
+
+ I-MOD
+“ I-MOD
+art.28 I-MOD
+........................................................................................... I-MOD
+
+
+ I-MOD
+..................................................................................................... I-MOD
+
+
+ I-MOD
+§ I-MOD
+5º I-MOD
+a I-MOD
+cota I-MOD
+de I-MOD
+dez I-MOD
+pontos I-MOD
+percentuais I-MOD
+por I-MOD
+dependente I-MOD
+de I-MOD
+que I-MOD
+trata I-MOD
+o I-MOD
+caput I-MOD
+será I-MOD
+acrescida I-MOD
+, I-MOD
+para I-MOD
+o I-MOD
+cônjuge I-MOD
+, I-MOD
+o I-MOD
+companheiro I-MOD
+ou I-MOD
+a I-MOD
+companheira I-MOD
+, I-MOD
+de I-SUP
+um I-MOD
+ponto I-MOD
+percentual I-MOD
+para I-MOD
+cada I-MOD
+ano I-MOD
+que I-MOD
+supere I-MOD
+dois I-MOD
+anos I-MOD
+do I-MOD
+início I-MOD
+do I-MOD
+casamento I-MOD
+ou I-MOD
+da I-MOD
+união I-MOD
+estável I-MOD
+, I-MOD
+limitado I-MOD
+o I-MOD
+valor I-MOD
+total I-MOD
+da I-ADD
+pensão I-ADD
+a I-ADD
+cem I-ADD
+por I-ADD
+cento I-MOD
+” I-MOD
+. E-ADD
+
+ O

@@ -1,0 +1,148 @@
+de O
+. O
+proposta O
+emenda O
+constituição O
+nº O
+6 O
+, O
+de I-SUP
+2019 I-SUP
+
+
+ I-SUP
+( O
+do O
+poder O
+executivo O
+) O
+
+
+
+
+
+
+ O
+modifica B-MOD
+o I-MOD
+sistema I-MOD
+de I-MOD
+previdência I-MOD
+social I-MOD
+, I-MOD
+estabelece I-MOD
+regras I-MOD
+de I-MOD
+transição I-MOD
+e I-MOD
+disposições I-MOD
+transitórias I-MOD
+, I-MOD
+e I-MOD
+dá I-MOD
+outras I-MOD
+providências I-MOD
+. E-MOD
+
+
+
+
+
+
+ O
+emenda O
+supressiva O
+nº O
+_ O
+_ O
+_ O
+_ I-MOD
+_ I-MOD
+_ I-MOD
+
+
+
+
+ I-MOD
+suprimam O
+- O
+se O
+do O
+texto O
+da O
+proposta O
+de O
+emenda I-ADD
+à I-ADD
+constituição I-ADD
+nº I-SUP
+6 I-ADD
+, I-ADD
+de I-ADD
+2019 I-SUP
+, I-SUP
+os I-MOD
+seguintes I-MOD
+dispositivos I-MOD
+ou I-MOD
+expressões I-MOD
+: I-MOD
+
+
+ I-MOD
+ I-MOD
+incisos I-MOD
+v I-MOD
+e I-SUP
+vi I-SUP
+e I-SUP
+§ I-MOD
+§ I-SUP
+1º I-SUP
+e I-ADD
+2º I-ADD
+do I-ADD
+artigo I-MOD
+203 I-MOD
+da I-MOD
+constituição I-MOD
+federal I-MOD
+, I-MOD
+constantes I-MOD
+do I-MOD
+art I-MOD
+. I-MOD
+1º I-SUP
+da I-SUP
+pec I-SUP
+nº I-SUP
+6 I-SUP
+, I-SUP
+de I-SUP
+2019 I-ADD
+. I-ADD
+
+
+ I-MOD
+ I-MOD
+arts I-MOD
+. I-MOD
+40 I-MOD
+, I-MOD
+41 I-MOD
+e I-MOD
+42 I-MOD
+da I-SUP
+pec I-SUP
+nº I-SUP
+6 I-SUP
+, I-SUP
+de I-SUP
+2019 I-SUP
+. E-SUP
+
+
+
+
+
+ O

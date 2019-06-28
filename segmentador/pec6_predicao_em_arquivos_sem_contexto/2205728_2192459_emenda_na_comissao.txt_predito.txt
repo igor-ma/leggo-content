@@ -1,0 +1,208 @@
+
+
+ O
+. O
+câmara O
+deputados O
+liderança O
+do I-MOD
+partido I-MOD
+socialismo I-MOD
+e I-MOD
+liberdade I-MOD
+
+
+ O
+assessoria O
+técnica O
+
+
+
+
+
+
+ O
+emenda O
+à O
+proposta O
+de O
+emenda O
+à O
+constituição O
+nº O
+6 O
+de O
+2019 I-SUP
+. I-SUP
+
+
+
+
+
+
+ I-SUP
+modifica B-MOD
+na I-MOD
+pec I-MOD
+6/2019 I-MOD
+dispositivos I-MOD
+relacionados I-MOD
+a I-MOD
+capacidade I-MOD
+arrecadatória I-MOD
+do I-SUP
+estado I-SUP
+. O
+
+
+
+
+
+
+ O
+emenda O
+n.º O
+_ O
+_ O
+_ O
+_ O
+_ I-MOD
+_ I-MOD
+_ I-MOD
+_ I-MOD
+_ I-MOD
+_ I-MOD
+_ I-MOD
+_ I-MOD
+
+
+
+
+
+
+ I-MOD
+acrescente I-MOD
+- I-ADD
+se I-ADD
+, I-ADD
+onde I-ADD
+couber I-ADD
+, I-ADD
+na I-ADD
+proposta I-ADD
+de I-ADD
+emenda I-SUP
+à I-SUP
+constituição I-ADD
+nº I-SUP
+6 I-SUP
+de I-ADD
+2019 I-ADD
+, I-ADD
+os I-SUP
+seguintes I-MOD
+artigos I-MOD
+: I-MOD
+
+
+
+
+ I-MOD
+" O
+art O
+. O
+x O
+dê O
+- O
+se I-MOD
+a I-MOD
+o I-MOD
+§ I-MOD
+6º I-MOD
+do I-MOD
+art I-ADD
+. I-MOD
+165 I-MOD
+a I-MOD
+seguinte I-MOD
+redação I-MOD
+: I-MOD
+
+
+
+
+ I-MOD
+‘ I-MOD
+art I-MOD
+. I-MOD
+165 I-MOD
+........................................................................... I-MOD
+
+
+ I-MOD
+........................................................................................ I-MOD
+
+
+
+
+ I-MOD
+§ I-MOD
+6º I-MOD
+o I-MOD
+projeto I-MOD
+de I-MOD
+lei I-MOD
+orçamentária I-MOD
+será I-MOD
+acompanhado I-MOD
+de I-MOD
+demonstrativo I-MOD
+regionalizado I-MOD
+do I-SUP
+efeito I-SUP
+, I-SUP
+sobre I-SUP
+as I-SUP
+receitas I-SUP
+e I-SUP
+despesas I-SUP
+, I-SUP
+e I-SUP
+seus I-SUP
+impactos I-SUP
+sociais I-ADD
+, I-ADD
+decorrente I-MOD
+de I-MOD
+isenções I-MOD
+, I-MOD
+anistias I-SUP
+, I-MOD
+remissões I-ADD
+, I-ADD
+subsídios I-SUP
+e I-SUP
+benefícios I-SUP
+de I-SUP
+natureza I-SUP
+financeira I-SUP
+, I-SUP
+tributária I-SUP
+e I-SUP
+creditícia I-SUP
+. I-MOD
+
+
+ I-MOD
+................................................................................ I-MOD
+' I-MOD
+( I-MOD
+nr I-MOD
+) I-MOD
+" I-MOD
+
+
+
+
+
+ I-MOD

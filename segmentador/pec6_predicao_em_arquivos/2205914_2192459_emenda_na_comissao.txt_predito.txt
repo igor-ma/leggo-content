@@ -1,7 +1,10 @@
-zé O
-- O
+solidariedade O
+mg O
 comissão O
-proposta O
+
+
+ O
+de O
 emenda O
 à O
 constituição O
@@ -9,44 +12,96 @@ nº O
 6 O
 de O
 2019 O
+
+
+
+
+ O
 emenda O
 modificativa O
 nº O
-_______, O
-de O
+_ O
+_ O
+_ O
+_ I-MOD
+_ I-MOD
+_ I-MOD
+_ I-MOD
+, I-MOD
+de I-MOD
 2019 O
-(do O
+
+
+ O
+( O
+do O
 sr. O
-domingos O
-neto O
+domingos I-MOD
+neto I-MOD
 e I-MOD
-outros) I-MOD
+outros I-MOD
+) I-MOD
+
+
+
+
+ I-MOD
 regulamenta I-MOD
+
+
+ I-MOD
 a I-MOD
-acumulação I-ADD
+
+
+ I-MOD
+acumulação I-MOD
+
+
+ I-MOD
 de I-ADD
+
+
+ I-ADD
 proventos I-ADD
 de I-ADD
 aposentadoria I-ADD
 do I-ADD
 regime I-ADD
+
+
+ I-ADD
 geral I-ADD
 de I-ADD
 previdência I-ADD
 social I-ADD
 e I-ADD
 a I-MOD
+
+
+ I-MOD
 remuneração I-MOD
-de I-MOD
-emprego I-ADD
-público. I-MOD
-art. I-MOD
+de I-SUP
+emprego I-SUP
+público I-MOD
+. I-SUP
+
+
+
+
+ I-MOD
+art I-MOD
+. I-MOD
 1º. I-MOD
-inclua-se I-MOD
+inclua I-MOD
+- I-MOD
+se I-MOD
 o I-MOD
-§2º I-MOD
-ao I-MOD
-art. I-MOD
+§ I-MOD
+2º I-MOD
+a I-MOD
+o O
+art O
+. I-MOD
 23 O
 da O
 proposta I-MOD
@@ -56,29 +111,49 @@ constitucional O
 nº O
 06 O
 de I-MOD
-2019, I-MOD
-renumerando-se I-ADD
+2019 I-MOD
+, O
+renumerando I-MOD
+- I-MOD
+se I-MOD
 o I-MOD
-atual I-SUP
-parágrafo I-SUP
+atual I-MOD
+parágrafo I-MOD
 único I-SUP
 para I-SUP
-§1º: I-MOD
-“art.23.......................... I-SUP
 § I-SUP
-1º I-MOD
-................................. I-MOD
-§2º I-MOD
-o I-MOD
-art. I-MOD
-37 I-MOD
+1º I-SUP
+: I-MOD
+
+
+ I-MOD
+“ I-MOD
+art.23 I-MOD
+.......................... I-MOD
+
+
+ I-MOD
 § I-MOD
+1º I-ADD
+................................. I-ADD
+
+
+ I-ADD
+§ I-ADD
+2º I-MOD
+o O
+art I-ADD
+. I-ADD
+37 I-ADD
+§ I-ADD
 10 I-MOD
-não I-MOD
+não I-ADD
 se I-MOD
 aplica I-MOD
-aos I-MOD
-que, I-MOD
+a I-MOD
+os I-MOD
+que I-MOD
+, I-MOD
 no I-ADD
 âmbito I-ADD
 do I-ADD
@@ -86,10 +161,11 @@ regime I-ADD
 geral I-ADD
 da I-ADD
 previdência I-ADD
-social, I-ADD
-já O
-estiverem O
-aposentados O
+social I-ADD
+, I-ADD
+já I-MOD
+estiverem I-MOD
+aposentados I-MOD
 ou I-SUP
 que I-SUP
 já I-SUP
@@ -104,7 +180,13 @@ na I-SUP
 data I-SUP
 da I-SUP
 promulgação I-SUP
-desta I-SUP
-emenda O
-constitucional. O
-” O
+d I-SUP
+esta I-SUP
+emenda I-SUP
+constitucional I-MOD
+. I-MOD
+” I-MOD
+
+
+
+ O
