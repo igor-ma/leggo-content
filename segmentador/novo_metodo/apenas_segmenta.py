@@ -151,7 +151,11 @@ def resultados_parciais(arquivo_modelo, X_teste, y_teste):
 	y_teste_np = np.array([mapa_labels[y_teste_i] for labels_documento in y_teste for y_teste_i in labels_documento]) #labels corretas
 
 	dic_results = classification_report(y_teste_np, y_pred_np, labels = np.arange(len(mapa_labels)), target_names = labels_possiveis, output_dict = True)
+
 	#print(dic_results)
+	#print(dic_results['O']['f1-score'])
+	#print(type(dic_results['O']['f1-score']))
+	#exit(0)
 
 	return dic_results
 	
@@ -256,19 +260,42 @@ def main():
 			modelo.set_params({
 				'c1': 0.1,
 				'c2': 0.01,
-				'max_iterations': 100#,#00,
+				'max_iterations': 1000#000#,#00,
 				#'all_possible_transitions': True
 				#'feature.possible_transitions': True
 			})
 
-			modelo.train('modelo.model')
+			modelo.train('modelo1000.model')
 
-			dic_results = resultados_parciais('modelo.model', X_teste, y_teste)
+			dic_results = resultados_parciais('modelo1000.model', X_teste, y_teste)
 
 			todos_resultados.append(dic_results)
 
+			'''
+			#salva o melhor modelo
+			f1_medio_atual = (dic_results['O']['f1-score'] + dic_results['I']['f1-score']) / 2.0
+			if f1_medio_atual > maior_f1:
+				maior_f1 = f1_medio_atual
+				melhor_modelo = modelo
+			'''
+			
 
-		resultados_validacao_cruzada(todos_resultados, 'resultados_janelas/com_janela_' + str(tamanho_janela) + '.txt')
+		#treino final, utilizando todos dados
+		modelo = pycrfsuite.Trainer(verbose = True)
+		for unidade_x, unidade_y in zip(X, y):
+			modelo.append(unidade_x, unidade_y)
+		modelo.train('modelo1000.model')
+		modelo.set_params({
+				'c1': 0.1,
+				'c2': 0.01,
+				'max_iterations': 1000#000#,#00,
+				#'all_possible_transitions': True
+				#'feature.possible_transitions': True
+			})
+		modelo.train('modelo1000.model')
+
+
+		resultados_validacao_cruzada(todos_resultados, 'resultados_janelas/com_janela_1000_' + str(tamanho_janela) + '.txt')
 	
 	
 

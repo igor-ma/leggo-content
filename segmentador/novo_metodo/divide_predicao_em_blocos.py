@@ -1,7 +1,7 @@
 import os
 
 
-def salva_em_blocos():
+def salva_em_blocos_2():
 	arquivos = os.listdir('pec6_predicao_em_arquivos/')
 
 	for arq in arquivos:
@@ -9,32 +9,39 @@ def salva_em_blocos():
 		os.mkdir('pec6_em_blocos_preditos/' + arq)
 		with open('pec6_predicao_em_arquivos/' + arq, 'r') as atual:
 			texto = atual.readlines()
-			print(len(texto))
-			
-			cont_bloco = 1
-			linha = 0
-			while linha < (len(texto) - 2):
-				doc_a = []
-				print(linha)
-				print(texto[linha])
-				print(texto[linha + 1].split()[1])
-				try:
-					while(linha < len(texto) - 2 and texto[linha + 1].split()[1] == 'O'):
-						doc_a.append(texto[linha])
-						linha += 1
-						print(linha)
-					doc_a.append(texto[linha])
-					linha += 1
-				except: #há linhas apenas com espaço em branco e tag, devem ser ignoradas
-					linha += 1
+
+
+		cont_bloco = 1
+		bloco_atual = []
+		i = 0
+		while i < len(texto):
+			print(i)
+			try:
+				tag = texto[i].split()[1]
+			except: #alguns raros casos possuem uma linha em branco contendo apenas a tag, devemos apenas ignorar estas linhas
+				i += 1
+				pass
+			if tag == 'O':
+				bloco_atual.append(texto[i])
+			else: #se for I
 				with open('pec6_em_blocos_preditos/' + arq + '/bloco_' + str(cont_bloco), 'w') as arq_bloco:
-					for token in doc_a:
-						arq_bloco.write(token + '\n')
-					#linha -= 1
+					for token in bloco_atual:
+						arq_bloco.write(token)
+				bloco_atual = []
+				bloco_atual.append(texto[i])					
 				cont_bloco += 1
+			i += 1
+		with open('pec6_em_blocos_preditos/' + arq + '/bloco_' + str(cont_bloco), 'w') as arq_bloco:
+				for token in bloco_atual:
+					arq_bloco.write(token)
+				
+
+
+
+
 
 def main():
-	salva_em_blocos()
+	salva_em_blocos_2()
 
 
 

@@ -13,8 +13,8 @@
 import os
 import pickle
 import pycrfsuite
-#import nltk
-import spacy
+import re
+from nltk import word_tokenize
 
 
 '''
@@ -109,21 +109,16 @@ def main():
 
 	pares_palavra_tag = []
 	contador_blocos_documento = []
-	nlp = spacy.load("pt_core_news_sm")
+	white_space_regex = re.compile('\s')
 	for arquivo in lista_arquivos:
 		#print(arquivo)
 		documento_atual = []
 		with open('../textos_pec6/' + arquivo, 'r') as arq:
 			texto = arq.read()
-			doc = nlp(texto)
-			#for token in doc:
-			#	print(token.text, token.pos_, token.dep_)
-			#texto = texto.split()
-			#doc = nlp(texto)
-			texto = [token.text for token in doc]
-			for palavra in texto:
-				if palavra.strip():
-					documento_atual.append((palavra, 'tag_auxiliar'))
+			token_lst = word_tokenize(texto)
+			for tok in token_lst:
+				if white_space_regex.match(tok) is None:
+					documento_atual.append((tok, 'tag_auxiliar'))
 		contador_blocos_documento.append(len(documento_atual))
 		pares_palavra_tag += documento_atual
 	documentos = separa_em_blocos(pares_palavra_tag, TAMANHO_JANELA)
@@ -143,7 +138,7 @@ def main():
 	
 	#classificando
 	tagger = pycrfsuite.Tagger()
-	tagger.open('modelo.model')
+	tagger.open('modelo1000.model')
 
 
 	#há milhares de blocos
