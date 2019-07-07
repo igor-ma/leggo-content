@@ -1,5 +1,5 @@
-os O
-; O
+... O
+... O
 câmara O
 deputados O
 de O
@@ -38,11 +38,8 @@ n.º O
 art O
 . O
 1 O
-dê O
-- O
-se O
-a O
-o O
+dê-se O
+ao O
 capítulo O
 vi O
 disposições O
@@ -94,8 +91,7 @@ constituição O
 o O
 segurado O
 filiado O
-a O
-o O
+ao O
 regime O
 geral O
 de O
@@ -106,8 +102,7 @@ a O
 data O
 de O
 promulgação O
-d O
-esta O
+desta O
 emenda O
 à O
 constituição O

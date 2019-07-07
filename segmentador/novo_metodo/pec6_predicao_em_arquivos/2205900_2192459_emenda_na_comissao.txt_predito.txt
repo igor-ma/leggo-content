@@ -12,8 +12,7 @@ de O
 altera O
 dispositivos O
 relativos O
-a O
-o O
+ao O
 sistema O
 previdenciário O
 de O
@@ -38,8 +37,7 @@ executivo O
 altera O
 dispositivos O
 relativos O
-a O
-o O
+ao O
 sistema O
 previdenciário O
 de O
@@ -51,9 +49,7 @@ n.º O
 art I
 . O
 1º O
-modifica O
-- O
-se O
+modifica-se O
 o O
 art O
 . O
@@ -69,7 +65,8 @@ seguir O
 “ O
 art O
 . O
-201-a. O
+201-a O
+. O
 lei O
 complementar O
 disporá O
@@ -110,8 +107,7 @@ seguintes O
 benefícios O
 , O
 além O
-d O
-aqueles O
+daqueles O
 passíveis O
 de O
 serem O
@@ -235,8 +231,7 @@ de O
 altera O
 dispositivos O
 relativos O
-a O
-o O
+ao O
 sistema O
 previdenciário O
 de O
@@ -300,8 +295,7 @@ o O
 “ O
 caput O
 ” O
-d O
-este O
+deste O
 artigo O
 e O
 serão O
@@ -329,8 +323,7 @@ art O
 e O
 250 O
 , O
-a O
-o O
+ao O
 financiamento O
 , O
 na O
@@ -357,9 +350,7 @@ social O
 art O
 . O
 2º O
-suprima O
-- O
-se O
+suprima-se O
 o O
 art O
 . O
@@ -389,9 +380,7 @@ de O
 deputado O
 kim O
 kataguiri O
-dem O
-/ O
-sp O
+dem/sp O
 proposta O
 de O
 emenda O
@@ -406,8 +395,7 @@ de O
 altera O
 dispositivos O
 relativos O
-a O
-o O
+ao O
 sistema O
 previdenciário O
 de O

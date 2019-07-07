@@ -1,4 +1,4 @@
-. O
+( O
 ) O
 câmara O
 deputado O
@@ -51,8 +51,7 @@ suprime I
 as O
 disposições O
 relativas O
-a O
-o O
+ao O
 regime O
 de O
 capitalização O
@@ -65,9 +64,7 @@ n. O
 de O
 2019 O
 . O
-suprima O
-- O
-se O
+suprima-se O
 da O
 proposta O
 de O

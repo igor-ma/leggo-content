@@ -50,9 +50,7 @@ providências O
 . O
 emenda O
 modificativa O
-altere O
-- O
-se O
+altere-se O
 o O
 art O
 . O
@@ -80,8 +78,7 @@ art O
 ... O
 ] O
 . O
-§ O
-1º O
+§1º O
 são O
 isentos O
 de O
@@ -101,8 +98,7 @@ dez O
 por O
 cento O
 ) O
-a O
-o O
+ao O
 ano O
 , O
 a O
@@ -125,8 +121,7 @@ o O
 pensionista O
 , O
 cessando O
-a O
-os O
+aos O
 75 O
 ( O
 setenta O
@@ -137,8 +132,7 @@ anos O
 de O
 idade O
 . O
-§ O
-1º-a O
+§1º-a O
 lei O
 complementar O
 de O
@@ -227,8 +221,7 @@ cf O
 art O
 . O
 149 O
-§ O
-1º O
+§1º O
 a O
 união O
 , O
@@ -260,8 +253,7 @@ que O
 se O
 refere O
 os O
-§ O
-§ O
+§§ O
 1º O
 e O
 1º-a O
@@ -288,8 +280,7 @@ pensionistas O
 , O
 em O
 benefícios O
-d O
-estes O
+destes O
 , O
 para O
 o O

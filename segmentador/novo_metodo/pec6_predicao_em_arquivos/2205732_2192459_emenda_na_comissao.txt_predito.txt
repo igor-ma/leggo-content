@@ -58,9 +58,7 @@ teto O
 dos O
 gastos O
 ) O
-acrescente O
-- O
-se O
+acrescente-se I
 , O
 onde O
 couber O
@@ -84,9 +82,7 @@ artigo O
 art O
 . O
 x. O
-suprima O
-- O
-se O
+suprima-se O
 os O
 artigos O
 106 O

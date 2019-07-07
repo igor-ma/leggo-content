@@ -14,7 +14,8 @@ felipe O
 rigoni O
 , O
 da O
-sra. O
+sra O
+. O
 deputada O
 tábata O
 amaral O
@@ -46,9 +47,7 @@ idosos O
 emenda O
 supressiva O
 n. O
-suprima O
-- O
-se O
+suprima-se O
 o O
 art O
 . O

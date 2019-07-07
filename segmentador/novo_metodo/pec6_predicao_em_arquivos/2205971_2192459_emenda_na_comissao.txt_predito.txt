@@ -1,4 +1,4 @@
-. O
+... O
 ” O
 câmara O
 deputados O
@@ -63,9 +63,7 @@ de O
 direitos O
 previdenciários O
 . O
-suprimam O
-- O
-se O
+suprimam-se O
 da O
 proposta O
 de O
@@ -92,12 +90,10 @@ art O
 caput O
 e O
 o O
-§ O
-1º O
+§1º O
 e O
 o O
-§ O
-1º O
+§1º O
 do O
 art O
 . O
@@ -120,8 +116,7 @@ pec O
 ; O
 b O
 ) O
-§ O
-§ O
+§§ O
 2º O
 , O
 3º O
@@ -146,8 +141,7 @@ art O
 , O
 e O
 os O
-§ O
-§ O
+§§ O
 3º O
 , O
 4º O

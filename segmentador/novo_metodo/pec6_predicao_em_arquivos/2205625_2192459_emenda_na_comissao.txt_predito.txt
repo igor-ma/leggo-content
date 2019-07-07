@@ -107,8 +107,7 @@ acumuláveis O
 na O
 forma O
 prevista O
-n O
-esta O
+nesta O
 constituição O
 , O
 os O
@@ -131,8 +130,7 @@ exoneração O
 seja O
 aplicada O
 somente O
-a O
-os O
+aos O
 empregados O
 públicos O
 que O
@@ -153,9 +151,7 @@ n.º O
 art I
 . O
 1º O
-acrescente O
-- O
-se O
+acrescente-se I
 na O
 proposta O
 de O
@@ -196,8 +192,7 @@ federal O
 não O
 se O
 aplica O
-a O
-os O
+aos O
 empregados O
 que O
 percebam O
@@ -205,8 +200,7 @@ percebam O
 até O
 a O
 publicação O
-d O
-esta O
+desta O
 emenda O
 , O
 cumulativamente O
@@ -259,8 +253,7 @@ acumuláveis O
 na O
 forma O
 prevista O
-n O
-esta O
+nesta O
 constituição O
 , O
 os O

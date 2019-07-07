@@ -75,9 +75,7 @@ abono O
 salarial O
 anual O
 . O
-suprimam O
-- O
-se O
+suprimam-se O
 da O
 proposta O
 de O
@@ -120,8 +118,7 @@ art O
 40 O
 e O
 o O
-§ O
-4º O
+§4º O
 do O
 art O
 . O

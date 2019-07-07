@@ -38,8 +38,7 @@ nº O
 6/2019 O
 para O
 regressar O
-a O
-o O
+ao O
 texto O
 constitucional O
 a O
@@ -52,9 +51,7 @@ maternidade O
 . O
 emenda O
 nº O
-suprima O
-- O
-se O
+suprima-se I
 a O
 alteração O
 que O
@@ -75,8 +72,7 @@ de O
 2019 O
 , O
 faz O
-a O
-o O
+ao O
 inciso O
 ii O
 do O

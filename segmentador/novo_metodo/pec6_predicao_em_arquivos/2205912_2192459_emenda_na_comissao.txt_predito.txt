@@ -7,9 +7,7 @@ deputado O
 marcelo O
 aro O
 - O
-pp O
-/ O
-mg O
+pp/mg O
 comissão O
 especial O
 destinada O
@@ -68,9 +66,7 @@ aro O
 e O
 outros O
 ) O
-suprima O
-- O
-se O
+suprima-se O
 do O
 art O
 . O

@@ -1,5 +1,5 @@
-sexos O
-................................................................................................ O
+... O
+... O
 proposta O
 emenda O
 constituição O
@@ -31,8 +31,7 @@ na O
 data O
 da O
 publicação O
-d O
-esta O
+desta O
 emenda O
 , O
 proventos O
@@ -82,8 +81,7 @@ acumuláveis O
 na O
 forma O
 prevista O
-n O
-esta O
+nesta O
 constituição O
 , O
 os O
@@ -131,9 +129,7 @@ n.º O
 art I
 . O
 1º O
-acrescente O
-- O
-se O
+acrescente-se I
 na O
 proposta O
 de O
@@ -162,8 +158,7 @@ a O
 permanência O
 em O
 atividade O
-a O
-os O
+aos O
 empregados O
 que O
 percebam O
@@ -172,8 +167,7 @@ cumulativamente O
 até O
 a O
 publicação O
-d O
-esta O
+desta O
 emenda O
 , O
 proventos O
@@ -223,8 +217,7 @@ acumuláveis O
 na O
 forma O
 prevista O
-n O
-esta O
+nesta O
 constituição O
 , O
 os O

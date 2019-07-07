@@ -68,8 +68,7 @@ as O
 regras O
 constitucionais O
 atinentes O
-a O
-o O
+ao O
 benefício O
 de O
 prestação O
@@ -86,9 +85,7 @@ forma O
 atualmente O
 vigente O
 . O
-suprimam O
-- O
-se O
+suprimam-se O
 da O
 proposta O
 de O

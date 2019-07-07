@@ -46,8 +46,7 @@ de O
 emenda O
 à O
 constituição O
-n O
-° O
+n° O
 06 O
 , O
 de O
@@ -83,9 +82,7 @@ art I
 . O
 1 O
 – O
-suprima O
-- O
-se O
+suprima-se O
 a O
 alteração O
 da O

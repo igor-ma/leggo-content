@@ -43,13 +43,10 @@ providências O
 . O
 emenda O
 nº O
-suprimam O
-- O
-se O
+suprimam-se I
 as O
 alterações O
-a O
-o O
+ao O
 art O
 . O
 203 O
@@ -81,9 +78,7 @@ e O
 em O
 decorrência O
 , O
-suprimam O
-- O
-se O
+suprimam-se O
 os O
 arts O
 . O

@@ -66,10 +66,9 @@ salário O
 mínimo O
 art O
 . O
-1º. O
-suprima O
-- O
-se O
+1º O
+. O
+suprima-se I
 o O
 inciso O
 v O

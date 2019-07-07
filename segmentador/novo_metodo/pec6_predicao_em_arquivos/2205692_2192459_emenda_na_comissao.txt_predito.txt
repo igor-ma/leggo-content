@@ -21,7 +21,7 @@ poder O
 executivo O
 , O
 que O
-" O
+'' O
 modifica O
 o O
 sistema O
@@ -41,7 +41,7 @@ e O
 dá O
 outras O
 providências O
-" O
+'' O
 – O
 pec O
 06/2019 O
@@ -58,9 +58,7 @@ outros O
 art O
 . O
 1º O
-suprimam O
-- O
-se O
+suprimam-se O
 as O
 alterações O
 do O

@@ -1,4 +1,4 @@
-n O
+descrita O
 inciso O
 proposta O
 emenda O
@@ -35,16 +35,8 @@ providências O
 . O
 emenda O
 supressiva O
-nº O
-_ O
-_ O
-_ O
-_ O
-_ O
-_ O
-suprimam O
-- O
-se O
+nº______ O
+suprimam-se O
 do O
 texto O
 da O
@@ -71,8 +63,7 @@ v O
 e O
 vi O
 e O
-§ O
-§ O
+§§ O
 1º O
 e O
 2º O
