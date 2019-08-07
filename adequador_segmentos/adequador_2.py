@@ -1,4 +1,4 @@
-
+import string
 
 
 
@@ -39,6 +39,7 @@ def main():
                 4: 'paragrafo', 
                 5: 'paragrafo'
         }
+        algarismos_romanos = ['x', 'i', 'v', 'l', 'c', 'd', 'm']
 
 
         i = 0
@@ -89,37 +90,75 @@ def main():
                                         i += 1
                                         comeca_com_termo, posicao_na_lista = comecaComTermo(termos_de_interesse, palavras[i])
                                 i -= 1 #pode ter saído do loop ou por ter acabado o texto ou por ter encontrado um novo termo
+                                print(numeros_na_enumeracao)
                                 pass
                         ##################################################
                         # FIM: avaliação no caso de Artigos e Parágrafos #
                         ##################################################
-                        print(termo_atual)
-                        print(numeros_na_enumeracao)
+
 
                         
+
+
                         ########################################
                         # INÍCIO: avaliação no caso de Incisos #
                         ########################################
-                        if posicao_na_lista in [5]:
+                        elif posicao_na_lista in [3]: #algarismos romanos: xivlcdm
+                                termo_atual = dicionario_termos[posicao_na_lista]
+                                algarismos_na_enumeracao = [] #salva todos algarismos da enumeração do termo atual
 
+                                '''só pode salvar o algarismo se for xivlcdm e for rodeado apenas por espaços ou pontuações.
+
+		                   exemplo: peixe xiv,xeque mate -> o x do peixe não é romano porque é rodeado por não romanos ou espaço ou pontuação
+                                '''
+
+                                algarismo_atual = ''
+                                for j in range(len(palavras[i])):
+                                        be = j - 1
+                                        bd = j + 1
+                                        if j == 0:
+                                                be = j
+                                        if j == len(palavras[i]) - 1:
+                                                bd = j
+
+                                        if palavras[i][j] in algarismos_romanos and (palavras[i][be] in list(string.punctuation) + [' '] or palavras[i][be] in algarismos_romanos) and (palavras[i][bd] in list(string.punctuation) + [' '] or palavras[i][bd] in algarismos_romanos):
+                                                algarismo_atual += palavras[i][j]
+                                        else: 
+                                                if palavras[i][j] in list(string.punctuation) + [' ']:
+                                                        algarismos_na_enumeracao.append(algarismo_atual)
+                                                algarismo_atual = ''
+                                i += 1 #ao fim da avaliação da palavra atual passa para a próxima (até que se encontre um novo termo de interesse ou o fim do texto). essa redundância com o primeiro loop é devido ao fato de que alguns termos enumeram com números, outros com letras e outros com algarismos romanos. mantendo o controle da busca dentro da condição a avaliação fica mais simples.
+                                comeca_com_termo, posicao_na_lista = comecaComTermo(termos_de_interesse, palavras[i])
+                                while i < len(palavras) - 1 and not comeca_com_termo: #enquanto ainda for possivelmente um conteúdo da enumeração do termo atual TODO: melhorar isso, pois pode ser que estejamos pegando números que não estão em enumerações, estudar formas de consertar
+                                        algarismo_atual = ''
+                                        for j in range(len(palavras[i])):
+                                                be = j - 1
+                                                bd = j + 1
+                                                if j == 0:
+                                                        be = j
+                                                if j == len(palavras[i]) - 1:
+                                                        bd = j
+
+                                                if palavras[i][j] in algarismos_romanos and (palavras[i][be] in list(string.punctuation) + [' '] or palavras[i][be] in algarismos_romanos) and (palavras[i][bd] in list(string.punctuation) + [' '] or palavras[i][bd] in algarismos_romanos):
+                                                        algarismo_atual += palavras[i][j]
+                                                else: 
+                                                        if palavras[i][j] in list(string.punctuation) + [' ']:
+                                                                algarismos_na_enumeracao.append(algarismo_atual)
+                                                        algarismo_atual = ''
+                                        i += 1 #pode ter saído do loop ou por ter acabado o texto ou por ter encontrado um novo termo
+                                        comeca_com_termo, posicao_na_lista = comecaComTermo(termos_de_interesse, palavras[i])
+                                i -= 1
+                                print(algarismos_na_enumeracao)
+                                pass
                         #####################################
                         # FIM: avaliação no caso de Incisos #
                         #####################################
-
+                        print(termo_atual)
+                        
+                        
 
                 i += 1
                 
-
-
-
-
-'''
-Transforma em minúsculo e faz split, obtendo lista de palavras
-Enquanto houver palavras na lista
-Se a palavra atual contiver um termo
-        
-
-'''
 
 
 
