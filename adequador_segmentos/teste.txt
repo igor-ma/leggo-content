@@ -1,1 +1,46 @@
 Esse é um teste. Adiciona-se aos artigos 1, 2, 3 e 4 alguma coisa no paragrafo 5, 6 e 7 e tal §4o e tal e etc.
+Além disso, fazendo um teste, inciso xiv, xi, xiii. E também inc.xxi. Assim finalizado. Peixe, peix. pix. ix.
+
+
+Suprima-se , os seguintes dispositivos : a ) O inciso XXIV do art . 23 ; b ) O inciso XV e o §3º do art . 24 ; c ) Os incisos XXI a XXV do art . 31. d ) O incisos XXVIII a XXX do art . 31 ; e ) O inciso VI e o inciso XXII do art . 37 ; f ) A alínea “ k ” do inciso I do art . 56 ; g ) A Alínea “ ai ” do inciso I do art . 56 ; h ) O art . 83 ;
+
+
+
+!@#$%
+
+artigo_1
+artigo_2
+artigo_3
+artigo_4
+paragrafo_5
+paragrafo_6
+paragrafo_7
+paragrafo_4
+inciso_xiv
+inciso_xi
+inciso_xiii
+inciso_xxi
+inciso_ix
+inciso_xxiv
+artigo_23
+inciso_xv
+paragrafo_3
+artigo_24
+inciso_xxi
+inciso_xxv
+artigo_31
+inciso_xxviii
+inciso_xxx
+artigo_31
+inciso_vi
+inciso_xxii
+artigo_37
+alinea_k
+inciso_i
+artigo_56
+alinea_ai
+inciso_i
+artigo_56
+artigo_83
+
+%$#@!
