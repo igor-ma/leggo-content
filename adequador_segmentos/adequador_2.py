@@ -1,6 +1,7 @@
 import string
 import re
-
+import os
+import sys
 
 def temNumero(palavra):
         return any(char.isdigit() for char in palavra)
@@ -25,21 +26,6 @@ def comecaComTermo(termos_de_interesse, palavra):
 
 
 def main():
-        #with open('emendas_em_blocos/7909365.pdf_teor.tags/bloco_1__B-SUP', 'r') as arquivo:
-        with open('teste.txt', 'r') as arquivo:
-                texto = arquivo.read()
-
-        with open('teste.txt', 'a') as arquivo:
-                arquivo.write('\n\n!@#$%\n')
-
-
-        texto = ' '.join(texto.lower().split()) #deixando apenas um espaço em branco
-        texto = texto.replace('“ ', '“').replace(' ”', '”').replace("' ", "'").replace(" '", "'") #formatando as palavras para as alíneas sem alteração de sentido TODO: “ != ", adicionar o equivalente para o caractere '
-
-        palavras = texto.split() #convertendo em lista de palavras
-        print(palavras)
-
-        
         termos_de_interesse = ['art', 'alin', 'alín', 'inc', 'par', '§'] #utilizado para verificar 
         dicionario_termos = { #utilizado para substituição de termos depois
                 0: 'artigo', 
@@ -51,39 +37,39 @@ def main():
         }
         algarismos_romanos = ['x', 'i', 'v', 'l', 'c', 'd', 'm']
 
+        pasta = os.listdir(sys.argv[1])
 
-        i = 0
-        while True: #caminha por todas as palavras da lista
-                if i == len(palavras) - 1:
-                        break
+        for arqv in pasta:
+                #with open('emendas_em_blocos/7909365.pdf_teor.tags/bloco_1__B-SUP', 'r') as arquivo:
+                with open(sys.argv[1] + '/' + arqv, 'r') as arquivo:
+                        texto = arquivo.read()
 
-                comeca_com_termo, posicao_na_lista = comecaComTermo(termos_de_interesse, palavras[i])
-                if comeca_com_termo:
-                        #se a palavra começa com um termo há duas opções: ou ela já possui um número/letra/algarismo romano de sua enumeração ou essa enumeração começa na próxima palavra. há a possibilidade de estar tudo junto, sem espaços. varre-se a palavra obtendo toda enumeração possível e, após o fim da palavra, continua a mesma procura nas próximas palavras até que se encontre uma palavra que possua um novo termo de interesse (ou até que o texto acabe).
+                with open(sys.argv[1] + '/' + arqv, 'a') as arquivo:
+                        arquivo.write('\n\n!@#$%\n')
 
-                        #####################################################
-                        # INÍCIO: avaliação no caso de Artigos e Parágrafos #
-                        #####################################################
-                        if posicao_na_lista in [0, 4, 5]: #se estamos falando de parágrafo ou artigo então estamos buscando por números
-                                termo_atual = dicionario_termos[posicao_na_lista]
-                                numeros_na_enumeracao = [] #salva todos números da enumeração do termo atual
 
-                                numero = ''
-                                sem_append = True
-                                for char in palavras[i]: #obtém os números na palavra atual
-                                        if char.isdigit():
-                                                numero += str(char)
-                                                sem_append = True
-                                        else: #exemplo: "art.35,57", nesse caso obteremos os dois separadamente
-                                                if numero != '':
-                                                        numeros_na_enumeracao.append(numero)
-                                                        numero = ''
-                                                        sem_append = False
-                                if sem_append and numero != '':
-                                        numeros_na_enumeracao.append(numero)
-                                i += 1 #ao fim da avaliação da palavra atual passa para a próxima (até que se encontre um novo termo de interesse ou o fim do texto). essa redundância com o primeiro loop é devido ao fato de que alguns termos enumeram com números, outros com letras e outros com algarismos romanos. mantendo o controle da busca dentro da condição a avaliação fica mais simples.
-                                comeca_com_termo, posicao_na_lista = comecaComTermo(termos_de_interesse, palavras[i])
-                                while i < len(palavras) - 1 and not comeca_com_termo: #enquanto ainda for possivelmente um conteúdo da enumeração do termo atual TODO: melhorar isso, pois pode ser que estejamos pegando números que não estão em enumerações, estudar formas de consertar
+                texto = ' '.join(texto.lower().split()) #deixando apenas um espaço em branco
+                texto = texto.replace('“ ', '“').replace(' ”', '”').replace("' ", "'").replace(" '", "'") #formatando as palavras para as alíneas sem alteração de sentido TODO: “ != ", adicionar o equivalente para o caractere '
+
+                palavras = texto.split() #convertendo em lista de palavras
+                print(palavras)
+
+                i = 0
+                while True: #caminha por todas as palavras da lista
+                        if i == len(palavras) - 1:
+                                break
+
+                        comeca_com_termo, posicao_na_lista = comecaComTermo(termos_de_interesse, palavras[i])
+                        if comeca_com_termo:
+                                #se a palavra começa com um termo há duas opções: ou ela já possui um número/letra/algarismo romano de sua enumeração ou essa enumeração começa na próxima palavra. há a possibilidade de estar tudo junto, sem espaços. varre-se a palavra obtendo toda enumeração possível e, após o fim da palavra, continua a mesma procura nas próximas palavras até que se encontre uma palavra que possua um novo termo de interesse (ou até que o texto acabe).
+
+                                #####################################################
+                                # INÍCIO: avaliação no caso de Artigos e Parágrafos #
+                                #####################################################
+                                if posicao_na_lista in [0, 4, 5]: #se estamos falando de parágrafo ou artigo então estamos buscando por números
+                                        termo_atual = dicionario_termos[posicao_na_lista]
+                                        numeros_na_enumeracao = [] #salva todos números da enumeração do termo atual
+
                                         numero = ''
                                         sem_append = True
                                         for char in palavras[i]: #obtém os números na palavra atual
@@ -97,97 +83,113 @@ def main():
                                                                 sem_append = False
                                         if sem_append and numero != '':
                                                 numeros_na_enumeracao.append(numero)
-                                        i += 1
+                                        i += 1 #ao fim da avaliação da palavra atual passa para a próxima (até que se encontre um novo termo de interesse ou o fim do texto). essa redundância com o primeiro loop é devido ao fato de que alguns termos enumeram com números, outros com letras e outros com algarismos romanos. mantendo o controle da busca dentro da condição a avaliação fica mais simples.
                                         comeca_com_termo, posicao_na_lista = comecaComTermo(termos_de_interesse, palavras[i])
-                                i -= 1 #pode ter saído do loop ou por ter acabado o texto ou por ter encontrado um novo termo
-                                print(numeros_na_enumeracao)
-                                adicionaNoArquivo('teste.txt', termo_atual, numeros_na_enumeracao)
-                                pass
-                        ##################################################
-                        # FIM: avaliação no caso de Artigos e Parágrafos #
-                        ##################################################
+                                        while i < len(palavras) - 1 and not comeca_com_termo: #enquanto ainda for possivelmente um conteúdo da enumeração do termo atual TODO: melhorar isso, pois pode ser que estejamos pegando números que não estão em enumerações, estudar formas de consertar
+                                                numero = ''
+                                                sem_append = True
+                                                for char in palavras[i]: #obtém os números na palavra atual
+                                                        if char.isdigit():
+                                                                numero += str(char)
+                                                                sem_append = True
+                                                        else: #exemplo: "art.35,57", nesse caso obteremos os dois separadamente
+                                                                if numero != '':
+                                                                        numeros_na_enumeracao.append(numero)
+                                                                        numero = ''
+                                                                        sem_append = False
+                                                if sem_append and numero != '':
+                                                        numeros_na_enumeracao.append(numero)
+                                                i += 1
+                                                comeca_com_termo, posicao_na_lista = comecaComTermo(termos_de_interesse, palavras[i])
+                                        i -= 1 #pode ter saído do loop ou por ter acabado o texto ou por ter encontrado um novo termo
+                                        print(numeros_na_enumeracao)
+                                        adicionaNoArquivo(sys.argv[1] + '/' + arqv, termo_atual, numeros_na_enumeracao)
+                                        pass
+                                ##################################################
+                                # FIM: avaliação no caso de Artigos e Parágrafos #
+                                ##################################################
 
 
-                        
-
-
-                        ########################################
-                        # INÍCIO: avaliação no caso de Incisos #
-                        ########################################
-                        elif posicao_na_lista in [3]: #algarismos romanos: xivlcdm
-                                termo_atual = dicionario_termos[posicao_na_lista]
-                                algarismos_na_enumeracao = [] #salva todos algarismos da enumeração do termo atual
-
-                                '''só pode salvar o algarismo se for xivlcdm e for rodeado apenas por espaços ou pontuações.
-
-		                   exemplo: peixe xiv,xeque mate -> o x do peixe não é romano porque é rodeado por não romanos ou espaço ou pontuação
-                                '''
                                 
-                                possiveis_romanos = re.split('\W+', palavras[i]) #separa a palavra por tudo aquilo que não é um não caractere de palavras
-                                for plv in possiveis_romanos:
-                                        if all(c in "xivlcdm" for c in plv) and plv != '':
-                                                algarismos_na_enumeracao.append(plv)
-                                i += 1 #ao fim da avaliação da palavra atual passa para a próxima (até que se encontre um novo termo de interesse ou o fim do texto). essa redundância com o primeiro loop é devido ao fato de que alguns termos enumeram com números, outros com letras e outros com algarismos romanos. mantendo o controle da busca dentro da condição a avaliação fica mais simples.
-                                comeca_com_termo, posicao_na_lista = comecaComTermo(termos_de_interesse, palavras[i])
-                                while i < len(palavras) - 1 and not comeca_com_termo: #enquanto ainda for possivelmente um conteúdo da enumeração do termo atual TODO: melhorar isso, pois pode ser que estejamos pegando números que não estão em enumerações, estudar formas de consertar
-                                        possiveis_romanos = re.split('\W+', palavras[i])
+
+
+                                ########################################
+                                # INÍCIO: avaliação no caso de Incisos #
+                                ########################################
+                                elif posicao_na_lista in [3]: #algarismos romanos: xivlcdm
+                                        termo_atual = dicionario_termos[posicao_na_lista]
+                                        algarismos_na_enumeracao = [] #salva todos algarismos da enumeração do termo atual
+
+                                        '''só pode salvar o algarismo se for xivlcdm e for rodeado apenas por espaços ou pontuações.
+
+		                           exemplo: peixe xiv,xeque mate -> o x do peixe não é romano porque é rodeado por não romanos ou espaço ou pontuação
+                                        '''
+                                        
+                                        possiveis_romanos = re.split('\W+', palavras[i]) #separa a palavra por tudo aquilo que não é um não caractere de palavras
                                         for plv in possiveis_romanos:
                                                 if all(c in "xivlcdm" for c in plv) and plv != '':
                                                         algarismos_na_enumeracao.append(plv)
-                                        i += 1 #pode ter saído do loop ou por ter acabado o texto ou por ter encontrado um novo termo
+                                        i += 1 #ao fim da avaliação da palavra atual passa para a próxima (até que se encontre um novo termo de interesse ou o fim do texto). essa redundância com o primeiro loop é devido ao fato de que alguns termos enumeram com números, outros com letras e outros com algarismos romanos. mantendo o controle da busca dentro da condição a avaliação fica mais simples.
                                         comeca_com_termo, posicao_na_lista = comecaComTermo(termos_de_interesse, palavras[i])
-                                i -= 1
-                                print(algarismos_na_enumeracao)
-                                adicionaNoArquivo('teste.txt', termo_atual, algarismos_na_enumeracao)
-                                pass
-                        #####################################
-                        # FIM: avaliação no caso de Incisos #
-                        #####################################
+                                        while i < len(palavras) - 1 and not comeca_com_termo: #enquanto ainda for possivelmente um conteúdo da enumeração do termo atual TODO: melhorar isso, pois pode ser que estejamos pegando números que não estão em enumerações, estudar formas de consertar
+                                                possiveis_romanos = re.split('\W+', palavras[i])
+                                                for plv in possiveis_romanos:
+                                                        if all(c in "xivlcdm" for c in plv) and plv != '':
+                                                                algarismos_na_enumeracao.append(plv)
+                                                i += 1 #pode ter saído do loop ou por ter acabado o texto ou por ter encontrado um novo termo
+                                                comeca_com_termo, posicao_na_lista = comecaComTermo(termos_de_interesse, palavras[i])
+                                        i -= 1
+                                        print(algarismos_na_enumeracao)
+                                        adicionaNoArquivo(sys.argv[1] + '/' + arqv, termo_atual, algarismos_na_enumeracao)
+                                        pass
+                                #####################################
+                                # FIM: avaliação no caso de Incisos #
+                                #####################################
 
 
 
 
-                        ########################################
-                        # INÍCIO: avaliação no caso de Alíneas #
-                        ########################################
-                        elif posicao_na_lista in [1, 2]: #algarismos romanos: xivlcdm
-                                termo_atual = dicionario_termos[posicao_na_lista]
-                                letras_na_enumeracao = [] #salva todos algarismos da enumeração do termo atual
+                                ########################################
+                                # INÍCIO: avaliação no caso de Alíneas #
+                                ########################################
+                                elif posicao_na_lista in [1, 2]: #algarismos romanos: xivlcdm
+                                        termo_atual = dicionario_termos[posicao_na_lista]
+                                        letras_na_enumeracao = [] #salva todos algarismos da enumeração do termo atual
 
-                                #partido do pressuposto que as alíneas serão enumeradas entre áspas duplas ou simples TODO: fazer versão sem partir deste pressuposto
-                                
-                                possiveis_alineas = re.findall('“([^"]*)”', palavras[i]) #obtém tudo que está entre duas àspas na palavra atual
-                                #print(str(possiveis_alineas) + '***' + palavras[i])
-                                for plv in possiveis_alineas:
-                                        if len(plv) < 4 and len(plv) > 0:
-                                                letras_na_enumeracao.append(plv)
-                                i += 1 #ao fim da avaliação da palavra atual passa para a próxima (até que se encontre um novo termo de interesse ou o fim do texto). essa redundância com o primeiro loop é devido ao fato de que alguns termos enumeram com números, outros com letras e outros com algarismos romanos. mantendo o controle da busca dentro da condição a avaliação fica mais simples.
-                                comeca_com_termo, posicao_na_lista = comecaComTermo(termos_de_interesse, palavras[i])
-                                while i < len(palavras) - 1 and not comeca_com_termo: #enquanto ainda for possivelmente um conteúdo da enumeração do termo atual TODO: melhorar isso, pois pode ser que estejamos pegando números que não estão em enumerações, estudar formas de consertar
+                                        #partido do pressuposto que as alíneas serão enumeradas entre áspas duplas ou simples TODO: fazer versão sem partir deste pressuposto
+                                        
                                         possiveis_alineas = re.findall('“([^"]*)”', palavras[i]) #obtém tudo que está entre duas àspas na palavra atual
                                         #print(str(possiveis_alineas) + '***' + palavras[i])
                                         for plv in possiveis_alineas:
                                                 if len(plv) < 4 and len(plv) > 0:
                                                         letras_na_enumeracao.append(plv)
-                                        i += 1 #pode ter saído do loop ou por ter acabado o texto ou por ter encontrado um novo termo
+                                        i += 1 #ao fim da avaliação da palavra atual passa para a próxima (até que se encontre um novo termo de interesse ou o fim do texto). essa redundância com o primeiro loop é devido ao fato de que alguns termos enumeram com números, outros com letras e outros com algarismos romanos. mantendo o controle da busca dentro da condição a avaliação fica mais simples.
                                         comeca_com_termo, posicao_na_lista = comecaComTermo(termos_de_interesse, palavras[i])
-                                i -= 1
-                                print(letras_na_enumeracao)
-                                adicionaNoArquivo('teste.txt', termo_atual, letras_na_enumeracao)
-                                pass
-                        
-                        #####################################
-                        # FIM: avaliação no caso de Alíneas #
-                        #####################################
-                        print(termo_atual)
-                        
+                                        while i < len(palavras) - 1 and not comeca_com_termo: #enquanto ainda for possivelmente um conteúdo da enumeração do termo atual TODO: melhorar isso, pois pode ser que estejamos pegando números que não estão em enumerações, estudar formas de consertar
+                                                possiveis_alineas = re.findall('“([^"]*)”', palavras[i]) #obtém tudo que está entre duas àspas na palavra atual
+                                                #print(str(possiveis_alineas) + '***' + palavras[i])
+                                                for plv in possiveis_alineas:
+                                                        if len(plv) < 4 and len(plv) > 0:
+                                                                letras_na_enumeracao.append(plv)
+                                                i += 1 #pode ter saído do loop ou por ter acabado o texto ou por ter encontrado um novo termo
+                                                comeca_com_termo, posicao_na_lista = comecaComTermo(termos_de_interesse, palavras[i])
+                                        i -= 1
+                                        print(letras_na_enumeracao)
+                                        adicionaNoArquivo(sys.argv[1] + '/' + arqv, termo_atual, letras_na_enumeracao)
+                                        pass
+                                
+                                #####################################
+                                # FIM: avaliação no caso de Alíneas #
+                                #####################################
+                                print(termo_atual)
+                                
+                                
+
+                        i += 1
                         
 
-                i += 1
-                
-
-        with open('teste.txt', 'a') as arquivo:
-                arquivo.write('\n\n%$#@!')
+                with open(sys.argv[1] + '/' + arqv, 'a') as arquivo:
+                        arquivo.write('\n\n%$#@!')
 
 
 
