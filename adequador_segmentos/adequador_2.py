@@ -97,7 +97,7 @@ def main():
                                         comeca_com_termo, posicao_na_lista = comecaComTermo(termos_de_interesse, palavras[i])
                                         while i < len(palavras) - 1 and not comeca_com_termo: #enquanto ainda for possivelmente um conteúdo da enumeração do termo atual TODO: melhorar isso, pois pode ser que estejamos pegando números que não estão em enumerações, estudar formas de consertar
                                                 if avaliaTerminacao(palavras[i], chars_de_terminacao): 
-                                                        i += 2 #ao sair do while há um i -= 1
+                                                        i += 1 #ao sair do while há um i -= 1
                                                         break
                                                         flag_terminacao = True
                                                         
@@ -148,7 +148,7 @@ def main():
                                         comeca_com_termo, posicao_na_lista = comecaComTermo(termos_de_interesse, palavras[i])
                                         while i < len(palavras) - 1 and not comeca_com_termo: #enquanto ainda for possivelmente um conteúdo da enumeração do termo atual TODO: melhorar isso, pois pode ser que estejamos pegando números que não estão em enumerações, estudar formas de consertar
                                                 if avaliaTerminacao(palavras[i], chars_de_terminacao): 
-                                                        i += 2 #ao sair do while há um i -= 1
+                                                        i += 1 #ao sair do while há um i -= 1
                                                         break
                                                         flag_terminacao = True
                                                 possiveis_romanos = re.split('\W+', palavras[i])
@@ -186,7 +186,7 @@ def main():
                                         comeca_com_termo, posicao_na_lista = comecaComTermo(termos_de_interesse, palavras[i])
                                         while i < len(palavras) - 1 and not comeca_com_termo: #enquanto ainda for possivelmente um conteúdo da enumeração do termo atual TODO: melhorar isso, pois pode ser que estejamos pegando números que não estão em enumerações, estudar formas de consertar
                                                 if avaliaTerminacao(palavras[i], chars_de_terminacao): 
-                                                        i += 2 #ao sair do while há um i -= 1
+                                                        i += 1 #ao sair do while há um i -= 1
                                                         break
                                                         flag_terminacao = True
                                                 possiveis_alineas = re.findall('“([^"]*)”', palavras[i]) #obtém tudo que está entre duas àspas na palavra atual
