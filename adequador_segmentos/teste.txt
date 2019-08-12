@@ -6,6 +6,8 @@ Suprima-se , os seguintes dispositivos : a ) O inciso XXIV do art . 23 ; b ) O i
 
 
 
+
+
 !@#$%
 
 artigo_1
@@ -42,5 +44,63 @@ alinea_ai
 inciso_i
 artigo_56
 artigo_83
+
+%$#@!
+
+!@#$%
+
+artigo_1
+artigo_2
+artigo_3
+artigo_4
+paragrafo_5
+paragrafo_6
+paragrafo_7
+paragrafo_4
+inciso_xiv
+inciso_xi
+inciso_xiii
+inciso_xxi
+inciso_ix
+inciso_xxiv
+artigo_23
+inciso_xv
+paragrafo_3
+artigo_24
+inciso_xxi
+inciso_xxv
+artigo_31
+inciso_xxviii
+inciso_xxx
+artigo_31
+inciso_vi
+inciso_xxii
+artigo_37
+alinea_k
+inciso_i
+artigo_56
+alinea_ai
+inciso_i
+artigo_56
+artigo_83
+artigo_1
+artigo_2
+artigo_3
+artigo_4
+paragrafo_5
+paragrafo_6
+paragrafo_7
+paragrafo_4
+artigo_23
+paragrafo_3
+artigo_24
+artigo_31
+artigo_31
+artigo_37
+artigo_56
+artigo_56
+artigo_83
+
+%$#@!
 
 %$#@!

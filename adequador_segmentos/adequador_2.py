@@ -24,18 +24,28 @@ def comecaComTermo(termos_de_interesse, palavra):
         return [False, -1] #senão, retorna falso e uma posição inválida
 
 
+def avaliaTerminacao(palavra, chars_de_terminacao):
+        for char in chars_de_terminacao:
+                if palavra.endswith(char) or palavra.endswith(' ' + char):
+                        return True
+        
+        return False
+        
 
 def main():
-        termos_de_interesse = ['art', 'alin', 'alín', 'inc', 'par', '§'] #utilizado para verificar 
+        termos_de_interesse = ['art', 'alin', 'alín', 'inc', 'parag', 'parág', '§'] #utilizado para verificar 
         dicionario_termos = { #utilizado para substituição de termos depois
                 0: 'artigo', 
                 1: 'alinea', 
                 2: 'alinea', 
                 3: 'inciso', 
                 4: 'paragrafo', 
-                5: 'paragrafo'
+                5: 'paragrafo',
+                6: 'paragrafo'
         }
         algarismos_romanos = ['x', 'i', 'v', 'l', 'c', 'd', 'm']
+        chars_de_terminacao = [':']
+        #flag_terminacao = False
 
         pasta = os.listdir(sys.argv[1])
 
@@ -56,7 +66,7 @@ def main():
 
                 i = 0
                 while True: #caminha por todas as palavras da lista
-                        if i == len(palavras) - 1:
+                        if i == len(palavras) - 1:# or flag_terminacao:
                                 break
 
                         comeca_com_termo, posicao_na_lista = comecaComTermo(termos_de_interesse, palavras[i])
@@ -66,7 +76,7 @@ def main():
                                 #####################################################
                                 # INÍCIO: avaliação no caso de Artigos e Parágrafos #
                                 #####################################################
-                                if posicao_na_lista in [0, 4, 5]: #se estamos falando de parágrafo ou artigo então estamos buscando por números
+                                if posicao_na_lista in [0, 4, 5, 6]: #se estamos falando de parágrafo ou artigo então estamos buscando por números
                                         termo_atual = dicionario_termos[posicao_na_lista]
                                         numeros_na_enumeracao = [] #salva todos números da enumeração do termo atual
 
@@ -86,6 +96,11 @@ def main():
                                         i += 1 #ao fim da avaliação da palavra atual passa para a próxima (até que se encontre um novo termo de interesse ou o fim do texto). essa redundância com o primeiro loop é devido ao fato de que alguns termos enumeram com números, outros com letras e outros com algarismos romanos. mantendo o controle da busca dentro da condição a avaliação fica mais simples.
                                         comeca_com_termo, posicao_na_lista = comecaComTermo(termos_de_interesse, palavras[i])
                                         while i < len(palavras) - 1 and not comeca_com_termo: #enquanto ainda for possivelmente um conteúdo da enumeração do termo atual TODO: melhorar isso, pois pode ser que estejamos pegando números que não estão em enumerações, estudar formas de consertar
+                                                if avaliaTerminacao(palavras[i], chars_de_terminacao): 
+                                                        i += 2 #ao sair do while há um i -= 1
+                                                        break
+                                                        flag_terminacao = True
+                                                        
                                                 numero = ''
                                                 sem_append = True
                                                 for char in palavras[i]: #obtém os números na palavra atual
@@ -132,6 +147,10 @@ def main():
                                         i += 1 #ao fim da avaliação da palavra atual passa para a próxima (até que se encontre um novo termo de interesse ou o fim do texto). essa redundância com o primeiro loop é devido ao fato de que alguns termos enumeram com números, outros com letras e outros com algarismos romanos. mantendo o controle da busca dentro da condição a avaliação fica mais simples.
                                         comeca_com_termo, posicao_na_lista = comecaComTermo(termos_de_interesse, palavras[i])
                                         while i < len(palavras) - 1 and not comeca_com_termo: #enquanto ainda for possivelmente um conteúdo da enumeração do termo atual TODO: melhorar isso, pois pode ser que estejamos pegando números que não estão em enumerações, estudar formas de consertar
+                                                if avaliaTerminacao(palavras[i], chars_de_terminacao): 
+                                                        i += 2 #ao sair do while há um i -= 1
+                                                        break
+                                                        flag_terminacao = True
                                                 possiveis_romanos = re.split('\W+', palavras[i])
                                                 for plv in possiveis_romanos:
                                                         if all(c in "xivlcdm" for c in plv) and plv != '':
@@ -166,6 +185,10 @@ def main():
                                         i += 1 #ao fim da avaliação da palavra atual passa para a próxima (até que se encontre um novo termo de interesse ou o fim do texto). essa redundância com o primeiro loop é devido ao fato de que alguns termos enumeram com números, outros com letras e outros com algarismos romanos. mantendo o controle da busca dentro da condição a avaliação fica mais simples.
                                         comeca_com_termo, posicao_na_lista = comecaComTermo(termos_de_interesse, palavras[i])
                                         while i < len(palavras) - 1 and not comeca_com_termo: #enquanto ainda for possivelmente um conteúdo da enumeração do termo atual TODO: melhorar isso, pois pode ser que estejamos pegando números que não estão em enumerações, estudar formas de consertar
+                                                if avaliaTerminacao(palavras[i], chars_de_terminacao): 
+                                                        i += 2 #ao sair do while há um i -= 1
+                                                        break
+                                                        flag_terminacao = True
                                                 possiveis_alineas = re.findall('“([^"]*)”', palavras[i]) #obtém tudo que está entre duas àspas na palavra atual
                                                 #print(str(possiveis_alineas) + '***' + palavras[i])
                                                 for plv in possiveis_alineas:
