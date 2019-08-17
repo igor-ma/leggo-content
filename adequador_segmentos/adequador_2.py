@@ -95,7 +95,8 @@ def main():
                                                 numeros_na_enumeracao.append(numero)
                                         i += 1 #ao fim da avaliação da palavra atual passa para a próxima (até que se encontre um novo termo de interesse ou o fim do texto). essa redundância com o primeiro loop é devido ao fato de que alguns termos enumeram com números, outros com letras e outros com algarismos romanos. mantendo o controle da busca dentro da condição a avaliação fica mais simples.
                                         comeca_com_termo, posicao_na_lista = comecaComTermo(termos_de_interesse, palavras[i])
-                                        while i < len(palavras) - 1 and not comeca_com_termo: #enquanto ainda for possivelmente um conteúdo da enumeração do termo atual TODO: melhorar isso, pois pode ser que estejamos pegando números que não estão em enumerações, estudar formas de consertar
+                                        contador_sem_termo_interesse = 0
+                                        while i < len(palavras) - 1 and not comeca_com_termo and contador_sem_termo_interesse < 3: #enquanto ainda for possivelmente um conteúdo da enumeração do termo atual TODO: melhorar isso, pois pode ser que estejamos pegando números que não estão em enumerações, estudar formas de consertar
                                                 if avaliaTerminacao(palavras[i], chars_de_terminacao): 
                                                         i += 1 #ao sair do while há um i -= 1
                                                         break
@@ -114,6 +115,8 @@ def main():
                                                                         sem_append = False
                                                 if sem_append and numero != '':
                                                         numeros_na_enumeracao.append(numero)
+                                                elif sem_append and numero == '': #se não houve um append e a palavra atual não representa nada para ser enumerado
+                                                        contador_sem_termo_interesse += 1 #adiciona 1 no controlador de termos sem enumeração
                                                 i += 1
                                                 comeca_com_termo, posicao_na_lista = comecaComTermo(termos_de_interesse, palavras[i])
                                         i -= 1 #pode ter saído do loop ou por ter acabado o texto ou por ter encontrado um novo termo
@@ -146,15 +149,20 @@ def main():
                                                         algarismos_na_enumeracao.append(plv)
                                         i += 1 #ao fim da avaliação da palavra atual passa para a próxima (até que se encontre um novo termo de interesse ou o fim do texto). essa redundância com o primeiro loop é devido ao fato de que alguns termos enumeram com números, outros com letras e outros com algarismos romanos. mantendo o controle da busca dentro da condição a avaliação fica mais simples.
                                         comeca_com_termo, posicao_na_lista = comecaComTermo(termos_de_interesse, palavras[i])
-                                        while i < len(palavras) - 1 and not comeca_com_termo: #enquanto ainda for possivelmente um conteúdo da enumeração do termo atual TODO: melhorar isso, pois pode ser que estejamos pegando números que não estão em enumerações, estudar formas de consertar
+                                        contador_sem_termo_interesse = 0
+                                        while i < len(palavras) - 1 and not comeca_com_termo and contador_sem_termo_interesse < 3: #enquanto ainda for possivelmente um conteúdo da enumeração do termo atual TODO: melhorar isso, pois pode ser que estejamos pegando números que não estão em enumerações, estudar formas de consertar
                                                 if avaliaTerminacao(palavras[i], chars_de_terminacao): 
                                                         i += 1 #ao sair do while há um i -= 1
                                                         break
                                                         flag_terminacao = True
                                                 possiveis_romanos = re.split('\W+', palavras[i])
+                                                tem_romano = False
                                                 for plv in possiveis_romanos:
                                                         if all(c in "xivlcdm" for c in plv) and plv != '':
                                                                 algarismos_na_enumeracao.append(plv)
+                                                                tem_romano = True
+                                                if tem_romano == False:
+                                                        contador_sem_termo_interesse += 1 #TODO: implementar de forma a ser consecutivo (?) inciso xiv, xi, iii bla bla bla vi (?)
                                                 i += 1 #pode ter saído do loop ou por ter acabado o texto ou por ter encontrado um novo termo
                                                 comeca_com_termo, posicao_na_lista = comecaComTermo(termos_de_interesse, palavras[i])
                                         i -= 1
@@ -184,16 +192,22 @@ def main():
                                                         letras_na_enumeracao.append(plv)
                                         i += 1 #ao fim da avaliação da palavra atual passa para a próxima (até que se encontre um novo termo de interesse ou o fim do texto). essa redundância com o primeiro loop é devido ao fato de que alguns termos enumeram com números, outros com letras e outros com algarismos romanos. mantendo o controle da busca dentro da condição a avaliação fica mais simples.
                                         comeca_com_termo, posicao_na_lista = comecaComTermo(termos_de_interesse, palavras[i])
-                                        while i < len(palavras) - 1 and not comeca_com_termo: #enquanto ainda for possivelmente um conteúdo da enumeração do termo atual TODO: melhorar isso, pois pode ser que estejamos pegando números que não estão em enumerações, estudar formas de consertar
+                                        contador_sem_termo_interesse = 0
+                                        while i < len(palavras) - 1 and not comeca_com_termo and contador_sem_termo_interesse < 3: #enquanto ainda for possivelmente um conteúdo da enumeração do termo atual TODO: melhorar isso, pois pode ser que estejamos pegando números que não estão em enumerações, estudar formas de consertar
                                                 if avaliaTerminacao(palavras[i], chars_de_terminacao): 
                                                         i += 1 #ao sair do while há um i -= 1
                                                         break
                                                         flag_terminacao = True
                                                 possiveis_alineas = re.findall('“([^"]*)”', palavras[i]) #obtém tudo que está entre duas àspas na palavra atual
                                                 #print(str(possiveis_alineas) + '***' + palavras[i])
+                                                tem_alinea = False
                                                 for plv in possiveis_alineas:
                                                         if len(plv) < 4 and len(plv) > 0:
                                                                 letras_na_enumeracao.append(plv)
+                                                                tem_alinea = True
+
+                                                if tem_alinea == False:
+                                                        contador_sem_termo_interesse += 1 #TODO: implementar para ser consecutivo (?)
                                                 i += 1 #pode ter saído do loop ou por ter acabado o texto ou por ter encontrado um novo termo
                                                 comeca_com_termo, posicao_na_lista = comecaComTermo(termos_de_interesse, palavras[i])
                                         i -= 1
