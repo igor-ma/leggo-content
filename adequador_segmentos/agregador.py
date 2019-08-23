@@ -116,7 +116,7 @@ def main():
                 
 
 
-        #print(todos_conjuntos_termos)
+        #print(todos_conjuntos_termos) #TODO: consertar bug (só fica salvo o último conjunto e várias repetições dele) 
 
 
 if __name__ == "__main__":
