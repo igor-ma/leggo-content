@@ -58,6 +58,7 @@ def main():
                         conjunto_atual[i] = termos_em_ordem[i]
                         i += 1
 
+                        CONTAUX = 0
                         while i < len(termos_em_ordem):
                                 
                                 
@@ -66,10 +67,19 @@ def main():
                                 if hierarquia[termo_atual] > hierarquia[termo_anterior]: #ou seja, se o termo atual estiver abaixo na hierarquia ou no mesmo nível do último termo
                                         conjunto_atual[hierarquia[termo_atual]] = termos_em_ordem[i]
                                 else: #senão, isso indica o fim de um conjunto fechado de termos
-                                        todos_conjuntos_termos.append(conjunto_atual) #salva o conjunto
+                                        '''
+                                        CONTAUX += 1
                                         #print(len(todos_conjuntos_termos))
-                                        #print((todos_conjuntos_termos))
+                                        print('***')
+                                        print(CONTAUX)
+                                        print((todos_conjuntos_termos))
                                         print(conjunto_atual)
+                                        print('***')
+                                        '''
+                                        #todos_conjuntos_termos.append(conjunto_atual) #salva o conjunto
+                                        todos_conjuntos_termos.append(tuple(conjunto_atual))
+                                        
+
                                         for j in range(hierarquia[termo_atual], len(conjunto_atual)): #limpa o vetor a partir da posição em que o termo atual entraria
                                                 conjunto_atual[j] = ''
                                         conjunto_atual[hierarquia[termo_atual]] = termos_em_ordem[i] #deixa os termos acima na hierarquia ainda salvos, mas substitui o atual
@@ -115,8 +125,8 @@ def main():
                 #print(len(termos_em_ordem))
                 
 
-
-        #print(todos_conjuntos_termos) #TODO: consertar bug (só fica salvo o último conjunto e várias repetições dele) 
+        todos_conjuntos_termos = [tuple(tupla) for tupla in set(map(frozenset, todos_conjuntos_termos))] #deixando sem repetições (algumas repetições são esperadas)
+        print(todos_conjuntos_termos) #TODO: rever o conserto do bug (só fica salvo o último conjunto e várias repetições dele) 
         #TODO: LEMBRAR: se o primeiro dos primeiros exemplos começa com artigo então supomos que o redator utiliza a lógica hierárquica top-down SEMPRE. Senão, adicionar uma flag ou algo do tipo para que seja autorizado adicionar níveis acima no conjunto_atual (desde que estejam vazios?) ou criar um novo fluxo (talvez a heurística sequencial inversa?)
 
 
