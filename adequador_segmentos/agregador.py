@@ -117,6 +117,7 @@ def main():
 
 
         #print(todos_conjuntos_termos) #TODO: consertar bug (só fica salvo o último conjunto e várias repetições dele) 
+        #TODO: LEMBRAR: se o primeiro dos primeiros exemplos começa com artigo então supomos que o redator utiliza a lógica hierárquica top-down SEMPRE. Senão, adicionar uma flag ou algo do tipo para que seja autorizado adicionar níveis acima no conjunto_atual (desde que estejam vazios?) ou criar um novo fluxo (talvez a heurística sequencial inversa?)
 
 
 if __name__ == "__main__":
