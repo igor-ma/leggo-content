@@ -122,7 +122,22 @@ def main():
                                                 conjunto_atual[j] = ''
                                         conjunto_atual[hierarquia[termo_atual]] = termos_em_ordem[i] #deixa os termos abaixo na hierarquia ainda salvos, mas substitui o atual
 
-                                i += 1     
+                                i += 1  
+
+                arquivo = open(sys.argv[1] + '/' + arqv, 'a')
+                arquivo.write('\n' "__INICIO_AGREGADOR__\n")
+                todos_conjuntos_termos_unicos = [] #contém apenas conjuntos de termos únicos, sem repetição
+                for conj in todos_conjuntos_termos:
+                        if conj not in todos_conjuntos_termos_unicos:
+                                arquivo.write(str(conj) + '\n')
+                                todos_conjuntos_termos_unicos.append(conj)
+                arquivo.write("__FIM_AGREGADOR__")
+                arquivo.close()
+                        #print(conj)
+                print(todos_conjuntos_termos_unicos)
+                print(len(todos_conjuntos_termos_unicos))
+                print(len(todos_conjuntos_termos))
+  
                 '''
 
                 i = 0
@@ -165,6 +180,7 @@ def main():
 
         #todos_conjuntos_termos = [tuple(tupla) for tupla in set(map(frozenset, todos_conjuntos_termos))] #deixando sem repetições (algumas repetições são esperadas)
 
+        '''
         #print(todos_conjuntos_termos)  
         todos_conjuntos_termos_unicos = [] #contém apenas conjuntos de termos únicos, sem repetição
         for conj in todos_conjuntos_termos:
@@ -174,6 +190,7 @@ def main():
         print(todos_conjuntos_termos_unicos)
         print(len(todos_conjuntos_termos_unicos))
         print(len(todos_conjuntos_termos))
+        '''
 
         #TODO: LEMBRAR: se o primeiro dos primeiros exemplos começa com artigo então supomos que o redator utiliza a lógica hierárquica top-down SEMPRE. Senão, adicionar uma flag ou algo do tipo para que seja autorizado adicionar níveis acima no conjunto_atual (desde que estejam vazios?) ou criar um novo fluxo (talvez a heurística sequencial inversa?)
 
